@@ -1,0 +1,25 @@
+# Segredos e ambiente local
+.env
+.env.*
+.streamlit/secrets.toml
+secrets.toml
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Operação local
+logs/
+07_EVIDENCIAS/
+*.log
+*.bat
+*.cmd

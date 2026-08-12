@@ -1,0 +1,182 @@
+{
+  "versao": "04E.1",
+  "gerado_em": "2026-08-12T11:12:19",
+  "finalidade": "snapshot_publicavel_autocontido_do_mvp",
+  "fonte_operacional": {
+    "app_sha256": "72d43c581238da75fbbcc5bbfdbf1441bb74f879df6f68a0d1caf2dd4bb1eee4",
+    "estudos_sha256": "cacc06f4b969f1c592f85347da7fc372f7ae049a78a8619e8e94031688cfa7fc",
+    "orquestrador_28_sha256": "910551e10e25144dc4619006e1bb75d060b7fa8c71c624e09ca720fb770e934d",
+    "reconciliador_34_sha256": "65e57fa7ba0b0f79e147e28cbca099ac6e39e95d3db73c8c051d5c524c2e38f9",
+    "monitor_37_sha256": "fa1374257113ba8d3524b41e246b635ad9898322604d470122824f6c1332d8e6",
+    "runner_40_sha256": "4b3bda1793b9f16c052b59f7b945fc241869689b12117e70c8b820f8a21e84ab"
+  },
+  "conteudo": {
+    "quantidade_estudos": 11,
+    "assets_copiados": [
+      {
+        "tipo": "carta",
+        "estudo": "2026-07-05",
+        "arquivo_publico": "assets/cartas/carta_2026-07-05.pdf",
+        "sha256": "71dbb95da532440e8da1a7c678f0bd55dc83223c58b912b58a3bbbc26949c264",
+        "tamanho_bytes": 1511744
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-06-28",
+        "arquivo_publico": "assets/cartas/carta_2026-06-28.pdf",
+        "sha256": "41161db04bbd727bfa8b2d7211c022d01c7b871484ff3a0a982aa2395884c4d9",
+        "tamanho_bytes": 1511041
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-06-14",
+        "arquivo_publico": "assets/cartas/carta_2026-06-14.pdf",
+        "sha256": "25106471add5eb7fef2dd08b6fc15c3e9f27acea654d7d31d600c6c3a65a3565",
+        "tamanho_bytes": 1518516
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-06-07",
+        "arquivo_publico": "assets/cartas/carta_2026-06-07.pdf",
+        "sha256": "394ed6be3e3de933f447d18b154957c3d8f5012b700d8d26d1f926e501737705",
+        "tamanho_bytes": 448874
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-05-31",
+        "arquivo_publico": "assets/cartas/carta_2026-05-31.pdf",
+        "sha256": "bf0a92069a35b37b58a82a3d90a36eb293774ef23546c4c62a20893c7b700779",
+        "tamanho_bytes": 484308
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-04-05",
+        "arquivo_publico": "assets/cartas/carta_2026-04-05.pdf",
+        "sha256": "c7efa7a232e1ded8acdf83b85acf47faf3bc310efeec90800dd8390c2f69e38f",
+        "tamanho_bytes": 419509
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-03-08",
+        "arquivo_publico": "assets/cartas/carta_2026-03-08.pdf",
+        "sha256": "8d45eb7c5c55ba19134f33dbf0f9214efeaf6fa19cd6aa5b099bc4f971176bf0",
+        "tamanho_bytes": 486191
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-03-01",
+        "arquivo_publico": "assets/cartas/carta_2026-03-01.pdf",
+        "sha256": "c2d9ca7f7a5cdfa941ffd7805bc3ecfc42df674638c6460819ea4b2d8df40319",
+        "tamanho_bytes": 504639
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-02-22",
+        "arquivo_publico": "assets/cartas/carta_2026-02-22.pdf",
+        "sha256": "dd8deb22acbaa6568fa7901fa92ff2eedf685f1d57e3798bbff95dbb010a5a9e",
+        "tamanho_bytes": 486942
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-02-15",
+        "arquivo_publico": "assets/cartas/carta_2026-02-15.pdf",
+        "sha256": "ae726e5ed21ee7144445c61c0a4e3573aaced2f79930f4de4d5bc730bd82329e",
+        "tamanho_bytes": 544251
+      }
+    ],
+    "streamlit_requirement": "streamlit==1.54.0"
+  },
+  "seguranca": {
+    "env_incluido": false,
+    "secrets_toml_incluido": false,
+    "automacoes_incluidas": false,
+    "bats_incluidos": false,
+    "logs_incluidos": false,
+    "caminhos_absolutos_detectados": false,
+    "possiveis_segredos_detectados": false,
+    "arquivo_fonte_no_json_publico": false,
+    "historico_operacional_incluido": false
+  },
+  "arquivos": [
+    {
+      "arquivo": ".gitignore",
+      "sha256": "b04f718e25aa649468a47bd1e201bb5e025ead9f71e481a46ed321b44ba83296",
+      "tamanho_bytes": 278
+    },
+    {
+      "arquivo": "app.py",
+      "sha256": "72d43c581238da75fbbcc5bbfdbf1441bb74f879df6f68a0d1caf2dd4bb1eee4",
+      "tamanho_bytes": 44829
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-02-15.pdf",
+      "sha256": "ae726e5ed21ee7144445c61c0a4e3573aaced2f79930f4de4d5bc730bd82329e",
+      "tamanho_bytes": 544251
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-02-22.pdf",
+      "sha256": "dd8deb22acbaa6568fa7901fa92ff2eedf685f1d57e3798bbff95dbb010a5a9e",
+      "tamanho_bytes": 486942
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-03-01.pdf",
+      "sha256": "c2d9ca7f7a5cdfa941ffd7805bc3ecfc42df674638c6460819ea4b2d8df40319",
+      "tamanho_bytes": 504639
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-03-08.pdf",
+      "sha256": "8d45eb7c5c55ba19134f33dbf0f9214efeaf6fa19cd6aa5b099bc4f971176bf0",
+      "tamanho_bytes": 486191
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-04-05.pdf",
+      "sha256": "c7efa7a232e1ded8acdf83b85acf47faf3bc310efeec90800dd8390c2f69e38f",
+      "tamanho_bytes": 419509
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-05-31.pdf",
+      "sha256": "bf0a92069a35b37b58a82a3d90a36eb293774ef23546c4c62a20893c7b700779",
+      "tamanho_bytes": 484308
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-06-07.pdf",
+      "sha256": "394ed6be3e3de933f447d18b154957c3d8f5012b700d8d26d1f926e501737705",
+      "tamanho_bytes": 448874
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-06-14.pdf",
+      "sha256": "25106471add5eb7fef2dd08b6fc15c3e9f27acea654d7d31d600c6c3a65a3565",
+      "tamanho_bytes": 1518516
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-06-28.pdf",
+      "sha256": "41161db04bbd727bfa8b2d7211c022d01c7b871484ff3a0a982aa2395884c4d9",
+      "tamanho_bytes": 1511041
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-07-05.pdf",
+      "sha256": "71dbb95da532440e8da1a7c678f0bd55dc83223c58b912b58a3bbbc26949c264",
+      "tamanho_bytes": 1511744
+    },
+    {
+      "arquivo": "data/estudos.json",
+      "sha256": "8fe59a858519488aa35628255c5a2711054d32e342500f8a9e0732046fb1ca88",
+      "tamanho_bytes": 301252
+    },
+    {
+      "arquivo": "README.md",
+      "sha256": "2fee9f7b4a9cb507e23dcd79197992bc619f19261e0f66017be03164139eaa9d",
+      "tamanho_bytes": 1015
+    },
+    {
+      "arquivo": "requirements.txt",
+      "sha256": "90da3c626329831472ae14e487182b4ad5fde9880b49d18ca1df6ad8b8b710cd",
+      "tamanho_bytes": 19
+    },
+    {
+      "arquivo": "REVISAO_ANTES_DE_PUBLICAR.md",
+      "sha256": "111b02d65585f7c899abeb737e7bc37e24dd878f5eb01c7f01c710f1850ad9dd",
+      "tamanho_bytes": 1391
+    }
+  ]
+}
