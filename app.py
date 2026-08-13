@@ -2078,6 +2078,28 @@ with st.expander("❓ Perguntas adicionais"):
 
 
 st.divider()
+st.subheader("📝 Avaliação do app")
+st.write(
+    "Sua avaliação ajuda a verificar se os recursos utilizados contribuíram "
+    "para a compreensão, participação e aplicação do tema."
+)
+
+with st.popover("📝 Responder avaliação", use_container_width=True):
+    st.markdown("**Escolha seu perfil:**")
+
+    st.link_button(
+        "👥 Sou Líder de Célula",
+        "https://forms.gle/SVBxwBspJj4osbhBA",
+        use_container_width=True,
+    )
+
+    st.link_button(
+        "🙋 Sou Membro de Célula",
+        "https://forms.gle/CDDAnigyCTzQ8qNP7",
+        use_container_width=True,
+    )
+
+st.divider()
 
 st.caption("Conexões Sustentáveis • Extensão II • MVP 04D.4.2")
 
