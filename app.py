@@ -1839,6 +1839,33 @@ st.markdown(
 
 
 
+with st.expander("📘 Como usar este aplicativo — Guia rápido", expanded=False):
+    st.write(
+        "Consulte este guia antes de começar. Ele mostra a diferença entre "
+        "o Conteúdo Oficial e o Conteúdo Complementar e a ordem recomendada de uso."
+    )
+
+    guia_png = APP_DIR / "assets" / "guia" / "Guia_Visual_App_Conexoes_Sustentaveis.png"
+    guia_pdf = APP_DIR / "assets" / "guia" / "Guia_Visual_App_Conexoes_Sustentaveis.pdf"
+
+    if guia_png.is_file():
+        st.image(
+            str(guia_png),
+            caption="Guia Visual do App Conexões Sustentáveis",
+            use_container_width=True,
+        )
+    else:
+        st.info("O Guia Visual ainda não está disponível neste ambiente.")
+
+    if guia_pdf.is_file():
+        st.download_button(
+            "📄 Baixar guia em PDF",
+            data=guia_pdf.read_bytes(),
+            file_name="Guia_Visual_App_Conexoes_Sustentaveis.pdf",
+            mime="application/pdf",
+            use_container_width=False,
+        )
+
 opcoes = {rotulo_estudo(e): e for e in estudos}
 
 rotulo_selecionado = st.selectbox(
