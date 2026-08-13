@@ -13,6 +13,8 @@ Antes de enviar o snapshot para um repositório público, confirme:
 
 ## PDFs de Carta incluídos
 
+- [ ] `assets/cartas/carta_2026-08-09.pdf` — estudo 2026-08-09
+- [ ] `assets/cartas/carta_2026-08-02.pdf` — estudo 2026-08-02
 - [ ] `assets/cartas/carta_2026-07-05.pdf` — estudo 2026-07-05
 - [ ] `assets/cartas/carta_2026-06-28.pdf` — estudo 2026-06-28
 - [ ] `assets/cartas/carta_2026-06-14.pdf` — estudo 2026-06-14

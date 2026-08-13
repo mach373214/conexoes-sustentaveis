@@ -1,24 +1,52 @@
 {
   "versao": "04E.1",
-  "gerado_em": "2026-08-12T11:12:19",
+  "gerado_em": "2026-08-12T21:43:12",
   "finalidade": "snapshot_publicavel_autocontido_do_mvp",
   "fonte_operacional": {
-    "app_sha256": "72d43c581238da75fbbcc5bbfdbf1441bb74f879df6f68a0d1caf2dd4bb1eee4",
-    "estudos_sha256": "cacc06f4b969f1c592f85347da7fc372f7ae049a78a8619e8e94031688cfa7fc",
+    "app_sha256": "5aced43b7bdfff5828b488398fd14639bb04b9e72b59529b00540e0568b8c852",
+    "estudos_sha256": "ad3f4b4ce4443c99b56811cdd1dda9d8fc7a6c98d8d95b2f1de1f02f7ede9d7f",
     "orquestrador_28_sha256": "910551e10e25144dc4619006e1bb75d060b7fa8c71c624e09ca720fb770e934d",
     "reconciliador_34_sha256": "65e57fa7ba0b0f79e147e28cbca099ac6e39e95d3db73c8c051d5c524c2e38f9",
     "monitor_37_sha256": "fa1374257113ba8d3524b41e246b635ad9898322604d470122824f6c1332d8e6",
     "runner_40_sha256": "4b3bda1793b9f16c052b59f7b945fc241869689b12117e70c8b820f8a21e84ab"
   },
   "conteudo": {
-    "quantidade_estudos": 11,
+    "quantidade_estudos": 12,
     "assets_copiados": [
+      {
+        "tipo": "carta",
+        "estudo": "2026-08-09",
+        "arquivo_publico": "assets/cartas/carta_2026-08-09.pdf",
+        "sha256": "a0b47e3ff272a7cea9b3b024c72c78a8a6af12154248c1d14729f6a0f3c8f47d",
+        "tamanho_bytes": 1866407
+      },
+      {
+        "tipo": "transcricao",
+        "estudo": "2026-08-09",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-08-09.txt",
+        "sha256": "692a13b53d4406bd4620f41a111c41592f79ab1cc42e7bfdb0b9660e159ac726",
+        "tamanho_bytes": 54748
+      },
+      {
+        "tipo": "carta",
+        "estudo": "2026-08-02",
+        "arquivo_publico": "assets/cartas/carta_2026-08-02.pdf",
+        "sha256": "93f8339f730ecca7ec7cc7e81d72b773cfba0a89b1a0a95db54aede556a5b9ab",
+        "tamanho_bytes": 1829876
+      },
       {
         "tipo": "carta",
         "estudo": "2026-07-05",
         "arquivo_publico": "assets/cartas/carta_2026-07-05.pdf",
         "sha256": "71dbb95da532440e8da1a7c678f0bd55dc83223c58b912b58a3bbbc26949c264",
         "tamanho_bytes": 1511744
+      },
+      {
+        "tipo": "transcricao",
+        "estudo": "2026-07-05",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-07-05.txt",
+        "sha256": "1613072c4e8b05b52f10c0e27f8b29193849fc94db015ac88908bffee5f99512",
+        "tamanho_bytes": 33301
       },
       {
         "tipo": "carta",
@@ -28,11 +56,25 @@
         "tamanho_bytes": 1511041
       },
       {
+        "tipo": "transcricao",
+        "estudo": "2026-06-28",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-06-28.txt",
+        "sha256": "f030560869515ac724f1ee779fcd390619b77a26d6b3117024222c3c00f36bdc",
+        "tamanho_bytes": 42791
+      },
+      {
         "tipo": "carta",
         "estudo": "2026-06-14",
         "arquivo_publico": "assets/cartas/carta_2026-06-14.pdf",
         "sha256": "25106471add5eb7fef2dd08b6fc15c3e9f27acea654d7d31d600c6c3a65a3565",
         "tamanho_bytes": 1518516
+      },
+      {
+        "tipo": "transcricao",
+        "estudo": "2026-06-14",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-06-14.txt",
+        "sha256": "d139ef2c690b9ccf2260a2003145a7545c9ca2487da1d280774a079fa47a35ab",
+        "tamanho_bytes": 50494
       },
       {
         "tipo": "carta",
@@ -42,11 +84,25 @@
         "tamanho_bytes": 448874
       },
       {
+        "tipo": "transcricao",
+        "estudo": "2026-06-07",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-06-07.txt",
+        "sha256": "3269c5efdd945a2a235faafe69aa3b4603e92b2af2cc443940513105d0644d55",
+        "tamanho_bytes": 78071
+      },
+      {
         "tipo": "carta",
         "estudo": "2026-05-31",
         "arquivo_publico": "assets/cartas/carta_2026-05-31.pdf",
         "sha256": "bf0a92069a35b37b58a82a3d90a36eb293774ef23546c4c62a20893c7b700779",
         "tamanho_bytes": 484308
+      },
+      {
+        "tipo": "transcricao",
+        "estudo": "2026-05-31",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-05-31.txt",
+        "sha256": "08bd5efbffd0b0fe8b872ebcccec0e839d1a2265be198a79213473cae27f389c",
+        "tamanho_bytes": 51745
       },
       {
         "tipo": "carta",
@@ -56,11 +112,25 @@
         "tamanho_bytes": 419509
       },
       {
+        "tipo": "transcricao",
+        "estudo": "2026-04-05",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-04-05.txt",
+        "sha256": "b52d3956dea4548ff76b6d40932fe549bed7ee3810dca2eda98ae9ca47b08e1a",
+        "tamanho_bytes": 65101
+      },
+      {
         "tipo": "carta",
         "estudo": "2026-03-08",
         "arquivo_publico": "assets/cartas/carta_2026-03-08.pdf",
         "sha256": "8d45eb7c5c55ba19134f33dbf0f9214efeaf6fa19cd6aa5b099bc4f971176bf0",
         "tamanho_bytes": 486191
+      },
+      {
+        "tipo": "transcricao",
+        "estudo": "2026-03-08",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-03-08.txt",
+        "sha256": "e0372794587806db854e2631f382f1fb282406e07dc1065d9106299f06ccb5c2",
+        "tamanho_bytes": 79962
       },
       {
         "tipo": "carta",
@@ -70,6 +140,13 @@
         "tamanho_bytes": 504639
       },
       {
+        "tipo": "transcricao",
+        "estudo": "2026-03-01",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-03-01.txt",
+        "sha256": "c234a661103dd653a67e9ce48a4982953f3fb6b96417070ba33a66169f879b61",
+        "tamanho_bytes": 88431
+      },
+      {
         "tipo": "carta",
         "estudo": "2026-02-22",
         "arquivo_publico": "assets/cartas/carta_2026-02-22.pdf",
@@ -77,11 +154,25 @@
         "tamanho_bytes": 486942
       },
       {
+        "tipo": "transcricao",
+        "estudo": "2026-02-22",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-02-22.txt",
+        "sha256": "6bb619a2dcd9f302a4cdce58a6d0e89206384a12ac48e509572da7e4fb916921",
+        "tamanho_bytes": 65779
+      },
+      {
         "tipo": "carta",
         "estudo": "2026-02-15",
         "arquivo_publico": "assets/cartas/carta_2026-02-15.pdf",
         "sha256": "ae726e5ed21ee7144445c61c0a4e3573aaced2f79930f4de4d5bc730bd82329e",
         "tamanho_bytes": 544251
+      },
+      {
+        "tipo": "transcricao",
+        "estudo": "2026-02-15",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-02-15.txt",
+        "sha256": "38b16a55f13bcc9980b293e592adb8675c9144cfc766df6a3538d747234101b3",
+        "tamanho_bytes": 46722
       }
     ],
     "streamlit_requirement": "streamlit==1.54.0"
@@ -105,8 +196,8 @@
     },
     {
       "arquivo": "app.py",
-      "sha256": "72d43c581238da75fbbcc5bbfdbf1441bb74f879df6f68a0d1caf2dd4bb1eee4",
-      "tamanho_bytes": 44829
+      "sha256": "5aced43b7bdfff5828b488398fd14639bb04b9e72b59529b00540e0568b8c852",
+      "tamanho_bytes": 46248
     },
     {
       "arquivo": "assets/cartas/carta_2026-02-15.pdf",
@@ -159,13 +250,78 @@
       "tamanho_bytes": 1511744
     },
     {
+      "arquivo": "assets/cartas/carta_2026-08-02.pdf",
+      "sha256": "93f8339f730ecca7ec7cc7e81d72b773cfba0a89b1a0a95db54aede556a5b9ab",
+      "tamanho_bytes": 1829876
+    },
+    {
+      "arquivo": "assets/cartas/carta_2026-08-09.pdf",
+      "sha256": "a0b47e3ff272a7cea9b3b024c72c78a8a6af12154248c1d14729f6a0f3c8f47d",
+      "tamanho_bytes": 1866407
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-02-15.txt",
+      "sha256": "38b16a55f13bcc9980b293e592adb8675c9144cfc766df6a3538d747234101b3",
+      "tamanho_bytes": 46722
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-02-22.txt",
+      "sha256": "6bb619a2dcd9f302a4cdce58a6d0e89206384a12ac48e509572da7e4fb916921",
+      "tamanho_bytes": 65779
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-03-01.txt",
+      "sha256": "c234a661103dd653a67e9ce48a4982953f3fb6b96417070ba33a66169f879b61",
+      "tamanho_bytes": 88431
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-03-08.txt",
+      "sha256": "e0372794587806db854e2631f382f1fb282406e07dc1065d9106299f06ccb5c2",
+      "tamanho_bytes": 79962
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-04-05.txt",
+      "sha256": "b52d3956dea4548ff76b6d40932fe549bed7ee3810dca2eda98ae9ca47b08e1a",
+      "tamanho_bytes": 65101
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-05-31.txt",
+      "sha256": "08bd5efbffd0b0fe8b872ebcccec0e839d1a2265be198a79213473cae27f389c",
+      "tamanho_bytes": 51745
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-06-07.txt",
+      "sha256": "3269c5efdd945a2a235faafe69aa3b4603e92b2af2cc443940513105d0644d55",
+      "tamanho_bytes": 78071
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-06-14.txt",
+      "sha256": "d139ef2c690b9ccf2260a2003145a7545c9ca2487da1d280774a079fa47a35ab",
+      "tamanho_bytes": 50494
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-06-28.txt",
+      "sha256": "f030560869515ac724f1ee779fcd390619b77a26d6b3117024222c3c00f36bdc",
+      "tamanho_bytes": 42791
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-07-05.txt",
+      "sha256": "1613072c4e8b05b52f10c0e27f8b29193849fc94db015ac88908bffee5f99512",
+      "tamanho_bytes": 33301
+    },
+    {
+      "arquivo": "assets/transcricoes/transcricao_2026-08-09.txt",
+      "sha256": "692a13b53d4406bd4620f41a111c41592f79ab1cc42e7bfdb0b9660e159ac726",
+      "tamanho_bytes": 54748
+    },
+    {
       "arquivo": "data/estudos.json",
-      "sha256": "8fe59a858519488aa35628255c5a2711054d32e342500f8a9e0732046fb1ca88",
-      "tamanho_bytes": 301252
+      "sha256": "f7d2425820dff5cd1b4ecaf154fdc33c52a20c0dec452111797c2ddcc00363ba",
+      "tamanho_bytes": 307259
     },
     {
       "arquivo": "README.md",
-      "sha256": "2fee9f7b4a9cb507e23dcd79197992bc619f19261e0f66017be03164139eaa9d",
+      "sha256": "9f684b6e1c3a9b43bb6a409da605cbb0d19eff7e49734df58c34f40b0cacfb4d",
       "tamanho_bytes": 1015
     },
     {
@@ -175,8 +331,8 @@
     },
     {
       "arquivo": "REVISAO_ANTES_DE_PUBLICAR.md",
-      "sha256": "111b02d65585f7c899abeb737e7bc37e24dd878f5eb01c7f01c710f1850ad9dd",
-      "tamanho_bytes": 1391
+      "sha256": "a58f0e02b28a32bc1d961e922075a4d285bba4220da2ef00ab502cdbf60a6b61",
+      "tamanho_bytes": 1523
     }
   ]
 }

@@ -2,8 +2,8 @@
   "estudos": [
     {
       "id": "2026-08-09",
-      "status": "preliminar_mensagem_video_revisado",
-      "tema": "Discipulado Intencional: O jeito de Jesus para formar pessoas",
+      "status": "carta_oficial_reconciliada",
+      "tema": "Jesus, O Meu Único Salvador",
       "texto_principal": "Mateus 28:18-20",
       "texto_principal_youversion": "Mat.28.18-20",
       "periodo": "09 a 15 de agosto de 2026",
@@ -24,22 +24,53 @@
         "analise_video_confianca_tema": 0.99
       },
       "carta": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "Carta Célula 28 - 09 08 2026.pdf",
+        "origem": "Carta da Célula 28",
+        "hash_sha256": "a0b47e3ff272a7cea9b3b024c72c78a8a6af12154248c1d14729f6a0f3c8f47d",
+        "numero": 28,
+        "extracao_status": "automatico_pendente_revisao",
+        "origem_data": "periodo_pdf",
+        "data_documento": "2026-08-09",
+        "tema_extracao_status": "tema_explicito",
+        "arquivo_app": "assets/cartas/carta_2026-08-09.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-08-09.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-08-09.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "INFjcObzVOk",
+        "inicio_segundos": 3840,
+        "fim_segundos": 7125,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1203,
+        "caracteres": 52789,
+        "primeiro_segmento_segundos": 3839.319,
+        "ultimo_segmento_segundos": 7123.4,
+        "sha256": "692a13b53d4406bd4620f41a111c41592f79ab1cc42e7bfdb0b9660e159ac726",
+        "gerada_em": "2026-08-12T14:38:57"
       },
       "versao_biblica": {
         "status": "padrao_app",
         "sigla": "NAA",
         "nome": "Nova Almeida Atualizada",
         "id_youversion": 1840,
-        "fonte": "Padrão do aplicativo"
+        "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
-      "oficial": {},
+      "oficial": {
+        "ideias_centrais": [],
+        "perguntas": [],
+        "musicas": [
+          "Tua igreja Canta (Israel Salazar) • Toda Terra (Gabriela Rocha) • O meu querer (Paulo César Baruck)"
+        ],
+        "desafio": null
+      },
       "preliminar": {
         "status": "video_analisado_revisado_humanamente",
         "fonte": "mensagem_oficial_video",
@@ -99,367 +130,193 @@
       },
       "referencias_biblicas": [
         {
-          "referencia": "Marcos 3:13-15",
-          "conexao": "Antes de enviar os Doze, Jesus os chamou para estarem com ele. A sequência presença, formação e envio reforça que o discipulado nasce da convivência com Cristo e não apenas da execução de tarefas.",
-          "como_usar": "Leia o texto e peça ao grupo que identifique os verbos associados à formação dos discípulos. Depois, compare o tempo dedicado a estar com Jesus com o tempo dedicado a atividades religiosas.",
-          "pergunta": "O que precisa mudar em nossa rotina para que o nosso serviço seja resultado da convivência com Jesus?",
-          "youversion_ref": "MRK.3.13-15"
+          "referencia": "Mateus 28:18-20",
+          "conexao": "Texto principal da Carta Oficial: a autoridade de Jesus fundamenta o envio da igreja para fazer discípulos, batizar e ensinar.",
+          "como_usar": "Ler o texto em três movimentos: autoridade de Jesus, missão dos discípulos e promessa da presença de Cristo.",
+          "pergunta": "O que muda na nossa missão quando reconhecemos que toda autoridade pertence a Jesus?",
+          "youversion_ref": "MAT.28.NVI"
         },
         {
-          "referencia": "1Tessalonicenses 2:7-8",
-          "conexao": "Paulo descreve um discipulado marcado por afeição e compartilhamento da própria vida, não somente pela transmissão de conteúdo.",
-          "como_usar": "Use o texto para diferenciar três níveis de relacionamento: informar, acompanhar e compartilhar a vida. Convide cada participante a avaliar em qual nível normalmente permanece.",
-          "pergunta": "Que parte da nossa vida temos dificuldade de compartilhar quando acompanhamos alguém espiritualmente?",
-          "youversion_ref": "1TH.2.7-8"
+          "referencia": "João 14:6",
+          "conexao": "Afirma a exclusividade de Jesus como caminho, verdade e vida, em conexão direta com o tema “Jesus, O Meu Único Salvador”.",
+          "como_usar": "Comparar a afirmação de Jesus com as ideias contemporâneas de que todos os caminhos espirituais seriam equivalentes.",
+          "pergunta": "Como falar da exclusividade de Cristo com convicção, respeito e amor?",
+          "youversion_ref": "JHN.14.NVI"
         },
         {
-          "referencia": "Lucas 6:40",
-          "conexao": "Jesus apresenta o discípulo plenamente instruído como alguém semelhante ao mestre, apontando a transformação do caráter como alvo da formação.",
-          "como_usar": "Peça ao grupo que cite características visíveis de Jesus nos Evangelhos e escolha uma delas para praticar intencionalmente durante a semana.",
-          "pergunta": "Se alguém aprendesse a seguir Jesus apenas observando sua vida, que imagem de Cristo receberia?",
-          "youversion_ref": "LUK.6.40"
-        },
-        {
-          "referencia": "2Timóteo 2:1-2",
-          "conexao": "O texto apresenta uma cadeia de multiplicação envolvendo Paulo, Timóteo, pessoas fiéis e outros que também seriam ensinados.",
-          "como_usar": "Desenhe no papel as quatro gerações mencionadas no texto e peça que cada pessoa identifique quem a ajudou a crescer e quem ela pode começar a ajudar.",
-          "pergunta": "Qual é o principal obstáculo que hoje impede você de investir intencionalmente em outra pessoa?",
-          "youversion_ref": "2TI.2.1-2"
-        },
-        {
-          "referencia": "Efésios 4:11-16",
-          "conexao": "A maturidade cristã é apresentada como um crescimento comunitário no qual cada parte coopera para que todo o corpo se torne mais semelhante a Cristo.",
-          "como_usar": "Divida o texto em três temas: preparação para servir, maturidade em Cristo e contribuição de cada parte. Relacione-os com a vida da célula.",
-          "pergunta": "Nossa comunidade está formando participantes dependentes de líderes ou discípulos preparados para servir e edificar outros?",
-          "youversion_ref": "EPH.4.11-16"
+          "referencia": "Atos 4:12",
+          "conexao": "Apresenta Jesus como o único nome dado aos seres humanos pelo qual importa que sejamos salvos.",
+          "como_usar": "Usar como texto de apoio para diferenciar admiração por Jesus, religiosidade e confiança salvadora nele.",
+          "pergunta": "Em que ou em quem as pessoas costumam depositar sua esperança de salvação?",
+          "youversion_ref": "ACT.4.NVI"
         }
       ],
       "filmes_series": [
         {
           "tipo": "filme",
-          "titulo": "The Forge",
-          "conexao": "O filme apresenta um jovem sem direção sendo acompanhado por um mentor cristão que não apenas lhe oferece conselhos, mas o inclui em uma caminhada intencional de formação, responsabilidade e serviço.",
-          "como_usar": "Exiba o trailer e peça ao grupo que observe a diferença entre dar uma oportunidade profissional e assumir responsabilidade relacional pelo amadurecimento de alguém. A obra deve ser usada como ilustração, e não como substituta do texto bíblico.",
-          "pergunta": "O que transforma uma conversa ocasional em um relacionamento intencional de discipulado?",
-          "url_oficial": "https://www.theforgemovie.com/",
-          "url_clipe": "https://www.youtube.com/watch?v=s4aCsaDvagw",
-          "url_oficial_status": "VALIDO",
-          "url_referencia": null,
-          "url_referencia_status": "LINK_INDISPONIVEL",
-          "url_clipe_status": "VALIDO_DIRETO",
-          "incorporar_clipe": true,
-          "campos_suspeitos": [],
-          "problemas_qualidade": [],
-          "requer_reenriquecimento": false,
-          "metadados_status": "OK"
+          "titulo": "Jesus Revolution",
+          "conexao": "O filme retrata jovens em busca de sentido que encontram uma comunidade cristã e são confrontados com a centralidade de Jesus, permitindo conversar sobre testemunho, acolhimento e discipulado.",
+          "como_usar": "Exibir o trailer oficial ou selecionar uma cena previamente avaliada pelo líder. Depois, discutir se a igreja do filme comunica apenas pertencimento ou também o evangelho de Jesus.",
+          "pergunta": "Como uma comunidade pode acolher pessoas feridas sem perder a centralidade de Cristo como Salvador?",
+          "url_oficial": "https://www.jesusrevolution.movie/",
+          "url_clipe": "https://www.jesusrevolution.movie/videos-photos",
+          "incorporar_clipe": false
         },
         {
           "tipo": "série",
-          "titulo": "The Chosen — Temporada 3, episódio 2: Two by Two",
-          "conexao": "O episódio dramatiza o momento em que discípulos ainda inseguros são enviados em duplas. A narrativa permite discutir como Jesus forma pessoas e, progressivamente, confia-lhes participação na missão.",
-          "como_usar": "Mostre apenas o teaser oficial ou recomende o episódio previamente. Na reunião, confronte a dramatização com os relatos bíblicos, esclarecendo que diálogos e detalhes da série possuem elaboração artística.",
-          "pergunta": "Por que Jesus envia pessoas ainda em processo de amadurecimento, em vez de esperar que estejam completamente prontas?",
-          "url_oficial": "https://www.thechosen.tv/en-us",
-          "url_clipe": "https://www.youtube.com/watch?v=HiqXJjPOaTk",
-          "url_oficial_status": "PRESERVADO_REDE_TRANSITORIA",
-          "url_oficial_original": "https://www.thechosen.tv/en-us",
-          "url_referencia": "https://www.google.com/search?q=The+Chosen+%E2%80%94+Temporada+3%2C+epis%C3%B3dio+2%3A+Two+by+Two",
-          "url_referencia_status": "VALIDO",
-          "url_clipe_status": "VALIDO_DIRETO",
-          "incorporar_clipe": true,
-          "campos_suspeitos": [],
-          "problemas_qualidade": [],
-          "requer_reenriquecimento": false,
-          "metadados_status": "OK",
-          "url_oficial_validacao": "FALHA_REDE_URLError"
+          "titulo": "The Chosen",
+          "conexao": "A série oferece cenas dramatizadas sobre os encontros de Jesus com pessoas comuns e pode ajudar o grupo a refletir sobre chamado, transformação e discipulado.",
+          "como_usar": "Utilizar o trailer oficial ou uma cena curta da primeira temporada, deixando claro que se trata de uma dramatização e retornando sempre ao texto bíblico de Mateus 28:18-20.",
+          "pergunta": "Que sinais de transformação aparecem quando uma pessoa passa a seguir Jesus?",
+          "url_oficial": "https://watch.thechosen.tv/page/season-1",
+          "url_clipe": "https://watch.thechosen.tv/extras",
+          "incorporar_clipe": false
         }
       ],
       "livros": [
         {
-          "titulo": "Discipulado: Como ajudar outras pessoas a seguir Jesus",
-          "autor": "Mark Dever",
-          "conexao": "A obra trata o discipulado como ajuda intencional para que outras pessoas sigam Jesus e se pareçam com ele, especialmente por meio de relacionamentos presentes na vida cotidiana da igreja.",
-          "como_usar": "Leia previamente o trecho autorizado e selecione um parágrafo sobre a responsabilidade de investir tempo em pessoas. Use-o depois da leitura de 2Timóteo 2:1-2 para formular uma ação semanal.",
-          "pergunta": "Que mudanças seriam necessárias para que o discipulado se tornasse parte normal de nossa vida, e não mais um evento adicional?",
-          "url_trecho": "https://institucional.vidanova.com.br/editora/wp-content/uploads/discipulado_9marcas_trecho.pdf",
+          "titulo": "O Deus pródigo: Recuperando a essência da fé cristã",
+          "autor": "Timothy Keller",
+          "conexao": "A obra explora a mensagem de graça, arrependimento e salvação presente na parábola do filho pródigo, ajudando o grupo a refletir sobre a necessidade de voltar-se para Deus e confiar em sua misericórdia.",
+          "como_usar": "Ler previamente o trecho legal disponibilizado pela editora e selecionar uma ideia para debate. Relacionar a graça apresentada no livro com a missão de fazer discípulos em Mateus 28:18-20.",
+          "pergunta": "Como tanto a rebeldia quanto a autossuficiência religiosa podem afastar uma pessoa da graça salvadora de Deus?",
+          "url_trecho": "https://institucional.vidanova.com.br/editora/wp-content/uploads/deus_prodigo_trecho.pdf",
           "url_pdf_legal": null,
-          "url_audio_legal": null,
-          "url_editora": "https://www.vidanova.com.br/livros/discipulado-serie-9marcas-como-ajudar-outras-pessoas-a-seguir-jesus",
-          "nota_acesso": "Há trecho legal gratuito em PDF no domínio oficial da Vida Nova. A editora informa audiolivro pago, porém a URL localizada é página de produto, não uma prévia de áudio; por isso não será exibida como botão de reprodução."
-        },
-        {
-          "titulo": "O Discípulo Radical",
-          "autor": "John Stott",
-          "conexao": "Stott relaciona o discipulado à semelhança com Cristo, maturidade, simplicidade, dependência e compromisso integral, ajudando a aprofundar o pilar da transformação do caráter.",
-          "como_usar": "Use o trecho inicial, que diferencia uma identificação apenas nominal de uma vida efetivamente orientada por Jesus. Peça exemplos de áreas em que os cristãos podem selecionar somente os ensinos que lhes são convenientes.",
-          "pergunta": "Em qual área da vida somos mais tentados a admirar Jesus sem realmente obedecê-lo?",
-          "url_trecho": "https://www.ultimato.com.br/file/capitulos/O_discipulo_radical_leia.pdf",
-          "url_pdf_legal": null,
-          "url_audio_legal": null,
-          "url_editora": "https://ultimato.com.br/sites/discipulo-radical/",
-          "nota_acesso": "Há trecho legal gratuito em PDF disponibilizado pela Editora Ultimato. Não foi localizado audiolivro legal em português nem PDF integral gratuito autorizado."
-        },
-        {
-          "titulo": "Discipulado",
-          "autor": "Dietrich Bonhoeffer",
-          "conexao": "A obra confronta formas superficiais de cristianismo e apresenta o seguimento de Cristo como resposta concreta de obediência, conectando chamado, caráter e perseverança.",
-          "como_usar": "Escolha um pequeno trecho sobre chamado ou obediência para leitura prévia do líder. Evite transformar o encontro em debate acadêmico; use a obra para perguntar onde o chamado de Jesus exige uma resposta prática.",
-          "pergunta": "Como distinguir uma compreensão intelectual do Evangelho de uma resposta real ao chamado de Jesus?",
-          "url_trecho": "https://mundocristao.com.br/wp-content/uploads/2022/04/Discipulado.pdf",
-          "url_pdf_legal": null,
-          "url_audio_legal": null,
-          "url_editora": "https://www.mundocristao.com.br/produto/discipulado/",
-          "nota_acesso": "Há uma amostra legal em PDF no domínio oficial da Editora Mundo Cristão. O arquivo possui 20 páginas e não é apresentado como PDF integral. Não foi localizado áudio gratuito autorizado."
+          "url_audio_legal": "https://www.vidanova.com.br/livros/deus-prodigo-o",
+          "url_editora": "https://www.vidanova.com.br/livros/deus-prodigo-o-recuperando-a-essencia-da-fe-crista",
+          "nota_acesso": "Foi encontrado trecho legal em português e página oficial da editora. A página da editora informa a existência de audiolivro, mas não foi localizado um arquivo de áudio aberto; por isso, o endereço foi classificado como página comercial, não como áudio."
         }
       ],
       "videos": [
         {
-          "titulo": "Mateus 14–28 — Visão geral",
-          "fonte": "BibleProject — Português",
-          "url": "https://www.youtube.com/watch?v=4E-Ju-WKe1k",
-          "conexao": "O vídeo situa a Grande Comissão dentro da narrativa maior de Mateus, destacando o Reino de Deus, a morte e a ressurreição de Jesus e o convite para que os discípulos adotem um novo modo de viver.",
-          "como_usar": "Exiba antes da discussão bíblica ou envie durante a semana. Peça ao grupo que observe como Mateus conecta autoridade de Jesus, estilo de vida do Reino e missão.",
-          "pergunta": "Que prejuízo ocorre quando lemos a Grande Comissão isolada da vida, morte e ressurreição de Jesus?",
-          "url_original": "https://www.youtube.com/watch?v=4E-Ju-WKe1k",
-          "link_validacao": "OK",
-          "link_status": "VALIDO_DIRETO",
-          "incorporar": true
-        },
-        {
-          "titulo": "Why did Jesus pair up the disciples?",
-          "fonte": "The Chosen — canal oficial",
-          "url": "https://www.youtube.com/watch?v=dKhbooYGcf4",
-          "conexao": "O vídeo apresenta a reflexão dos criadores e atores sobre o envio dos discípulos em duplas, oferecendo uma ilustração para discutir parceria, diferenças pessoais e aprendizagem durante a missão.",
-          "como_usar": "Use somente como complemento criativo. Após assistir, leia Marcos 6:7 e separe claramente o que vem do texto bíblico daquilo que constitui interpretação artística da série.",
-          "pergunta": "Como trabalhar ao lado de alguém diferente de nós pode revelar áreas do caráter que ainda precisam ser transformadas?",
-          "url_original": "https://www.youtube.com/watch?v=dKhbooYGcf4",
-          "link_validacao": "OK",
-          "link_status": "VALIDO_DIRETO",
-          "incorporar": true
+          "titulo": "A Grande Comissão",
+          "fonte": "Envolve APAC",
+          "url": "https://www.youtube.com/watch?v=Me9oE3Vp21A",
+          "conexao": "Vídeo curto e diretamente relacionado a Mateus 28:18-20, apresentando perguntas práticas sobre quem envia, quem é enviado, a quem a igreja é enviada e qual é a sua missão.",
+          "como_usar": "Exibir o vídeo antes da conversa e pedir que cada participante anote uma palavra que descreva sua responsabilidade como discípulo de Jesus.",
+          "pergunta": "Qual aspecto da Grande Comissão precisa ser praticado de maneira mais concreta pelo nosso pequeno grupo?"
         }
       ],
       "musicas_complementares": [
         {
-          "titulo": "Eu Seguirei",
-          "interprete": "Frei Gilson",
-          "conexao": "A canção expressa disposição para seguir Jesus mesmo diante de renúncias e dificuldades, conectando o discipulado com uma resposta pessoal ao chamado.",
-          "pergunta": "Em que área seguir Jesus deixou de ser apenas uma intenção e precisa tornar-se uma decisão concreta?",
-          "url_oficial": "https://www.youtube.com/watch?v=o2QQWcLE7ac",
-          "decisao": "incluir",
-          "motivo": "Fonte oficial do intérprete e conexão direta com o chamado para seguir Jesus; adequada para um momento de resposta, sem necessidade de reproduzir a letra.",
-          "link_status": "VALIDO_DIRETO",
-          "link_direto": true
+          "titulo": "Tua Igreja Canta",
+          "interprete": "Israel Salazar",
+          "conexao": "A canção enfatiza a proclamação coletiva da igreja e combina com a dimensão comunitária e missionária da Grande Comissão.",
+          "pergunta": "Como nossa adoração pública pode também se tornar testemunho de que Jesus é o Rei?",
+          "url_oficial": "https://www.youtube.com/watch?v=aWxHH2qtnyY",
+          "decisao": "usar",
+          "motivo": "A música já aparece na Carta Oficial e reforça a proclamação da igreja sem substituir o estudo bíblico."
         },
         {
-          "titulo": "Sonda-me, Usa-me",
-          "interprete": "Aline Barros",
-          "conexao": "A música reúne exame interior, transformação e disponibilidade para servir, dialogando com o objetivo do discipulado de formar o caráter e tornar a vida útil nas mãos de Deus.",
-          "pergunta": "Estamos mais dispostos a ser usados por Deus ou a permitir que ele primeiro transforme aquilo que precisa mudar em nós?",
-          "url_oficial": "https://www.youtube.com/watch?v=zUOaDzTmpNA",
-          "decisao": "incluir",
-          "motivo": "Clipe publicado pela gravadora oficial e forte conexão entre transformação pessoal e serviço.",
-          "link_status": "VALIDO_DIRETO",
-          "link_direto": true
+          "titulo": "Toda Terra",
+          "interprete": "Gabriela Rocha",
+          "conexao": "Relaciona-se ao alcance universal da missão e ao anúncio da glória de Deus entre todos os povos.",
+          "pergunta": "Que pessoas ou grupos próximos de nós ainda não foram alcançados por um testemunho cuidadoso sobre Jesus?",
+          "url_oficial": "https://www.youtube.com/@GabrielaRochaOficial",
+          "decisao": "usar",
+          "motivo": "A música está indicada na Carta Oficial e pode introduzir a conversa sobre a dimensão global da missão."
         },
         {
-          "titulo": "Eu Vou",
-          "interprete": "LUDI",
-          "conexao": "A canção apresenta o seguidor de Jesus como aprendiz que decide caminhar com Cristo, oferecendo linguagem contemporânea para conversar especialmente com jovens.",
-          "pergunta": "Que diferença existe entre dizer que cremos em Jesus e organizar nossa direção de vida para acompanhá-lo?",
-          "url_oficial": "https://www.youtube.com/watch?v=LCHgjkjZhjI",
-          "decisao": "incluir",
-          "motivo": "Clipe do canal oficial da artista, produzido pela gravadora, com conexão explícita ao seguimento e à identidade de aprendiz.",
-          "link_status": "VALIDO_DIRETO",
-          "link_direto": true
+          "titulo": "O meu querer",
+          "interprete": "Paulo César Baruk",
+          "conexao": "Ajuda a conectar salvação com resposta prática: servir, obedecer e refletir a vida de Jesus no cotidiano.",
+          "pergunta": "Que atitude concreta demonstraria esta semana que queremos obedecer a Jesus?",
+          "url_oficial": "https://www.youtube.com/watch?v=ouk0X5tXjwU",
+          "decisao": "usar",
+          "motivo": "A canção está indicada na Carta Oficial e favorece uma aplicação pessoal e comunitária."
         }
       ],
-      "atualidade": [
-        {
-          "abrangencia": "ES/Grande Vitória",
-          "titulo": "Sedu realiza abertura do Geração Protagonista 2026",
-          "veiculo": "Secretaria da Educação do Espírito Santo",
-          "data": "2026-03-27",
-          "url": "https://sedu.es.gov.br/Noticia/sedu-realiza-abertura-do-geracao-protagonista-2026-nesta-segunda-feira-30",
-          "conexao": "A iniciativa reuniu estudantes capixabas e propôs encontros, diálogo, colaboração, missões práticas e protagonismo juvenil. Sem equiparar o projeto ao discipulado cristão, ele ilustra que autonomia e responsabilidade são desenvolvidas por processos relacionais e oportunidades reais de participação.",
-          "dilema": "Formar pessoas exige dar espaço para que participem e assumam responsabilidades, mas isso envolve aceitar erros e acompanhar o processo.",
-          "pergunta": "Na igreja, oferecemos aos mais novos apenas instruções ou também acompanhamento e oportunidades reais de servir?",
-          "ordem": 1,
-          "escopo_normalizado": "REGIONAL",
-          "url_status": "VALIDO",
-          "registro_status": "VALIDO",
-          "url_utilizavel": true
-        },
-        {
-          "abrangencia": "Brasil",
-          "titulo": "Jovens podem se inscrever na segunda etapa do Juventude Solidária",
-          "veiculo": "Secretaria-Geral da Presidência da República",
-          "data": "2026-07-10",
-          "url": "https://www.gov.br/secretariageral/pt-br/noticias/2026/informes/jovens-podem-se-inscrever-na-2a-etapa-do-juventude-solidaria",
-          "conexao": "A plataforma aproximou jovens voluntários de projetos sociais considerando território, interesses e disponibilidade. A notícia permite discutir como boa intenção precisa ser convertida em compromisso concreto, serviço e inserção em necessidades reais.",
-          "dilema": "Muitas pessoas desejam fazer diferença, mas evitam vínculos que exigem constância, prestação de contas e adaptação às necessidades de outros.",
-          "pergunta": "O que falta para transformarmos nossa disposição genérica de ajudar pessoas em um compromisso específico, regular e responsável?",
-          "ordem": 2,
-          "escopo_normalizado": "NACIONAL",
-          "url_status": "VALIDO",
-          "registro_status": "VALIDO",
-          "url_utilizavel": true
-        },
-        {
-          "abrangencia": "Mundo",
-          "titulo": "Finding Tomorrow's Earth Intelligence Leaders Today",
-          "veiculo": "World Meteorological Organization",
-          "data": "2026-07-23",
-          "url": "https://wmo.int/media/update/finding-tomorrows-earth-intelligence-leaders-today",
-          "conexao": "A notícia apresenta o lançamento de um programa internacional de mentoria que conecta estudantes e profissionais em início de carreira a pessoas experientes, combinando capacitação, rede de relacionamentos e contribuição para desafios reais. A analogia ajuda a visualizar formação com propósito e multiplicação de competências.",
-          "dilema": "Convidar jovens para assistir é mais simples do que tratá-los como participantes capazes de aprender, contribuir e futuramente formar outros.",
-          "pergunta": "Em nossos relacionamentos de discipulado, estamos formando espectadores, auxiliares permanentes ou futuros multiplicadores?",
-          "ordem": 3,
-          "escopo_normalizado": "INTERNACIONAL",
-          "url_status": "VALIDO",
-          "registro_status": "VALIDO",
-          "url_utilizavel": true
-        }
-      ],
+      "atualidade": [],
       "situacoes_cotidianas": [
         {
-          "contexto": "Célula",
-          "titulo": "O novo convertido que só recebe mensagens",
-          "situacao": "Uma pessoa decidiu seguir Jesus há dois meses. O líder envia versículos e convites para os cultos, mas ninguém conhece sua rotina, suas dúvidas familiares ou suas dificuldades para abandonar hábitos antigos.",
-          "pergunta": "Que ações concretas transformariam esse contato informativo em acompanhamento intencional, sem criar controle ou dependência?"
+          "contexto": "Redes sociais e pluralismo religioso",
+          "titulo": "“Todos os caminhos levam a Deus”",
+          "situacao": "Durante uma conversa, alguém afirma que todas as religiões são igualmente caminhos de salvação e que dizer que Jesus é o único Salvador seria intolerante.",
+          "pergunta": "Como responder com respeito, humildade e clareza bíblica, sem atacar pessoas de outras convicções?"
         },
         {
-          "contexto": "Trabalho",
-          "titulo": "Fé observada no ambiente profissional",
-          "situacao": "Um colega mais jovem sabe que você é cristão e começa a pedir orientação. Entretanto, ele também observa sua impaciência, seus comentários sobre outros funcionários e a maneira como você reage quando é contrariado.",
-          "pergunta": "Como reconhecer incoerências sem desistir de acompanhar a pessoa nem fingir que já alcançamos maturidade?"
+          "contexto": "Ambiente acadêmico ou profissional",
+          "titulo": "Fé apenas como identidade",
+          "situacao": "Uma pessoa se identifica como cristã, mas não demonstra interesse por seguir os ensinamentos de Jesus nem por compartilhar sua fé de modo responsável.",
+          "pergunta": "Qual é a diferença entre carregar um rótulo religioso e viver como discípulo de Jesus?"
         },
         {
-          "contexto": "Família",
-          "titulo": "Pais que terceirizam a formação espiritual",
-          "situacao": "Uma família participa dos cultos, mas conversa pouco sobre fé durante a semana. Quando os filhos apresentam dúvidas, os pais respondem que devem perguntar ao pastor ou ao professor da igreja.",
-          "pergunta": "Como os responsáveis podem compartilhar a caminhada com Cristo em casa sem transformar todas as conversas em pregação?"
-        },
-        {
-          "contexto": "Multiplicação",
-          "titulo": "Sempre aprendiz, nunca responsável por alguém",
-          "situacao": "Uma participante frequenta estudos há vários anos e possui bom conhecimento bíblico, mas afirma que ainda não está pronta para acompanhar ninguém porque continua enfrentando lutas pessoais.",
-          "pergunta": "Que nível de maturidade é necessário para começar a ajudar outra pessoa, e quais limites devem ser respeitados?"
-        },
-        {
-          "contexto": "Agenda e relacionamentos",
-          "titulo": "Sem tempo para pessoas",
-          "situacao": "Um líder mantém uma agenda cheia de reuniões, cultos e tarefas administrativas, mas raramente consegue fazer uma refeição ou ter uma conversa sem pressa com as pessoas que lidera.",
-          "pergunta": "Quais atividades aparentemente produtivas precisariam ser reduzidas para que pessoas voltassem a ser prioridade?"
+          "contexto": "Família e amizades",
+          "titulo": "O medo de testemunhar",
+          "situacao": "Um participante deseja falar de Jesus a alguém próximo, mas teme ser rejeitado ou parecer insistente.",
+          "pergunta": "Como unir coragem, escuta, respeito e dependência da presença prometida por Jesus?"
         }
       ],
       "dinamicas": [
         {
-          "titulo": "Minha corrente de discipulado",
-          "duracao": "10 a 15 minutos",
-          "objetivo": "Tornar visíveis a gratidão por quem nos formou e a responsabilidade de investir em outra pessoa.",
-          "materiais": "Folhas pequenas e canetas.",
+          "titulo": "Autoridade, missão e presença",
+          "duracao": "20 minutos",
+          "objetivo": "Ajudar o grupo a interpretar Mateus 28:18-20 como uma unidade formada pela autoridade de Jesus, pela missão dos discípulos e pela promessa de sua presença.",
+          "materiais": "Três folhas ou cartazes com as palavras “Autoridade”, “Missão” e “Presença”; canetas.",
           "passos": [
-            "Entregue uma folha a cada participante.",
-            "Peça que escrevam, no lado esquerdo, o nome de uma ou duas pessoas que contribuíram intencionalmente para sua caminhada com Jesus.",
-            "No centro, cada participante escreve o próprio nome.",
-            "No lado direito, deve escrever o nome de alguém que poderia começar a acompanhar ou servir de modo mais intencional.",
-            "Leia 2Timóteo 2:1-2 e destaque as sucessivas gerações presentes no texto.",
-            "Reserve dois minutos para oração silenciosa de gratidão e compromisso.",
-            "Quem ainda não conseguir indicar alguém pode escrever um ambiente de relacionamento, como família, trabalho, faculdade ou vizinhança."
+            "Dividir o grupo em três pequenos subgrupos, entregando uma palavra a cada um.",
+            "Pedir que cada subgrupo identifique no texto bíblico o que a palavra significa e qual aplicação ela tem hoje.",
+            "Reunir todos e montar uma sequência visual: porque Jesus tem autoridade, a igreja é enviada; porque ele envia, também promete estar presente.",
+            "Concluir com uma oração de compromisso missionário, sem transformar a atividade em fala atribuída ao pregador."
           ],
           "perguntas": [
-            "O que a pessoa à esquerda fez que mais ajudou você?",
-            "Qual primeiro passo possível pode ser dado em favor da pessoa à direita?",
-            "Que apoio você precisa receber da célula para não assumir esse compromisso sozinho?"
+            "Qual das três dimensões costuma ser mais esquecida pela igreja: autoridade, missão ou presença?",
+            "Como a promessa “estarei sempre com vocês” corrige o medo de testemunhar?"
           ]
         },
         {
-          "titulo": "Do evento à vida compartilhada",
-          "duracao": "35 a 45 minutos",
-          "objetivo": "Avaliar a cultura relacional do grupo e construir um plano simples de discipulado intencional para as semanas seguintes.",
-          "materiais": "Cartolina ou quadro, canetas e cartões com as palavras ensinar, ouvir, conviver, corrigir, servir, enviar e multiplicar.",
+          "titulo": "Mapa de uma conversa sobre Jesus",
+          "duracao": "25 minutos",
+          "objetivo": "Treinar uma abordagem respeitosa para conversar sobre Jesus como único Salvador em situações reais.",
+          "materiais": "Cartões com situações cotidianas; papel e canetas.",
           "passos": [
-            "Coloque os sete cartões no centro e peça que o grupo explique como cada ação pode aparecer no discipulado.",
-            "Divida os participantes em duplas ou trios e distribua uma das situações cotidianas da curadoria para cada grupo.",
-            "Cada grupo deverá responder o que seria apenas uma solução programática e o que constituiria uma resposta relacional e intencional.",
-            "Reúna todos e registre no quadro atitudes que dependem de encontros formais e atitudes que podem acontecer na vida cotidiana.",
-            "Leia Marcos 3:13-15 e 1Tessalonicenses 2:7-8.",
-            "Peça que cada pessoa escolha uma prática para os próximos 30 dias: uma refeição, uma conversa semanal, leitura bíblica em dupla, oração regular ou participação conjunta em uma ação de serviço.",
-            "Forme duplas de prestação de contas para um contato breve por semana.",
-            "Defina uma data de revisão, sem transformar a prática em relatório de desempenho espiritual."
+            "Distribuir cartões com diferentes situações de conversa sobre fé.",
+            "Em duplas, elaborar uma resposta que contenha escuta, pergunta, testemunho pessoal e referência bíblica.",
+            "Cada dupla apresenta sua resposta em até dois minutos.",
+            "O grupo avalia se a resposta foi clara sobre Jesus, respeitosa com a pessoa e coerente com a missão de fazer discípulos.",
+            "Finalizar escolhendo uma pessoa pela qual cada participante orará durante a semana."
           ],
           "perguntas": [
-            "Qual das sete ações está mais presente em nossa célula?",
-            "Qual delas está mais ausente?",
-            "Como acompanhar alguém sem controlar suas decisões?",
-            "Como corrigir em amor sem assumir uma posição de superioridade?",
-            "O que precisaremos simplificar em nossa agenda para sustentar relacionamentos reais?",
-            "Como saber se estamos formando pessoas mais dependentes de Cristo e menos dependentes de nós?"
+            "A resposta apresentada comunicou apenas uma opinião religiosa ou apontou para a pessoa e obra de Jesus?",
+            "Como evitar tanto a omissão quanto a pressão indevida?"
           ]
         }
       ],
-      "sustentabilidade": {
-        "ods_principal": "ODS 4 — Educação de Qualidade",
-        "ods_complementar": "ODS 11 — Cidades e Comunidades Sustentáveis",
-        "conexao": "O discipulado intencional envolve formação contínua, compartilhamento de conhecimento, acompanhamento próximo e preparação de novos multiplicadores. A conexão sustentável desta semana é social e educacional: fortalecer pessoas e comunidades por meio de aprendizagem compartilhada, sem forçar uma relação artificial com consumo.",
-        "aplicacao": "Cada participante escolhe uma habilidade, conhecimento, tempo ou recurso que já possui e que pode compartilhar com outra pessoa durante a semana. Priorizar mentoria, cooperação, reaproveitamento e uso responsável do que já existe.",
-        "pergunta": "Como podemos formar pessoas e multiplicar conhecimento, cuidado e recursos sem centralizar tudo em poucas pessoas nem gerar consumo ou desperdício desnecessário?",
-        "origem": "Curadoria 04D.2.3 — revisão humana"
-      },
+      "sustentabilidade": {},
       "perguntas_adicionais": [
         {
-          "tipo": "compreensão",
-          "pergunta": "Por que reduzir o discipulado a um curso pode enfraquecer a dimensão relacional apresentada por Jesus?"
+          "tipo": "observação do texto",
+          "pergunta": "O que Mateus 28:18-20 afirma sobre a autoridade de Jesus antes de apresentar a missão?"
         },
         {
-          "tipo": "autoavaliação",
-          "pergunta": "Hoje você se percebe predominantemente como alguém que recebe, que caminha ao lado ou que forma outros discípulos?"
+          "tipo": "teologia",
+          "pergunta": "Por que a missão cristã não deve ser entendida como autopromoção da igreja, mas como testemunho de Jesus?"
         },
         {
-          "tipo": "caráter",
-          "pergunta": "Qual característica de Jesus está sendo trabalhada com mais intensidade em você nesta fase?"
+          "tipo": "aplicação",
+          "pergunta": "Que passo de discipulado, ensino ou testemunho o pequeno grupo pode praticar nos próximos sete dias?"
         },
         {
-          "tipo": "vulnerabilidade",
-          "pergunta": "Que diferença existe entre compartilhar a vida com honestidade e expor detalhes de maneira imprudente?"
-        },
-        {
-          "tipo": "liderança",
-          "pergunta": "Quais sinais indicam que um discipulador está produzindo dependência emocional ou espiritual em vez de maturidade?"
-        },
-        {
-          "tipo": "missão",
-          "pergunta": "Quem está perto de nós, mas permanece fora de nossa atenção porque esperamos que a igreja organize um programa específico?"
-        },
-        {
-          "tipo": "prática semanal",
-          "pergunta": "Qual pessoa você procurará nesta semana, e que gesto concreto demonstrará interesse por sua caminhada com Jesus?"
+          "tipo": "inclusão e respeito",
+          "pergunta": "Como afirmar a centralidade de Jesus sem desrespeitar pessoas de outras crenças ou sem crença?"
         }
       ],
       "prioridades": [
         {
-          "recurso": "Aviso de uso: PRELIMINAR — MENSAGEM",
-          "motivo": "Toda esta curadoria foi construída exclusivamente a partir do tema, resumo e ideias centrais fornecidos. Não é conteúdo oficial da Carta da Célula e deverá ser revisada quando a carta estiver disponível."
+          "recurso": "Mateus 28:18-20 na versão NVI",
+          "motivo": "É o texto principal da Carta Oficial e deve permanecer como eixo de toda a conversa."
         },
         {
-          "recurso": "Marcos 3:13-15 e 1Tessalonicenses 2:7-8",
-          "motivo": "São os complementos bíblicos mais fortes para mostrar que o envio é precedido por presença e que transmitir o Evangelho inclui compartilhar a própria vida."
+          "recurso": "Dinâmica “Autoridade, missão e presença”",
+          "motivo": "Organiza o texto bíblico de modo simples e aplicável para um pequeno grupo."
         },
         {
-          "recurso": "Dinâmica Minha corrente de discipulado",
-          "motivo": "É breve, acessível e conduz cada participante da reflexão para a identificação de uma pessoa concreta."
+          "recurso": "Vídeo “A Grande Comissão”, do Envolve APAC",
+          "motivo": "É diretamente relacionado ao texto principal e pode facilitar a compreensão da missão."
         },
         {
-          "recurso": "The Forge",
-          "motivo": "Oferece uma representação contemporânea e diretamente relacionada a mentoria cristã, responsabilidade, transformação e multiplicação."
-        },
-        {
-          "recurso": "Discipulado, de Mark Dever",
-          "motivo": "Possui trecho legal gratuito em português e aborda precisamente o discipulado como ajuda relacional para que outras pessoas sigam Jesus."
-        },
-        {
-          "recurso": "Notícia mundial sobre o GEO Youth Mentorship Programme",
-          "motivo": "Apresenta uma conexão atual e não forçada com formação intencional, transferência de experiência, participação prática e preparação de novos multiplicadores."
+          "recurso": "Canções indicadas na Carta Oficial",
+          "motivo": "Foram preservadas como núcleo musical oficial e podem apoiar a abertura, a transição e a resposta do grupo."
         }
       ],
       "validacao_resiliencia": {
@@ -491,6 +348,221 @@
       }
     },
     {
+      "id": "2026-08-02",
+      "status": "historico_importado_carta",
+      "tema": "Jesus, A Luz Para O Meu Caminho",
+      "texto_principal": "João 12:46",
+      "texto_principal_youversion": "JHN.12",
+      "periodo": "02 a 08 de agosto de 2026",
+      "mensagem": {
+        "titulo": "Culto de Celebração - PIBJC | 02 08 2026 | 18h30 | Centro de Celebrações",
+        "pregador": "Aguardando conciliação",
+        "url": "https://www.youtube.com/watch?v=zzOa_O2vxVM",
+        "inicio_segundos": null,
+        "video_id": "zzOa_O2vxVM",
+        "inicio_live": "2026-08-02T21:26:17Z",
+        "fim_live": "2026-08-02T23:33:41Z",
+        "detectado_em": "2026-08-12T21:09:28-03:00",
+        "origem": "YouTube Data API v3",
+        "observacao": "Gravação oficial detectada automaticamente. O início da mensagem será detectado pela rotina homologada."
+      },
+      "carta": {
+        "arquivo": "Carta Célula 26 - 02 08 2026.pdf",
+        "origem": "Carta da Célula 26",
+        "status": "disponivel",
+        "hash_sha256": "93f8339f730ecca7ec7cc7e81d72b773cfba0a89b1a0a95db54aede556a5b9ab",
+        "numero": 26,
+        "extracao_status": "automatico_pendente_revisao",
+        "origem_data": "periodo_pdf",
+        "data_documento": "2026-08-02",
+        "tema_extracao_status": "tema_explicito",
+        "arquivo_app": "assets/cartas/carta_2026-08-02.pdf"
+      },
+      "transcricao": {
+        "status": "aguardando",
+        "arquivo": null
+      },
+      "versao_biblica": {
+        "status": "padrao_app",
+        "sigla": "NAA",
+        "nome": "Nova Almeida Atualizada",
+        "id_youversion": 1840,
+        "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
+      },
+      "oficial": {
+        "ideias_centrais": [],
+        "perguntas": [],
+        "musicas": [
+          "Aclame ao Senhor (DT) • Seja Exaltado, engrandecido (Jesus filho de Deus) • Eu & Minha Casa (Julliany Souza)"
+        ],
+        "desafio": null
+      },
+      "preliminar": {},
+      "referencias_biblicas": [
+        {
+          "referencia": "João 12:46",
+          "conexao": "Texto principal da Carta: Jesus é apresentado como a luz que veio ao mundo para que quem crê nele não permaneça nas trevas.",
+          "como_usar": "Leia o versículo no início do encontro e peça ao grupo que identifique os contrastes entre luz, fé e trevas presentes no texto.",
+          "pergunta": "Em que área da minha vida preciso confiar mais em Jesus como luz e direção?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/JHN.12.45-46.NVI"
+        },
+        {
+          "referencia": "João 8:12",
+          "conexao": "Jesus não apenas oferece luz; ele declara ser a própria luz do mundo e convida as pessoas a segui-lo.",
+          "como_usar": "Compare a expressão 'crê em mim', de João 12:46, com 'quem me segue', de João 8:12, destacando que fé e caminhada estão ligadas.",
+          "pergunta": "Que decisão prática demonstraria que estou seguindo a luz de Jesus nesta semana?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/JHN.8.12.NVI"
+        },
+        {
+          "referencia": "Salmos 119:105",
+          "conexao": "A Palavra de Deus é descrita como lâmpada para os pés e luz para o caminho, reforçando a necessidade de orientação diária.",
+          "como_usar": "Convide cada participante a mencionar uma escolha concreta para a qual precisa buscar orientação bíblica.",
+          "pergunta": "Tenho buscado a Palavra apenas para obter respostas ou também para permitir que ela transforme minhas decisões?",
+          "youversion_ref": "https://www.bible.com/bible/129/PSA.119.105"
+        }
+      ],
+      "filmes_series": [],
+      "livros": [],
+      "videos": [],
+      "musicas_complementares": [
+        {
+          "titulo": "Aclame ao Senhor",
+          "interprete": "Diante do Trono",
+          "conexao": "Canção de adoração que pode preparar o grupo para reconhecer a grandeza de Jesus e voltar o coração para ele como referência segura.",
+          "pergunta": "O que muda em nossa percepção dos problemas quando começamos o encontro exaltando o Senhor?",
+          "url_oficial": "https://www.youtube.com/watch?v=zXWlVWR_9JY",
+          "decisao": "Usar",
+          "motivo": "A gravação está associada ao canal oficial do Diante do Trono."
+        },
+        {
+          "titulo": "Seja Exaltado, engrandecido — Jesus, Filho de Deus",
+          "interprete": "Fernandinho",
+          "conexao": "Relaciona-se diretamente ao reconhecimento de Jesus como Filho de Deus, Senhor exaltado e aquele cuja cruz liberta das trevas.",
+          "pergunta": "Que aspecto da identidade de Jesus precisa ocupar o centro da minha semana?",
+          "url_oficial": "https://www.youtube.com/watch?v=_G_xbDaSDEQ",
+          "decisao": "Usar",
+          "motivo": "A gravação está associada ao canal oficial de Fernandinho e corresponde ao título indicado na Carta."
+        },
+        {
+          "titulo": "Eu e Minha Casa",
+          "interprete": "Julliany Souza e Léo Brandão",
+          "conexao": "Amplia o tema da luz para a vida familiar, incentivando o grupo a refletir sobre como a fé em Jesus orienta o ambiente do lar.",
+          "pergunta": "Como podemos tornar nossa casa um lugar onde a presença e os valores de Jesus sejam percebidos?",
+          "url_oficial": "https://www.youtube.com/watch?v=wT8RZWVQ7nY",
+          "decisao": "Usar",
+          "motivo": "O vídeo está publicado no canal oficial de Julliany Souza."
+        }
+      ],
+      "atualidade": [],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Decisão profissional ou acadêmica",
+          "titulo": "Escolher sem enxergar todo o caminho",
+          "situacao": "Uma pessoa precisa tomar uma decisão importante sobre trabalho ou estudos, mas não tem todas as informações e sente medo de errar. Ela percebe que está buscando apenas garantias e opiniões, sem separar tempo para oração, reflexão e princípios bíblicos.",
+          "pergunta": "Como confiar em Jesus como luz sem esperar que todas as etapas do caminho sejam reveladas antecipadamente?"
+        },
+        {
+          "contexto": "Uso de redes sociais",
+          "titulo": "Quando muitas vozes confundem",
+          "situacao": "Após consumir opiniões, notícias e comparações nas redes sociais, alguém termina o dia ansioso e sem saber quais valores deve seguir. O excesso de vozes começa a influenciar suas escolhas e sua visão de si mesmo.",
+          "pergunta": "Que vozes têm orientado minhas decisões e como posso discernir se elas estão me aproximando ou afastando da luz de Cristo?"
+        },
+        {
+          "contexto": "Conflito familiar",
+          "titulo": "Levar luz para uma conversa difícil",
+          "situacao": "Duas pessoas da mesma família estão magoadas e evitam conversar. Uma delas decide iniciar o diálogo, mas precisa escolher entre responder com acusação ou buscar a verdade com humildade, escuta e disposição para perdoar.",
+          "pergunta": "O que significa deixar a luz de Jesus orientar minhas palavras quando estou ferido?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Mapa de luz para a semana",
+          "duracao": "15 a 20 minutos",
+          "objetivo": "Relacionar João 12:46 a decisões concretas e identificar áreas que precisam da direção de Jesus.",
+          "materiais": "Folhas de papel e canetas.",
+          "passos": [
+            "Entregue uma folha a cada participante e peça que desenhe três áreas da vida: pessoal, relacionamentos e decisões.",
+            "Solicite que cada pessoa escreva, em cada área, uma situação em que se sente sem clareza ou segurança.",
+            "Leia João 12:46 e convide o grupo a refletir sobre a diferença entre permanecer nas trevas e caminhar confiando em Jesus.",
+            "Cada participante deve escolher uma situação e escrever uma atitude prática de fé para os próximos sete dias.",
+            "Forme duplas para que os participantes compartilhem seus compromissos e orem uns pelos outros."
+          ],
+          "perguntas": [
+            "Em qual área tenho tentado caminhar apenas com meus próprios recursos?",
+            "Que atitude prática pode expressar confiança em Jesus nesta semana?",
+            "Como o grupo pode ajudar sem controlar a decisão do outro?"
+          ]
+        },
+        {
+          "titulo": "Luz no caminho, não holofote",
+          "duracao": "10 a 15 minutos",
+          "objetivo": "Mostrar que a orientação de Deus muitas vezes ilumina o próximo passo, e não todo o percurso.",
+          "materiais": "Uma lanterna ou luz de celular e pequenos cartões.",
+          "passos": [
+            "Apague parcialmente as luzes do ambiente, mantendo segurança para todos.",
+            "Acenda a lanterna e destaque que uma luz pequena já permite identificar o próximo passo.",
+            "Entregue cartões para que cada participante escreva uma pergunta ou preocupação sobre o futuro.",
+            "Leia Salmos 119:105 e peça que cada pessoa transforme sua preocupação em uma oração de confiança para o próximo passo.",
+            "Finalize com uma oração coletiva, sem exigir que ninguém exponha sua situação pessoal."
+          ],
+          "perguntas": [
+            "Por que queremos controlar todo o caminho antes de obedecer ao próximo passo?",
+            "Qual é o próximo passo possível, responsável e coerente com a fé?",
+            "Que diferença existe entre prudência e paralisia pelo medo?"
+          ]
+        }
+      ],
+      "sustentabilidade": {},
+      "perguntas_adicionais": [
+        {
+          "tipo": "observacao_do_texto",
+          "pergunta": "O que João 12:46 revela sobre a missão de Jesus e sobre o efeito da fé nele?"
+        },
+        {
+          "tipo": "autoconhecimento",
+          "pergunta": "Quais medos ou hábitos fazem com que eu prefira permanecer em zonas conhecidas, mesmo quando Jesus me chama a caminhar na luz?"
+        },
+        {
+          "tipo": "pratica_comunitaria",
+          "pergunta": "Como o pequeno grupo pode ser uma presença de encorajamento e discernimento sem substituir a responsabilidade pessoal de cada participante?"
+        },
+        {
+          "tipo": "acao_da_semana",
+          "pergunta": "Que hábito simples de oração, leitura bíblica ou conversa sincera ajudará a manter Jesus no centro das minhas decisões?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "João 12:46",
+          "motivo": "É o texto principal oficial da Carta e deve orientar a leitura, a conversa e a aplicação do encontro."
+        },
+        {
+          "recurso": "João 8:12 e Salmos 119:105",
+          "motivo": "Aprofundam as imagens de Jesus como luz e da Palavra como orientação prática para o caminho."
+        },
+        {
+          "recurso": "Mapa de luz para a semana",
+          "motivo": "Converte o tema em uma aplicação pessoal concreta, adequada à dinâmica de um pequeno grupo."
+        },
+        {
+          "recurso": "Músicas indicadas na Carta",
+          "motivo": "Preservam o núcleo musical oficial e ajudam a criar um ambiente coerente de adoração e reflexão."
+        }
+      ],
+      "texto_principal_meta": {
+        "versao": "04D.6.3",
+        "origem": "CARTA_BLOCO_EDIFICAR",
+        "score": 88,
+        "corroborado_transcricao": false,
+        "confianca_1": null,
+        "confianca_2": null,
+        "aplicado_em": "2026-08-12T21:10:53",
+        "regra": "somente_placeholder_candidato_da_carta",
+        "requer_reenriquecimento_04D_4_2": false,
+        "reenriquecimento_concluido_em": "2026-08-12T21:11:20"
+      }
+    },
+    {
       "id": "2026-07-05",
       "status": "historico_importado_carta",
       "tema": "O amor que resiste através da busca sincera.",
@@ -516,7 +588,8 @@
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "Após o fim do louvor, o pregador principal assume a palavra e começa com 'Aleluia. Aleluia. irmão.'",
         "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque já marca a primeira fala contínua do pregador principal após o louvor, antes da leitura bíblica e do desenvolvimento doutrinário.",
-        "pregador_status": "pendente_fonte_confiavel"
+        "pregador_status": "pendente_fonte_confiavel",
+        "fim_segundos": 6008
       },
       "carta": {
         "arquivo": "Carta Célula 23 - 05 07 2026 Ano 2026.pdf",
@@ -532,8 +605,25 @@
         "arquivo_app": "assets/cartas/carta_2026-07-05.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-07-05.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-07-05.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "K-fBELJhijY",
+        "inicio_segundos": 3943,
+        "fim_segundos": 6008,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 718,
+        "caracteres": 32023,
+        "primeiro_segmento_segundos": 3943,
+        "ultimo_segmento_segundos": 6006,
+        "sha256": "1613072c4e8b05b52f10c0e27f8b29193849fc94db015ac88908bffee5f99512",
+        "gerada_em": "2026-08-12T17:22:45"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -917,7 +1007,8 @@
         "inicio_mensagem_confianca": 0.99,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "A entrega explícita da palavra ocorre em 01:01:33, seguida da primeira fala contínua do pastor Juarez Mendes em 01:01:42.",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque corresponde à primeira fala do pregador principal após a entrega formal da palavra, antes da leitura bíblica e do desenvolvimento do tema."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque corresponde à primeira fala do pregador principal após a entrega formal da palavra, antes da leitura bíblica e do desenvolvimento do tema.",
+        "fim_segundos": 6596
       },
       "carta": {
         "arquivo": "Carta Célula 22 - 28 06 2026 Ano 2026.pdf",
@@ -933,8 +1024,25 @@
         "arquivo_app": "assets/cartas/carta_2026-06-28.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-06-28.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-06-28.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "85n6r04NH8s",
+        "inicio_segundos": 3702,
+        "fim_segundos": 6596,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 928,
+        "caracteres": 41252,
+        "primeiro_segmento_segundos": 3702.039,
+        "ultimo_segmento_segundos": 6595.96,
+        "sha256": "f030560869515ac724f1ee779fcd390619b77a26d6b3117024222c3c00f36bdc",
+        "gerada_em": "2026-08-12T19:50:40"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -1312,7 +1420,8 @@
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "A fala dirigida a Ramon em 00:35:52 marca a tomada de palavra pelo pregador principal, que passa a conduzir continuamente a reunião.",
         "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal inicia um turno contínuo de fala após a participação de Ramon; não é necessário esperar o desenvolvimento doutrinário ou a leitura bíblica.",
-        "pregador_status": "pendente_fonte_confiavel"
+        "pregador_status": "pendente_fonte_confiavel",
+        "fim_segundos": 5580
       },
       "carta": {
         "arquivo": "Carta Célula 20 - 15 06 2026 Ano 2026.pdf",
@@ -1328,8 +1437,25 @@
         "arquivo_app": "assets/cartas/carta_2026-06-14.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-06-14.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-06-14.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "nSm1A9lOuw4",
+        "inicio_segundos": 2152,
+        "fim_segundos": 5580,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1287,
+        "caracteres": 48759,
+        "primeiro_segmento_segundos": 2151.044,
+        "ultimo_segmento_segundos": 5576.8,
+        "sha256": "d139ef2c690b9ccf2260a2003145a7545c9ca2487da1d280774a079fa47a35ab",
+        "gerada_em": "2026-08-12T19:52:42"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -1718,7 +1844,8 @@
         "inicio_mensagem_confianca": 0.98,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "Após a orientação para se sentar, surge a primeira fala contínua do pregador principal em 00:49:31, com um comentário inicial sobre amar fazer parte da igreja.",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque marca a assunção efetiva da palavra pelo pregador principal, antes da leitura bíblica e do desenvolvimento doutrinário."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque marca a assunção efetiva da palavra pelo pregador principal, antes da leitura bíblica e do desenvolvimento doutrinário.",
+        "fim_segundos": 8344
       },
       "carta": {
         "arquivo": "Carta Célula 19 - 07 06 2026.pdf",
@@ -1734,8 +1861,25 @@
         "arquivo_app": "assets/cartas/carta_2026-06-07.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-06-07.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-06-07.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "6mTJuD53v2w",
+        "inicio_segundos": 2971,
+        "fim_segundos": 8344,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1752,
+        "caracteres": 75700,
+        "primeiro_segmento_segundos": 2970.68,
+        "ultimo_segmento_segundos": 8339.719,
+        "sha256": "3269c5efdd945a2a235faafe69aa3b4603e92b2af2cc443940513105d0644d55",
+        "gerada_em": "2026-08-12T19:53:55"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -2103,7 +2247,8 @@
         "inicio_mensagem_confianca": 0.98,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "Às 01:08:31 o pregador principal assume a palavra com 'Amém. E amém. Você pode se sentar.'",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque já contém a primeira fala contínua do pregador principal após a oração, antes da leitura bíblica e do desenvolvimento do tema."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque já contém a primeira fala contínua do pregador principal após a oração, antes da leitura bíblica e do desenvolvimento do tema.",
+        "fim_segundos": 7536
       },
       "carta": {
         "arquivo": "Carta Célula 18 - 31 05 2026.pdf",
@@ -2119,8 +2264,25 @@
         "arquivo_app": "assets/cartas/carta_2026-05-31.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-05-31.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-05-31.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "9KThEYHIKdM",
+        "inicio_segundos": 4111,
+        "fim_segundos": 7536,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1170,
+        "caracteres": 50093,
+        "primeiro_segmento_segundos": 4109.56,
+        "ultimo_segmento_segundos": 7534.32,
+        "sha256": "08bd5efbffd0b0fe8b872ebcccec0e839d1a2265be198a79213473cae27f389c",
+        "gerada_em": "2026-08-12T20:05:07"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -2475,7 +2637,8 @@
         "inicio_mensagem_confianca": 0.96,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "Em 00:48:57 surge a primeira fala contínua do pregador principal: \"Glórias a Jesus. Você pode tomar o seu assento.\"",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal toma a palavra após o louvor e inicia seu turno contínuo, antes da leitura bíblica e do desenvolvimento doutrinário."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal toma a palavra após o louvor e inicia seu turno contínuo, antes da leitura bíblica e do desenvolvimento doutrinário.",
+        "fim_segundos": 7444
       },
       "carta": {
         "arquivo": "Carta Célula 10 - 05.04.2026.pdf",
@@ -2713,9 +2876,25 @@
         }
       ],
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "A massa de teste 04B.2 ainda não utiliza transcrição da mensagem."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-04-05.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-04-05.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "h6bCosZeagI",
+        "inicio_segundos": 2937,
+        "fim_segundos": 7444,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1497,
+        "caracteres": 63030,
+        "primeiro_segmento_segundos": 2936.68,
+        "ultimo_segmento_segundos": 7441.559,
+        "sha256": "b52d3956dea4548ff76b6d40932fe549bed7ee3810dca2eda98ae9ca47b08e1a",
+        "gerada_em": "2026-08-12T20:07:09"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -2827,7 +3006,8 @@
         "inicio_mensagem_confianca": 0.96,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "Após o encerramento dos avisos, o pastor Marcos assume a palavra em 00:32:30 com 'Glória a Deus' e passa a conduzir diretamente a congregação.",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque os avisos anteriores não contam como mensagem; em 00:32:30 começa o turno contínuo do pregador principal, antes do desenvolvimento doutrinário e da leitura bíblica."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional do player porque os avisos anteriores não contam como mensagem; em 00:32:30 começa o turno contínuo do pregador principal, antes do desenvolvimento doutrinário e da leitura bíblica.",
+        "fim_segundos": 7876
       },
       "carta": {
         "arquivo": "Carta Célula 06 - 08 03 2026.pdf",
@@ -2843,8 +3023,25 @@
         "arquivo_app": "assets/cartas/carta_2026-03-08.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-03-08.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-03-08.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "rF8nQJPwnK0",
+        "inicio_segundos": 1950,
+        "fim_segundos": 7876,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1895,
+        "caracteres": 77588,
+        "primeiro_segmento_segundos": 1950.399,
+        "ultimo_segmento_segundos": 7875.599,
+        "sha256": "e0372794587806db854e2631f382f1fb282406e07dc1065d9106299f06ccb5c2",
+        "gerada_em": "2026-08-12T20:09:10"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -3217,7 +3414,8 @@
         "inicio_mensagem_confianca": 0.98,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "A frase \"Pastor Marcos vai orar por nós\" marca a entrega da palavra, seguida imediatamente pela fala do próprio pregador em 00:23:45.",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal assume a palavra e inicia um turno contínuo, ainda que com uma oração antes do conteúdo doutrinário."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal assume a palavra e inicia um turno contínuo, ainda que com uma oração antes do conteúdo doutrinário.",
+        "fim_segundos": 7991
       },
       "carta": {
         "arquivo": "Carta Célula 05 - 01 03 2026.pdf",
@@ -3233,8 +3431,25 @@
         "arquivo_app": "assets/cartas/carta_2026-03-01.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-03-01.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-03-01.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "9o4L9DHZs1I",
+        "inicio_segundos": 1425,
+        "fim_segundos": 7991,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 2132,
+        "caracteres": 85753,
+        "primeiro_segmento_segundos": 1424.96,
+        "ultimo_segmento_segundos": 7985.197,
+        "sha256": "c234a661103dd653a67e9ce48a4982953f3fb6b96417070ba33a66169f879b61",
+        "gerada_em": "2026-08-12T20:11:12"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -3601,7 +3816,8 @@
         "inicio_mensagem_confianca": 0.93,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "Após o encerramento da oferta e do período instrumental, o pregador principal assume a palavra diretamente em oração às 00:56:13.",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal começa um turno contínuo de mensagem; a oração inicial já conta como início, sem esperar a declaração do tema ou a leitura bíblica."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal começa um turno contínuo de mensagem; a oração inicial já conta como início, sem esperar a declaração do tema ou a leitura bíblica.",
+        "fim_segundos": 7810
       },
       "carta": {
         "arquivo": "Carta Célula 04 - 22 02 2026.pdf",
@@ -3617,8 +3833,25 @@
         "arquivo_app": "assets/cartas/carta_2026-02-22.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-02-22.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-02-22.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "8dn8W6tjAc8",
+        "inicio_segundos": 3373,
+        "fim_segundos": 7810,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1498,
+        "caracteres": 63910,
+        "primeiro_segmento_segundos": 3372.92,
+        "ultimo_segmento_segundos": 7807.76,
+        "sha256": "6bb619a2dcd9f302a4cdce58a6d0e89206384a12ac48e509572da7e4fb916921",
+        "gerada_em": "2026-08-12T20:13:14"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -3978,7 +4211,8 @@
         "inicio_mensagem_confianca": 0.93,
         "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
         "inicio_mensagem_transicao": "Após a oração feita por outra pessoa, o pregador principal assume a palavra em 00:53:12 com o título da mensagem e a orientação para abrir a Bíblia.",
-        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal inicia um turno contínuo de mensagem, imediatamente após a oração e a entrega da palavra, sem esperar a leitura bíblica ou o desenvolvimento do tema."
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal inicia um turno contínuo de mensagem, imediatamente após a oração e a entrega da palavra, sem esperar a leitura bíblica ou o desenvolvimento do tema.",
+        "fim_segundos": 6270
       },
       "carta": {
         "arquivo": "Carta Célula 03 - 15 02 2026.pdf",
@@ -3994,8 +4228,25 @@
         "arquivo_app": "assets/cartas/carta_2026-02-15.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-02-15.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-02-15.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "_0uZ88Avvw0",
+        "inicio_segundos": 3192,
+        "fim_segundos": 6270,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1059,
+        "caracteres": 45094,
+        "primeiro_segmento_segundos": 3191.799,
+        "ultimo_segmento_segundos": 6268.199,
+        "sha256": "38b16a55f13bcc9980b293e592adb8675c9144cfc766df6a3538d747234101b3",
+        "gerada_em": "2026-08-12T20:15:15"
       },
       "versao_biblica": {
         "status": "padrao_app",

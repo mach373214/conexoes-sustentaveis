@@ -1587,48 +1587,69 @@ def render_fonte_oficial_semana(estudo, carta_ok, transcricao_ok, mensagem_ok):
 
 
     with st.expander("📝 Transcrição"):
-
         if transcricao_ok:
+            tag("preliminar", "TRANSCRIÇÃO AUTOMÁTICA")
+            st.caption(
+                "Fonte: legenda/transcrição pública do vídeo oficial • Processamento automático. "
+                "Pequenas diferenças de pontuação ou reconhecimento de fala podem ocorrer."
+            )
 
-            tag("oficial", "FONTE OFICIAL")
+            inicio_transcricao = formatar_segundos(transcricao.get("inicio_segundos"))
+            fim_transcricao = formatar_segundos(transcricao.get("fim_segundos"))
 
-            st.markdown(f"**Arquivo:** {transcricao.get('arquivo') or 'Transcrição da mensagem'}")
+            if inicio_transcricao and fim_transcricao:
+                st.caption(
+                    f"Trecho da mensagem: {inicio_transcricao} até {fim_transcricao}."
+                )
+            elif inicio_transcricao:
+                st.caption(
+                    f"Trecho da mensagem a partir de {inicio_transcricao}."
+                )
 
-            if transcricao.get("url"):
+            caminho = resolver_arquivo_local(transcricao)
 
-                st.link_button("📝 Abrir transcrição", transcricao["url"], use_container_width=False)
-
-            elif transcricao.get("arquivo_app"):
-
-                caminho = APP_DIR / transcricao["arquivo_app"]
-
-                if caminho.exists():
-
+            if caminho:
+                try:
+                    texto_transcricao = caminho.read_text(encoding="utf-8")
+                except Exception as erro:
+                    st.warning(f"Não foi possível ler o arquivo de transcrição: {erro}")
+                else:
+                    st.text_area(
+                        "Texto da transcrição",
+                        value=texto_transcricao,
+                        height=520,
+                        disabled=True,
+                    )
                     st.download_button(
-
-                        "📝 Abrir / baixar transcrição",
-
-                        data=caminho.read_bytes(),
-
-                        file_name=Path(transcricao.get("arquivo") or caminho.name).name,
-
+                        "⬇️ Baixar transcrição (.txt)",
+                        data=texto_transcricao.encode("utf-8"),
+                        file_name=Path(
+                            transcricao.get("arquivo") or caminho.name
+                        ).name,
                         mime="text/plain",
-
                     )
 
-                else:
+                if transcricao.get("url"):
+                    st.link_button(
+                        "🌐 Abrir fonte da transcrição",
+                        transcricao["url"],
+                        use_container_width=False,
+                    )
 
-                    st.warning("A transcrição está registrada, mas o arquivo não foi encontrado neste ambiente.")
+            elif transcricao.get("url"):
+                st.link_button(
+                    "📝 Abrir transcrição",
+                    transcricao["url"],
+                    use_container_width=False,
+                )
 
             else:
-
-                st.info("Transcrição disponível para análise, mas ainda sem link/arquivo exposto no app.")
-
+                st.info(
+                    "Transcrição disponível para análise, mas ainda sem "
+                    "link/arquivo exposto no app."
+                )
         else:
-
             st.info("⏳ Aguardando transcrição confiável da mensagem.")
-
-
 
     with st.expander("📄 Carta da Célula"):
 

@@ -6,7 +6,7 @@ operacionais do Windows e não deve substituir a pasta `04_APP`.
 ## Conteúdo
 
 - `app.py` — aplicação Streamlit homologada;
-- `data/estudos.json` — 11 estudos preparados para o ambiente público;
+- `data/estudos.json` — 12 estudos preparados para o ambiente público;
 - `assets/cartas` — PDFs necessários ao app, quando disponíveis;
 - `requirements.txt` — dependência mínima do app;
 - `MANIFESTO_PUBLICACAO_04E_1.json` — hashes e controles da geração;
