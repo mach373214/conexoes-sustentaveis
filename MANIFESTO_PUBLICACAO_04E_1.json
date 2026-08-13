@@ -1,10 +1,10 @@
 {
   "versao": "04E.1",
-  "gerado_em": "2026-08-12T21:43:12",
+  "gerado_em": "2026-08-13T07:29:41",
   "finalidade": "snapshot_publicavel_autocontido_do_mvp",
   "fonte_operacional": {
     "app_sha256": "5aced43b7bdfff5828b488398fd14639bb04b9e72b59529b00540e0568b8c852",
-    "estudos_sha256": "ad3f4b4ce4443c99b56811cdd1dda9d8fc7a6c98d8d95b2f1de1f02f7ede9d7f",
+    "estudos_sha256": "7c480c151333009de1a07f17c497f9443f835da0f50ae15dacbc05ae20b8b410",
     "orquestrador_28_sha256": "910551e10e25144dc4619006e1bb75d060b7fa8c71c624e09ca720fb770e934d",
     "reconciliador_34_sha256": "65e57fa7ba0b0f79e147e28cbca099ac6e39e95d3db73c8c051d5c524c2e38f9",
     "monitor_37_sha256": "fa1374257113ba8d3524b41e246b635ad9898322604d470122824f6c1332d8e6",
@@ -33,6 +33,13 @@
         "arquivo_publico": "assets/cartas/carta_2026-08-02.pdf",
         "sha256": "93f8339f730ecca7ec7cc7e81d72b773cfba0a89b1a0a95db54aede556a5b9ab",
         "tamanho_bytes": 1829876
+      },
+      {
+        "tipo": "transcricao",
+        "estudo": "2026-08-02",
+        "arquivo_publico": "assets/transcricoes/transcricao_2026-08-02.txt",
+        "sha256": "64b14cb86f8e1cf8b340373431441934ea5ef26adf307c077278d438eb86d659",
+        "tamanho_bytes": 29173
       },
       {
         "tipo": "carta",
@@ -310,14 +317,19 @@
       "tamanho_bytes": 33301
     },
     {
+      "arquivo": "assets/transcricoes/transcricao_2026-08-02.txt",
+      "sha256": "64b14cb86f8e1cf8b340373431441934ea5ef26adf307c077278d438eb86d659",
+      "tamanho_bytes": 29173
+    },
+    {
       "arquivo": "assets/transcricoes/transcricao_2026-08-09.txt",
       "sha256": "692a13b53d4406bd4620f41a111c41592f79ab1cc42e7bfdb0b9660e159ac726",
       "tamanho_bytes": 54748
     },
     {
       "arquivo": "data/estudos.json",
-      "sha256": "f7d2425820dff5cd1b4ecaf154fdc33c52a20c0dec452111797c2ddcc00363ba",
-      "tamanho_bytes": 307259
+      "sha256": "8a7bc5e7d85cdc5d286b9ec457b8cf30565ff91fb96a07f08a1367eac87bcd7b",
+      "tamanho_bytes": 322940
     },
     {
       "arquivo": "README.md",

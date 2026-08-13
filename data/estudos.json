@@ -64,12 +64,47 @@
         "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
       "oficial": {
-        "ideias_centrais": [],
-        "perguntas": [],
-        "musicas": [
-          "Tua igreja Canta (Israel Salazar) • Toda Terra (Gabriela Rocha) • O meu querer (Paulo César Baruck)"
+        "ideias_centrais": [
+          "Jesus é o Salvador que morreu pelo pecado de toda pessoa que crer nele.",
+          "A salvação que Jesus oferece envolve uma vida plena e eterna com Deus.",
+          "Crer em Jesus é confiar nele como a única esperança de salvação."
         ],
-        "desafio": null
+        "perguntas": [
+          "Jesus nasceu e cresceu como uma pessoa comum. Leia João 4.6-8. O que vemos nesses versículos que mostra que Jesus era um ser humano como nós?",
+          "Jesus sentia as mesmas emoções que sentimos. Em João 11.33-35, Jesus tinha acabado de receber a notícia da morte de um amigo seu. Como Jesus estava se sentindo?",
+          "Jesus foi um homem como os demais. Contudo, podemos perceber em sua vida uma diferença. Em João 8.46, Jesus disse que ninguém poderia convencê-lo de que ele possuía uma coisa. O que era?",
+          "Muitos já ouviram falar que Jesus morreu na cruz. Mas nem todos sabem por que isso aconteceu, já que ele era uma pessoa tão boa e especial. Alguns acham que ele foi morto apenas por causa da inveja dos líderes religiosos da época. Mas leia João 10.17,18 e responda: o que Jesus disse que ia fazer com sua própria vida?",
+          "Agora que você já entendeu isso, por que você acha que Jesus morreu na cruz?",
+          "João 3.16 é um versículo muito bonito que explica por que Deus enviou Jesus ao mundo. Leia o versículo e tente repetir com suas próprias palavras o que ele diz.",
+          "Como Jesus disse que é a vida que ele veio nos trazer? Responda lendo João 10.10.",
+          "Jesus nos deu a vida eterna, mas para recebê-la há uma condição. O que precisamos fazer? Leia João 3.15 e responda.",
+          "Agora leia João 3.18 e 36. O que acontece com quem não crê em Jesus?",
+          "Responda a próxima pergunta sendo sincero com você mesmo. Diante das verdades sobre o que significa crer em Jesus, você já se considera salvo por ele? Se sim, por quê? Se não, o que falta?"
+        ],
+        "musicas": [
+          {
+            "titulo": "Tua Igreja Canta",
+            "interprete": "Israel Salazar",
+            "url_oficial": "https://www.youtube.com/watch?v=0I_3CCL6Q5U",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA"
+          },
+          {
+            "titulo": "Toda Terra",
+            "interprete": "Gabriela Rocha",
+            "url_oficial": "https://www.youtube.com/watch?v=I1vgtswaIfE",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA"
+          },
+          {
+            "titulo": "O meu querer",
+            "interprete": "Paulo César Baruck",
+            "url_oficial": "https://www.youtube.com/watch?v=ouk0X5tXjwU",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA"
+          }
+        ],
+        "desafio": "Intensifique com a sua Célula a oração pelos “RI’s”! •Cadastre durante essa semana os RI’s dos integrantes da sua Célula. •Faça um momento especial pelos Relacionamentos intencionais! •Lembre-se de realizar a dinâmica da cadeira vazia, colocando nela os nomes dos “RI's”. Que essa cadeira represente as pessoas pelas quais estamos orando, servindo e crendo que, em breve, estarão conosco, rendidas aos pés de Cristo."
       },
       "preliminar": {
         "status": "video_analisado_revisado_humanamente",
@@ -226,7 +261,38 @@
           "motivo": "A canção está indicada na Carta Oficial e favorece uma aplicação pessoal e comunitária."
         }
       ],
-      "atualidade": [],
+      "atualidade": [
+        {
+          "abrangencia": "ES/Grande Vitória",
+          "titulo": "Sesa realiza Fórum Regional Sudeste de Saúde Mental de Crianças e Adolescentes",
+          "veiculo": "Secretaria da Saúde do Espírito Santo",
+          "data": "2026-07-01",
+          "url": "https://saude.es.gov.br/sesa-realiza-forum-regional-sudeste-de-saude-mental-de-criancas-e-adolescentes",
+          "conexao": "A notícia destaca cuidado, escuta e articulação da rede de saúde mental. Isso permite diferenciar cuidado humano e profissional — necessário e legítimo — da afirmação cristã da Carta sobre salvação e reconciliação com Deus em Jesus.",
+          "dilema": "Fé não deve ser usada para substituir cuidado em saúde mental; ao mesmo tempo, a comunidade cristã precisa saber comunicar sua esperança espiritual sem reduzir todo sofrimento a uma única causa.",
+          "pergunta": "Como acolher integralmente quem sofre, valorizando ajuda profissional e, ao mesmo tempo, explicando com clareza o que a fé cristã chama de salvação em Jesus?"
+        },
+        {
+          "abrangencia": "Brasil",
+          "titulo": "PeNSE 2024: perda da vontade de viver atinge mais meninas do que meninos",
+          "veiculo": "IBGE — Agência de Notícias",
+          "data": "2026-03-25",
+          "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46173-perda-da-vontade-de-viver-atinge-duas-vezes-mais-meninas-que-meninos",
+          "conexao": "Os dados evidenciam sofrimento real entre adolescentes. Como complemento ao estudo, o tema convida a igreja a evitar respostas simplistas e a pensar em presença, escuta, cuidado e na esperança cristã sem confundi-la com tratamento de saúde.",
+          "dilema": "Mensagens espirituais podem oferecer sentido e comunidade, mas situações de sofrimento psíquico exigem também acolhimento responsável e acesso aos serviços adequados.",
+          "pergunta": "Como uma comunidade que anuncia Jesus como Salvador pode ser também um espaço seguro de escuta, encaminhamento e cuidado responsável?"
+        },
+        {
+          "abrangencia": "Mundo",
+          "titulo": "International Youth Day 2026: Different Contexts, Common Aspirations",
+          "veiculo": "United Nations — UN DESA",
+          "data": "2026-08-12",
+          "url": "https://social.desa.un.org/issues/youth/news/international-youth-day-2026-different-contexts-common-aspirations",
+          "conexao": "A ONU destaca aspirações comuns dos jovens por dignidade, participação, oportunidade, educação e futuro sustentável. O estudo pode usar esse cenário para distinguir objetivos legítimos de vida da afirmação especificamente cristã de salvação em Jesus.",
+          "dilema": "Conquistas, oportunidades e participação social são importantes, mas nenhuma delas responde exatamente à mesma pergunta que a Carta faz sobre pecado, fé, vida eterna e reconciliação com Deus.",
+          "pergunta": "Quais esperanças depositamos em estudo, carreira, reconhecimento ou projetos de futuro — e em que sentido a salvação apresentada na Carta é uma questão diferente?"
+        }
+      ],
       "situacoes_cotidianas": [
         {
           "contexto": "Redes sociais e pluralismo religioso",
@@ -358,13 +424,14 @@
         "titulo": "Culto de Celebração - PIBJC | 02 08 2026 | 18h30 | Centro de Celebrações",
         "pregador": "Aguardando conciliação",
         "url": "https://www.youtube.com/watch?v=zzOa_O2vxVM",
-        "inicio_segundos": null,
+        "inicio_segundos": 4333,
         "video_id": "zzOa_O2vxVM",
         "inicio_live": "2026-08-02T21:26:17Z",
         "fim_live": "2026-08-02T23:33:41Z",
         "detectado_em": "2026-08-12T21:09:28-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação oficial detectada automaticamente. O início da mensagem será detectado pela rotina homologada."
+        "observacao": "Gravação oficial detectada automaticamente. O início da mensagem será detectado pela rotina homologada.",
+        "fim_segundos": 6628
       },
       "carta": {
         "arquivo": "Carta Célula 26 - 02 08 2026.pdf",
@@ -379,8 +446,25 @@
         "arquivo_app": "assets/cartas/carta_2026-08-02.pdf"
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-08-02.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-08-02.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "zzOa_O2vxVM",
+        "inicio_segundos": 4333,
+        "fim_segundos": 6628,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 298,
+        "caracteres": 27961,
+        "primeiro_segmento_segundos": 4333.0,
+        "ultimo_segmento_segundos": 6616.0,
+        "sha256": "64b14cb86f8e1cf8b340373431441934ea5ef26adf307c077278d438eb86d659",
+        "gerada_em": "2026-08-13T07:12:51"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -390,12 +474,51 @@
         "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
       "oficial": {
-        "ideias_centrais": [],
-        "perguntas": [],
-        "musicas": [
-          "Aclame ao Senhor (DT) • Seja Exaltado, engrandecido (Jesus filho de Deus) • Eu & Minha Casa (Julliany Souza)"
+        "ideias_centrais": [
+          "Todos nós somos pecadores.",
+          "O pecado nos aprisiona e nos separa de Deus.",
+          "Jesus é a luz que veio ao mundo para nos tirar da escuridão do pecado.",
+          "Precisamos da luz de Jesus para entender tudo aquilo que fazemos que desagrada a Deus e que necessita de arrependimento e mudança."
         ],
-        "desafio": null
+        "perguntas": [
+          "Em sua opinião, por que é importante conhecermos a verdade?",
+          "Segundo João 12.35, o que acontece com quem anda nas trevas, na escuridão?",
+          "Segundo Jesus no texto de João 3.19, o que os homens amaram mais?",
+          "Quem pratica coisas erradas não gosta de ir para a luz. Por quê? Encontre a resposta em João 3.20.",
+          "Todos nós erramos e precisamos mudar. Não existe ninguém perfeito neste mundo. Segundo João 8.24, o que acontece com as pessoas que não creem em Jesus?",
+          "Leia João 2.25 e responda: por que Jesus tem autoridade para dizer a verdade sobre quem somos e sobre o que precisamos mudar?",
+          "Quando a luz de Jesus nos mostra que somos pecadores, isso pode nos causar tristeza. Mas o objetivo dele não é nos envergonhar e nos deixar de lado. Quando Jesus nos ilumina com a sua luz, o que ele deseja que aconteça? A resposta está em João 12.46.",
+          "Em João 8.12, mais uma vez Jesus Cristo é claro sobre o que acontece com quem decide segui-lo. O que acontecerá conosco se andarmos na luz de Jesus?",
+          "Olhe para o mundo ao seu redor. As coisas não vão nada bem, não é mesmo? Quais os erros que você enxerga na sociedade e que deveriam ser diferentes?",
+          "O que você reconhece que precisa mudar em sua vida?"
+        ],
+        "musicas": [
+          {
+            "titulo": "Aclame ao Senhor",
+            "interprete": "Diante do Trono",
+            "url_oficial": "https://www.youtube.com/watch?v=U4l40DvaeGw",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA",
+            "fonte_titulo": "Aclame ao Senhor (DT)"
+          },
+          {
+            "titulo": "Jesus, Filho de Deus",
+            "interprete": "Fernandinho",
+            "url_oficial": "https://www.youtube.com/watch?v=mvKNu6mDHZQ",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA",
+            "fonte_titulo": "Seja Exaltado, engrandecido (Jesus filho de Deus)"
+          },
+          {
+            "titulo": "Eu & Minha Casa",
+            "interprete": "Julliany Souza",
+            "url_oficial": "https://www.youtube.com/watch?v=Rxzi3DSBs6Q",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA",
+            "fonte_titulo": "Eu & Minha Casa (Julliany Souza)"
+          }
+        ],
+        "desafio": "Intensifique com a sua Célula a oração pelos “RI’s”! •Cadastre durante essa semana os RI’s dos integrantes da sua Célula. •Faça um momento especial pelos Relacionamentos intencionais! •Lembre-se de realizar a dinâmica da cadeira vazia, colocando nela os nomes dos “RI's”. Que essa cadeira represente as pessoas pelas quais estamos orando, servindo e crendo que, em breve, estarão conosco, rendidas aos pés de Cristo."
       },
       "preliminar": {},
       "referencias_biblicas": [
@@ -421,9 +544,60 @@
           "youversion_ref": "https://www.bible.com/bible/129/PSA.119.105"
         }
       ],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
+      "filmes_series": [
+        {
+          "tipo": "Série",
+          "titulo": "The Chosen — Temporada 1, Episódio 7: Invitations",
+          "conexao": "O episódio apresenta o encontro de Nicodemos com Jesus à noite. A cena ajuda a discutir João 3 e o contraste entre escuridão, verdade, fé e nova vida, sem substituir a leitura bíblica.",
+          "como_usar": "Use apenas o trecho do diálogo entre Jesus e Nicodemos e, em seguida, volte ao texto bíblico para comparar o que a série dramatiza com o que João efetivamente registra.",
+          "pergunta": "O que muda quando deixamos de apenas admirar Jesus e permitimos que a verdade dele confronte e direcione nossa vida?",
+          "url_oficial": "https://watch.thechosen.tv/video/184683594340",
+          "url_clipe": "https://www.youtube.com/watch?v=Kb9Ey7_6pMU",
+          "incorporar_clipe": false
+        },
+        {
+          "tipo": "Filme/animação",
+          "titulo": "O Peregrino (The Pilgrim's Progress, 2019)",
+          "conexao": "A alegoria acompanha uma jornada marcada por escolhas, atalhos, enganos e perseverança. É uma ponte útil para conversar sobre direção espiritual e sobre quem ilumina o caminho.",
+          "como_usar": "Apresente a sinopse ou um trecho curto e peça ao grupo que identifique quais vozes ajudam o personagem a seguir o caminho e quais tentam desviá-lo.",
+          "pergunta": "Quais atalhos parecem atraentes hoje, mas podem nos afastar da luz e da verdade de Cristo?",
+          "url_oficial": "https://www.visionvideo.com/dvd/501844D/the-pilgrims-progress-feature",
+          "url_clipe": null,
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "O Peregrino",
+          "autor": "John Bunyan",
+          "conexao": "A obra alegórica acompanha uma caminhada de fé, discernimento, tentações e perseverança rumo à Cidade Celestial.",
+          "como_usar": "Leia o início da obra ou um episódio da jornada para discutir obstáculos, companhias e decisões no caminho cristão.",
+          "pergunta": "Quais influências ajudam ou dificultam nossa caminhada com Cristo?",
+          "url_trecho": null,
+          "url_pdf_legal": "https://archive.org/details/bunian-o-peregrino",
+          "url_audio_legal": null,
+          "url_editora": null,
+          "nota_acesso": "Foi localizada uma edição em português disponibilizada no Internet Archive; o acesso deve ser usado como referência complementar à Carta e à Bíblia."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "João 1–12 — Visão geral do Evangelho de João",
+          "fonte": "BibleProject",
+          "url": "https://bibleproject.com/videos/john-1-12/",
+          "conexao": "O vídeo apresenta o movimento narrativo de João 1–12 e destaca Jesus como fonte de vida e luz.",
+          "como_usar": "Use a visão geral antes ou depois da leitura para localizar João 12:46 dentro do argumento maior do Evangelho.",
+          "pergunta": "Como João apresenta Jesus não apenas como alguém que mostra a luz, mas como aquele em quem vida e luz se encontram?"
+        },
+        {
+          "titulo": "João 8 — contexto da declaração sobre a luz",
+          "fonte": "BibleProject",
+          "url": "https://bibleproject.com/bible/niv/john/8/",
+          "conexao": "O recurso permite observar o contexto de João 8, incluindo verdade, liberdade e a declaração de Jesus como luz do mundo.",
+          "como_usar": "Leia o contexto e compare João 8:12 com João 12:46, observando o que significa seguir Jesus e não permanecer nas trevas.",
+          "pergunta": "Que relação João estabelece entre luz, verdade, liberdade e seguir Jesus?"
+        }
+      ],
       "musicas_complementares": [
         {
           "titulo": "Aclame ao Senhor",
@@ -453,7 +627,18 @@
           "motivo": "O vídeo está publicado no canal oficial de Julliany Souza."
         }
       ],
-      "atualidade": [],
+      "atualidade": [
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Usina solar em comunidade de Niterói gera energia para 19 creches",
+          "veiculo": "Agência Brasil / Escola Politécnica da UFRJ",
+          "data": "2026-07-08",
+          "url": "https://poli.ufrj.br/imprensa/usina-solar-em-comunidade-de-niteroi-gera-energia-para-19-creches/",
+          "conexao": "A notícia oferece uma conexão concreta com a imagem da luz: energia solar é transformada em benefício coletivo para equipamentos públicos. A relação é apenas temática; não é conteúdo da pregação.",
+          "dilema": "Ter acesso à luz física e a soluções tecnológicas melhora a vida coletiva, mas não responde sozinho às questões de direção, verdade e transformação interior levantadas pelo estudo.",
+          "pergunta": "Que diferença existe entre receber recursos que melhoram nosso caminho e permitir que a luz de Cristo oriente nossas escolhas?"
+        }
+      ],
       "situacoes_cotidianas": [
         {
           "contexto": "Decisão profissional ou acadêmica",
@@ -2306,7 +2491,14 @@
           "Em qual área da sua vida Jesus está chamando você para se levantar e voltar ao seu propósito?",
           "Assim como a sogra de Pedro foi colocada de pé para servir, qual é o próximo passo de fé, serviço ou obediência que Deus está lhe convidando a dar?"
         ],
-        "perguntas": [],
+        "perguntas": [
+          "Existe alguma área da sua vida que ainda está com a porta fechada para Jesus?",
+          "O que você precisa apresentar a Cristo hoje para que Ele entre, toque essa situação e manifeste o Seu poder?",
+          "Você tem conseguido diferenciar sua identidade da sua condição?",
+          "Existe alguma luta, sentimento ou circunstância que tem tentado definir quem você é, em vez de permitir que sua identidade seja definida por Cristo?",
+          "Em qual área da sua vida Jesus está chamando você para se levantar e voltar ao seu propósito?",
+          "Assim como a sogra de Pedro foi colocada de pé para servir, qual é o próximo passo de fé, serviço ou obediência que Deus está lhe convidando a dar?"
+        ],
         "musicas": [
           {
             "titulo": "Grato sou –",
