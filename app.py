@@ -550,6 +550,26 @@ def resolver_arquivo_local(bloco):
     return None
 
 
+def url_carta_estatica(carta, caminho=None):
+    """Retorna a URL pública da cópia estática canônica da Carta."""
+
+    carta = carta or {}
+    arquivo_app = carta.get("arquivo_app")
+
+    if arquivo_app:
+        nome = Path(arquivo_app).name
+    elif caminho:
+        nome = Path(caminho).name
+    else:
+        return None
+
+    destino = APP_DIR / "static" / "cartas" / nome
+
+    if not destino.is_file():
+        return None
+
+    return f"app/static/cartas/{nome}"
+
 
 
 
@@ -593,19 +613,33 @@ def render_carta(carta):
 
     if caminho:
 
-        dados = caminho.read_bytes()
+        url_estatica = url_carta_estatica(carta, caminho)
 
-        st.download_button(
+        if url_estatica:
 
-            "📄 Abrir / baixar Carta da Célula (PDF)",
+            st.link_button(
 
-            data=dados,
+                "📄 Abrir Carta da Célula em nova aba",
 
-            file_name=Path(arquivo_exibicao).name,
+                url_estatica,
 
-            mime="application/pdf",
+            )
 
-        )
+            st.caption(
+
+                "A Carta abre em uma nova aba para manter este aplicativo aberto."
+
+            )
+
+        else:
+
+            st.warning(
+
+                "A cópia estática da Carta não foi encontrada. "
+
+                "Reexecute a sincronização de arquivos públicos antes de disponibilizar o app."
+
+            )
 
         if carta.get("arquivo_fonte") and not carta.get("arquivo_app"):
 
@@ -1671,17 +1705,35 @@ def render_fonte_oficial_semana(estudo, carta_ok, transcricao_ok, mensagem_ok):
 
                 if caminho:
 
-                    st.download_button(
+                    url_estatica = url_carta_estatica(carta, caminho)
 
-                        "📄 Abrir / baixar Carta",
+                    if url_estatica:
 
-                        data=caminho.read_bytes(),
+                        st.link_button(
 
-                        file_name=Path(nome_carta).name,
+                            "📄 Abrir Carta em nova aba",
 
-                        mime="application/pdf",
+                            url_estatica,
 
-                    )
+                            use_container_width=False,
+
+                        )
+
+                        st.caption(
+
+                            "A Carta abre em uma nova aba para manter este aplicativo aberto."
+
+                        )
+
+                    else:
+
+                        st.warning(
+
+                            "A cópia estática da Carta não foi encontrada. "
+
+                            "Reexecute a sincronização de arquivos públicos antes de disponibilizar o app."
+
+                        )
 
                     if carta.get("arquivo_fonte") and not carta.get("arquivo_app"):
 
