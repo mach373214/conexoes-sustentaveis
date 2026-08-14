@@ -411,6 +411,19 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 0,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "INFjcObzVOk",
+        "url": "https://www.youtube.com/watch?v=INFjcObzVOk",
+        "inicio_segundos": 788,
+        "fim_segundos": 1035,
+        "origem": "mesmo vídeo oficial da semana",
+        "metodo_deteccao": "178_DETECTAR_AVISOS_SEMANA_V1_0_0",
+        "confianca": 0.98,
+        "validacao_visual": "confirmada",
+        "revisado": true,
+        "transcricao_persistida": false
       }
     },
     {

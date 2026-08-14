@@ -1530,7 +1530,8 @@ def render_fonte_oficial_semana(estudo, carta_ok, transcricao_ok, mensagem_ok):
 
     transcricao = estudo.get("transcricao") or {}
 
-    mensagem = estudo.get("mensagem") or {}
+    mensagem = estudo.get("mensagem") or {}
+    avisos_semana = estudo.get("avisos_semana") or {}
 
     nucleo_oficial = estudo.get("oficial") or {}
 
@@ -1550,6 +1551,73 @@ def render_fonte_oficial_semana(estudo, carta_ok, transcricao_ok, mensagem_ok):
 
 
 
+    with st.expander("📢 Avisos da Semana"):
+        if avisos_semana.get("status") == "disponivel":
+            tag("oficial", "FONTE OFICIAL")
+            st.caption(
+                "Comunicados oficiais apresentados no mesmo vídeo do culto desta semana. "
+                "Este recurso exibe somente o trecho em vídeo, sem transcrição."
+            )
+
+            url_avisos_base = url_youtube_canonica(
+                avisos_semana.get("url") or mensagem.get("url"),
+                avisos_semana.get("video_id") or mensagem.get("video_id"),
+            )
+
+            try:
+                inicio_avisos = int(avisos_semana.get("inicio_segundos") or 0)
+            except (TypeError, ValueError):
+                inicio_avisos = 0
+
+            try:
+                fim_avisos = int(avisos_semana.get("fim_segundos") or 0)
+            except (TypeError, ValueError):
+                fim_avisos = 0
+
+            intervalo_avisos_valido = (
+                bool(url_avisos_base)
+                and inicio_avisos >= 0
+                and fim_avisos > inicio_avisos
+            )
+
+            if intervalo_avisos_valido:
+                inicio_avisos_formatado = formatar_segundos(inicio_avisos)
+                fim_avisos_formatado = formatar_segundos(fim_avisos)
+                if inicio_avisos_formatado and fim_avisos_formatado:
+                    st.caption(
+                        f"Trecho dos avisos: {inicio_avisos_formatado} "
+                        f"até {fim_avisos_formatado}."
+                    )
+
+                try:
+                    st.video(
+                        url_avisos_base,
+                        start_time=inicio_avisos,
+                        end_time=fim_avisos,
+                    )
+                except Exception:
+                    st.caption(
+                        "Não foi possível incorporar este trecho no navegador; "
+                        "use o botão abaixo."
+                    )
+
+                url_avisos_direta = adicionar_inicio_youtube(
+                    url_avisos_base,
+                    inicio_avisos,
+                )
+                st.link_button(
+                    "📢 Abrir avisos no vídeo oficial",
+                    url_avisos_direta,
+                    use_container_width=False,
+                )
+            else:
+                st.warning(
+                    "Os Avisos da Semana estão registrados, mas o intervalo "
+                    "do vídeo precisa ser revisado."
+                )
+        else:
+            st.info("⏳ Avisos da Semana ainda não identificados para esta semana.")
+
     with st.expander("🎥 Mensagem"):
 
         if mensagem_ok:
