@@ -1,9 +1,9 @@
 {
   "versao": "04E.1",
-  "gerado_em": "2026-08-13T22:39:57",
+  "gerado_em": "2026-08-14T00:37:15",
   "finalidade": "snapshot_publicavel_autocontido_do_mvp",
   "fonte_operacional": {
-    "app_sha256": "83f8b1e2c45edf567781b343043776dff547e93738e99dd725e24a17e6c226fd",
+    "app_sha256": "924b47a95deb308bb93e2c28a7083e78ab30a1da14411a6c2db7e9fac396461d",
     "estudos_sha256": "7c480c151333009de1a07f17c497f9443f835da0f50ae15dacbc05ae20b8b410",
     "orquestrador_28_sha256": "910551e10e25144dc4619006e1bb75d060b7fa8c71c624e09ca720fb770e934d",
     "reconciliador_34_sha256": "65e57fa7ba0b0f79e147e28cbca099ac6e39e95d3db73c8c051d5c524c2e38f9",
@@ -184,14 +184,14 @@
       {
         "tipo": "imagem",
         "arquivo_publico": "assets/guia/Guia_Visual_App_Conexoes_Sustentaveis.png",
-        "sha256": "fe58476d21dc3df6c0925dc30ab2bc6837fa7db4a374adf26bbeb518530ee43f",
-        "tamanho_bytes": 1874126
+        "sha256": "ba48e60b0f5bacc7d443706c8601988088b50c3ed9a745b91f542aaab45b81db",
+        "tamanho_bytes": 825752
       },
       {
         "tipo": "guia_visual",
         "arquivo_publico": "assets/guia/Guia_Visual_App_Conexoes_Sustentaveis.pdf",
-        "sha256": "6b9f390e29f73712ad4881eb8d91a573f8500b2394d54685296d7822bbe76131",
-        "tamanho_bytes": 2490185
+        "sha256": "4d28c6c4130a944dfe023133d0b364b53fd3a89bfd93a27c7f5315036d375b32",
+        "tamanho_bytes": 14599
       },
       {
         "tipo": "carta_estatica",
@@ -304,8 +304,8 @@
     },
     {
       "arquivo": "app.py",
-      "sha256": "83f8b1e2c45edf567781b343043776dff547e93738e99dd725e24a17e6c226fd",
-      "tamanho_bytes": 49248
+      "sha256": "924b47a95deb308bb93e2c28a7083e78ab30a1da14411a6c2db7e9fac396461d",
+      "tamanho_bytes": 54962
     },
     {
       "arquivo": "assets/cartas/carta_2026-02-15.pdf",
@@ -369,13 +369,13 @@
     },
     {
       "arquivo": "assets/guia/Guia_Visual_App_Conexoes_Sustentaveis.pdf",
-      "sha256": "6b9f390e29f73712ad4881eb8d91a573f8500b2394d54685296d7822bbe76131",
-      "tamanho_bytes": 2490185
+      "sha256": "4d28c6c4130a944dfe023133d0b364b53fd3a89bfd93a27c7f5315036d375b32",
+      "tamanho_bytes": 14599
     },
     {
       "arquivo": "assets/guia/Guia_Visual_App_Conexoes_Sustentaveis.png",
-      "sha256": "fe58476d21dc3df6c0925dc30ab2bc6837fa7db4a374adf26bbeb518530ee43f",
-      "tamanho_bytes": 1874126
+      "sha256": "ba48e60b0f5bacc7d443706c8601988088b50c3ed9a745b91f542aaab45b81db",
+      "tamanho_bytes": 825752
     },
     {
       "arquivo": "assets/transcricoes/transcricao_2026-02-15.txt",
