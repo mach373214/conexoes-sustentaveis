@@ -1,10 +1,10 @@
 {
   "versao": "04E.1",
-  "gerado_em": "2026-08-14T14:09:45",
+  "gerado_em": "2026-08-15T09:11:31",
   "finalidade": "snapshot_publicavel_autocontido_do_mvp",
   "fonte_operacional": {
     "app_sha256": "932565b7e6557976595471a4c351968af3896a4323501f5361f98ed363f3de33",
-    "estudos_sha256": "44da1d11d4e4c13bed3c8b037d9615b4fcb5d01d8aaf669fd1fd6791d04812b0",
+    "estudos_sha256": "15d6cb2d267d442f4a9e804ca40b0822cd7aef8d41c41790bd85654e5766a4f6",
     "orquestrador_28_sha256": "910551e10e25144dc4619006e1bb75d060b7fa8c71c624e09ca720fb770e934d",
     "reconciliador_34_sha256": "65e57fa7ba0b0f79e147e28cbca099ac6e39e95d3db73c8c051d5c524c2e38f9",
     "monitor_37_sha256": "fa1374257113ba8d3524b41e246b635ad9898322604d470122824f6c1332d8e6",
@@ -439,8 +439,8 @@
     },
     {
       "arquivo": "data/estudos.json",
-      "sha256": "4c21d77c477e66392309b263f44445d07745f6d917d872ad07b8dbbaf9299066",
-      "tamanho_bytes": 323429
+      "sha256": "3e8143fb3ca30947868b4d443ee4aacf30e5b2448452a95525b05c43902f2aa3",
+      "tamanho_bytes": 331524
     },
     {
       "arquivo": "README.md",

@@ -758,6 +758,23 @@
         "regra": "somente_placeholder_candidato_da_carta",
         "requer_reenriquecimento_04D_4_2": false,
         "reenriquecimento_concluido_em": "2026-08-12T21:11:20"
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "BtO9xL1qc5E",
+        "url": "https://www.youtube.com/watch?v=BtO9xL1qc5E",
+        "inicio_segundos": 0,
+        "fim_segundos": 394,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 02.08.26",
+        "data_publicacao": "2026-08-02",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T07:29:37"
       }
     },
     {
@@ -1178,6 +1195,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 0,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "inbeaTlcRt0",
+        "url": "https://www.youtube.com/watch?v=inbeaTlcRt0",
+        "inicio_segundos": 0,
+        "fim_segundos": 310,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 05.07.26",
+        "data_publicacao": "2026-07-05",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -1590,6 +1624,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 0,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "wsL-g-dCEwg",
+        "url": "https://www.youtube.com/watch?v=wsL-g-dCEwg",
+        "inicio_segundos": 0,
+        "fim_segundos": 343,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 28.06.26",
+        "data_publicacao": "2026-06-28",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -2015,6 +2066,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 1,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "AfQR3jWLq_4",
+        "url": "https://www.youtube.com/watch?v=AfQR3jWLq_4",
+        "inicio_segundos": 0,
+        "fim_segundos": 254,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 14.06.26",
+        "data_publicacao": "2026-06-14",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -2418,6 +2486,21 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 1,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "6mTJuD53v2w",
+        "url": "https://www.youtube.com/watch?v=6mTJuD53v2w",
+        "inicio_segundos": 821,
+        "fim_segundos": 1096,
+        "origem": "culto_oficial_mesmo_video",
+        "rota": "fallback_audio_local_validado_humanamente",
+        "metodo_deteccao": "188_DETECTAR_AVISOS_AUDIO_LOCAL_UNIVERSAL_V1_0_0",
+        "confianca_deteccao": 0.96,
+        "validacao_visual": "confirmada",
+        "revisado": true,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T09:10:05"
       }
     },
     {
@@ -2820,6 +2903,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 1,
         "qtd_atualidade_links_utilizaveis": 2
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "VUr4EmsbXnk",
+        "url": "https://www.youtube.com/watch?v=VUr4EmsbXnk",
+        "inicio_segundos": 0,
+        "fim_segundos": 344,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 31.05.26",
+        "data_publicacao": "2026-05-31",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -3184,6 +3284,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 0,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "NHbKwEvR_JY",
+        "url": "https://www.youtube.com/watch?v=NHbKwEvR_JY",
+        "inicio_segundos": 0,
+        "fim_segundos": 346,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 05.04.26",
+        "data_publicacao": "2026-04-05",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -3592,6 +3709,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 1,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "g4eyVwlkcdw",
+        "url": "https://www.youtube.com/watch?v=g4eyVwlkcdw",
+        "inicio_segundos": 0,
+        "fim_segundos": 280,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 08.03.26",
+        "data_publicacao": "2026-03-08",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -3997,6 +4131,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 0,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "0eHR0cMcJtU",
+        "url": "https://www.youtube.com/watch?v=0eHR0cMcJtU",
+        "inicio_segundos": 0,
+        "fim_segundos": 352,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 01.03.26",
+        "data_publicacao": "2026-03-01",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -4389,6 +4540,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 0,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "OKHIrJ7iN2g",
+        "url": "https://www.youtube.com/watch?v=OKHIrJ7iN2g",
+        "inicio_segundos": 0,
+        "fim_segundos": 226,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 22.02.26",
+        "data_publicacao": "2026-02-22",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     },
     {
@@ -4792,6 +4960,23 @@
         "musicas_complementares_sem_link_direto": 0,
         "qtd_atualidade_links_preservados_rede": 0,
         "qtd_atualidade_links_utilizaveis": 3
+      },
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "ed-7JEbioaA",
+        "url": "https://www.youtube.com/watch?v=ed-7JEbioaA",
+        "inicio_segundos": 0,
+        "fim_segundos": 218,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 15.02.26",
+        "data_publicacao": "2026-02-15",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-15T08:53:12"
       }
     }
   ]
