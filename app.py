@@ -1,4 +1,4 @@
-# LAYOUT_MOBILE_IDOSOS_V1_0_5 — candidata visual; regras de negócio preservadas.
+# LAYOUT_MOBILE_IDOSOS_V1_0_6 — histórico isolado; base V1.0.5 preservada.
 from pathlib import Path
 
 
@@ -4064,6 +4064,37 @@ if "nav_mobile_idosos" not in st.session_state:
 
 estudo = opcoes[st.session_state.estudo_selecionado_rotulo]
 
+# V1.0.6 — HISTÓRICO ISOLADO
+# A tela de Estudos anteriores é um contexto de navegação independente:
+# não mostra tema, texto bíblico, período, status das fontes nem ações do estudo.
+nav_mode = st.session_state.get("nav_mobile_idosos", "inicio")
+
+if nav_mode == "historico":
+    st.markdown("### 📅 Estudos anteriores")
+    rotulos = list(opcoes.keys())
+    atual = st.session_state.estudo_selecionado_rotulo
+    indice_atual = rotulos.index(atual) if atual in rotulos else 0
+
+    novo_rotulo = st.selectbox(
+        "Escolha a semana:",
+        options=rotulos,
+        index=indice_atual,
+        help="A semana atual continua aparecendo primeiro.",
+        key="historico_mobile_idosos",
+    )
+
+    if novo_rotulo != st.session_state.estudo_selecionado_rotulo:
+        st.session_state.estudo_selecionado_rotulo = novo_rotulo
+        st.session_state.nav_mobile_idosos = "inicio"
+        st.rerun()
+
+    if st.button("←  VOLTAR AO INÍCIO", key="voltar_historico", use_container_width=True):
+        st.session_state.nav_mobile_idosos = "inicio"
+        st.rerun()
+
+    st.stop()
+
+
 
 
 
@@ -4174,8 +4205,6 @@ carta_ok, transcricao_ok, mensagem_ok = avaliar_estado_fontes(estudo)
 
 
 
-nav_mode = st.session_state.get("nav_mobile_idosos", "inicio")
-
 st.markdown('<div class="mobile-nav-title">O que você quer fazer?</div>', unsafe_allow_html=True)
 st.markdown(
     '<div class="mobile-nav-help">Toque em uma opção. Você pode voltar ao início a qualquer momento.</div>',
@@ -4231,30 +4260,6 @@ if nav_mode == "inicio":
     st.caption("Conexões Sustentáveis • Extensão II • Conteúdo complementar sujeito a revisão humana.")
     st.stop()
 
-if nav_mode == "historico":
-    st.markdown("### 📅 Estudos anteriores")
-    rotulos = list(opcoes.keys())
-    atual = st.session_state.estudo_selecionado_rotulo
-    indice_atual = rotulos.index(atual) if atual in rotulos else 0
-
-    novo_rotulo = st.selectbox(
-        "Escolha a semana:",
-        options=rotulos,
-        index=indice_atual,
-        help="A semana atual continua aparecendo primeiro.",
-        key="historico_mobile_idosos",
-    )
-
-    if novo_rotulo != st.session_state.estudo_selecionado_rotulo:
-        st.session_state.estudo_selecionado_rotulo = novo_rotulo
-        st.session_state.nav_mobile_idosos = "inicio"
-        st.rerun()
-
-    if st.button("←  VOLTAR AO INÍCIO", key="voltar_historico", use_container_width=True):
-        st.session_state.nav_mobile_idosos = "inicio"
-        st.rerun()
-
-    st.stop()
 
 if st.button("←  VOLTAR AO INÍCIO", key=f"voltar_{nav_mode}", use_container_width=True):
     st.session_state.nav_mobile_idosos = "inicio"
