@@ -1,6 +1,292 @@
 {
   "estudos": [
     {
+      "id": "2026-08-16",
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "O encontro com Jesus transforma a história da pessoa, trazendo perdão, a presença constante de Deus e um novo propósito de vida.",
+      "texto_principal": "Relato do encontro de Jesus com Natanael, incluindo o convite “venha e veja” e a promessa de que ele veria coisas maiores; a referência bíblica não é explicitada na transcrição.",
+      "texto_principal_youversion": null,
+      "periodo": "16 a 22 de agosto de 2026",
+      "mensagem": {
+        "titulo": "Culto de Celebração - PIBJC | 16 08 2026 | 18h30 | Centro de Celebrações",
+        "pregador": "Eli",
+        "url": "https://www.youtube.com/watch?v=dHX545i8uKk",
+        "video_id": "dHX545i8uKk",
+        "inicio_segundos": 6781,
+        "inicio_live": "2026-08-16T21:31:57Z",
+        "fim_live": "2026-08-16T23:47:21Z",
+        "detectado_em": "2026-08-17T05:01:58-03:00",
+        "origem": "YouTube Data API v3",
+        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição.",
+        "inicio_mensagem_status": "detectado_automaticamente",
+        "inicio_mensagem_detectado_em": "2026-08-17T15:11:11",
+        "inicio_mensagem_detector_versao": "04D.4.0",
+        "inicio_mensagem_detector_base": "04D.3.3.1",
+        "inicio_mensagem_confianca": 0.98,
+        "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
+        "inicio_mensagem_transicao": "A troca de palavra ocorreu antes do início da janela. O primeiro ponto operacional disponível é a fala do pregador às 01:53:01.",
+        "inicio_mensagem_motivo": "Este é o primeiro timestamp existente na janela em que o pregador principal já está falando continuamente como condutor da mensagem; portanto, é o primeiro segundo operacional possível para o player.",
+        "fim_segundos": 7933,
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.97,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-08-17T15:30:41"
+      },
+      "carta": {
+        "status": "aguardando",
+        "arquivo": null
+      },
+      "transcricao": {
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-08-16.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-08-16.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "dHX545i8uKk",
+        "inicio_segundos": 6781,
+        "fim_segundos": 7933,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 401,
+        "caracteres": 17432,
+        "primeiro_segmento_segundos": 6781.199,
+        "ultimo_segmento_segundos": 7932.52,
+        "sha256": "a25be8614af215d4f2b4fa8f43a965271bec18e5bc321343ead827a372c4dc64",
+        "gerada_em": "2026-08-17T15:11:11"
+      },
+      "versao_biblica": {
+        "status": "padrao_app",
+        "sigla": "NAA",
+        "nome": "Nova Almeida Atualizada",
+        "id_youversion": 1840,
+        "fonte": "Padrão do aplicativo"
+      },
+      "oficial": {},
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-08-17T15:30:41",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem afirma que Deus pode manifestar sua glória na vida daqueles que se aproximam dele, mas enfatiza que a transformação não depende de experiências extraordinárias. O pregador apresenta três resultados do encontro com Jesus: perdão dos pecados, presença de Deus em todos os momentos e propósito para a vida. A partir da história de Natanael, ele convida os ouvintes a aceitar Jesus como Salvador e Senhor, destacando que somente Cristo, por meio de sua morte e ressurreição, pode restaurar a relação com Deus. Em seguida, conduz uma oração de entrega e faz um apelo, no qual pessoas levantam as mãos e se dirigem à frente para receber oração.",
+        "ideias_centrais": [
+          "O encontro com Deus pode acontecer no cotidiano e não depende necessariamente de manifestações extraordinárias.",
+          "Quem se encontra com Jesus recebe o perdão dos pecados, a presença de Deus e um propósito para a vida.",
+          "A vida com Deus não promete apenas tempos bons, mas a companhia e o sustento do Senhor em meio às dificuldades.",
+          "A salvação é apresentada como resultado da obra de Cristo, e não de religião, esforço ou boas obras humanas.",
+          "O convite feito na mensagem é abrir o coração para Jesus e reconhecê-lo como Salvador e Senhor da própria história."
+        ],
+        "perguntas": [
+          "Quais são os três resultados do encontro com Jesus apresentados na mensagem?",
+          "Como a mensagem descreve a presença de Deus nos momentos de dificuldade?",
+          "Por que o pregador afirma que a salvação não depende de religião, esforço religioso ou boas obras?",
+          "O que significa, no contexto da mensagem, aceitar o convite de Jesus e abrir-lhe o coração?",
+          "Que novo propósito para a vida é associado ao encontro com Jesus?"
+        ],
+        "evidencias": [
+          "O pregador declara que três coisas acontecem na vida dos que se encontram com Jesus: “perdão”, “presença” e “propósito”.",
+          "A mensagem menciona Natanael e repete o convite “venha e veja”, além da promessa de que ele veria coisas maiores.",
+          "O apelo afirma que somente o sangue de Cristo pode mudar uma história e conduzir a pessoa de volta para Deus.",
+          "O pregador conduz uma oração na qual os ouvintes confessam o pecado, reconhecem a morte e ressurreição de Jesus e o convidam a entrar em sua vida.",
+          "Às 02:06:31, outro dirigente agradece ao pastor Eli e assume a condução da oração pelas pessoas que responderam ao apelo, indicando o encerramento da exposição e do apelo principal."
+        ],
+        "confianca_conteudo": 0.97,
+        "confianca_fim": 0.91,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "João 1:43-51",
+          "conexao": "Texto-base para a curadoria complementar: Filipe convida Natanael a “vir e ver”, Jesus o conhece pessoalmente e promete que ele verá coisas maiores. A referência foi inferida a partir da transcrição preliminar e deve ser confirmada na Carta oficial quando ela chegar. ([bible.com](https://www.bible.com/pt/bible/1930/JHN.1.43-51?utm_source=openai))",
+          "como_usar": "Leia o texto integralmente e peça ao grupo que observe a sequência: convite, encontro, reconhecimento de Jesus e abertura para um futuro maior.",
+          "pergunta": "O que muda em Natanael entre ouvir falar de Jesus, aproximar-se dele e reconhecê-lo como Filho de Deus?",
+          "youversion_ref": "https://www.bible.com/pt/bible/1930/JHN.1.43-51"
+        },
+        {
+          "referencia": "Efésios 2:8-9",
+          "conexao": "Aprofunda a afirmação preliminar de que a salvação é dom da graça, e não resultado de esforço religioso ou boas obras. ([bible.com](https://www.bible.com/pt-PT/bible/215/EPH.2.8-9?utm_source=openai))",
+          "como_usar": "Compare graça recebida com tentativa de merecer aceitação de Deus, evitando transformar a conversa em julgamento de pessoas ou tradições.",
+          "pergunta": "Quais formas de esforço ou desempenho costumamos confundir com uma relação de confiança em Deus?",
+          "youversion_ref": "https://www.bible.com/pt-PT/bible/215/EPH.2.8-9"
+        },
+        {
+          "referencia": "Romanos 8:38-39",
+          "conexao": "Relaciona-se à ideia de que a presença de Deus acompanha a pessoa também em períodos difíceis, sem prometer uma vida sem sofrimento. ([bible.com](https://www.bible.com/bible/1930/ROM.8.38-39?utm_source=openai))",
+          "como_usar": "Leia pausadamente e convide cada participante a identificar uma situação em que precisa lembrar que não está abandonado por Deus.",
+          "pergunta": "Como distinguir a presença de Deus da expectativa de que todas as circunstâncias se tornarão fáceis?",
+          "youversion_ref": "https://www.bible.com/bible/1930/ROM.8.38-39"
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "filme",
+          "titulo": "JESUS",
+          "conexao": "Filme oficial baseado no Evangelho de Lucas, útil para conversar sobre a vida, a morte, a ressurreição e o convite de Jesus a uma resposta pessoal de fé. Não é uma reprodução da mensagem do pregador. ([jesusfilm.org](https://www.jesusfilm.org/watch/jfm-collection.html/jesus/portuguese-brazil.html?utm_source=openai))",
+          "como_usar": "Exiba um trecho previamente selecionado, especialmente a parte sobre o convite para conhecer Jesus pessoalmente. Depois, diferencie experiência audiovisual, testemunho pessoal e texto bíblico.",
+          "pergunta": "Que respostas diferentes as pessoas dão a Jesus ao longo do filme, e com qual delas você mais se identifica hoje?",
+          "url_oficial": "https://www.jesusfilm.org/watch/jfm-collection.html/jesus/portuguese-brazil.html",
+          "url_clipe": null,
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "O Deus pródigo: Recuperando a essência da fé cristã",
+          "autor": "Timothy Keller",
+          "conexao": "A parábola do filho pródigo é apresentada como uma reflexão sobre graça, salvação, retorno ao Pai e a insuficiência tanto da rebeldia quanto do legalismo. Complementa a ênfase preliminar no perdão e na salvação pela obra de Cristo. ([vidanova.com.br](https://www.vidanova.com.br/livros/deus-prodigo-o-recuperando-a-essencia-da-fe-crista?utm_source=openai))",
+          "como_usar": "Utilize apenas o trecho legal da editora para uma leitura de 10 a 15 minutos. Em seguida, converse sobre as maneiras pelas quais alguém pode tentar afastar-se de Deus ou tentar merecer sua aceitação.",
+          "pergunta": "Em que sentido tanto a fuga quanto o moralismo podem esconder dificuldade de confiar na graça de Deus?",
+          "url_trecho": "https://institucional.vidanova.com.br/editora/wp-content/uploads/deus_prodigo_trecho.pdf",
+          "url_pdf_legal": null,
+          "url_audio_legal": "https://www.audible.com.br/pd/O-Deus-prodigo-Audiolivro/B0D9KRMCTX",
+          "url_editora": "https://www.vidanova.com.br/livros/deus-prodigo-o-recuperando-a-essencia-da-fe-crista",
+          "nota_acesso": "Foi encontrado trecho oficial em PDF no site da editora e audiolivro em português na Audible. O PDF é uma amostra legal, não o livro completo. ([vidanova.com.br](https://www.vidanova.com.br/livros/deus-prodigo-o-recuperando-a-essencia-da-fe-crista?utm_source=openai))"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "No Princípio",
+          "fonte": "Jesus Film Project",
+          "url": "https://www.jesusfilm.org/watch/family.html/the-beginning/portuguese-brazil.html",
+          "conexao": "Vídeo oficial de aproximadamente oito minutos que apresenta a ruptura da humanidade com Deus e a esperança de redenção em Jesus. Serve como recurso introdutório, sem ser apresentado como fala do pregador. ([jesusfilm.org](https://www.jesusfilm.org/watch/family.html/the-beginning/portuguese-brazil.html?utm_source=openai))",
+          "como_usar": "Exiba antes da discussão sobre perdão e reconciliação. Peça ao grupo para anotar uma palavra que descreva a mudança apresentada no vídeo.",
+          "pergunta": "Que tipo de transformação o vídeo apresenta: apenas mudança de comportamento ou restauração de relacionamento? Explique."
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Aquieta Minh'alma",
+          "interprete": "Ministério Zoe",
+          "conexao": "Canção oficial que aborda proximidade com Deus, confiança e sua companhia em meio às dificuldades, dialogando com o tema da presença constante sem reproduzir a mensagem da fonte. ([youtube.com](https://www.youtube.com/watch?v=ANfpF0pNob4&utm_source=openai))",
+          "pergunta": "O que significa aproximar-se de Deus quando as emoções ainda estão agitadas?",
+          "url_oficial": "https://www.youtube.com/watch?v=ANfpF0pNob4",
+          "decisao": "usar",
+          "motivo": "A letra e o tema musical favorecem uma oração reflexiva sobre presença, confiança e perseverança; não é necessário reproduzir a letra."
+        }
+      ],
+      "atualidade": [
+        {
+          "abrangencia": "local/regional — Vitória e Grande Vitória",
+          "titulo": "Voluntário social: mãe transforma solidariedade em ação",
+          "veiculo": "TV Brasil / TVE Espírito Santo",
+          "data": "2026-07-07",
+          "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/07/voluntario-social-mae-transforma-solidariedade-em-acao",
+          "conexao": "A reportagem mostra uma pessoa transformando convicções e disponibilidade em cuidado concreto de famílias. Pode ajudar o grupo a discutir como um novo propósito se expressa em ações responsáveis no cotidiano, sem afirmar que a reportagem comprova a mensagem religiosa. ([tvbrasil.ebc.com.br](https://tvbrasil.ebc.com.br/reporter-brasil/2026/07/voluntario-social-mae-transforma-solidariedade-em-acao?utm_source=openai))",
+          "dilema": "Como evitar que propósito seja apenas discurso pessoal e se torne serviço efetivo, sustentável e respeitoso às necessidades reais das pessoas?",
+          "pergunta": "Que pequena ação de cuidado ou serviço poderia ser iniciada pelo grupo sem criar dependência, exposição indevida ou promessas que não possa cumprir?"
+        }
+      ],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Vida profissional e acadêmica",
+          "titulo": "Quando a identidade fica presa ao desempenho",
+          "situacao": "Uma pessoa acredita que só merece respeito quando alcança boas notas, reconhecimento ou sucesso. Ao fracassar, sente que perdeu seu valor e se distancia de todos.",
+          "pergunta": "Como conversar sobre valor, graça e responsabilidade sem incentivar passividade ou negar a importância do esforço?"
+        },
+        {
+          "contexto": "Relacionamentos",
+          "titulo": "Perdão sem negar o dano",
+          "situacao": "Alguém deseja recomeçar depois de uma ofensa, mas ainda precisa estabelecer limites e reconhecer que a confiança pode levar tempo para ser reconstruída.",
+          "pergunta": "Como diferenciar perdão, reconciliação imediata, confiança e proteção contra novos danos?"
+        },
+        {
+          "contexto": "Dificuldades pessoais",
+          "titulo": "A presença de Deus quando nada parece extraordinário",
+          "situacao": "Uma pessoa ora por uma mudança urgente, mas continua enfrentando luto, ansiedade, desemprego ou conflitos familiares. Ela conclui que Deus a abandonou porque não teve uma experiência marcante.",
+          "pergunta": "Que sinais cotidianos de cuidado, comunidade e perseverança podem ser percebidos sem transformar sofrimento em culpa espiritual?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Venha e veja: leitura em quatro movimentos",
+          "duracao": "25 minutos",
+          "objetivo": "Ajudar o grupo a observar o encontro de Natanael com Jesus e relacioná-lo a convite, dúvida, reconhecimento e propósito.",
+          "materiais": "Bíblias, folhas e canetas.",
+          "passos": [
+            "Divida João 1:43-51 em quatro movimentos: o convite de Filipe; a dúvida de Natanael; a palavra de Jesus; a promessa de coisas maiores.",
+            "Forme pequenos grupos e peça que cada grupo identifique o que Natanael sabe, sente e decide em seu movimento.",
+            "Reúna todos e monte no quadro uma sequência com as palavras convite, encontro, resposta e caminho.",
+            "Peça que cada participante escreva uma resposta prática ao convite “venha e veja”, sem exigir exposição de experiências íntimas."
+          ],
+          "perguntas": [
+            "O que o texto afirma explicitamente e o que seria apenas uma interpretação nossa?",
+            "Como acolher dúvidas sem tratá-las automaticamente como falta de fé?",
+            "Que próximo passo coerente com o texto poderia expressar abertura a Jesus?"
+          ]
+        },
+        {
+          "titulo": "Perdão, presença e propósito no cotidiano",
+          "duracao": "30 minutos",
+          "objetivo": "Traduzir os três eixos identificados na análise preliminar em práticas concretas, sem apresentar a dinâmica como conteúdo proferido pelo pregador.",
+          "materiais": "Três cartazes com as palavras perdão, presença e propósito; cartões de situações cotidianas.",
+          "passos": [
+            "Coloque os três cartazes em pontos diferentes da sala.",
+            "Leia situações como conflito familiar, fracasso profissional, solidão e oportunidade de servir.",
+            "Peça aos participantes que escolham o eixo mais diretamente relacionado à situação e expliquem sua escolha.",
+            "Conduza uma conversa sobre limites: perdão não elimina responsabilidade; presença não significa ausência de sofrimento; propósito não precisa ser grandioso ou público.",
+            "Finalize com cada pessoa escolhendo uma prática para a semana: pedir perdão, buscar apoio, acompanhar alguém ou servir de modo concreto."
+          ],
+          "perguntas": [
+            "Qual dos três eixos é mais difícil de perceber na sua realidade atual?",
+            "Que diferença existe entre propósito recebido e ambição pessoal?",
+            "Como a comunidade pode sustentar alguém que atravessa uma fase difícil?"
+          ]
+        }
+      ],
+      "sustentabilidade": {},
+      "perguntas_adicionais": [
+        {
+          "tipo": "leitura bíblica",
+          "pergunta": "A mensagem preliminar associa Natanael a uma transformação imediata. O que João 1:43-51 permite afirmar com segurança sobre ele, e o que permanece como aplicação pastoral?"
+        },
+        {
+          "tipo": "discernimento",
+          "pergunta": "Como falar de encontro com Jesus de modo acolhedor, sem pressionar pessoas a exporem sua história ou a reproduzirem uma experiência específica?"
+        },
+        {
+          "tipo": "aplicação",
+          "pergunta": "Que prática concreta pode expressar um novo propósito nesta semana: reconciliação responsável, cuidado de alguém, serviço comunitário ou perseverança em uma dificuldade?"
+        },
+        {
+          "tipo": "conciliação editorial",
+          "pergunta": "Quando a Carta oficial chegar, quais pontos da mensagem em vídeo precisam ser confirmados, ajustados ou substituídos?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Confirmar a referência bíblica oficial na Carta quando ela estiver disponível.",
+          "motivo": "A análise preliminar identifica Natanael, “venha e veja” e “coisas maiores” como elementos de João 1:43-51, mas a própria fonte informa que a referência não foi explicitada na transcrição."
+        },
+        {
+          "recurso": "Manter todos os recursos identificados como complementares.",
+          "motivo": "A fonte é uma MENSAGEM_VIDEO_PRELIMINAR; nenhum filme, livro, música, vídeo ou notícia deve ser apresentado como fala do pregador ou como núcleo oficial."
+        },
+        {
+          "recurso": "Trabalhar perdão, presença e propósito com responsabilidade pastoral.",
+          "motivo": "É importante não prometer ausência de sofrimento, não culpabilizar quem não relata experiências extraordinárias e não confundir perdão com tolerância a abuso."
+        }
+      ],
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "YqvsAiksxAg",
+        "url": "https://www.youtube.com/watch?v=YqvsAiksxAg",
+        "inicio_segundos": 0,
+        "fim_segundos": 315,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 16.08.26",
+        "data_publicacao": "2026-08-16",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-08-17T06:02:06"
+      }
+    },
+    {
       "id": "2026-08-09",
       "status": "carta_oficial_reconciliada",
       "tema": "Jesus, O Meu Único Salvador",
