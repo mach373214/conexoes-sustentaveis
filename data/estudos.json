@@ -17,7 +17,7 @@
         "fim_live": "2026-08-16T23:47:21Z",
         "detectado_em": "2026-08-17T05:01:58-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição.",
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 01:17:58.",
         "inicio_mensagem_status": "conciliado_texto_e_video_visual",
         "inicio_mensagem_detectado_em": "2026-08-18T06:22:15",
         "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
