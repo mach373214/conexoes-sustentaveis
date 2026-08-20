@@ -2,8 +2,8 @@
   "estudos": [
     {
       "id": "2026-08-16",
-      "status": "preliminar_mensagem_video_automatico",
-      "tema": "O encontro com Jesus transforma a história da pessoa, trazendo perdão, a presença constante de Deus e um novo propósito de vida.",
+      "status": "carta_oficial_reconciliada",
+      "tema": "Jesus, O Dono Da Minha Vida",
       "texto_principal": "João 1:35-51",
       "texto_principal_youversion": "JHN.1.35-51",
       "periodo": "16 a 22 de agosto de 2026",
@@ -83,8 +83,16 @@
         ]
       },
       "carta": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "CARTA CÉLULA 29 - 16 08 2026.pdf",
+        "origem": "Carta da Célula 29",
+        "hash_sha256": "1840d088e8460ea3a290fc6a22142831b3c297f4f68e84cca795172e0ad3a207",
+        "numero": 29,
+        "extracao_status": "automatico_pendente_revisao",
+        "origem_data": "periodo_pdf",
+        "data_documento": "2026-08-16",
+        "tema_extracao_status": "tema_explicito",
+        "arquivo_app": "assets/cartas/carta_2026-08-16.pdf"
       },
       "transcricao": {
         "status": "disponivel",
@@ -112,9 +120,16 @@
         "sigla": "NAA",
         "nome": "Nova Almeida Atualizada",
         "id_youversion": 1840,
-        "fonte": "Padrão do aplicativo"
+        "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
-      "oficial": {},
+      "oficial": {
+        "ideias_centrais": [],
+        "perguntas": [],
+        "musicas": [
+          "Firme nas Promessas (344 HCC) • Toda Terra (Gabriela Rocha) • Não Há Amor Igual (Morada)"
+        ],
+        "desafio": null
+      },
       "preliminar": {
         "status": "video_analisado_automaticamente_confiavel",
         "fonte": "mensagem_oficial_video",
@@ -148,174 +163,195 @@
       },
       "referencias_biblicas": [
         {
-          "referencia": "João 1:43-51",
-          "conexao": "Texto-base para a curadoria complementar: Filipe convida Natanael a “vir e ver”, Jesus o conhece pessoalmente e promete que ele verá coisas maiores. A referência foi inferida a partir da transcrição preliminar e deve ser confirmada na Carta oficial quando ela chegar. ([bible.com](https://www.bible.com/pt/bible/1930/JHN.1.43-51?utm_source=openai))",
-          "como_usar": "Leia o texto integralmente e peça ao grupo que observe a sequência: convite, encontro, reconhecimento de Jesus e abertura para um futuro maior.",
-          "pergunta": "O que muda em Natanael entre ouvir falar de Jesus, aproximar-se dele e reconhecê-lo como Filho de Deus?",
-          "youversion_ref": "https://www.bible.com/pt/bible/1930/JHN.1.43-51"
+          "referencia": "João 1:35-51",
+          "conexao": "Núcleo oficial da semana: Jesus chama pessoas concretas para segui-lo, revela quem é e transforma a vida de seus primeiros discípulos.",
+          "como_usar": "Ler o texto em voz alta e observar os movimentos do discipulado: ouvir o testemunho, seguir Jesus, permanecer com ele, anunciar aos outros e responder pessoalmente ao seu chamado.",
+          "pergunta": "Em quais áreas da minha vida ainda sigo outras referências antes de reconhecer Jesus como Senhor?",
+          "youversion_ref": "https://www.bible.com/bible/1608/JHN.1.ARA?parallel=50"
         },
         {
-          "referencia": "Efésios 2:8-9",
-          "conexao": "Aprofunda a afirmação preliminar de que a salvação é dom da graça, e não resultado de esforço religioso ou boas obras. ([bible.com](https://www.bible.com/pt-PT/bible/215/EPH.2.8-9?utm_source=openai))",
-          "como_usar": "Compare graça recebida com tentativa de merecer aceitação de Deus, evitando transformar a conversa em julgamento de pessoas ou tradições.",
-          "pergunta": "Quais formas de esforço ou desempenho costumamos confundir com uma relação de confiança em Deus?",
-          "youversion_ref": "https://www.bible.com/pt-PT/bible/215/EPH.2.8-9"
+          "referencia": "Lucas 9:23-24",
+          "conexao": "Relaciona o senhorio de Jesus com a renúncia diária e o compromisso de segui-lo.",
+          "como_usar": "Usar como texto paralelo para conversar sobre o custo e a prática de colocar a vida sob a direção de Cristo.",
+          "pergunta": "Que decisão concreta de renúncia e obediência Jesus está me convidando a assumir nesta semana?",
+          "youversion_ref": null
         },
         {
-          "referencia": "Romanos 8:38-39",
-          "conexao": "Relaciona-se à ideia de que a presença de Deus acompanha a pessoa também em períodos difíceis, sem prometer uma vida sem sofrimento. ([bible.com](https://www.bible.com/bible/1930/ROM.8.38-39?utm_source=openai))",
-          "como_usar": "Leia pausadamente e convide cada participante a identificar uma situação em que precisa lembrar que não está abandonado por Deus.",
-          "pergunta": "Como distinguir a presença de Deus da expectativa de que todas as circunstâncias se tornarão fáceis?",
-          "youversion_ref": "https://www.bible.com/bible/1930/ROM.8.38-39"
+          "referencia": "Gálatas 2:20",
+          "conexao": "Ajuda a compreender a identidade de quem já não vive centrado em si, mas em Cristo.",
+          "como_usar": "Propor um momento de oração pessoal, substituindo mentalmente áreas de autop controle pela confiança na presença de Jesus.",
+          "pergunta": "O que significa, na prática, dizer que Cristo vive em mim?",
+          "youversion_ref": null
         }
       ],
       "filmes_series": [
         {
           "tipo": "filme",
-          "titulo": "JESUS",
-          "conexao": "Filme oficial baseado no Evangelho de Lucas, útil para conversar sobre a vida, a morte, a ressurreição e o convite de Jesus a uma resposta pessoal de fé. Não é uma reprodução da mensagem do pregador. ([jesusfilm.org](https://www.jesusfilm.org/watch/jfm-collection.html/jesus/portuguese-brazil.html?utm_source=openai))",
-          "como_usar": "Exiba um trecho previamente selecionado, especialmente a parte sobre o convite para conhecer Jesus pessoalmente. Depois, diferencie experiência audiovisual, testemunho pessoal e texto bíblico.",
-          "pergunta": "Que respostas diferentes as pessoas dão a Jesus ao longo do filme, e com qual delas você mais se identifica hoje?",
-          "url_oficial": "https://www.jesusfilm.org/watch/jfm-collection.html/jesus/portuguese-brazil.html",
-          "url_clipe": null,
+          "titulo": "A Vida de Jesus",
+          "conexao": "Produção baseada no Evangelho de João, com capítulo específico sobre João 1, João Batista e os primeiros seguidores de Jesus.",
+          "como_usar": "Exibir somente o trecho correspondente a João 1, a partir de 00:51, e pedir que o grupo compare as cenas com João 1:35-51. Ressaltar que o filme é recurso complementar, não substituto do texto bíblico.",
+          "pergunta": "O que levou os primeiros discípulos a se aproximarem de Jesus e a apresentá-lo a outras pessoas?",
+          "url_oficial": "https://por.jesus.net/filmes-online-gratis/a-vida-de-jesus",
+          "url_clipe": "https://www.youtube.com/watch?v=XOZ8Zw9a718",
           "incorporar_clipe": false
         }
       ],
       "livros": [
         {
-          "titulo": "O Deus pródigo: Recuperando a essência da fé cristã",
-          "autor": "Timothy Keller",
-          "conexao": "A parábola do filho pródigo é apresentada como uma reflexão sobre graça, salvação, retorno ao Pai e a insuficiência tanto da rebeldia quanto do legalismo. Complementa a ênfase preliminar no perdão e na salvação pela obra de Cristo. ([vidanova.com.br](https://www.vidanova.com.br/livros/deus-prodigo-o-recuperando-a-essencia-da-fe-crista?utm_source=openai))",
-          "como_usar": "Utilize apenas o trecho legal da editora para uma leitura de 10 a 15 minutos. Em seguida, converse sobre as maneiras pelas quais alguém pode tentar afastar-se de Deus ou tentar merecer sua aceitação.",
-          "pergunta": "Em que sentido tanto a fuga quanto o moralismo podem esconder dificuldade de confiar na graça de Deus?",
-          "url_trecho": "https://institucional.vidanova.com.br/editora/wp-content/uploads/deus_prodigo_trecho.pdf",
+          "titulo": "Discipulado",
+          "autor": "Dietrich Bonhoeffer",
+          "conexao": "A obra trata do seguimento de Cristo como compromisso concreto de obediência, confrontando uma fé reduzida a conforto sem transformação.",
+          "como_usar": "Selecionar a prévia legal em português para uma leitura breve sobre graça e discipulado. Em seguida, relacionar o conteúdo ao chamado de Jesus a Filipe e aos demais discípulos em João 1.",
+          "pergunta": "Minha relação com Jesus tem sido apenas de admiração ou envolve obediência e entrega real?",
+          "url_trecho": "https://biblia.com/api/plugins/embeddedpreview?resourceName=LLS%3ADISCIPULADO",
           "url_pdf_legal": null,
-          "url_audio_legal": "https://www.audible.com.br/pd/O-Deus-prodigo-Audiolivro/B0D9KRMCTX",
-          "url_editora": "https://www.vidanova.com.br/livros/deus-prodigo-o-recuperando-a-essencia-da-fe-crista",
-          "nota_acesso": "Foi encontrado trecho oficial em PDF no site da editora e audiolivro em português na Audible. O PDF é uma amostra legal, não o livro completo. ([vidanova.com.br](https://www.vidanova.com.br/livros/deus-prodigo-o-recuperando-a-essencia-da-fe-crista?utm_source=openai))"
+          "url_audio_legal": null,
+          "url_editora": null,
+          "nota_acesso": "Foi localizada prévia legal em português. Não foi localizado PDF ou áudio legal em português durante a busca."
         }
       ],
       "videos": [
         {
-          "titulo": "No Princípio",
-          "fonte": "Jesus Film Project",
-          "url": "https://www.jesusfilm.org/watch/family.html/the-beginning/portuguese-brazil.html",
-          "conexao": "Vídeo oficial de aproximadamente oito minutos que apresenta a ruptura da humanidade com Deus e a esperança de redenção em Jesus. Serve como recurso introdutório, sem ser apresentado como fala do pregador. ([jesusfilm.org](https://www.jesusfilm.org/watch/family.html/the-beginning/portuguese-brazil.html?utm_source=openai))",
-          "como_usar": "Exiba antes da discussão sobre perdão e reconciliação. Peça ao grupo para anotar uma palavra que descreva a mudança apresentada no vídeo.",
-          "pergunta": "Que tipo de transformação o vídeo apresenta: apenas mudança de comportamento ou restauração de relacionamento? Explique."
+          "titulo": "A Vida de Jesus — capítulo João 1: João Batista e os primeiros seguidores",
+          "fonte": "Jesus.net — canal oficial no YouTube",
+          "url": "https://www.youtube.com/watch?v=XOZ8Zw9a718&t=51s",
+          "conexao": "Apresenta visualmente o início do chamado dos primeiros seguidores, tema diretamente ligado a João 1:35-51.",
+          "como_usar": "Exibir aproximadamente os primeiros 5 a 8 minutos do capítulo, a partir de 00:51. Pausar quando os discípulos seguem Jesus e perguntar o que caracteriza esse primeiro passo de fé.",
+          "pergunta": "O que muda quando deixamos de apenas ouvir falar de Jesus e começamos a segui-lo?"
         }
       ],
       "musicas_complementares": [
         {
-          "titulo": "Aquieta Minh'alma",
-          "interprete": "Ministério Zoe",
-          "conexao": "Canção oficial que aborda proximidade com Deus, confiança e sua companhia em meio às dificuldades, dialogando com o tema da presença constante sem reproduzir a mensagem da fonte. ([youtube.com](https://www.youtube.com/watch?v=ANfpF0pNob4&utm_source=openai))",
-          "pergunta": "O que significa aproximar-se de Deus quando as emoções ainda estão agitadas?",
-          "url_oficial": "https://www.youtube.com/watch?v=ANfpF0pNob4",
-          "decisao": "usar",
-          "motivo": "A letra e o tema musical favorecem uma oração reflexiva sobre presença, confiança e perseverança; não é necessário reproduzir a letra."
+          "titulo": "Firme nas Promessas — HCC 344",
+          "interprete": "Hino tradicional; Russell Kelso Carter",
+          "conexao": "Dialoga com a confiança em Jesus e com a decisão de permanecer firme em sua palavra e direção.",
+          "pergunta": "Que promessa de Jesus sustenta minha decisão de confiar nele nesta semana?",
+          "url_oficial": null,
+          "decisao": "Manter no repertório indicado pela Carta Oficial.",
+          "motivo": "A música foi citada na Carta da Célula 29, mas não foi localizado um registro oficial claramente verificável do intérprete ou da gravação específica."
+        },
+        {
+          "titulo": "Toda Terra (Ao Vivo)",
+          "interprete": "Gabriela Rocha",
+          "conexao": "Pode ser relacionada ao testemunho de Filipe: quem encontra Jesus não guarda a descoberta apenas para si, mas participa da proclamação de sua glória.",
+          "pergunta": "Como o meu testemunho sobre Jesus pode alcançar pessoas próximas sem pressão ou artificialidade?",
+          "url_oficial": "https://www.youtube.com/watch?v=I1vgtswaIfE",
+          "decisao": "Usar como música complementar, sem substituir as músicas definidas na Carta.",
+          "motivo": "Gravação publicada no canal oficial da artista."
+        },
+        {
+          "titulo": "Não Há Amor Igual",
+          "interprete": "Morada",
+          "conexao": "Enfatiza a resposta de entrega a Jesus, coerente com o tema de reconhecer Cristo como centro e dono da vida.",
+          "pergunta": "Que parte da minha vida ainda não entreguei conscientemente a Jesus?",
+          "url_oficial": "https://www.youtube.com/watch?v=aVKsUV9D3Mg",
+          "decisao": "Usar como encerramento reflexivo ou momento de oração.",
+          "motivo": "Clipe oficial publicado no canal oficial do Morada."
         }
       ],
       "atualidade": [
         {
-          "abrangencia": "local/regional — Vitória e Grande Vitória",
-          "titulo": "Voluntário social: mãe transforma solidariedade em ação",
-          "veiculo": "TV Brasil / TVE Espírito Santo",
-          "data": "2026-07-07",
-          "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/07/voluntario-social-mae-transforma-solidariedade-em-acao",
-          "conexao": "A reportagem mostra uma pessoa transformando convicções e disponibilidade em cuidado concreto de famílias. Pode ajudar o grupo a discutir como um novo propósito se expressa em ações responsáveis no cotidiano, sem afirmar que a reportagem comprova a mensagem religiosa. ([tvbrasil.ebc.com.br](https://tvbrasil.ebc.com.br/reporter-brasil/2026/07/voluntario-social-mae-transforma-solidariedade-em-acao?utm_source=openai))",
-          "dilema": "Como evitar que propósito seja apenas discurso pessoal e se torne serviço efetivo, sustentável e respeitoso às necessidades reais das pessoas?",
-          "pergunta": "Que pequena ação de cuidado ou serviço poderia ser iniciada pelo grupo sem criar dependência, exposição indevida ou promessas que não possa cumprir?"
+          "abrangencia": "local/regional — Vitória e Grande Vitória, Espírito Santo",
+          "titulo": "Arraiá de Jardim Camburi: tradicional Festa da Família será dia 1º de agosto",
+          "veiculo": "ES Hoje",
+          "data": "11 de julho de 2026; atualização em 27 de julho de 2026",
+          "url": "https://eshoje.com.br/espirito-santo/2026/07/arraia-jardim-camburi-vitoria-festa-da-familia/",
+          "conexao": "A reportagem descreve uma iniciativa comunitária marcada por convivência, voluntariado, partilha e solidariedade. A conexão com João 1 está na dimensão relacional do chamado: quem segue Jesus passa a viver e servir em comunidade.",
+          "dilema": "Como diferenciar uma comunidade que apenas reúne pessoas de uma comunidade que acolhe, serve e aponta para Cristo?",
+          "pergunta": "Se Jesus é o dono da minha vida, como isso deve aparecer na forma como participo, acolho e sirvo na comunidade onde vivo?"
         }
       ],
       "situacoes_cotidianas": [
         {
-          "contexto": "Vida profissional e acadêmica",
-          "titulo": "Quando a identidade fica presa ao desempenho",
-          "situacao": "Uma pessoa acredita que só merece respeito quando alcança boas notas, reconhecimento ou sucesso. Ao fracassar, sente que perdeu seu valor e se distancia de todos.",
-          "pergunta": "Como conversar sobre valor, graça e responsabilidade sem incentivar passividade ou negar a importância do esforço?"
+          "contexto": "Uso do tempo e das prioridades",
+          "titulo": "Quem dirige a agenda?",
+          "situacao": "Uma pessoa afirma que Jesus é o Senhor da sua vida, mas sua agenda não reserva tempo para oração, comunidade, serviço ou cuidado com pessoas. Todas as decisões são organizadas apenas em torno de trabalho, consumo e interesses pessoais.",
+          "pergunta": "Que evidência concreta mostraria que Jesus realmente orienta minhas prioridades?"
         },
         {
-          "contexto": "Relacionamentos",
-          "titulo": "Perdão sem negar o dano",
-          "situacao": "Alguém deseja recomeçar depois de uma ofensa, mas ainda precisa estabelecer limites e reconhecer que a confiança pode levar tempo para ser reconstruída.",
-          "pergunta": "Como diferenciar perdão, reconciliação imediata, confiança e proteção contra novos danos?"
+          "contexto": "Relacionamentos e testemunho",
+          "titulo": "Vem e vê",
+          "situacao": "Alguém próximo demonstra curiosidade sobre a fé, mas a pessoa prefere responder com frases prontas ou evitar o assunto. Filipe, porém, conduziu Natanael a Jesus sem tentar controlar sua resposta.",
+          "pergunta": "Como posso convidar alguém a conhecer Jesus com humildade, respeito e coerência de vida?"
         },
         {
-          "contexto": "Dificuldades pessoais",
-          "titulo": "A presença de Deus quando nada parece extraordinário",
-          "situacao": "Uma pessoa ora por uma mudança urgente, mas continua enfrentando luto, ansiedade, desemprego ou conflitos familiares. Ela conclui que Deus a abandonou porque não teve uma experiência marcante.",
-          "pergunta": "Que sinais cotidianos de cuidado, comunidade e perseverança podem ser percebidos sem transformar sofrimento em culpa espiritual?"
+          "contexto": "Decisões difíceis",
+          "titulo": "Seguir mesmo sem controlar o caminho",
+          "situacao": "Uma oportunidade exige abrir mão de vantagem pessoal para agir com honestidade, cuidar de alguém vulnerável ou permanecer fiel aos valores de Jesus.",
+          "pergunta": "O que eu faria se a decisão não trouxesse benefício imediato, mas expressasse que Cristo é o dono da minha vida?"
         }
       ],
       "dinamicas": [
         {
-          "titulo": "Venha e veja: leitura em quatro movimentos",
-          "duracao": "25 minutos",
-          "objetivo": "Ajudar o grupo a observar o encontro de Natanael com Jesus e relacioná-lo a convite, dúvida, reconhecimento e propósito.",
-          "materiais": "Bíblias, folhas e canetas.",
+          "titulo": "Vem e vê: o caminho dos primeiros discípulos",
+          "duracao": "20 a 25 minutos",
+          "objetivo": "Identificar as etapas do encontro com Jesus em João 1:35-51 e relacioná-las à experiência de cada participante.",
+          "materiais": "Bíblias, folhas ou cartões e canetas.",
           "passos": [
-            "Divida João 1:43-51 em quatro movimentos: o convite de Filipe; a dúvida de Natanael; a palavra de Jesus; a promessa de coisas maiores.",
-            "Forme pequenos grupos e peça que cada grupo identifique o que Natanael sabe, sente e decide em seu movimento.",
-            "Reúna todos e monte no quadro uma sequência com as palavras convite, encontro, resposta e caminho.",
-            "Peça que cada participante escreva uma resposta prática ao convite “venha e veja”, sem exigir exposição de experiências íntimas."
+            "Dividir o texto em quatro movimentos: ouvir o testemunho de João, seguir e permanecer com Jesus, apresentar Jesus a outra pessoa e responder ao chamado pessoal.",
+            "Entregar a cada participante um cartão com uma dessas etapas e pedir que explique o que ela significa no texto.",
+            "Cada pessoa escolhe a etapa que mais representa sua caminhada atual e escreve uma ação prática para a semana.",
+            "Reunir o grupo em oração, pedindo que Jesus seja reconhecido como centro e Senhor da vida."
           ],
           "perguntas": [
-            "O que o texto afirma explicitamente e o que seria apenas uma interpretação nossa?",
-            "Como acolher dúvidas sem tratá-las automaticamente como falta de fé?",
-            "Que próximo passo coerente com o texto poderia expressar abertura a Jesus?"
+            "Em qual etapa da caminhada com Jesus eu me encontro hoje?",
+            "O que me impede de avançar para uma obediência mais concreta?",
+            "Quem poderia ser alcançado por meio do meu testemunho nesta semana?"
           ]
         },
         {
-          "titulo": "Perdão, presença e propósito no cotidiano",
-          "duracao": "30 minutos",
-          "objetivo": "Traduzir os três eixos identificados na análise preliminar em práticas concretas, sem apresentar a dinâmica como conteúdo proferido pelo pregador.",
-          "materiais": "Três cartazes com as palavras perdão, presença e propósito; cartões de situações cotidianas.",
+          "titulo": "Mapa do senhorio",
+          "duracao": "15 a 20 minutos",
+          "objetivo": "Perceber áreas da vida que já estão submetidas a Jesus e áreas que ainda precisam de entrega.",
+          "materiais": "Papel dividido em quatro áreas: tempo, relacionamentos, decisões e recursos.",
           "passos": [
-            "Coloque os três cartazes em pontos diferentes da sala.",
-            "Leia situações como conflito familiar, fracasso profissional, solidão e oportunidade de servir.",
-            "Peça aos participantes que escolham o eixo mais diretamente relacionado à situação e expliquem sua escolha.",
-            "Conduza uma conversa sobre limites: perdão não elimina responsabilidade; presença não significa ausência de sofrimento; propósito não precisa ser grandioso ou público.",
-            "Finalize com cada pessoa escolhendo uma prática para a semana: pedir perdão, buscar apoio, acompanhar alguém ou servir de modo concreto."
+            "Cada participante preenche silenciosamente as quatro áreas, indicando de 0 a 10 quanto permite que Jesus governe cada uma.",
+            "Em duplas, compartilhar apenas uma área de maior desafio, sem exposição obrigatória de detalhes pessoais.",
+            "Escolher uma prática simples de entrega para os próximos sete dias.",
+            "Encerrar com uma oração de consagração, evitando transformar a atividade em cobrança ou comparação."
           ],
           "perguntas": [
-            "Qual dos três eixos é mais difícil de perceber na sua realidade atual?",
-            "Que diferença existe entre propósito recebido e ambição pessoal?",
-            "Como a comunidade pode sustentar alguém que atravessa uma fase difícil?"
+            "Em que área tenho mais dificuldade de abrir mão do controle?",
+            "Que atitude verificável expressará minha confiança em Jesus?",
+            "Como o pequeno grupo pode apoiar essa decisão com cuidado e prestação de contas saudável?"
           ]
         }
       ],
       "sustentabilidade": {},
       "perguntas_adicionais": [
         {
-          "tipo": "leitura bíblica",
-          "pergunta": "A mensagem preliminar associa Natanael a uma transformação imediata. O que João 1:43-51 permite afirmar com segurança sobre ele, e o que permanece como aplicação pastoral?"
+          "tipo": "observação do texto",
+          "pergunta": "O que os discípulos fizeram imediatamente depois de ouvir João Batista falar de Jesus?"
         },
         {
-          "tipo": "discernimento",
-          "pergunta": "Como falar de encontro com Jesus de modo acolhedor, sem pressionar pessoas a exporem sua história ou a reproduzirem uma experiência específica?"
+          "tipo": "identidade de Jesus",
+          "pergunta": "Quais títulos e imagens sobre Jesus aparecem no trecho: Cordeiro de Deus, Messias, Filho de Deus, Rei de Israel e Filho do Homem?"
         },
         {
-          "tipo": "aplicação",
-          "pergunta": "Que prática concreta pode expressar um novo propósito nesta semana: reconciliação responsável, cuidado de alguém, serviço comunitário ou perseverança em uma dificuldade?"
+          "tipo": "aplicação pessoal",
+          "pergunta": "O que significa, para mim, passar de uma fé recebida por testemunho para uma experiência pessoal com Jesus?"
         },
         {
-          "tipo": "conciliação editorial",
-          "pergunta": "Quando a Carta oficial chegar, quais pontos da mensagem em vídeo precisam ser confirmados, ajustados ou substituídos?"
+          "tipo": "comunidade",
+          "pergunta": "Como o encontro com Jesus transforma a maneira como tratamos irmãos, amigos e pessoas que ainda estão buscando respostas?"
         }
       ],
       "prioridades": [
         {
-          "recurso": "Confirmar a referência bíblica oficial na Carta quando ela estiver disponível.",
-          "motivo": "A análise preliminar identifica Natanael, “venha e veja” e “coisas maiores” como elementos de João 1:43-51, mas a própria fonte informa que a referência não foi explicitada na transcrição."
+          "recurso": "João 1:35-51 — texto bíblico oficial da semana",
+          "motivo": "É a fonte principal e deve orientar toda conversa, evitando que recursos complementares sejam confundidos com a mensagem do pregador."
         },
         {
-          "recurso": "Manter todos os recursos identificados como complementares.",
-          "motivo": "A fonte é uma MENSAGEM_VIDEO_PRELIMINAR; nenhum filme, livro, música, vídeo ou notícia deve ser apresentado como fala do pregador ou como núcleo oficial."
+          "recurso": "Dinâmica “Vem e vê: o caminho dos primeiros discípulos”",
+          "motivo": "Converte os movimentos do texto em uma experiência participativa adequada para pequeno grupo."
         },
         {
-          "recurso": "Trabalhar perdão, presença e propósito com responsabilidade pastoral.",
-          "motivo": "É importante não prometer ausência de sofrimento, não culpabilizar quem não relata experiências extraordinárias e não confundir perdão com tolerância a abuso."
+          "recurso": "Filme A Vida de Jesus — capítulo de João 1",
+          "motivo": "Oferece apoio visual diretamente relacionado ao texto e possui página oficial e vídeo oficial verificáveis."
+        },
+        {
+          "recurso": "Música Não Há Amor Igual — Morada",
+          "motivo": "Favorece uma resposta de entrega e oração coerente com o tema “Jesus, o dono da minha vida”."
         }
       ],
       "avisos_semana": {
@@ -334,15 +370,6 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-08-17T06:02:06"
-      },
-      "enriquecimento_meta": {
-        "estudo_id": "2026-08-16",
-        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
-        "modelo": "gpt-5.6-luna",
-        "versao": "04D.4.2",
-        "gerado_em": "2026-08-17T16:11:17",
-        "carta_disponivel": false,
-        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
