@@ -123,16 +123,40 @@
         "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
       "oficial": {
-        "ideias_centrais": [],
+        "ideias_centrais": [
+          "Jesus nos ama e sabe o que é melhor para nós.",
+          "A verdadeira liberdade não está em fazer tudo o que nosso coração pecaminoso deseja.",
+          "Nós devemos deixar Jesus guiar os nossos passos não apenas porque ele sabe o que é melhor para nós e pode nos libertar do poder do pecado.",
+          "Jesus é Deus, e só esse fato já torna necessário obedecer a ele.",
+          "tinha o direito de mandar nela."
+        ],
         "perguntas": [
           "Em João 10.27,28, Jesus se apresentou como um pastor e nos comparou com ovelhas. Ele fez isso para ilustrar a forma com que dirige nossa vida. Confira no texto: o que acontece com as pessoas que aceitam que Jesus conduza suas vidas?",
           "Leia João 8.34 e responda: o que nos aprisiona quando vivemos sem nos importar com o que Jesus quer de nós?",
           "Em João 8.36, Jesus faz uma promessa maravilhosa. Que promessa é essa?"
         ],
         "musicas": [
-          "Firme nas Promessas (344 HCC)",
-          "Toda Terra (Gabriela Rocha)",
-          "Não Há Amor Igual (Morada)"
+          {
+            "titulo": "Firme nas Promessas",
+            "interprete": "344 HCC",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Firme+nas+Promessas+344+HCC+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Toda Terra",
+            "interprete": "Gabriela Rocha",
+            "url_oficial": "https://www.youtube.com/watch?v=I1vgtswaIfE",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA"
+          },
+          {
+            "titulo": "Não Há Amor Igual",
+            "interprete": "Morada",
+            "url_oficial": "https://www.youtube.com/watch?v=aVKsUV9D3Mg",
+            "url_busca_youtube": null,
+            "tipo_link_proposto": "URL_OFICIAL_VALIDADA"
+          }
         ],
         "desafio": "Intensifique com a sua Célula a oração pelos “RI’s”! •Cadastre durante essa semana os RI’s dos integrantes da sua Célula. •Faça um momento especial pelos Relacionamentos intencionais! •Lembre-se de realizar a dinâmica da cadeira vazia, colocando nela os nomes dos “RI's”. Que essa cadeira represente as pessoas pelas quais estamos orando, servindo e crendo que, em breve, estarão conosco, rendidas aos pés de Cristo."
       },
