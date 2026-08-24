@@ -2,31 +2,131 @@
   "estudos": [
     {
       "id": "2026-08-23",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
-      "texto_principal": "Aguardando identificação",
-      "texto_principal_youversion": null,
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "Movidos pelo amor: o amor em movimento que nos conduz à comunhão, à Palavra de Deus e à missão de transformar casas em casas de amor.",
+      "texto_principal": "Lucas 24:13-35",
+      "texto_principal_youversion": "LUK.24.13-35",
       "periodo": "23 a 29 de agosto de 2026",
       "mensagem": {
         "titulo": "Culto de Celebração - PIBJC | 23 08 2026 | 18h30 | Centro de Celebrações",
-        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "pregador": "Marcos Paulo",
         "url": "https://www.youtube.com/watch?v=LKVT-id8Zss",
         "video_id": "LKVT-id8Zss",
-        "inicio_segundos": null,
+        "inicio_segundos": 4237,
         "inicio_live": "2026-08-23T21:23:52Z",
         "fim_live": "2026-08-23T23:42:33Z",
         "detectado_em": "2026-08-24T07:10:46-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 01:10:37.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-08-24T16:42:51",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.98,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "01:10:37 | Obrigado.",
+        "inicio_mensagem_motivo": "É o primeiro momento em que o pregador principal assume a palavra, iniciando sua participação com um agradecimento, seguido da saudação e da mensagem.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-08-24T12:41:16",
+        "fim_segundos": 7955,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "PASTOR MARCOS PAULO",
+        "pregador_visual_detectado_em": "2026-08-24T16:42:51",
+        "referencias_biblicas": [
+          {
+            "referencia": "Lucas 24:13-35",
+            "timestamp_segundos": 4712,
+            "timestamp_hhmmss": "01:18:32",
+            "texto_visivel": "MOVIDOS PELO AMOR - EMAÚS LUCAS 24:13-35",
+            "principal": true,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual",
+            "evidencia_transcricao": "Lucas capítulo 24... abre lá 24 do versículo 13 em diante. Versículo 13 em diante. Vamos ler.",
+            "tipo_confirmacao_textual": "explicit_spoken",
+            "confianca_textual": 0.99
+          },
+          {
+            "referencia": "Lucas 23",
+            "timestamp_segundos": 4752,
+            "timestamp_hhmmss": "01:19:12",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Se você abre a sua Bíblia e vai pro capítulo 23, você vai ver a crucificação de Jesus Cristo acontecendo.",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Lucas 24:1-12",
+            "timestamp_segundos": 4752,
+            "timestamp_hhmmss": "01:19:12",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Você vai encontrar isso que foi citado ali, essas mulheres que vão ao sepulcro e esse anjo que aparece e mostra e revela que Jesus ressuscitou.",
+            "tipo_confirmacao": "specific_narrative",
+            "principal": false,
+            "confianca": 0.97,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Lucas 24:15-16",
+            "timestamp_segundos": 4930,
+            "timestamp_hhmmss": "01:22:10",
+            "texto_visivel": "LUCAS 24:15-16",
+            "principal": true,
+            "confianca": 0.95,
+            "fonte": "youtube_storyboard_visual"
+          },
+          {
+            "referencia": "Filipenses 2:6-8",
+            "timestamp_segundos": 4942,
+            "timestamp_hhmmss": "01:22:22",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Filipenses capítulo 2 diz que ele desce da sua glória, ele se faz gente... e se torna servo e servo que vai até a cruz.",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.96,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Mateus 6:6",
+            "timestamp_segundos": 5400,
+            "timestamp_hhmmss": "01:30:00",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Jesus manda sim que nós entremos no quarto, que nós tranquemos a porta e tenhamos o nosso tempo a sós com Deus.",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.96,
+            "fonte": "youtube_transcricao_publica"
+          }
+        ]
       },
       "carta": {
         "status": "aguardando",
         "arquivo": null
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-08-23.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-08-23.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "LKVT-id8Zss",
+        "inicio_segundos": 4237,
+        "fim_segundos": 7955,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1352,
+        "caracteres": 61318,
+        "primeiro_segmento_segundos": 4237.4,
+        "ultimo_segmento_segundos": 7952.88,
+        "sha256": "cf5deb35faedbda7ff168ed48f7a8b04e1856fb6da241fd49a23a49cf24db98d",
+        "gerada_em": "2026-08-24T16:42:51"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -36,18 +136,233 @@
         "fonte": "Padrão do aplicativo"
       },
       "oficial": {},
-      "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
-      "musicas_complementares": [],
-      "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-08-24T12:41:16",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem apresenta o amor como uma realidade dinâmica, que se move em direção a Deus e às pessoas. A partir do encontro de Jesus com os discípulos no caminho de Emaús, o pregador destaca que Jesus se aproxima, ajusta seu ritmo, escuta, faz perguntas e conduz os discípulos às Escrituras. Em momentos de crise, desilusão e angústia, a orientação é não se isolar da comunidade de fé, mas buscar comunhão. A Palavra e a comunhão à mesa levam ao reconhecimento de Jesus, à restauração e ao retorno à missão. A mensagem termina com um apelo para receber Jesus, voltar à comunhão e abrir a casa como lugar de amor, presença de Deus e milagres.",
+        "ideias_centrais": [
+          "O amor não é estático: ele transborda e conduz as pessoas ao movimento em direção a Deus e ao próximo.",
+          "Em momentos de crise, não se deve transformar solitude em solidão nem fugir para um caminho de isolamento; é necessário permanecer unido ao corpo de Cristo e à comunidade de fé.",
+          "Jesus ensina a aproximar-se das pessoas, caminhar com elas, ajustar o ritmo e escutá-las antes de tentar oferecer respostas.",
+          "As Escrituras conduzem da desilusão e das expectativas equivocadas à verdade sobre Cristo e suas promessas.",
+          "A comunhão à mesa abre os olhos para reconhecer Jesus e transforma casas de fuga e murmuração em casas de amor, comunhão e missão."
+        ],
+        "perguntas": [
+          "Como o conceito de “amor em movimento” aparece no relato dos discípulos de Emaús?",
+          "Em que situações uma pessoa pode estar se isolando ou “fugindo para Emaús” em vez de permanecer em comunhão?",
+          "O que significa ajustar o ritmo e escutar alguém antes de tentar resolver seus problemas?",
+          "Como a Palavra de Deus pode confrontar expectativas equivocadas e desilusões?",
+          "Que passos podem ser dados para que uma casa se torne um lugar de amor, comunhão e presença de Deus?"
+        ],
+        "evidencias": [
+          "[01:19:37-01:21:37] O pregador define o tema como “Movidos pelo amor” e afirma repetidamente que “o amor é movimento”, relacionando-o à busca por Deus, às pessoas e às casas de amor.",
+          "[01:32:37-01:37:07] A partir de Lucas 24, o pregador destaca que Jesus se aproxima, caminha com os discípulos, ajusta seu ritmo, escuta e faz perguntas.",
+          "[01:47:37-01:52:37] A mensagem identifica as expectativas equivocadas e o foco no problema como causas da desilusão e afirma que Jesus conduz os discípulos de volta às Escrituras.",
+          "[01:57:37-01:59:37] A comunhão à mesa é apresentada como o momento em que os olhos dos discípulos são abertos e eles reconhecem Jesus, retornando depois a Jerusalém e à comunhão.",
+          "[02:00:07-02:05:37] O pregador faz apelos para receber Jesus, retornar à comunhão e abrir a casa como casa de amor e milagres.",
+          "[02:12:37] Após a oração final, há uma transição para outro dirigente, com a fala dirigida ao pastor Marcos e o início de homenagens e encerramento do culto."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.84,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Lucas 24:13-35",
+          "conexao": "Texto principal: Jesus se aproxima dos discípulos, caminha com eles, escuta sua dor, interpreta as Escrituras, participa da mesa e os reconduz à comunhão e à missão.",
+          "como_usar": "Leia o texto em três movimentos: caminho e escuta; Palavra e transformação; mesa, reconhecimento e retorno à comunidade.",
+          "pergunta": "Em qual desses movimentos o pequeno grupo mais precisa crescer nesta semana?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/LUK.24.13-35.NVI"
+        },
+        {
+          "referencia": "Atos 2:42-47",
+          "conexao": "Apresenta uma comunidade perseverante na doutrina, comunhão, partir do pão, oração, partilha e cuidado mútuo.",
+          "como_usar": "Compare a casa dos discípulos de Emaús com a vida comunitária da igreja em Jerusalém.",
+          "pergunta": "Que prática concreta pode tornar nossa comunhão mais visível e acolhedora?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/ACT.2.42-47.NVI"
+        },
+        {
+          "referencia": "Romanos 12:9-13",
+          "conexao": "Relaciona amor sincero, hospitalidade, serviço, solidariedade e perseverança na vida cristã.",
+          "como_usar": "Peça que cada participante escolha uma atitude do texto para praticar em casa, na igreja ou na vizinhança.",
+          "pergunta": "Como transformar amor declarado em uma atitude observável nesta semana?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/ROM.12.9-13.NVI"
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "filme",
+          "titulo": "JESUS — O Evangelho de Lucas",
+          "conexao": "A produção acompanha o Evangelho de Lucas e inclui a ressurreição, o encontro de Jesus com os discípulos no caminho de Emaús e o reconhecimento ao partir do pão.",
+          "como_usar": "Exiba apenas o trecho correspondente a Lucas 24, ou utilize a produção como apoio visual após a leitura bíblica. Oriente o grupo a observar a aproximação de Jesus e a mudança dos discípulos.",
+          "pergunta": "O que muda nos discípulos entre o caminho para Emaús e o retorno a Jerusalém?",
+          "url_oficial": "https://www.jesusfilm.org/watch/jfm-collection.html/jesus/portuguese-brazil.html",
+          "url_clipe": null,
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "Hospitalidade, comunidade cristã e mobilidade humana",
+          "autor": "Centro Scalabriniano de Estudos Migratórios — organização institucional",
+          "conexao": "Amplia o tema da casa como espaço de acolhimento, comunhão, missão e responsabilidade diante de pessoas em movimento, especialmente migrantes e refugiadas.",
+          "como_usar": "Selecione um artigo ou trecho sobre hospitalidade cristã e discuta como uma comunidade pode acolher sem transformar o outro em objeto de assistência. O material é complementar à mensagem preliminar.",
+          "pergunta": "Nossa casa e nossa comunidade são percebidas como lugares seguros por quem chega de fora?",
+          "url_trecho": null,
+          "url_pdf_legal": "https://www.csem.org.br/wp-content/uploads/2021/03/Ebook_HOSPITALIDADE_COMUNIDADE_MOBILIDADE_2021-1.pdf",
+          "url_audio_legal": null,
+          "url_editora": "https://www.csem.org.br/pt_br/livros/hospitalidade-comunidade-crista-e-mobilidade-humana/",
+          "nota_acesso": "Não foi localizado trecho ou audiolivro legal em português; foi localizado eBook/PDF disponibilizado pelo próprio CSEM."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "LUMO — Lucas 24:1-53: No caminho de Emaús",
+          "fonte": "Jesus Film Project / Lumo Project",
+          "url": "https://www.jesusfilm.org/watch/lumo-the-gospel-of-luke.html/lumo-luke-24-1-53/english.html",
+          "conexao": "Reconstituição audiovisual de Lucas 24, incluindo o caminho de Emaús, a explicação das Escrituras e o partir do pão.",
+          "como_usar": "Exiba somente o segmento indicado como “On the Road to Emmaus (24:13-35)” após a leitura do texto. Pause antes da mesa e peça ao grupo que identifique os sinais de escuta, presença e transformação.",
+          "pergunta": "Que atitude de Jesus pode ser imitada no acompanhamento de alguém em crise?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Casa",
+          "interprete": "Palavrantiga",
+          "conexao": "A canção pode ajudar o grupo a refletir sobre a casa não apenas como espaço físico, mas como lugar de presença, vínculo, acolhimento e amor praticado.",
+          "pergunta": "Que tipo de ambiente nossas atitudes estão construindo dentro de casa?",
+          "url_oficial": "https://open.spotify.com/track/3V6TWZmmlCEFTJbd4FM8lL",
+          "decisao": "usar",
+          "motivo": "Tema diretamente relacionado à transformação da casa em lugar de amor; utilizar sem reproduzir a letra."
+        },
+        {
+          "titulo": "Lugar Secreto",
+          "interprete": "Gabriela Rocha",
+          "conexao": "Favorece uma transição de silêncio e oração, relacionando a busca pela presença de Deus com a experiência de Jesus encontrado no caminho e à mesa.",
+          "pergunta": "Como cultivar a presença de Deus sem usar a espiritualidade como fuga da comunhão?",
+          "url_oficial": "https://www.youtube.com/watch?v=YnrN0o0lubM",
+          "decisao": "usar",
+          "motivo": "Clipe oficial e conexão adequada com presença de Deus, oração e retorno à vida comunitária; utilizar sem reproduzir a letra."
+        }
+      ],
+      "atualidade": [
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Inscrições abertas para o Serviço Família Acolhedora em Belo Horizonte",
+          "veiculo": "Arquidiocese de Belo Horizonte",
+          "data": "17 de agosto de 2026",
+          "url": "https://arquidiocesebh.org.br/noticias/inscricoes-abertas-conheca-e-participe-do-servico-familia-acolhedora/",
+          "conexao": "A iniciativa oferece cuidado, proteção e afeto a crianças e adolescentes afastados temporariamente de suas famílias, conectando o tema da casa de amor à responsabilidade concreta de acolher pessoas vulneráveis.",
+          "dilema": "Como falar de uma casa acolhedora sem ignorar os limites, a preparação e o acompanhamento necessários para proteger quem acolhe e quem é acolhido?",
+          "pergunta": "Que forma de acolhimento responsável nossa igreja ou pequeno grupo consegue oferecer no próprio território?"
+        },
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Operação Inverno é prorrogada após quase 37 mil acolhimentos em Porto Alegre",
+          "veiculo": "Prefeitura de Porto Alegre",
+          "data": "17 de agosto de 2026",
+          "url": "https://prefeitura.poa.br/smas/noticias/operacao-inverno-e-prorrogada-ate-15-de-setembro-apos-tres-meses-de-atendimentos",
+          "conexao": "A notícia evidencia que “casa” e acolhimento também são questões de proteção social, especialmente para pessoas em situação de rua durante períodos de frio.",
+          "dilema": "Como equilibrar a disposição de abrir espaços de acolhimento com segurança, continuidade do cuidado e articulação com serviços públicos especializados?",
+          "pergunta": "Que ação concreta e responsável pode aproximar o pequeno grupo de pessoas sem moradia ou em situação de vulnerabilidade?"
+        }
+      ],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Uma pessoa passa por uma crise, deixa de responder mensagens e começa a evitar encontros da comunidade.",
+          "titulo": "Solitude ou isolamento?",
+          "situacao": "O grupo percebe o afastamento, mas não sabe se deve respeitar o espaço da pessoa ou insistir em uma aproximação cuidadosa.",
+          "pergunta": "Como se aproximar, escutar e oferecer companhia sem invadir, pressionar ou tentar resolver tudo rapidamente?"
+        },
+        {
+          "contexto": "Uma família recebe alguém novo para uma refeição, mas a conversa fica centrada nos membros antigos da casa.",
+          "titulo": "Uma mesa que realmente acolhe",
+          "situacao": "A hospitalidade foi oferecida formalmente, porém a pessoa convidada continua se sentindo estrangeira e invisível.",
+          "pergunta": "Que atitudes práticas fazem alguém perceber que não está apenas ocupando uma cadeira, mas sendo verdadeiramente recebido?"
+        },
+        {
+          "contexto": "Um conflito familiar faz cada pessoa permanecer em seu quarto e interpretar as falas dos demais da pior maneira.",
+          "titulo": "Quando a casa vira caminho de fuga",
+          "situacao": "A casa continua ocupada, mas deixa de ser espaço de escuta, reconciliação e comunhão.",
+          "pergunta": "Qual seria um primeiro passo seguro para reconstruir diálogo e presença dentro dessa casa?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Caminhar, escutar e reconhecer",
+          "duracao": "25 a 35 minutos",
+          "objetivo": "Experimentar, em pequena escala, a sequência de Lucas 24: caminhar com alguém, escutar sua experiência, fazer perguntas e discernir uma resposta à luz da Palavra.",
+          "materiais": "Bíblias, folhas e canetas; espaço para duplas caminharem ou conversarem separadamente.",
+          "passos": [
+            "Forme duplas e peça que cada pessoa compartilhe, por três minutos, uma situação em que se sentiu desanimada, desiludida ou distante da comunidade.",
+            "A outra pessoa deve apenas escutar e fazer perguntas abertas, sem aconselhar, corrigir ou contar uma história própria.",
+            "Troquem os papéis.",
+            "Leiam Lucas 24:13-35 e identifiquem as atitudes de Jesus no caminho.",
+            "Cada participante registra uma atitude de escuta que deseja praticar durante a semana.",
+            "Finalize com uma oração pelas pessoas que estão caminhando em direção ao isolamento."
+          ],
+          "perguntas": [
+            "O que foi mais difícil: falar, escutar ou não tentar resolver imediatamente?",
+            "Que diferença existe entre acompanhar alguém e conduzir alguém à força?",
+            "Como a Palavra pode iluminar uma dor sem desconsiderar a experiência da pessoa?"
+          ]
+        },
+        {
+          "titulo": "Mapa da casa de amor",
+          "duracao": "30 a 40 minutos",
+          "objetivo": "Transformar o tema da casa de amor em compromissos concretos de comunhão, acolhimento e missão.",
+          "materiais": "Cartolina ou quadro, post-its e canetas.",
+          "passos": [
+            "Desenhe uma casa com quatro espaços: entrada, sala, mesa e saída.",
+            "Na entrada, o grupo escreve atitudes que fazem alguém se sentir recebido.",
+            "Na sala, registra práticas de escuta e convivência.",
+            "Na mesa, anota formas de partilha, oração e cuidado.",
+            "Na saída, identifica maneiras de retornar à missão e servir além do encontro do grupo.",
+            "Escolham um compromisso realista para cada espaço e definam responsáveis e prazo de revisão.",
+            "Encerram lendo Romanos 12:9-13 e orando pelos compromissos."
+          ],
+          "perguntas": [
+            "Quem costuma ficar do lado de fora das nossas relações?",
+            "Que barreiras práticas existem para uma casa ou igreja ser acolhedora?",
+            "Qual compromisso pode ser iniciado ainda nesta semana?"
+          ]
+        }
+      ],
       "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "perguntas_adicionais": [
+        {
+          "tipo": "status_da_fonte",
+          "pergunta": "Quais elementos desta curadoria deverão ser confirmados ou ajustados quando a Carta/transcrição oficial estiver disponível?"
+        },
+        {
+          "tipo": "discernimento_comunitario",
+          "pergunta": "Como distinguir comunhão cristã de pressão religiosa sobre alguém que precisa de tempo, escuta ou ajuda especializada?"
+        },
+        {
+          "tipo": "aplicação_local",
+          "pergunta": "Quais pessoas, famílias ou serviços do território podem ser parceiros em uma prática responsável de acolhimento?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Lucas 24:13-35 e dinâmica “Caminhar, escutar e reconhecer”",
+          "motivo": "É o núcleo bíblico mais diretamente ligado ao tema e traduz a mensagem em uma prática segura de escuta, presença e comunhão."
+        },
+        {
+          "recurso": "Mapa da casa de amor",
+          "motivo": "Converte o apelo de abrir a casa em ações observáveis de acolhimento, mesa, cuidado e missão."
+        },
+        {
+          "recurso": "Atualidade sobre Família Acolhedora",
+          "motivo": "Ajuda a discutir acolhimento com responsabilidade, preparação e proteção, evitando romantizar a abertura da casa."
+        },
+        {
+          "recurso": "Curadoria complementar sujeita à conciliação",
+          "motivo": "A fonte recebida é uma MENSAGEM_VIDEO_PRELIMINAR; a Carta/transcrição oficial ainda poderá confirmar, corrigir ou priorizar formulações e aplicações."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "hjcKxXtlH2Y",
@@ -64,6 +379,15 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-08-24T07:11:08"
+      },
+      "enriquecimento_meta": {
+        "estudo_id": "2026-08-23",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-08-24T12:42:12",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
