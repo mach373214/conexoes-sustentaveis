@@ -502,6 +502,166 @@ st.markdown(
         }
     }
 
+
+    /* =========================================================
+       MENU_CARTOES_TAMANHO_FIXO_V1_0_0
+
+       Grade:
+       - desktop/tablet: 3 x 2
+       - smartphone <= 430 px: 2 x 3
+
+       Regra adicional:
+       - todos os cartões têm altura FIXA por breakpoint;
+       - títulos e descrições têm áreas estáveis;
+       - o tamanho do cartão NÃO depende do conteúdo.
+       ========================================================= */
+
+    .st-key-menu_grid_3x2 div[data-testid="stHorizontalBlock"] {
+        display: grid !important;
+        grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+        column-gap: .72rem !important;
+        row-gap: .72rem !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        overflow: visible !important;
+        align-items: stretch !important;
+    }
+
+    .st-key-menu_grid_3x2 div[data-testid="stHorizontalBlock"] > div {
+        width: 100% !important;
+        min-width: 0 !important;
+        max-width: none !important;
+        flex: none !important;
+        flex-basis: auto !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    .st-key-menu_grid_3x2 div[data-testid="stHorizontalBlock"] > div[data-testid="column"],
+    .st-key-menu_grid_3x2 div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"] {
+        width: 100% !important;
+        min-width: 0 !important;
+        max-width: none !important;
+        flex: none !important;
+        flex-basis: auto !important;
+    }
+
+    /* ---------------------------------------------------------
+       TAMANHO FIXO — DESKTOP / TABLET
+       --------------------------------------------------------- */
+    .st-key-menu_card_avisos,
+    .st-key-menu_card_mensagem,
+    .st-key-menu_card_carta,
+    .st-key-menu_card_estudo,
+    .st-key-menu_card_enriquecer,
+    .st-key-menu_card_historico {
+        height: 258px !important;
+        min-height: 258px !important;
+        max-height: 258px !important;
+        box-sizing: border-box !important;
+        overflow: hidden !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button,
+    .st-key-menu_card_mensagem div.stButton > button,
+    .st-key-menu_card_carta div.stButton > button,
+    .st-key-menu_card_estudo div.stButton > button,
+    .st-key-menu_card_enriquecer div.stButton > button,
+    .st-key-menu_card_historico div.stButton > button {
+        height: 68px !important;
+        min-height: 68px !important;
+        max-height: 68px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        white-space: normal !important;
+    }
+
+    .menu-card-note {
+        min-height: 68px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+
+    @media (max-width: 430px) {
+        .st-key-menu_grid_3x2 div[data-testid="stHorizontalBlock"] {
+            grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+            column-gap: .70rem !important;
+            row-gap: .70rem !important;
+        }
+
+        /* -----------------------------------------------------
+           TAMANHO FIXO — CELULAR REAL
+           246 px comporta o maior texto observado sem deixar
+           os demais cartões menores.
+           ----------------------------------------------------- */
+        .st-key-menu_card_avisos,
+        .st-key-menu_card_mensagem,
+        .st-key-menu_card_carta,
+        .st-key-menu_card_estudo,
+        .st-key-menu_card_enriquecer,
+        .st-key-menu_card_historico {
+            height: 246px !important;
+            min-height: 246px !important;
+            max-height: 246px !important;
+            box-sizing: border-box !important;
+            overflow: hidden !important;
+        }
+
+        .menu-card-icon {
+            width: 54px !important;
+            height: 54px !important;
+            font-size: 1.9rem !important;
+            margin-bottom: .35rem !important;
+        }
+
+        .st-key-menu_card_avisos div.stButton > button,
+        .st-key-menu_card_mensagem div.stButton > button,
+        .st-key-menu_card_carta div.stButton > button,
+        .st-key-menu_card_estudo div.stButton > button,
+        .st-key-menu_card_enriquecer div.stButton > button,
+        .st-key-menu_card_historico div.stButton > button {
+            height: 72px !important;
+            min-height: 72px !important;
+            max-height: 72px !important;
+            padding: .42rem .22rem !important;
+            font-size: .98rem !important;
+            line-height: 1.22 !important;
+            word-break: normal !important;
+            overflow-wrap: normal !important;
+            hyphens: none !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+        }
+
+        .menu-card-note {
+            height: 78px !important;
+            min-height: 78px !important;
+            max-height: 78px !important;
+            margin: .35rem .20rem .10rem .20rem !important;
+            font-size: .92rem !important;
+            line-height: 1.35 !important;
+            word-break: normal !important;
+            overflow-wrap: normal !important;
+            hyphens: none !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            text-align: center !important;
+        }
+    }
+
+    @media (prefers-color-scheme: dark) and (max-width: 430px) {
+        .mobile-nav-title {color:#f8fafc !important;}
+        .mobile-nav-help {color:#d1d5db !important;}
+    }
+
     </style>
 
 
@@ -4358,11 +4518,12 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+
 if nav_mode == "inicio":
     with st.container(key="menu_grid_3x2"):
-        linha_menu_1 = st.columns(3, gap="small")
+        menu_cols = st.columns(6, gap="small")
 
-        with linha_menu_1[0]:
+        with menu_cols[0]:
             with st.container(key="menu_card_avisos", border=True):
                 st.markdown('<div class="menu-card-icon">📣</div>', unsafe_allow_html=True)
                 if st.button("AVISOS DA SEMANA", key="nav_avisos", use_container_width=True):
@@ -4373,7 +4534,7 @@ if nav_mode == "inicio":
                     unsafe_allow_html=True,
                 )
 
-        with linha_menu_1[1]:
+        with menu_cols[1]:
             with st.container(key="menu_card_mensagem", border=True):
                 st.markdown('<div class="menu-card-icon">▶️</div>', unsafe_allow_html=True)
                 if st.button("ASSISTIR À MENSAGEM", key="nav_mensagem", use_container_width=True):
@@ -4384,7 +4545,7 @@ if nav_mode == "inicio":
                     unsafe_allow_html=True,
                 )
 
-        with linha_menu_1[2]:
+        with menu_cols[2]:
             with st.container(key="menu_card_carta", border=True):
                 st.markdown('<div class="menu-card-icon">📄</div>', unsafe_allow_html=True)
                 if st.button("CARTA DA CÉLULA", key="nav_carta", use_container_width=True):
@@ -4395,9 +4556,7 @@ if nav_mode == "inicio":
                     unsafe_allow_html=True,
                 )
 
-        linha_menu_2 = st.columns(3, gap="small")
-
-        with linha_menu_2[0]:
+        with menu_cols[3]:
             with st.container(key="menu_card_estudo", border=True):
                 st.markdown('<div class="menu-card-icon">📖</div>', unsafe_allow_html=True)
                 if st.button("ACOMPANHAR O ESTUDO", key="nav_estudo", use_container_width=True):
@@ -4408,7 +4567,7 @@ if nav_mode == "inicio":
                     unsafe_allow_html=True,
                 )
 
-        with linha_menu_2[1]:
+        with menu_cols[4]:
             with st.container(key="menu_card_enriquecer", border=True):
                 st.markdown('<div class="menu-card-icon">✨</div>', unsafe_allow_html=True)
                 if st.button("ENRIQUECER A DISCUSSÃO", key="nav_enriquecer", use_container_width=True):
@@ -4419,7 +4578,7 @@ if nav_mode == "inicio":
                     unsafe_allow_html=True,
                 )
 
-        with linha_menu_2[2]:
+        with menu_cols[5]:
             with st.container(key="menu_card_historico", border=True):
                 st.markdown('<div class="menu-card-icon">📅</div>', unsafe_allow_html=True)
                 if st.button("ESTUDOS ANTERIORES", key="nav_historico", use_container_width=True):
@@ -4429,6 +4588,7 @@ if nav_mode == "inicio":
                     '<div class="menu-card-note">Consulte semanas e materiais já publicados.</div>',
                     unsafe_allow_html=True,
                 )
+
     st.divider()
     st.markdown("### 📝 Avaliação do app")
     st.write("Sua opinião ajuda a melhorar este aplicativo.")
