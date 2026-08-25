@@ -1669,61 +1669,35 @@ def render_versao_biblica(versao):
 
 
 def resolver_arquivo_local(bloco):
-
-
-
-    """Resolve arquivo local tanto dentro de 04_APP quanto nas fontes semanais do projeto."""
-
-
-
+    # CARTA_CANONICA_POR_DATA_V1_0_0
     bloco = bloco or {}
 
-
-
     arquivo_app = bloco.get("arquivo_app")
-
-
-
     if arquivo_app:
-
-
-
-        caminho = APP_DIR / arquivo_app
-
-
-
+        rel = Path(str(arquivo_app).replace("\\", "/"))
+        caminho = APP_DIR / rel
         if caminho.exists():
-
-
-
             return caminho
 
-
+    data_documento = str(bloco.get("data_documento") or "").strip()
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", data_documento):
+        nome_canonico = f"carta_{data_documento}.pdf"
+        for rel in (
+            Path("static") / "cartas" / nome_canonico,
+            Path("assets") / "cartas" / nome_canonico,
+        ):
+            caminho = APP_DIR / rel
+            if caminho.exists():
+                return caminho
 
     arquivo_fonte = bloco.get("arquivo_fonte")
-
-
-
     if arquivo_fonte:
-
-
-
-        caminho = PROJECT_ROOT / arquivo_fonte
-
-
-
+        rel_fonte = Path(str(arquivo_fonte).replace("\\", "/"))
+        caminho = PROJECT_ROOT / rel_fonte
         if caminho.exists():
-
-
-
             return caminho
 
-
-
     return None
-
-
-
 
 
 def url_carta_estatica(carta, caminho=None):
