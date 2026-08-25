@@ -2,8 +2,8 @@
   "estudos": [
     {
       "id": "2026-08-23",
-      "status": "preliminar_mensagem_video_automatico",
-      "tema": "Movidos pelo amor: o amor em movimento que nos conduz à comunhão, à Palavra de Deus e à missão de transformar casas em casas de amor.",
+      "status": "carta_oficial_reconciliada",
+      "tema": "O Amor em Movimento",
       "texto_principal": "Lucas 24:13-35",
       "texto_principal_youversion": "LUK.24.13-35",
       "periodo": "23 a 29 de agosto de 2026",
@@ -104,8 +104,16 @@
         ]
       },
       "carta": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "carta de celula 30 - 23 08 2026.pdf",
+        "origem": "Carta da Célula 30",
+        "hash_sha256": "a9ee1dd33613400603dddf67ad472310ea2be7a2036c5a75e9c7b3639a627591",
+        "numero": 30,
+        "extracao_status": "automatico_pendente_revisao",
+        "origem_data": "periodo_pdf",
+        "data_documento": "2026-08-23",
+        "tema_extracao_status": "tema_explicito",
+        "arquivo_app": "assets/cartas/carta_2026-08-23.pdf"
       },
       "transcricao": {
         "status": "disponivel",
@@ -133,9 +141,43 @@
         "sigla": "NAA",
         "nome": "Nova Almeida Atualizada",
         "id_youversion": 1840,
-        "fonte": "Padrão do aplicativo"
+        "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
-      "oficial": {},
+      "oficial": {
+        "ideias_centrais": [
+          "VIVER COMUNIDADE",
+          "AJUSTAR O RITMO PARA OUVIR ANTES DE"
+        ],
+        "perguntas": [
+          "Qual tem sido o seu “caminho de Emaús”? Existe alguma dor, frustração ou expectativa quebrada que esteja fazendo você se afastar da comunhão?",
+          "Como podemos aprender com Jesus a ouvir antes de falar e fazer perguntas que ajudem as pessoas a abrir o coração?",
+          "Depois de encontrar Jesus, os discípulos voltaram para Jerusalém. Para onde Jesus está chamando você a voltar, alcançar ou servir nesta semana? Você já fez o convite para os seus RI’s?"
+        ],
+        "musicas": [
+          {
+            "titulo": "Leva-me além",
+            "interprete": "Trazendo a Arca",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Leva-me+al%C3%A9m+Trazendo+a+Arca+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Águas Purificadoras",
+            "interprete": "Diante do Trono",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=%C3%81guas+Purificadoras+Diante+do+Trono+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Poderoso Deus",
+            "interprete": "David Quinlan",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Poderoso+Deus+David+Quinlan+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          }
+        ],
+        "desafio": null
+      },
       "preliminar": {
         "status": "video_analisado_automaticamente_confiavel",
         "fonte": "mensagem_oficial_video",
@@ -171,196 +213,230 @@
       "referencias_biblicas": [
         {
           "referencia": "Lucas 24:13-35",
-          "conexao": "Texto principal: Jesus se aproxima dos discípulos, caminha com eles, escuta sua dor, interpreta as Escrituras, participa da mesa e os reconduz à comunhão e à missão.",
-          "como_usar": "Leia o texto em três movimentos: caminho e escuta; Palavra e transformação; mesa, reconhecimento e retorno à comunidade.",
-          "pergunta": "Em qual desses movimentos o pequeno grupo mais precisa crescer nesta semana?",
-          "youversion_ref": "https://www.bible.com/pt/bible/129/LUK.24.13-35.NVI"
+          "conexao": "Núcleo oficial da semana: Jesus se aproxima de pessoas entristecidas, caminha com elas, pergunta, escuta, interpreta as Escrituras e transforma a conversa em reconhecimento e retorno à comunidade.",
+          "como_usar": "Leia o texto em blocos: caminho, escuta, hospitalidade, mesa e retorno. Convide o grupo a observar o ritmo de Jesus antes de propor qualquer aplicação.",
+          "pergunta": "Em que momento Jesus demonstra que o amor também se move na direção de quem está confuso, triste ou afastado?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/LUK.24.NVI"
         },
         {
           "referencia": "Atos 2:42-47",
-          "conexao": "Apresenta uma comunidade perseverante na doutrina, comunhão, partir do pão, oração, partilha e cuidado mútuo.",
-          "como_usar": "Compare a casa dos discípulos de Emaús com a vida comunitária da igreja em Jerusalém.",
-          "pergunta": "Que prática concreta pode tornar nossa comunhão mais visível e acolhedora?",
-          "youversion_ref": "https://www.bible.com/pt/bible/129/ACT.2.42-47.NVI"
+          "conexao": "Amplia a ideia de viver comunidade por meio de convivência, partilha, oração e cuidado mútuo.",
+          "como_usar": "Use como texto de comparação depois de Lucas 24, perguntando como uma experiência de encontro pode gerar uma comunidade mais presente e solidária.",
+          "pergunta": "Que práticas tornam nossa comunidade um lugar em que as pessoas realmente são ouvidas e acolhidas?",
+          "youversion_ref": null
         },
         {
-          "referencia": "Romanos 12:9-13",
-          "conexao": "Relaciona amor sincero, hospitalidade, serviço, solidariedade e perseverança na vida cristã.",
-          "como_usar": "Peça que cada participante escolha uma atitude do texto para praticar em casa, na igreja ou na vizinhança.",
-          "pergunta": "Como transformar amor declarado em uma atitude observável nesta semana?",
-          "youversion_ref": "https://www.bible.com/pt/bible/129/ROM.12.9-13.NVI"
+          "referencia": "Tiago 1:19",
+          "conexao": "Relaciona diretamente o ajuste do ritmo com a disposição de ouvir antes de falar ou reagir.",
+          "como_usar": "Leia o versículo como uma síntese prática para a semana e peça que cada participante identifique uma conversa em que precisa desacelerar.",
+          "pergunta": "O que costuma nos impedir de ouvir com atenção antes de responder?",
+          "youversion_ref": null
         }
       ],
       "filmes_series": [
         {
           "tipo": "filme",
-          "titulo": "JESUS — O Evangelho de Lucas",
-          "conexao": "A produção acompanha o Evangelho de Lucas e inclui a ressurreição, o encontro de Jesus com os discípulos no caminho de Emaús e o reconhecimento ao partir do pão.",
-          "como_usar": "Exiba apenas o trecho correspondente a Lucas 24, ou utilize a produção como apoio visual após a leitura bíblica. Oriente o grupo a observar a aproximação de Jesus e a mudança dos discípulos.",
-          "pergunta": "O que muda nos discípulos entre o caminho para Emaús e o retorno a Jerusalém?",
-          "url_oficial": "https://www.jesusfilm.org/watch/jfm-collection.html/jesus/portuguese-brazil.html",
+          "titulo": "Divertida Mente 2",
+          "conexao": "A narrativa permite conversar sobre emoções difíceis, escuta, acolhimento e a necessidade de criar espaço para sentimentos que normalmente são reprimidos. A conexão é complementar, não uma interpretação da pregação.",
+          "como_usar": "Exiba o trailer ou selecione uma cena previamente. Depois, peça que o grupo nomeie emoções que costumam ser ignoradas nas relações comunitárias e formule respostas de acolhimento.",
+          "pergunta": "Como uma comunidade pode acolher emoções diferentes sem tentar apressadamente silenciá-las ou corrigi-las?",
+          "url_oficial": "https://www.disney.com.br/novidades/vamos-liberar-espa%C3%A7o-para-novas-emo%C3%A7%C3%B5es-divertida-mente-2-estreia-hoje-20-nos-cinemas-brasileiros",
+          "url_clipe": "https://www.disney.com.br/video/divertida-mente-2-trailer-oficial-dublado",
+          "incorporar_clipe": false
+        },
+        {
+          "tipo": "filme",
+          "titulo": "The Fundamentals of Caring",
+          "conexao": "A viagem de um cuidador e de um adolescente evidencia como presença, convivência e amizade podem nascer quando alguém deixa de tratar o outro como problema e passa a caminhar ao seu lado. A classificação indicativa e os temas devem ser avaliados pelo responsável pelo grupo.",
+          "como_usar": "Use o trailer ou uma breve apresentação do filme para discutir cuidado sem paternalismo, escuta e transformação por meio da convivência.",
+          "pergunta": "Qual é a diferença entre tentar consertar alguém e caminhar com essa pessoa com atenção e respeito?",
+          "url_oficial": "https://www.netflix.com/br/title/80097349",
           "url_clipe": null,
           "incorporar_clipe": false
         }
       ],
       "livros": [
         {
-          "titulo": "Hospitalidade, comunidade cristã e mobilidade humana",
-          "autor": "Centro Scalabriniano de Estudos Migratórios — organização institucional",
-          "conexao": "Amplia o tema da casa como espaço de acolhimento, comunhão, missão e responsabilidade diante de pessoas em movimento, especialmente migrantes e refugiadas.",
-          "como_usar": "Selecione um artigo ou trecho sobre hospitalidade cristã e discuta como uma comunidade pode acolher sem transformar o outro em objeto de assistência. O material é complementar à mensagem preliminar.",
-          "pergunta": "Nossa casa e nossa comunidade são percebidas como lugares seguros por quem chega de fora?",
-          "url_trecho": null,
-          "url_pdf_legal": "https://www.csem.org.br/wp-content/uploads/2021/03/Ebook_HOSPITALIDADE_COMUNIDADE_MOBILIDADE_2021-1.pdf",
+          "titulo": "Vida em comunhão",
+          "autor": "Dietrich Bonhoeffer",
+          "conexao": "Reflete sobre a prática comunitária cristã, a aceitação, o compartilhamento de vida e a necessidade de substituir expectativas idealizadas por uma comunhão concreta e responsável.",
+          "como_usar": "Leia previamente o trecho disponibilizado pela editora e selecione uma ideia para debate. Evite transformar o livro em autoridade equivalente ao texto bíblico; use-o como leitura complementar.",
+          "pergunta": "Que atitudes tornam a comunhão mais verdadeira, especialmente quando as pessoas são diferentes de nossas expectativas?",
+          "url_trecho": "https://www.mundocristao.com.br/wp-content/uploads/2022/05/Vida-em-comunhao.pdf",
+          "url_pdf_legal": null,
           "url_audio_legal": null,
-          "url_editora": "https://www.csem.org.br/pt_br/livros/hospitalidade-comunidade-crista-e-mobilidade-humana/",
-          "nota_acesso": "Não foi localizado trecho ou audiolivro legal em português; foi localizado eBook/PDF disponibilizado pelo próprio CSEM."
+          "url_editora": "https://www.mundocristao.com.br/produto/vida-em-comunhao/",
+          "nota_acesso": "Foi encontrado um PDF disponibilizado no domínio da Editora Mundo Cristão, com identificação de direitos autorais da editora. Verifique no arquivo se o conteúdo corresponde à prévia autorizada antes de compartilhá-lo integralmente."
         }
       ],
       "videos": [
         {
-          "titulo": "LUMO — Lucas 24:1-53: No caminho de Emaús",
-          "fonte": "Jesus Film Project / Lumo Project",
-          "url": "https://www.jesusfilm.org/watch/lumo-the-gospel-of-luke.html/lumo-luke-24-1-53/english.html",
-          "conexao": "Reconstituição audiovisual de Lucas 24, incluindo o caminho de Emaús, a explicação das Escrituras e o partir do pão.",
-          "como_usar": "Exiba somente o segmento indicado como “On the Road to Emmaus (24:13-35)” após a leitura do texto. Pause antes da mesa e peça ao grupo que identifique os sinais de escuta, presença e transformação.",
-          "pergunta": "Que atitude de Jesus pode ser imitada no acompanhamento de alguém em crise?"
+          "titulo": "A Ressurreição de Jesus: O Evangelho de Lucas 24",
+          "fonte": "BibleProject Português",
+          "url": "https://bibleproject.com/portugues/",
+          "conexao": "Recurso visual oficial diretamente relacionado ao capítulo de Lucas 24 e útil para situar o caminho de Emaús no conjunto da narrativa da ressurreição.",
+          "como_usar": "Exiba o vídeo correspondente ao episódio de Lucas 24, disponível na seção Série Lucas-Atos, e peça ao grupo que identifique os movimentos de Jesus: aproximar-se, perguntar, explicar, permanecer e enviar.",
+          "pergunta": "O que muda quando lemos o caminho de Emaús como uma experiência de acompanhamento e não apenas como uma história de reconhecimento? "
+        },
+        {
+          "titulo": "Shema – Ouvir",
+          "fonte": "BibleProject Português",
+          "url": "https://bibleproject.com/portugues/",
+          "conexao": "Ajuda a explorar a relação bíblica entre ouvir, amar e responder a Deus, em diálogo com o desafio de ajustar o ritmo para escutar antes de agir.",
+          "como_usar": "Use como introdução breve para uma conversa sobre escuta atenta. Não o apresente como comentário específico da Carta da Célula 30.",
+          "pergunta": "Que tipo de escuta demonstra amor na prática dentro do pequeno grupo?"
         }
       ],
       "musicas_complementares": [
         {
-          "titulo": "Casa",
-          "interprete": "Palavrantiga",
-          "conexao": "A canção pode ajudar o grupo a refletir sobre a casa não apenas como espaço físico, mas como lugar de presença, vínculo, acolhimento e amor praticado.",
-          "pergunta": "Que tipo de ambiente nossas atitudes estão construindo dentro de casa?",
-          "url_oficial": "https://open.spotify.com/track/3V6TWZmmlCEFTJbd4FM8lL",
-          "decisao": "usar",
-          "motivo": "Tema diretamente relacionado à transformação da casa em lugar de amor; utilizar sem reproduzir a letra."
+          "titulo": "Leva-me Além",
+          "interprete": "Trazendo a Arca; Toque no Altar",
+          "conexao": "Pode acompanhar um momento de oração sobre aprofundar a intimidade com Deus e permitir que o amor conduza a novos passos. É uma sugestão complementar à lista da Carta.",
+          "pergunta": "Que passo de aprofundamento o amor de Deus está convidando você a dar nesta semana?",
+          "url_oficial": "https://www.youtube.com/watch?v=bgcsPHUS7O8",
+          "decisao": "incluir",
+          "motivo": "Há clipe oficial no canal do artista e a canção dialoga com a ideia de caminhar para uma relação mais profunda com Deus."
         },
         {
-          "titulo": "Lugar Secreto",
-          "interprete": "Gabriela Rocha",
-          "conexao": "Favorece uma transição de silêncio e oração, relacionando a busca pela presença de Deus com a experiência de Jesus encontrado no caminho e à mesa.",
-          "pergunta": "Como cultivar a presença de Deus sem usar a espiritualidade como fuga da comunhão?",
-          "url_oficial": "https://www.youtube.com/watch?v=YnrN0o0lubM",
-          "decisao": "usar",
-          "motivo": "Clipe oficial e conexão adequada com presença de Deus, oração e retorno à vida comunitária; utilizar sem reproduzir a letra."
+          "titulo": "Águas Purificadoras",
+          "interprete": "Diante do Trono",
+          "conexao": "Pode ser usada como oração simbólica de renovação interior e disponibilidade para deixar o amor de Deus alcançar as relações comunitárias.",
+          "pergunta": "Que área de nossa convivência precisa ser renovada para que o cuidado flua com mais liberdade?",
+          "url_oficial": "https://www.youtube.com/watch?v=e-QIQWy43wk",
+          "decisao": "incluir",
+          "motivo": "Há publicação no canal oficial do Diante do Trono."
+        },
+        {
+          "titulo": "Poderoso Deus",
+          "interprete": "David Quinlan",
+          "conexao": "Complementa o momento de adoração e pode ajudar o grupo a reconhecer que o movimento do amor cristão nasce de uma resposta à presença e à grandeza de Deus.",
+          "pergunta": "Como a adoração pode nos tirar do centro e nos tornar mais disponíveis para ouvir e servir?",
+          "url_oficial": "https://open.spotify.com/intl-pt/track/7kHG9rIF7rGGgpAtoz8XGM",
+          "decisao": "incluir",
+          "motivo": "Foi localizado registro oficial em plataforma de música com o título e o intérprete informados na Carta."
         }
       ],
       "atualidade": [
         {
           "abrangencia": "Brasil",
-          "titulo": "Inscrições abertas para o Serviço Família Acolhedora em Belo Horizonte",
-          "veiculo": "Arquidiocese de Belo Horizonte",
-          "data": "17 de agosto de 2026",
-          "url": "https://arquidiocesebh.org.br/noticias/inscricoes-abertas-conheca-e-participe-do-servico-familia-acolhedora/",
-          "conexao": "A iniciativa oferece cuidado, proteção e afeto a crianças e adolescentes afastados temporariamente de suas famílias, conectando o tema da casa de amor à responsabilidade concreta de acolher pessoas vulneráveis.",
-          "dilema": "Como falar de uma casa acolhedora sem ignorar os limites, a preparação e o acompanhamento necessários para proteger quem acolhe e quem é acolhido?",
-          "pergunta": "Que forma de acolhimento responsável nossa igreja ou pequeno grupo consegue oferecer no próprio território?"
+          "titulo": "Bahia pela Paz reúne rede local em Escuta Comunitária em Santo Antônio de Jesus",
+          "veiculo": "Governo do Estado da Bahia",
+          "data": "14 de agosto de 2026",
+          "url": "https://www.ba.gov.br/bahiapelapaz/noticias/2026-08/152/bahia-pela-paz-reune-rede-local-em-escuta-comunitaria-em-santo-antonio-de",
+          "conexao": "A iniciativa reuniu serviços públicos, universidade e sociedade civil para ouvir o território, identificar desafios e construir respostas articuladas. Serve como exemplo concreto de que escutar pode ser uma forma de cuidado e mobilização comunitária.",
+          "dilema": "Como ouvir diferentes grupos sem transformar a escuta em mera formalidade ou em promessa que não gera ação?",
+          "pergunta": "Que necessidade de nosso território deveríamos ouvir melhor antes de decidir como ajudar?"
         },
         {
-          "abrangencia": "Brasil",
-          "titulo": "Operação Inverno é prorrogada após quase 37 mil acolhimentos em Porto Alegre",
-          "veiculo": "Prefeitura de Porto Alegre",
-          "data": "17 de agosto de 2026",
-          "url": "https://prefeitura.poa.br/smas/noticias/operacao-inverno-e-prorrogada-ate-15-de-setembro-apos-tres-meses-de-atendimentos",
-          "conexao": "A notícia evidencia que “casa” e acolhimento também são questões de proteção social, especialmente para pessoas em situação de rua durante períodos de frio.",
-          "dilema": "Como equilibrar a disposição de abrir espaços de acolhimento com segurança, continuidade do cuidado e articulação com serviços públicos especializados?",
-          "pergunta": "Que ação concreta e responsável pode aproximar o pequeno grupo de pessoas sem moradia ou em situação de vulnerabilidade?"
+          "abrangencia": "Mundo",
+          "titulo": "International Youth Day: “I Want to Be Part of the Change”",
+          "veiculo": "Nações Unidas na Bósnia e Herzegovina",
+          "data": "12 de agosto de 2026",
+          "url": "https://bosniaherzegovina.un.org/en/320867-international-youth-day-%E2%80%9Ci-want-be-part-change”",
+          "conexao": "A história apresenta jovens envolvidos em participação comunitária, escuta de diferentes perspectivas e transformação do que foi ouvido em propostas concretas.",
+          "dilema": "Como passar da escuta para uma ação responsável sem falar em nome das pessoas ou ignorar suas próprias prioridades?",
+          "pergunta": "Que ação pequena e possível nosso grupo poderia iniciar depois de ouvir melhor alguém da comunidade?"
         }
       ],
       "situacoes_cotidianas": [
         {
-          "contexto": "Uma pessoa passa por uma crise, deixa de responder mensagens e começa a evitar encontros da comunidade.",
-          "titulo": "Solitude ou isolamento?",
-          "situacao": "O grupo percebe o afastamento, mas não sabe se deve respeitar o espaço da pessoa ou insistir em uma aproximação cuidadosa.",
-          "pergunta": "Como se aproximar, escutar e oferecer companhia sem invadir, pressionar ou tentar resolver tudo rapidamente?"
+          "contexto": "Pequeno grupo",
+          "titulo": "A pessoa que chega calada",
+          "situacao": "Durante a reunião, alguém chega atrasado, responde pouco e parece desconfortável. O grupo precisa decidir entre seguir a programação rapidamente ou ajustar o ritmo para acolher e ouvir.",
+          "pergunta": "Como demonstrar cuidado sem constranger a pessoa nem exigir que ela fale publicamente?"
         },
         {
-          "contexto": "Uma família recebe alguém novo para uma refeição, mas a conversa fica centrada nos membros antigos da casa.",
-          "titulo": "Uma mesa que realmente acolhe",
-          "situacao": "A hospitalidade foi oferecida formalmente, porém a pessoa convidada continua se sentindo estrangeira e invisível.",
-          "pergunta": "Que atitudes práticas fazem alguém perceber que não está apenas ocupando uma cadeira, mas sendo verdadeiramente recebido?"
+          "contexto": "Família e amizades",
+          "titulo": "A resposta antes da escuta",
+          "situacao": "Uma pessoa compartilha uma frustração e recebe imediatamente conselhos, correções ou versículos, sem espaço para explicar o que está vivendo.",
+          "pergunta": "Que pergunta poderia abrir espaço para uma escuta mais amorosa antes de qualquer conselho?"
         },
         {
-          "contexto": "Um conflito familiar faz cada pessoa permanecer em seu quarto e interpretar as falas dos demais da pior maneira.",
-          "titulo": "Quando a casa vira caminho de fuga",
-          "situacao": "A casa continua ocupada, mas deixa de ser espaço de escuta, reconciliação e comunhão.",
-          "pergunta": "Qual seria um primeiro passo seguro para reconstruir diálogo e presença dentro dessa casa?"
+          "contexto": "Comunidade",
+          "titulo": "A necessidade que não aparece na agenda",
+          "situacao": "O grupo planeja uma ação de ajuda, mas percebe que está decidindo com base em suposições e não em conversas com as pessoas envolvidas.",
+          "pergunta": "Quem precisa ser ouvido antes que a comunidade escolha uma solução?"
         }
       ],
       "dinamicas": [
         {
-          "titulo": "Caminhar, escutar e reconhecer",
+          "titulo": "Caminhar, ouvir e reconhecer",
           "duracao": "25 a 35 minutos",
-          "objetivo": "Experimentar, em pequena escala, a sequência de Lucas 24: caminhar com alguém, escutar sua experiência, fazer perguntas e discernir uma resposta à luz da Palavra.",
-          "materiais": "Bíblias, folhas e canetas; espaço para duplas caminharem ou conversarem separadamente.",
+          "objetivo": "Experimentar, de forma simples, o ajuste do ritmo para ouvir antes de responder e relacionar escuta, presença e cuidado comunitário.",
+          "materiais": "Bíblias, papel e canetas; espaço para duplas caminharem com segurança.",
           "passos": [
-            "Forme duplas e peça que cada pessoa compartilhe, por três minutos, uma situação em que se sentiu desanimada, desiludida ou distante da comunidade.",
-            "A outra pessoa deve apenas escutar e fazer perguntas abertas, sem aconselhar, corrigir ou contar uma história própria.",
+            "Divida o grupo em duplas e peça que caminhem lentamente por alguns minutos, em silêncio, sem usar celulares.",
+            "Na segunda parte, uma pessoa fala por três minutos sobre uma situação em que precisou de companhia, enquanto a outra apenas escuta, sem interromper nem aconselhar.",
+            "A pessoa que ouviu pode fazer somente uma pergunta de esclarecimento e depois resumir o que entendeu, sem interpretar ou corrigir.",
             "Troquem os papéis.",
-            "Leiam Lucas 24:13-35 e identifiquem as atitudes de Jesus no caminho.",
-            "Cada participante registra uma atitude de escuta que deseja praticar durante a semana.",
-            "Finalize com uma oração pelas pessoas que estão caminhando em direção ao isolamento."
+            "Leiam Lucas 24:13-35 e identifiquem semelhanças e diferenças entre a dinâmica e a postura de Jesus no caminho de Emaús.",
+            "Cada participante registra uma ação concreta de escuta para praticar durante a semana."
           ],
           "perguntas": [
-            "O que foi mais difícil: falar, escutar ou não tentar resolver imediatamente?",
-            "Que diferença existe entre acompanhar alguém e conduzir alguém à força?",
-            "Como a Palavra pode iluminar uma dor sem desconsiderar a experiência da pessoa?"
+            "Foi mais difícil falar ou escutar sem interromper? Por quê?",
+            "O que muda quando alguém caminha conosco antes de oferecer uma resposta?",
+            "Como evitar que a escuta se torne apenas uma técnica, sem amor e presença reais?"
           ]
         },
         {
-          "titulo": "Mapa da casa de amor",
-          "duracao": "30 a 40 minutos",
-          "objetivo": "Transformar o tema da casa de amor em compromissos concretos de comunhão, acolhimento e missão.",
-          "materiais": "Cartolina ou quadro, post-its e canetas.",
+          "titulo": "Mapa de escuta do território",
+          "duracao": "30 minutos",
+          "objetivo": "Ajudar o pequeno grupo a perceber pessoas e necessidades próximas antes de planejar uma ação comunitária.",
+          "materiais": "Folha grande ou quadro, post-its e canetas.",
           "passos": [
-            "Desenhe uma casa com quatro espaços: entrada, sala, mesa e saída.",
-            "Na entrada, o grupo escreve atitudes que fazem alguém se sentir recebido.",
-            "Na sala, registra práticas de escuta e convivência.",
-            "Na mesa, anota formas de partilha, oração e cuidado.",
-            "Na saída, identifica maneiras de retornar à missão e servir além do encontro do grupo.",
-            "Escolham um compromisso realista para cada espaço e definam responsáveis e prazo de revisão.",
-            "Encerram lendo Romanos 12:9-13 e orando pelos compromissos."
+            "Desenhe três círculos: casa, comunidade de fé e território.",
+            "Em silêncio, cada pessoa escreve nomes ou grupos que normalmente não são ouvidos em cada círculo, sem expor informações sensíveis.",
+            "Agrupem os post-its por temas, como solidão, juventude, idosos, famílias, saúde, trabalho ou pertencimento.",
+            "Escolham apenas um tema e formulem três perguntas de escuta, evitando perguntas que já tragam a resposta embutida.",
+            "Definam uma conversa responsável ou visita, com consentimento e sem prometer soluções imediatas.",
+            "Na semana seguinte, retomem o que foi ouvido e decidam se existe uma ação simples, adequada e sustentável."
           ],
           "perguntas": [
-            "Quem costuma ficar do lado de fora das nossas relações?",
-            "Que barreiras práticas existem para uma casa ou igreja ser acolhedora?",
-            "Qual compromisso pode ser iniciado ainda nesta semana?"
+            "Quem está perto de nós, mas permanece invisível?",
+            "Que preconceitos podem distorcer nossa leitura das necessidades do território?",
+            "Como transformar escuta em cuidado sem agir de modo invasivo ou paternalista?"
           ]
         }
       ],
       "sustentabilidade": {},
       "perguntas_adicionais": [
         {
-          "tipo": "status_da_fonte",
-          "pergunta": "Quais elementos desta curadoria deverão ser confirmados ou ajustados quando a Carta/transcrição oficial estiver disponível?"
+          "tipo": "observação do texto",
+          "pergunta": "O que Jesus faz antes de explicar as Escrituras aos discípulos de Emaús?"
         },
         {
-          "tipo": "discernimento_comunitario",
-          "pergunta": "Como distinguir comunhão cristã de pressão religiosa sobre alguém que precisa de tempo, escuta ou ajuda especializada?"
+          "tipo": "aplicação pessoal",
+          "pergunta": "Em qual relação você precisa ajustar o ritmo para ouvir com mais atenção?"
         },
         {
-          "tipo": "aplicação_local",
-          "pergunta": "Quais pessoas, famílias ou serviços do território podem ser parceiros em uma prática responsável de acolhimento?"
+          "tipo": "vida comunitária",
+          "pergunta": "Que prática do pequeno grupo pode tornar a escuta uma cultura, e não apenas uma atividade ocasional?"
+        },
+        {
+          "tipo": "discernimento",
+          "pergunta": "Como diferenciar amor em movimento de ativismo que age sem ouvir?"
+        },
+        {
+          "tipo": "ação semanal",
+          "pergunta": "Com quem você pode caminhar, conversar ou fazer uma visita nesta semana sem tentar controlar o resultado da conversa?"
         }
       ],
       "prioridades": [
         {
-          "recurso": "Lucas 24:13-35 e dinâmica “Caminhar, escutar e reconhecer”",
-          "motivo": "É o núcleo bíblico mais diretamente ligado ao tema e traduz a mensagem em uma prática segura de escuta, presença e comunhão."
+          "recurso": "Lucas 24:13-35",
+          "motivo": "É o núcleo oficial da Carta da Célula 30 e deve orientar toda a conversa."
         },
         {
-          "recurso": "Mapa da casa de amor",
-          "motivo": "Converte o apelo de abrir a casa em ações observáveis de acolhimento, mesa, cuidado e missão."
+          "recurso": "Dinâmica Caminhar, ouvir e reconhecer",
+          "motivo": "Traduz diretamente o movimento do texto em uma experiência simples de pequeno grupo."
         },
         {
-          "recurso": "Atualidade sobre Família Acolhedora",
-          "motivo": "Ajuda a discutir acolhimento com responsabilidade, preparação e proteção, evitando romantizar a abertura da casa."
+          "recurso": "Vida em comunhão, de Dietrich Bonhoeffer",
+          "motivo": "Oferece aprofundamento complementar sobre comunhão cristã, com trecho legal localizado no site da editora."
         },
         {
-          "recurso": "Curadoria complementar sujeita à conciliação",
-          "motivo": "A fonte recebida é uma MENSAGEM_VIDEO_PRELIMINAR; a Carta/transcrição oficial ainda poderá confirmar, corrigir ou priorizar formulações e aplicações."
+          "recurso": "Atualidade sobre a Escuta Comunitária na Bahia",
+          "motivo": "Apresenta um exemplo brasileiro recente de escuta territorial convertida em articulação comunitária."
         }
       ],
       "avisos_semana": {
@@ -379,15 +455,6 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-08-24T07:11:08"
-      },
-      "enriquecimento_meta": {
-        "estudo_id": "2026-08-23",
-        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
-        "modelo": "gpt-5.6-luna",
-        "versao": "04D.4.2",
-        "gerado_em": "2026-08-24T12:42:12",
-        "carta_disponivel": false,
-        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
