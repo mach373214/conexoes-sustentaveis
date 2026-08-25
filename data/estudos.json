@@ -107,19 +107,13 @@
         "status": "disponivel",
         "arquivo": "carta de celula 30 - 23 08 2026.pdf",
         "origem": "Carta da Célula 30",
-        "arquivo_fonte": "02_FONTES_SEMANAIS/01_CARTAS/carta de celula 30 - 23 08 2026.pdf",
         "hash_sha256": "a9ee1dd33613400603dddf67ad472310ea2be7a2036c5a75e9c7b3639a627591",
         "numero": 30,
         "extracao_status": "automatico_pendente_revisao",
         "origem_data": "periodo_pdf",
         "data_documento": "2026-08-23",
         "tema_extracao_status": "tema_explicito",
-        "fontes_detectadas": [
-          "02_FONTES_SEMANAIS/01_CARTAS/carta de celula 30 - 23 08 2026.pdf"
-        ],
-        "duplicatas_exatas": 0,
-        "duplicatas_semanticas": 0,
-        "regra_selecao": "unico_conteudo"
+        "arquivo_app": "assets/cartas/carta_2026-08-23.pdf"
       },
       "transcricao": {
         "status": "disponivel",
@@ -152,7 +146,10 @@
       "oficial": {
         "ideias_centrais": [
           "VIVER COMUNIDADE",
-          "AJUSTAR O RITMO PARA OUVIR ANTES DE"
+          "AJUSTAR O RITMO PARA OUVIR ANTES DE FALAR",
+          "APONTAR SEMPRE PARA A PALAVRA DE DEUS",
+          "A COMUNHÃO À MESA",
+          "QUEM ENCONTRA JESUS VOLTA AO CAMINHO E À MISSÃO"
         ],
         "perguntas": [
           "Qual tem sido o seu “caminho de Emaús”? Existe alguma dor, frustração ou expectativa quebrada que esteja fazendo você se afastar da comunhão?",
@@ -182,7 +179,7 @@
             "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
           }
         ],
-        "desafio": null
+        "desafio": "Formas de abordar pessoas para o Casas de Amor: 1. Abordagem pela escuta Antes de convidar, demonstre interesse genuíno. “Como você está de verdade? Eu percebi que nesses últimos dias você pareceu um pouco diferente. Se quiser conversar, eu gostaria de te ouvir.” O objetivo não é evangelizar imediatamente, mas ganhar o direito de ser ouvido. 2. Abordagem pela amizade Para aquele vizinho ou colega com quem você já conversa. “Nós sempre nos encontramos correndo, mas nunca paramos para tomar um café. Que tal essa semana sentarmos um pouco para conversar?” Depois que a amizade se fortalece, o convite para a Casa de Amor se torna muito mais natural."
       },
       "preliminar": {
         "status": "video_analisado_automaticamente_confiavel",
@@ -461,39 +458,6 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-08-24T07:11:08"
-      },
-      "enriquecimento_meta": {
-        "estudo_id": "2026-08-23",
-        "status": "AUTOMATICO_CARTA_OFICIAL",
-        "modelo": "gpt-5.6-luna",
-        "versao": "04D.4.2",
-        "gerado_em": "2026-08-25T09:02:02",
-        "carta_disponivel": true,
-        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
-      },
-      "reconciliacao_carta_meta": {
-        "versao": "04D.5.0",
-        "reconciliado_em": "2026-08-25T09:00:31",
-        "arquivo": "carta de celula 30 - 23 08 2026.pdf",
-        "arquivo_fonte": "02_FONTES_SEMANAIS/01_CARTAS/carta de celula 30 - 23 08 2026.pdf",
-        "hash_sha256": "a9ee1dd33613400603dddf67ad472310ea2be7a2036c5a75e9c7b3639a627591",
-        "regra_selecao": "unico_conteudo",
-        "estado_anterior": {
-          "status": "preliminar_mensagem_video_automatico",
-          "tema": "Movidos pelo amor: o amor em movimento que nos conduz à comunhão, à Palavra de Deus e à missão de transformar casas em casas de amor.",
-          "texto_principal": "Lucas 24:13-35",
-          "texto_principal_youversion": "LUK.24.13-35",
-          "carta": {
-            "status": "aguardando",
-            "arquivo": null
-          }
-        },
-        "mensagem_preservada": true,
-        "preliminar_preservado": true,
-        "enriquecimento_preservado_ate_reprocessamento": true,
-        "requer_reenriquecimento_04D_4_2": true,
-        "pregador_extraido_da_carta": null,
-        "observacao": "A Carta passa a ser a fonte oficial. Mensagem e preliminar foram preservados. O enriquecimento existente não é apagado nesta etapa; a 04D.4.2 deverá refazê-lo quando identificar carta_disponivel=True com meta anterior False."
       }
     },
     {
