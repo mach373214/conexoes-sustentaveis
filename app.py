@@ -9,6 +9,10 @@ from datetime import date, timedelta
 
 import json
 
+import re
+
+import unicodedata
+
 
 
 import streamlit as st
@@ -660,6 +664,230 @@ st.markdown(
     @media (prefers-color-scheme: dark) and (max-width: 430px) {
         .mobile-nav-title {color:#f8fafc !important;}
         .mobile-nav-help {color:#d1d5db !important;}
+    }
+
+
+    /* =========================================================
+       MENU_CARD_NATIVO_CLICAVEL_V1_0_2
+       REGRA: o próprio st.button ocupa 100% do cartão.
+       Sem overlay, sem href, sem query-param e sem botão invisível.
+       ========================================================= */
+
+    .st-key-menu_card_avisos,
+    .st-key-menu_card_mensagem,
+    .st-key-menu_card_carta,
+    .st-key-menu_card_estudo,
+    .st-key-menu_card_enriquecer,
+    .st-key-menu_card_historico {
+        padding: 0 !important;
+        cursor: pointer !important;
+    }
+
+    .st-key-menu_card_avisos div[data-testid="stVerticalBlock"],
+    .st-key-menu_card_mensagem div[data-testid="stVerticalBlock"],
+    .st-key-menu_card_carta div[data-testid="stVerticalBlock"],
+    .st-key-menu_card_estudo div[data-testid="stVerticalBlock"],
+    .st-key-menu_card_enriquecer div[data-testid="stVerticalBlock"],
+    .st-key-menu_card_historico div[data-testid="stVerticalBlock"] {
+        height: 100% !important;
+        min-height: 100% !important;
+        padding: 0 !important;
+        gap: 0 !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton,
+    .st-key-menu_card_mensagem div.stButton,
+    .st-key-menu_card_carta div.stButton,
+    .st-key-menu_card_estudo div.stButton,
+    .st-key-menu_card_enriquecer div.stButton,
+    .st-key-menu_card_historico div.stButton {
+        height: 100% !important;
+        min-height: 100% !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button,
+    .st-key-menu_card_mensagem div.stButton > button,
+    .st-key-menu_card_carta div.stButton > button,
+    .st-key-menu_card_estudo div.stButton > button,
+    .st-key-menu_card_enriquecer div.stButton > button,
+    .st-key-menu_card_historico div.stButton > button {
+        width: 100% !important;
+        height: 100% !important;
+        min-height: 100% !important;
+        max-height: none !important;
+        padding: 1.05rem .70rem !important;
+        margin: 0 !important;
+        border: 1px solid #d9dee5 !important;
+        border-radius: 14px !important;
+        background: white !important;
+        box-shadow: 0 2px 5px rgba(15, 23, 42, .07) !important;
+        cursor: pointer !important;
+
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        gap: .55rem !important;
+
+        white-space: normal !important;
+        overflow: hidden !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button:hover,
+    .st-key-menu_card_mensagem div.stButton > button:hover,
+    .st-key-menu_card_carta div.stButton > button:hover,
+    .st-key-menu_card_estudo div.stButton > button:hover,
+    .st-key-menu_card_enriquecer div.stButton > button:hover,
+    .st-key-menu_card_historico div.stButton > button:hover {
+        background: #f8fafc !important;
+        border-color: #cbd5e1 !important;
+        box-shadow: 0 4px 12px rgba(15, 23, 42, .11) !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button > div[data-testid="stMarkdownContainer"],
+    .st-key-menu_card_mensagem div.stButton > button > div[data-testid="stMarkdownContainer"],
+    .st-key-menu_card_carta div.stButton > button > div[data-testid="stMarkdownContainer"],
+    .st-key-menu_card_estudo div.stButton > button > div[data-testid="stMarkdownContainer"],
+    .st-key-menu_card_enriquecer div.stButton > button > div[data-testid="stMarkdownContainer"],
+    .st-key-menu_card_historico div.stButton > button > div[data-testid="stMarkdownContainer"] {
+        order: 2 !important;
+        min-height: 58px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button p,
+    .st-key-menu_card_mensagem div.stButton > button p,
+    .st-key-menu_card_carta div.stButton > button p,
+    .st-key-menu_card_estudo div.stButton > button p,
+    .st-key-menu_card_enriquecer div.stButton > button p,
+    .st-key-menu_card_historico div.stButton > button p {
+        margin: 0 !important;
+        color: #111827 !important;
+        font-size: .98rem !important;
+        line-height: 1.22 !important;
+        font-weight: 800 !important;
+        text-align: center !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button::before,
+    .st-key-menu_card_mensagem div.stButton > button::before,
+    .st-key-menu_card_carta div.stButton > button::before,
+    .st-key-menu_card_estudo div.stButton > button::before,
+    .st-key-menu_card_enriquecer div.stButton > button::before,
+    .st-key-menu_card_historico div.stButton > button::before {
+        order: 1 !important;
+        width: 54px !important;
+        height: 54px !important;
+        min-width: 54px !important;
+        min-height: 54px !important;
+        border-radius: 999px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        font-size: 1.85rem !important;
+        line-height: 1 !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button::after,
+    .st-key-menu_card_mensagem div.stButton > button::after,
+    .st-key-menu_card_carta div.stButton > button::after,
+    .st-key-menu_card_estudo div.stButton > button::after,
+    .st-key-menu_card_enriquecer div.stButton > button::after,
+    .st-key-menu_card_historico div.stButton > button::after {
+        order: 3 !important;
+        min-height: 68px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        color: #4b5563 !important;
+        font-size: .92rem !important;
+        line-height: 1.35 !important;
+        font-weight: 400 !important;
+        text-align: center !important;
+        white-space: normal !important;
+    }
+
+    .st-key-menu_card_avisos div.stButton > button::before {
+        content: "📣";
+        background: #fff0f3 !important;
+    }
+    .st-key-menu_card_avisos div.stButton > button::after {
+        content: "Comunicados oficiais da semana.";
+    }
+
+    .st-key-menu_card_mensagem div.stButton > button::before {
+        content: "▶️";
+        background: #eaf4ff !important;
+    }
+    .st-key-menu_card_mensagem div.stButton > button::after {
+        content: "Vídeo oficial já posicionado no início da pregação.";
+    }
+
+    .st-key-menu_card_carta div.stButton > button::before {
+        content: "📄";
+        background: #f3edff !important;
+    }
+    .st-key-menu_card_carta div.stButton > button::after {
+        content: "Material oficial do encontro, quando disponível.";
+    }
+
+    .st-key-menu_card_estudo div.stButton > button::before {
+        content: "📖";
+        background: #eaf4ff !important;
+    }
+    .st-key-menu_card_estudo div.stButton > button::after {
+        content: "Transcrição, ideias, perguntas, músicas e desafio.";
+    }
+
+    .st-key-menu_card_enriquecer div.stButton > button::before {
+        content: "✨";
+        background: #fff3df !important;
+    }
+    .st-key-menu_card_enriquecer div.stButton > button::after {
+        content: "Bíblia, cultura, atualidade, dinâmica e aplicação.";
+    }
+
+    .st-key-menu_card_historico div.stButton > button::before {
+        content: "📅";
+        background: #f3edff !important;
+    }
+    .st-key-menu_card_historico div.stButton > button::after {
+        content: "Consulte semanas e materiais já publicados.";
+    }
+
+    @media (max-width: 430px) {
+        .st-key-menu_card_avisos div.stButton > button,
+        .st-key-menu_card_mensagem div.stButton > button,
+        .st-key-menu_card_carta div.stButton > button,
+        .st-key-menu_card_estudo div.stButton > button,
+        .st-key-menu_card_enriquecer div.stButton > button,
+        .st-key-menu_card_historico div.stButton > button {
+            padding: .85rem .45rem !important;
+        }
+
+        .st-key-menu_card_avisos div.stButton > button p,
+        .st-key-menu_card_mensagem div.stButton > button p,
+        .st-key-menu_card_carta div.stButton > button p,
+        .st-key-menu_card_estudo div.stButton > button p,
+        .st-key-menu_card_enriquecer div.stButton > button p,
+        .st-key-menu_card_historico div.stButton > button p {
+            font-size: .96rem !important;
+        }
+
+        .st-key-menu_card_avisos div.stButton > button::after,
+        .st-key-menu_card_mensagem div.stButton > button::after,
+        .st-key-menu_card_carta div.stButton > button::after,
+        .st-key-menu_card_estudo div.stButton > button::after,
+        .st-key-menu_card_enriquecer div.stButton > button::after,
+        .st-key-menu_card_historico div.stButton > button::after {
+            min-height: 78px !important;
+            font-size: .90rem !important;
+        }
     }
 
     </style>
@@ -1792,108 +2020,60 @@ def lista_simples(itens):
 
 
 
+
+# COMPLEMENTARES_SEM_DUPLICAR_OFICIAL_V1_0_0
+BOOKS={"genesis":"GEN","exodo":"EXO","levitico":"LEV","numeros":"NUM","deuteronomio":"DEU",
+"josue":"JOS","juizes":"JDG","rute":"RUT","1 samuel":"1SA","2 samuel":"2SA","1 reis":"1KI","2 reis":"2KI",
+"1 cronicas":"1CH","2 cronicas":"2CH","esdras":"EZR","neemias":"NEH","ester":"EST","jo":"JOB","salmos":"PSA",
+"salmo":"PSA","proverbios":"PRO","eclesiastes":"ECC","canticos":"SNG","cantico dos canticos":"SNG",
+"isaias":"ISA","jeremias":"JER","lamentacoes":"LAM","ezequiel":"EZK","daniel":"DAN","oseias":"HOS","joel":"JOL",
+"amos":"AMO","obadias":"OBA","jonas":"JON","miqueias":"MIC","naum":"NAM","habacuque":"HAB","sofonias":"ZEP",
+"ageu":"HAG","zacarias":"ZEC","malaquias":"MAL","mateus":"MAT","marcos":"MRK","lucas":"LUK","joao":"JHN",
+"atos":"ACT","romanos":"ROM","1 corintios":"1CO","2 corintios":"2CO","galatas":"GAL","efesios":"EPH",
+"filipenses":"PHP","colossenses":"COL","1 tessalonicenses":"1TH","2 tessalonicenses":"2TH","1 timoteo":"1TI",
+"2 timoteo":"2TI","tito":"TIT","filemom":"PHM","hebreus":"HEB","tiago":"JAS","1 pedro":"1PE","2 pedro":"2PE",
+"1 joao":"1JN","2 joao":"2JN","3 joao":"3JN","judas":"JUD","apocalipse":"REV"}
+def _sa(v):
+    s=unicodedata.normalize("NFD",str(v or ""))
+    return re.sub(r"\s+"," ","".join(c for c in s if unicodedata.category(c)!="Mn")).strip().lower()
+def ref_path(v):
+    m=re.match(r"^(.+?)\s+(\d+)(?::(\d+)(?:\s*[-–—]\s*(\d+))?)?$",_sa(v))
+    if not m or m.group(1) not in BOOKS:return None
+    p=f"{BOOKS[m.group(1)]}.{m.group(2)}"
+    if m.group(3):p+=f".{m.group(3)}"+(f"-{m.group(4)}" if m.group(4) else "")
+    return p
+def refs_comp(itens,principal):
+    pp=ref_path(principal); out=[]
+    for x in (itens or []):
+        if not isinstance(x,dict):continue
+        rp=ref_path(x.get("referencia"))
+        if (pp and rp==pp) or (not pp and _sa(x.get("referencia"))==_sa(principal)):continue
+        out.append(x)
+    return out
+def url_video_generica(url):
+    try:p=urlparse(str(url or ""))
+    except Exception:return True
+    h=(p.netloc or "").lower().replace("www.",""); path=(p.path or "/").rstrip("/").lower()
+    return (h=="bibleproject.com" and path in {"","/","/portugues"}) or (h in {"youtube.com","m.youtube.com"} and path in {"","/","/results"})
+
+
 def render_referencias(itens, versao):
-
-
-
     if not itens:
-
-
-
-        st.info("Nenhuma referência priorizada nesta versão.")
-
-
-
+        st.info("Nenhum outro texto bíblico complementar foi priorizado nesta versão.")
         return
-
-
-
     for item in itens:
-
-
-
         if not isinstance(item, dict):
-
-
-
-            st.warning("Referência complementar em formato inesperado; item ignorado.")
-
-
-
-            continue
-
-
-
-        referencia = item.get("referencia") or "Referência bíblica"
-
-
-
+            st.warning("Referência complementar em formato inesperado; item ignorado."); continue
+        referencia=item.get("referencia") or "Referência bíblica"
         st.markdown(f"#### {referencia}")
-
-
-
-        if item.get("conexao"):
-
-
-
-            st.write(item["conexao"])
-
-
-
-        if item.get("como_usar"):
-
-
-
-            st.markdown(f"**Como usar:** {item['como_usar']}")
-
-
-
-        if item.get("pergunta"):
-
-
-
-            st.markdown(f"**Pergunta:** {item['pergunta']}")
-
-
-
-        url = url_youversion(item.get("youversion_ref"), versao)
-
-
-
-        if url:
-
-
-
-            sigla = versao.get("sigla", "")
-
-
-
-            st.link_button(f"📖 Ler no YouVersion ({sigla})", url)
-
-
-
-        elif item.get("youversion_ref"):
-
-
-
-            st.caption("Link direto aguardando identificação da versão bíblica indicada pela Carta ou mensagem.")
-
-
-
+        if item.get("conexao"): st.write(item["conexao"])
+        if item.get("como_usar"): st.markdown(f"**Como usar:** {item['como_usar']}")
+        if item.get("pergunta"): st.markdown(f"**Pergunta:** {item['pergunta']}")
+        raw=str(item.get("youversion_ref") or "").strip()
+        url=raw if raw.lower().startswith(("http://","https://")) else url_youversion(raw or ref_path(referencia),versao)
+        if url: st.link_button(f"📖 Ler no YouVersion ({versao.get('sigla','')})",url)
+        else: st.caption("Link direto não pôde ser montado com segurança para esta referência.")
         st.divider()
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 def render_obras(itens, livro=False):
@@ -2413,111 +2593,31 @@ def render_obras(itens, livro=False):
 
 
 def render_videos(itens):
-
+    # VIDEO_COMPLEMENTAR_LINK_ESPECIFICO_V1_0_0
     if not itens:
-
-        st.info("Nenhum vídeo priorizado nesta versão.")
-
-        return
-
-
-
+        st.info("Nenhum vídeo priorizado nesta versão."); return
     for item in itens:
-
-        if not isinstance(item, dict):
-
-            st.warning("Vídeo complementar em formato inesperado; item ignorado.")
-
-            continue
-
-
-
+        if not isinstance(item,dict):
+            st.warning("Vídeo complementar em formato inesperado; item ignorado."); continue
         st.markdown(f"#### {item.get('titulo') or 'Vídeo complementar'}")
-
-
-
-        if item.get("fonte"):
-
-            st.caption(item["fonte"])
-
-        if item.get("conexao"):
-
-            st.write(item["conexao"])
-
-        if item.get("como_usar"):
-
-            st.markdown(f"**Como usar:** {item['como_usar']}")
-
-        if item.get("pergunta"):
-
-            st.markdown(f"**Pergunta:** {item['pergunta']}")
-
-
-
-        if item.get("url"):
-
-            url_base = url_youtube_canonica(item["url"])
-
-
-
-            try:
-
-                inicio = int(item.get("inicio_segundos") or 0)
-
-            except (TypeError, ValueError):
-
-                inicio = 0
-
-
-
-            url_botao = adicionar_inicio_youtube(url_base, inicio)
-
-
-
-            if url_video_incorporavel(url_base):
-
-                try:
-
-                    st.video(url_base, start_time=inicio)
-
-                except Exception:
-
-                    st.caption(
-
-                        "Não foi possível incorporar esta mídia; "
-
-                        "use o botão abaixo."
-
-                    )
-
-            else:
-
-                st.caption(
-
-                    "Este recurso é uma página externa. "
-
-                    "Abra pelo botão abaixo."
-
-                )
-
-
-
-            st.link_button(
-
-                "🎞️ Abrir recurso diretamente",
-
-                url_botao,
-
-            )
-
-        else:
-
-            st.caption("Link do vídeo ainda não disponível.")
-
-
-
+        if item.get("fonte"): st.caption(item["fonte"])
+        if item.get("conexao"): st.write(item["conexao"])
+        if item.get("como_usar"): st.markdown(f"**Como usar:** {item['como_usar']}")
+        if item.get("pergunta"): st.markdown(f"**Pergunta:** {item['pergunta']}")
+        raw=str(item.get("url") or "").strip()
+        if raw and not url_video_generica(raw):
+            base=url_youtube_canonica(raw)
+            try: inicio=int(item.get("inicio_segundos") or 0)
+            except (TypeError,ValueError): inicio=0
+            direct=adicionar_inicio_youtube(base,inicio)
+            if url_video_incorporavel(base):
+                try: st.video(base,start_time=inicio)
+                except Exception: st.caption("Não foi possível incorporar esta mídia; use o botão abaixo.")
+            else: st.caption("Este recurso abre em uma página externa específica.")
+            st.link_button("🎞️ Abrir recurso diretamente",direct)
+        elif raw: st.warning("O endereço registrado é genérico e foi bloqueado para não abrir um tema incorreto.")
+        else: st.caption("Link específico do vídeo ainda não disponível.")
         st.divider()
-
 
 
 def render_musicas_oficiais(itens):
@@ -4524,86 +4624,48 @@ if nav_mode == "inicio":
         menu_cols = st.columns(6, gap="small")
 
         with menu_cols[0]:
-            with st.container(key="menu_card_avisos", border=True):
-                st.markdown('<div class="menu-card-icon">📣</div>', unsafe_allow_html=True)
+            with st.container(key="menu_card_avisos"):
                 if st.button("AVISOS DA SEMANA", key="nav_avisos", use_container_width=True):
                     st.session_state.nav_mobile_idosos = "avisos"
                     st.rerun()
-                st.markdown(
-                    '<div class="menu-card-note">Comunicados oficiais da semana.</div>',
-                    unsafe_allow_html=True,
-                )
 
         with menu_cols[1]:
-            with st.container(key="menu_card_mensagem", border=True):
-                st.markdown('<div class="menu-card-icon">▶️</div>', unsafe_allow_html=True)
+            with st.container(key="menu_card_mensagem"):
                 if st.button("ASSISTIR À MENSAGEM", key="nav_mensagem", use_container_width=True):
                     st.session_state.nav_mobile_idosos = "mensagem"
                     st.rerun()
-                st.markdown(
-                    '<div class="menu-card-note">Vídeo oficial já posicionado no início da pregação.</div>',
-                    unsafe_allow_html=True,
-                )
 
         with menu_cols[2]:
-            with st.container(key="menu_card_carta", border=True):
-                st.markdown('<div class="menu-card-icon">📄</div>', unsafe_allow_html=True)
+            with st.container(key="menu_card_carta"):
                 if st.button("CARTA DA CÉLULA", key="nav_carta", use_container_width=True):
                     st.session_state.nav_mobile_idosos = "carta"
                     st.rerun()
-                st.markdown(
-                    '<div class="menu-card-note">Material oficial do encontro, quando disponível.</div>',
-                    unsafe_allow_html=True,
-                )
 
         with menu_cols[3]:
-            with st.container(key="menu_card_estudo", border=True):
-                st.markdown('<div class="menu-card-icon">📖</div>', unsafe_allow_html=True)
+            with st.container(key="menu_card_estudo"):
                 if st.button("ACOMPANHAR O ESTUDO", key="nav_estudo", use_container_width=True):
                     st.session_state.nav_mobile_idosos = "estudo"
                     st.rerun()
-                st.markdown(
-                    '<div class="menu-card-note">Transcrição, ideias, perguntas, músicas e desafio.</div>',
-                    unsafe_allow_html=True,
-                )
 
         with menu_cols[4]:
-            with st.container(key="menu_card_enriquecer", border=True):
-                st.markdown('<div class="menu-card-icon">✨</div>', unsafe_allow_html=True)
+            with st.container(key="menu_card_enriquecer"):
                 if st.button("ENRIQUECER A DISCUSSÃO", key="nav_enriquecer", use_container_width=True):
                     st.session_state.nav_mobile_idosos = "enriquecer"
                     st.rerun()
-                st.markdown(
-                    '<div class="menu-card-note">Bíblia, cultura, atualidade, dinâmica e aplicação.</div>',
-                    unsafe_allow_html=True,
-                )
 
         with menu_cols[5]:
-            with st.container(key="menu_card_historico", border=True):
-                st.markdown('<div class="menu-card-icon">📅</div>', unsafe_allow_html=True)
+            with st.container(key="menu_card_historico"):
                 if st.button("ESTUDOS ANTERIORES", key="nav_historico", use_container_width=True):
                     st.session_state.nav_mobile_idosos = "historico"
                     st.rerun()
-                st.markdown(
-                    '<div class="menu-card-note">Consulte semanas e materiais já publicados.</div>',
-                    unsafe_allow_html=True,
-                )
 
     st.divider()
     st.markdown("### 📝 Avaliação do app")
     st.write("Sua opinião ajuda a melhorar este aplicativo.")
     with st.popover("📝 Responder avaliação", use_container_width=True):
         st.markdown("**Escolha seu perfil:**")
-        st.link_button(
-            "👥 Sou Líder de Célula",
-            "https://forms.gle/SVBxwBspJj4osbhBA",
-            use_container_width=True,
-        )
-        st.link_button(
-            "🙋 Sou Membro de Célula",
-            "https://forms.gle/CDDAnigyCTzQ8qNP7",
-            use_container_width=True,
-        )
+        st.link_button("👥 Sou Líder de Célula","https://forms.gle/SVBxwBspJj4osbhBA",use_container_width=True)
+        st.link_button("🙋 Sou Membro de Célula","https://forms.gle/CDDAnigyCTzQ8qNP7",use_container_width=True)
     st.caption("Conexões Sustentáveis • Extensão II • Conteúdo complementar sujeito a revisão humana.")
     st.stop()
 
@@ -4710,7 +4772,9 @@ st.divider()
 
 
 
-st.subheader("⭐ Três recursos prioritários para este encontro")
+st.subheader("🔎 Enriquecendo a discussão")
+st.caption("Conteúdo complementar separado das fontes oficiais. Quando a Carta estiver pendente, o material é preliminar e deve ser conciliado depois.")
+st.subheader("⭐ Recursos prioritários para este encontro")
 
 
 
@@ -4754,30 +4818,6 @@ st.divider()
 
 
 
-st.subheader("🔎 Enriquecendo a discussão")
-
-
-
-st.caption(
-
-
-
-    "Conteúdo complementar separado das fontes oficiais. "
-
-
-
-    "Quando a Carta estiver pendente, o material é preliminar e deve ser conciliado depois."
-
-
-
-)
-
-
-
-
-
-
-
 with st.expander("📖 Outros textos bíblicos", expanded=False):
 
 
@@ -4786,7 +4826,7 @@ with st.expander("📖 Outros textos bíblicos", expanded=False):
 
 
 
-    render_referencias(estudo.get("referencias_biblicas", []), versao)
+    render_referencias(refs_comp(estudo.get("referencias_biblicas", []), estudo.get("texto_principal")), versao)
 
 
 
