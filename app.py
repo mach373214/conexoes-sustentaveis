@@ -890,6 +890,156 @@ st.markdown(
         }
     }
 
+
+    /* =========================================================
+       CABECALHO_PERIODO_DESTAQUE_V1_0_3
+       ========================================================= */
+    .periodo-destaque {
+        margin: .08rem 0 .55rem 0;
+        color: #1f2937;
+        font-size: 1.30rem;
+        line-height: 1.35;
+        font-weight: 500;
+    }
+
+    .periodo-destaque strong {
+        font-weight: 800;
+    }
+
+    /* =========================================================
+       ACESSOS_AUXILIARES_2COL_V1_0_3
+       ========================================================= */
+    .st-key-acessos_auxiliares div[data-testid="stHorizontalBlock"] {
+        display: grid !important;
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        gap: .65rem !important;
+        width: 100% !important;
+        align-items: start !important;
+    }
+
+    .st-key-acessos_auxiliares div[data-testid="stHorizontalBlock"] > div {
+        width: 100% !important;
+        min-width: 0 !important;
+        max-width: none !important;
+        flex: none !important;
+    }
+
+    @media (max-width: 600px) {
+        .periodo-destaque {
+            font-size: 1.22rem;
+            line-height: 1.38;
+            margin-bottom: .50rem;
+        }
+
+        .st-key-acessos_auxiliares div[data-testid="stHorizontalBlock"] {
+            grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+            gap: .45rem !important;
+        }
+    }
+
+
+    /* =========================================================
+       AJUSTES_BOTOES_HISTORICO_256_V1_0_1
+       ========================================================= */
+
+    /* COMO USAR: st.expander */
+    .st-key-acessos_auxiliares div[data-testid="stExpander"] details > summary,
+    .st-key-acessos_auxiliares div[data-testid="stExpander"] summary {
+        min-height: 3.15rem !important;
+        height: 3.15rem !important;
+        padding-top: .60rem !important;
+        padding-bottom: .60rem !important;
+        padding-left: .85rem !important;
+        padding-right: .85rem !important;
+        display: flex !important;
+        align-items: center !important;
+        font-size: 1rem !important;
+        line-height: 1.2 !important;
+    }
+
+    .st-key-acessos_auxiliares div[data-testid="stExpander"] summary p,
+    .st-key-acessos_auxiliares div[data-testid="stExpander"] summary span {
+        font-size: 1rem !important;
+        line-height: 1.2 !important;
+    }
+
+    /* AVALIAÇÃO: st.popover */
+    .st-key-acessos_auxiliares div[data-testid="stPopover"] > button,
+    .st-key-acessos_auxiliares div[data-testid="stPopover"] button {
+        min-height: 3.15rem !important;
+        height: 3.15rem !important;
+        padding-top: .60rem !important;
+        padding-bottom: .60rem !important;
+        padding-left: .85rem !important;
+        padding-right: .85rem !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        font-size: 1rem !important;
+        line-height: 1.2 !important;
+    }
+
+    .st-key-acessos_auxiliares div[data-testid="stPopover"] button p,
+    .st-key-acessos_auxiliares div[data-testid="stPopover"] button span {
+        font-size: 1rem !important;
+        line-height: 1.2 !important;
+    }
+
+    .st-key-acessos_auxiliares div[data-testid="stHorizontalBlock"] > div {
+        align-self: stretch !important;
+    }
+
+    /* HISTÓRICO */
+    .historico-label-maior {
+        font-size: 1.12rem !important;
+        line-height: 1.35 !important;
+        font-weight: 700 !important;
+        color: #1f2937 !important;
+        margin: .10rem 0 .42rem 0 !important;
+    }
+
+    .st-key-historico_seletor_maior div[data-baseweb="select"] > div {
+        min-height: 3.15rem !important;
+        height: auto !important;
+        font-size: 1.17rem !important;
+    }
+
+    .st-key-historico_seletor_maior div[data-baseweb="select"] div,
+    .st-key-historico_seletor_maior div[data-baseweb="select"] span,
+    .st-key-historico_seletor_maior div[data-baseweb="select"] input,
+    .st-key-historico_seletor_maior [role="combobox"],
+    .st-key-historico_seletor_maior [role="combobox"] * {
+        font-size: 1.17rem !important;
+        line-height: 1.35 !important;
+    }
+
+    @media (max-width: 600px) {
+        .st-key-acessos_auxiliares div[data-testid="stExpander"] details > summary,
+        .st-key-acessos_auxiliares div[data-testid="stExpander"] summary,
+        .st-key-acessos_auxiliares div[data-testid="stPopover"] > button,
+        .st-key-acessos_auxiliares div[data-testid="stPopover"] button {
+            min-height: 3.35rem !important;
+            height: 3.35rem !important;
+            font-size: .98rem !important;
+        }
+
+        .historico-label-maior {
+            font-size: 1.16rem !important;
+        }
+
+        .st-key-historico_seletor_maior div[data-baseweb="select"] > div {
+            min-height: 3.30rem !important;
+        }
+
+        .st-key-historico_seletor_maior div[data-baseweb="select"] div,
+        .st-key-historico_seletor_maior div[data-baseweb="select"] span,
+        .st-key-historico_seletor_maior div[data-baseweb="select"] input,
+        .st-key-historico_seletor_maior [role="combobox"],
+        .st-key-historico_seletor_maior [role="combobox"] * {
+            font-size: 1.20rem !important;
+        }
+    }
+
     </style>
 
 
@@ -4329,109 +4479,6 @@ st.markdown(
 
 
 
-with st.expander("📘 Como usar este aplicativo — Guia rápido", expanded=False):
-    st.write(
-        "Esta versão do guia foi organizada para leitura mais confortável no celular. "
-        "Escolha uma etapa abaixo e siga em sequência."
-    )
-
-    guia_png = APP_DIR / "assets" / "guia" / "Guia_Visual_App_Conexoes_Sustentaveis.png"
-    guia_pdf = APP_DIR / "assets" / "guia" / "Guia_Visual_App_Conexoes_Sustentaveis.pdf"
-
-    guia_mobile_etapa = st.radio(
-        "Etapas do guia:",
-        [
-            "1. Como começar",
-            "2. Conteúdo Oficial",
-            "3. Conteúdo Complementar",
-            "4. Dicas rápidas",
-        ],
-        index=0,
-        key="guia_mobile_etapa",
-    )
-
-    if guia_mobile_etapa == "1. Como começar":
-        st.markdown("#### 1. Como começar")
-        st.markdown(
-            "- Use o **Histórico de Mensagens e Estudos** para consultar a semana atual ou semanas anteriores.\n"
-            "- Abra primeiro a **Fonte oficial da semana**.\n"
-            "- Siga a ordem do estudo apresentada no próprio app.\n"
-            "- Use a **Mensagem**, a **Transcrição** e a **Carta da Célula** como base principal.\n"
-            "- Depois avance para os demais itens oficiais do encontro."
-        )
-
-        st.markdown("##### 📚 Como funciona o histórico")
-        st.markdown(
-            "- Os estudos e as Cartas anteriores a 09/08/2026 serviram como **referência para calibrar e validar** "
-            "o processo automatizado que identifica novas mensagens do culto de **domingo, às 18h30**.\n"
-            "- A partir da mensagem identificada, o sistema pode produzir material de apoio e "
-            "**conteúdo complementar**, com ou sem uma **Carta da Célula** disponível."
-        )
-        st.warning(
-            "Como parte desse material é produzida com apoio de Inteligência Artificial, "
-            "a revisão e a supervisão humana continuam necessárias antes do uso no encontro."
-        )
-
-    elif guia_mobile_etapa == "2. Conteúdo Oficial":
-        st.markdown("#### 2. Conteúdo Oficial")
-        st.markdown(
-            "Use primeiro os conteúdos oficiais da semana:\n\n"
-            "- **Mensagem**\n"
-            "- **Transcrição**\n"
-            "- **Carta da Célula**\n"
-            "- **Ideias Centrais**\n"
-            "- **Perguntas Oficiais**\n"
-            "- **Músicas Indicadas**\n"
-            "- **Desafio Prático**"
-        )
-        st.success("Esses itens são a base principal do encontro.")
-
-    elif guia_mobile_etapa == "3. Conteúdo Complementar":
-        st.markdown("#### 3. Conteúdo Complementar")
-        st.markdown(
-            "Depois do conteúdo oficial, você pode usar os materiais complementares para enriquecer a conversa:\n\n"
-            "- **Outros textos bíblicos**\n"
-            "- **Filmes**\n"
-            "- **Livros**\n"
-            "- **Músicas**\n"
-            "- **Vídeos animados**\n"
-            "- **Temas na atualidade**"
-        )
-        st.info("O conteúdo complementar amplia a discussão, mas não substitui o conteúdo oficial.")
-
-    else:
-        st.markdown("#### 4. Dicas rápidas")
-        st.markdown(
-            "- No celular, a **Carta da Célula** pode abrir separadamente. Para voltar, retorne ao app no navegador.\n"
-            "- Nem toda semana terá todos os itens disponíveis no mesmo momento.\n"
-            "- Quando houver Carta, o tema deve estar alinhado à semana correspondente.\n"
-            "- Ao final do uso, responda a **Avaliação do app**."
-        )
-        st.warning("Se algum item ainda não estiver disponível, siga normalmente com o restante do estudo.")
-
-    st.divider()
-
-    with st.expander("🖼️ Ver versão visual resumida", expanded=False):
-        if guia_png.is_file():
-            st.image(
-                str(guia_png),
-                caption="Guia Visual resumido do App Conexões Sustentáveis",
-                use_container_width=True,
-            )
-        else:
-            st.info("A versão visual resumida ainda não está disponível neste ambiente.")
-
-    if guia_pdf.is_file():
-        st.download_button(
-            "📄 Baixar guia em PDF",
-            data=guia_pdf.read_bytes(),
-            file_name="Guia_Visual_App_Conexoes_Sustentaveis.pdf",
-            mime="application/pdf",
-            use_container_width=False,
-        )
-    else:
-        st.info("O PDF do guia ainda não está disponível neste ambiente.")
-
 opcoes = {rotulo_estudo(e): e for e in estudos}
 
 if "estudo_selecionado_rotulo" not in st.session_state:
@@ -4456,13 +4503,19 @@ if nav_mode == "historico":
     atual = st.session_state.estudo_selecionado_rotulo
     indice_atual = rotulos.index(atual) if atual in rotulos else 0
 
-    novo_rotulo = st.selectbox(
-        "Escolha a semana:",
-        options=rotulos,
-        index=indice_atual,
-        help="A semana atual continua aparecendo primeiro.",
-        key="historico_mobile_idosos",
+    st.markdown(
+        '<div class="historico-label-maior">Escolha a semana:</div>',
+        unsafe_allow_html=True,
     )
+    with st.container(key="historico_seletor_maior"):
+        novo_rotulo = st.selectbox(
+            "Escolha a semana:",
+            options=rotulos,
+            index=indice_atual,
+            help="A semana atual continua aparecendo primeiro.",
+            key="historico_mobile_idosos",
+            label_visibility="collapsed",
+        )
 
     if novo_rotulo != st.session_state.estudo_selecionado_rotulo:
         st.session_state.estudo_selecionado_rotulo = novo_rotulo
@@ -4484,6 +4537,13 @@ if nav_mode == "historico":
 
 # aviso técnico movido para o rodapé
 
+
+
+st.markdown(
+    f'<div class="periodo-destaque"><strong>Período:</strong> {estudo["periodo"]}</div>',
+    unsafe_allow_html=True,
+)
+carta_ok, transcricao_ok, mensagem_ok = avaliar_estado_fontes(estudo)
 
 
 st.header(estudo["tema"])
@@ -4574,7 +4634,6 @@ render_versao_biblica(versao)
 
 
 
-st.write(f"**Período:** {estudo['periodo']}")
 
 
 
@@ -4582,7 +4641,8 @@ st.write(f"**Período:** {estudo['periodo']}")
 
 
 
-carta_ok, transcricao_ok, mensagem_ok = avaliar_estado_fontes(estudo)
+
+
 
 
 
@@ -4634,13 +4694,132 @@ if nav_mode == "inicio":
                     st.rerun()
 
     st.divider()
-    st.markdown("### 📝 Avaliação do app")
-    st.write("Sua opinião ajuda a melhorar este aplicativo.")
-    with st.popover("📝 Responder avaliação", use_container_width=True):
-        st.markdown("**Escolha seu perfil:**")
-        st.link_button("👥 Sou Líder de Célula","https://forms.gle/SVBxwBspJj4osbhBA",use_container_width=True)
-        st.link_button("🙋 Sou Membro de Célula","https://forms.gle/CDDAnigyCTzQ8qNP7",use_container_width=True)
-    st.caption("Conexões Sustentáveis • Extensão II • Conteúdo complementar sujeito a revisão humana.")
+    with st.container(key="acessos_auxiliares"):
+        col_guia_app, col_avaliacao_app = st.columns(2, gap="small")
+
+        with col_guia_app:
+            with st.expander("📘 Como usar este aplicativo — Guia rápido", expanded=False):
+                st.write(
+                    "Esta versão do guia foi organizada para leitura mais confortável no celular. "
+                    "Escolha uma etapa abaixo e siga em sequência."
+                )
+
+                guia_png = APP_DIR / "assets" / "guia" / "Guia_Visual_App_Conexoes_Sustentaveis.png"
+                guia_pdf = APP_DIR / "assets" / "guia" / "Guia_Visual_App_Conexoes_Sustentaveis.pdf"
+
+                guia_mobile_etapa = st.radio(
+                    "Etapas do guia:",
+                    [
+                        "1. Como começar",
+                        "2. Conteúdo Oficial",
+                        "3. Conteúdo Complementar",
+                        "4. Dicas rápidas",
+                    ],
+                    index=0,
+                    key="guia_mobile_etapa",
+                )
+
+                if guia_mobile_etapa == "1. Como começar":
+                    st.markdown("#### 1. Como começar")
+                    st.markdown(
+                        "- Use o **Histórico de Mensagens e Estudos** para consultar a semana atual ou semanas anteriores.\n"
+                        "- Abra primeiro a **Fonte oficial da semana**.\n"
+                        "- Siga a ordem do estudo apresentada no próprio app.\n"
+                        "- Use a **Mensagem**, a **Transcrição** e a **Carta da Célula** como base principal.\n"
+                        "- Depois avance para os demais itens oficiais do encontro."
+                    )
+
+                    st.markdown("##### 📚 Como funciona o histórico")
+                    st.markdown(
+                        "- Os estudos e as Cartas anteriores a 09/08/2026 serviram como **referência para calibrar e validar** "
+                        "o processo automatizado que identifica novas mensagens do culto de **domingo, às 18h30**.\n"
+                        "- A partir da mensagem identificada, o sistema pode produzir material de apoio e "
+                        "**conteúdo complementar**, com ou sem uma **Carta da Célula** disponível."
+                    )
+                    st.warning(
+                        "Como parte desse material é produzida com apoio de Inteligência Artificial, "
+                        "a revisão e a supervisão humana continuam necessárias antes do uso no encontro."
+                    )
+
+                elif guia_mobile_etapa == "2. Conteúdo Oficial":
+                    st.markdown("#### 2. Conteúdo Oficial")
+                    st.markdown(
+                        "Use primeiro os conteúdos oficiais da semana:\n\n"
+                        "- **Mensagem**\n"
+                        "- **Transcrição**\n"
+                        "- **Carta da Célula**\n"
+                        "- **Ideias Centrais**\n"
+                        "- **Perguntas Oficiais**\n"
+                        "- **Músicas Indicadas**\n"
+                        "- **Desafio Prático**"
+                    )
+                    st.success("Esses itens são a base principal do encontro.")
+
+                elif guia_mobile_etapa == "3. Conteúdo Complementar":
+                    st.markdown("#### 3. Conteúdo Complementar")
+                    st.markdown(
+                        "Depois do conteúdo oficial, você pode usar os materiais complementares para enriquecer a conversa:\n\n"
+                        "- **Outros textos bíblicos**\n"
+                        "- **Filmes**\n"
+                        "- **Livros**\n"
+                        "- **Músicas**\n"
+                        "- **Vídeos animados**\n"
+                        "- **Temas na atualidade**"
+                    )
+                    st.info("O conteúdo complementar amplia a discussão, mas não substitui o conteúdo oficial.")
+
+                else:
+                    st.markdown("#### 4. Dicas rápidas")
+                    st.markdown(
+                        "- No celular, a **Carta da Célula** pode abrir separadamente. Para voltar, retorne ao app no navegador.\n"
+                        "- Nem toda semana terá todos os itens disponíveis no mesmo momento.\n"
+                        "- Quando houver Carta, o tema deve estar alinhado à semana correspondente.\n"
+                        "- Ao final do uso, responda a **Avaliação do app**."
+                    )
+                    st.warning("Se algum item ainda não estiver disponível, siga normalmente com o restante do estudo.")
+
+                st.divider()
+
+                with st.expander("🖼️ Ver versão visual resumida", expanded=False):
+                    if guia_png.is_file():
+                        st.image(
+                            str(guia_png),
+                            caption="Guia Visual resumido do App Conexões Sustentáveis",
+                            use_container_width=True,
+                        )
+                    else:
+                        st.info("A versão visual resumida ainda não está disponível neste ambiente.")
+
+                if guia_pdf.is_file():
+                    st.download_button(
+                        "📄 Baixar guia em PDF",
+                        data=guia_pdf.read_bytes(),
+                        file_name="Guia_Visual_App_Conexoes_Sustentaveis.pdf",
+                        mime="application/pdf",
+                        use_container_width=False,
+                    )
+                else:
+                    st.info("O PDF do guia ainda não está disponível neste ambiente.")
+
+        with col_avaliacao_app:
+            with st.popover("📝 Avaliação do app", use_container_width=True):
+                st.write("Sua opinião ajuda a melhorar este aplicativo.")
+                st.markdown("**Escolha seu perfil:**")
+                st.link_button(
+                    "👥 Sou Líder de Célula",
+                    "https://forms.gle/SVBxwBspJj4osbhBA",
+                    use_container_width=True,
+                )
+                st.link_button(
+                    "🙋 Sou Membro de Célula",
+                    "https://forms.gle/CDDAnigyCTzQ8qNP7",
+                    use_container_width=True,
+                )
+
+    st.caption(
+        "Conexões Sustentáveis • Extensão II • "
+        "Conteúdo complementar sujeito a revisão humana."
+    )
     st.stop()
 
 
