@@ -2,8 +2,8 @@
   "estudos": [
     {
       "id": "2026-08-30",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
+      "status": "carta_oficial_reconciliada",
+      "tema": "CASAS DE AMOR",
       "texto_principal": "Aguardando identificação",
       "texto_principal_youversion": null,
       "periodo": "30 de agosto a 05 de setembro de 2026",
@@ -20,8 +20,16 @@
         "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
       },
       "carta": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "Carta Célula 31 - 30 08 2026.pdf",
+        "origem": "Carta da Célula 31",
+        "hash_sha256": "c549a1fb359d61f188ef5dd4cb1f18d775462b284f53e3df0b57106c1853e935",
+        "numero": 31,
+        "extracao_status": "automatico_pendente_revisao",
+        "origem_data": "periodo_pdf",
+        "data_documento": "2026-08-30",
+        "tema_extracao_status": "apos_edificar_pendente_revisao",
+        "arquivo_app": "assets/cartas/carta_2026-08-30.pdf"
       },
       "transcricao": {
         "status": "aguardando",
@@ -33,21 +41,252 @@
         "sigla": "NAA",
         "nome": "Nova Almeida Atualizada",
         "id_youversion": 1840,
-        "fonte": "Padrão do aplicativo"
+        "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
-      "oficial": {},
+      "oficial": {
+        "ideias_centrais": [
+          "Cadastre quem está sendo discipulado",
+          "Oriente a Célula a continuar orando pelas RIs",
+          "Ore com a Célula e por toda a Igreja",
+          "Revista-se de autoridade para alcançar as RIs"
+        ],
+        "perguntas": [
+          "Em quais áreas da nossa vida podemos estar tão ocupados, frustrados ou acostumados com a rotina que deixamos de perceber a presença e a voz de Jesus? O que precisamos mudar para voltar a ouvi-lo?",
+          "Pedro precisou sair da superficialidade e entrar em águas profundas para experimentar o poder e o governo de Jesus. O que significa, na prática, permitir que Jesus governe áreas mais profundas da nossa vida? Existe alguma área que ainda estamos tentando controlar?",
+          "Pedro disse: “Mas, sob a tua palavra, lançarei as redes” e, depois da experiência com Jesus, deixou tudo para segui-lo. O que o nosso “sim” para Jesus precisa significar hoje? O que precisamos entregar ao Senhor para viver plenamente o propósito dEle?"
+        ],
+        "musicas": [
+          {
+            "titulo": "Primeira Essência",
+            "interprete": null,
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Primeira+Ess%C3%AAncia+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Abraça-me + Jesus meu primeiro amor",
+            "interprete": null,
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Abra%C3%A7a-me+%2B+Jesus+meu+primeiro+amor+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "O Que Tua Glória Fez Comigo",
+            "interprete": null,
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=O+Que+Tua+Gl%C3%B3ria+Fez+Comigo+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          }
+        ],
+        "desafio": null
+      },
       "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
-      "musicas_complementares": [],
-      "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
-      "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "referencias_biblicas": [
+        {
+          "referencia": "João 13:34-35",
+          "conexao": "O amor visível entre os discípulos é apresentado por Jesus como sinal público do discipulado. Ajuda a transformar o tema “Casas de Amor” em práticas concretas de cuidado, reconciliação e acolhimento.",
+          "como_usar": "Leia o texto e peça que o grupo identifique comportamentos observáveis que fariam uma Célula ser reconhecida como uma casa de amor.",
+          "pergunta": "Que atitude concreta nesta semana pode tornar nossa Célula mais parecida com uma casa de amor?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/JHN.13.34-35.NVI"
+        },
+        {
+          "referencia": "Atos 2:42-47",
+          "conexao": "Apresenta uma comunidade que perseverava no ensino, na comunhão, nas refeições, nas orações e no cuidado conforme as necessidades. Conecta-se diretamente à vida em pequenos grupos e à oração pela Igreja.",
+          "como_usar": "Leia em blocos: práticas espirituais, convivência nas casas, cuidado material e alcance de novas pessoas.",
+          "pergunta": "Qual dessas práticas precisa ser fortalecida entre nós: ensino, comunhão, oração, partilha ou acolhimento?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/ACT.2.42-47.NVI"
+        },
+        {
+          "referencia": "Lucas 10:1-9",
+          "conexao": "Jesus envia discípulos de dois em dois e orienta que, ao entrarem numa casa, anunciem paz, permaneçam em relacionamento e sirvam. Oferece base bíblica para alcançar RIs com oração, presença e cuidado responsável.",
+          "como_usar": "Destaque as expressões “de dois em dois”, “paz a esta casa” e “fiquem naquela casa”. Relacione-as à abordagem respeitosa e não invasiva.",
+          "pergunta": "Como podemos levar paz, escuta e serviço a uma pessoa ou família sem tratá-la apenas como um projeto?",
+          "youversion_ref": "https://www.bible.com/bible/129/LUK.10.NVI?parallel=104"
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "filme",
+          "titulo": "Um Lindo Dia na Vizinhança",
+          "conexao": "O filme mostra como escuta, gentileza, perdão e presença podem transformar uma relação marcada por dor e desconfiança. É uma ponte cultural para conversar sobre casas emocionalmente seguras e sobre o amor que acolhe sem negar os conflitos.",
+          "como_usar": "Exiba o trailer ou selecione uma cena apropriada. Depois, converse sobre a diferença entre simpatia superficial e cuidado perseverante.",
+          "pergunta": "Que tipo de presença ajuda uma pessoa ferida a voltar a confiar?",
+          "url_oficial": "https://www.sonypictures.com/movies/abeautifuldayintheneighborhood",
+          "url_clipe": "https://www.youtube.com/watch?v=-VLEPhfEN2M",
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "Comunidade verdadeira: A prática bíblica da koinonia",
+          "autor": "Jerry Bridges",
+          "conexao": "Explora a comunhão cristã como participação numa vida comum em Cristo, parceria no evangelho, cuidado mútuo e compartilhamento. Reforça que uma casa de amor não é apenas um encontro social, mas uma comunidade de relacionamento e serviço.",
+          "como_usar": "Leia previamente o trecho sobre Atos 2 e koinonia. Em grupo, compare a ideia de comunhão como relacionamento com a tendência de reduzir a Célula a uma reunião semanal.",
+          "pergunta": "O que mudaria em nossa rotina se comunhão fosse entendida como partilha de vida, e não apenas como atividade?",
+          "url_trecho": "https://institucional.vidanova.com.br/wp-content/uploads/comunidade_verdadeira_trecho.pdf",
+          "url_pdf_legal": null,
+          "url_audio_legal": null,
+          "url_editora": "https://www.vidanova.com.br/livros/comunidade-verdadeira-a-pratica-biblica-da-koinonia",
+          "nota_acesso": "Foi encontrado trecho legal em português disponibilizado pela editora. A página da editora informa disponibilidade do e-book e indica audiolivro nas lojas, mas não foi localizado um áudio gratuito ou uma prévia de áudio legal diretamente acessível."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "O dia de Pentecostes: Atos 1–7",
+          "fonte": "BibleProject Português",
+          "url": "https://bibleproject.com/pt-br/videos/o-dia-de-pentecostes-atos-1-7/",
+          "conexao": "Ajuda o grupo a visualizar como o Espírito capacita uma comunidade de discípulos para viver em comunhão e anunciar as boas-novas.",
+          "como_usar": "Exiba o vídeo de 6 minutos antes da leitura de Atos 2:42-47. Peça que o grupo observe a relação entre presença do Espírito, comunidade e missão.",
+          "pergunta": "Que sinais de uma comunidade capacitada pelo Espírito aparecem em Atos e quais deles podem ser praticados hoje?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Primeira Essência - Ao Vivo",
+          "interprete": "Felipe Rodrigues",
+          "conexao": "Pode introduzir um momento de retorno ao primeiro amor e de consagração pessoal antes da oração pela Célula, pela Igreja e pelas RIs.",
+          "pergunta": "O que precisa voltar a ocupar o centro da nossa vida com Deus?",
+          "url_oficial": "https://open.spotify.com/track/0Sw3XMsoy0jRi9c6COAKwn",
+          "decisao": "incluir",
+          "motivo": "Faixa identificada na lista musical da Carta e localizada em plataforma oficial."
+        },
+        {
+          "titulo": "Abraça-me",
+          "interprete": "David Quinlan",
+          "conexao": "Favorece uma oração de acolhimento, dependência de Deus e abertura do coração para amar pessoas concretas.",
+          "pergunta": "Em que área precisamos receber o cuidado de Deus para conseguir cuidar melhor de outros?",
+          "url_oficial": "https://open.spotify.com/track/3BFGzpWmIfkaPsY5DGHxxC",
+          "decisao": "incluir",
+          "motivo": "Canção identificada na lista musical da Carta e localizada em página oficial do artista na plataforma."
+        },
+        {
+          "titulo": "O Que Sua Glória Fez Comigo",
+          "interprete": "Fernanda Brum",
+          "conexao": "Pode ser usada como resposta de adoração e memória da transformação recebida, conduzindo o grupo a orar para que essa transformação transborde em cuidado e testemunho.",
+          "pergunta": "Como a transformação que Deus realizou em nós pode alcançar nossa casa, nossa Célula e nossas relações?",
+          "url_oficial": "https://www.youtube.com/watch?v=46HWdiVVCEo",
+          "decisao": "incluir",
+          "motivo": "Vídeo publicado pelo canal oficial da artista no YouTube."
+        }
+      ],
+      "atualidade": [
+        {
+          "abrangencia": "local — Vitória/ES",
+          "titulo": "Centro Pop Continental realiza grupo de família com foco no fortalecimento de vínculos",
+          "veiculo": "Prefeitura de Vitória",
+          "data": "2026-09-02",
+          "url": "https://www.vitoria.es.gov.br/noticia/centro-pop-continental-realiza-grupo-de-familia-com-foco-no-fortalecimento-de-vinculos-57245",
+          "conexao": "A iniciativa reuniu pessoas em situação de rua e profissionais em um café da manhã voltado ao fortalecimento de vínculos e à proteção social. Ajuda a discutir como uma casa de amor pode ser construída por cuidado, escuta e pertencimento, inclusive para quem vive fragilização dos vínculos familiares.",
+          "dilema": "Como acolher pessoas vulneráveis sem romantizar sua situação nem reduzir sua história a uma necessidade?",
+          "pergunta": "Que ação simples e responsável nossa Célula poderia realizar para fortalecer vínculos com alguém que está isolado?"
+        },
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Bolsa Família de agosto alcança 19,3 milhões de famílias",
+          "veiculo": "Agência Brasil",
+          "data": "2026-08-31",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-0",
+          "conexao": "A notícia permite tratar do cuidado com famílias em vulnerabilidade e da diferença entre solidariedade comunitária, políticas públicas e responsabilidade da Igreja. A Célula pode refletir sobre oração que se transforma em atenção prática às necessidades reais.",
+          "dilema": "Como apoiar famílias vulneráveis sem substituir políticas públicas nem agir de modo improvisado ou constrangedor?",
+          "pergunta": "Quais necessidades do nosso território merecem oração, escuta e encaminhamento responsável?"
+        }
+      ],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Uma pessoa começa a frequentar a Célula, mas permanece calada e falta a alguns encontros.",
+          "titulo": "A casa que percebe quem está se afastando",
+          "situacao": "O grupo precisa decidir se apenas espera a pessoa voltar ou se alguém fará contato respeitoso, perguntando como ela está, sem cobrança ou pressão.",
+          "pergunta": "Como demonstrar cuidado sem transformar acompanhamento em vigilância?"
+        },
+        {
+          "contexto": "Uma RI demonstra interesse em conhecer a fé, mas enfrenta problemas familiares e financeiros urgentes.",
+          "titulo": "Antes da resposta, a presença",
+          "situacao": "A Célula é convidada a ouvir, orar e identificar formas seguras de apoio ou encaminhamento, sem prometer soluções que não pode oferecer.",
+          "pergunta": "Como unir anúncio do evangelho, compaixão e responsabilidade prática?"
+        },
+        {
+          "contexto": "Durante uma reunião, surge uma divergência entre dois membros e o ambiente fica tenso.",
+          "titulo": "Quando a casa precisa de reconciliação",
+          "situacao": "O líder pode interromper a dinâmica, reconhecer o conflito e conduzir uma conversa respeitosa, evitando exposição pública e buscando restauração.",
+          "pergunta": "Que atitudes tornam a reconciliação uma expressão real de amor cristão?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Mapa de cuidado e oração",
+          "duracao": "20 a 30 minutos",
+          "objetivo": "Transformar a orientação de orar pelas RIs, pela Célula e por toda a Igreja em um plano de cuidado contínuo e responsável.",
+          "materiais": "Papéis ou cartões, canetas e uma Bíblia.",
+          "passos": [
+            "Divida o grupo em três áreas: pessoas sendo discipuladas, RIs e necessidades da Igreja/comunidade.",
+            "Cada participante escreve nomes ou situações, evitando expor informações sensíveis.",
+            "O grupo escolhe uma forma de oração para cada cartão e, quando apropriado, uma ação de cuidado ou encaminhamento.",
+            "Formem duplas de acompanhamento para orar durante a semana, respeitando privacidade e limites.",
+            "Encerram orando pela autoridade de servir com humildade, discernimento e amor."
+          ],
+          "perguntas": [
+            "Estamos orando apenas por resultados ou também por pessoas, processos e necessidades concretas?",
+            "Que informação não deve ser compartilhada fora do grupo?",
+            "Qual ação de cuidado é possível sem criar dependência ou prometer o que não podemos cumprir?"
+          ]
+        },
+        {
+          "titulo": "Paz a esta casa",
+          "duracao": "15 a 25 minutos",
+          "objetivo": "Praticar uma abordagem de acolhimento baseada em escuta, paz, respeito e presença.",
+          "materiais": "Nenhum material obrigatório.",
+          "passos": [
+            "Forme duplas e entregue a cada dupla uma situação cotidiana de acolhimento.",
+            "Uma pessoa representa alguém chegando pela primeira vez; a outra pratica uma recepção cuidadosa.",
+            "Troquem os papéis e repitam usando menos conselhos e mais perguntas abertas.",
+            "Reúnam o grupo para identificar falas que acolhem e falas que pressionam.",
+            "Cada participante escolhe uma atitude de hospitalidade para praticar durante a semana."
+          ],
+          "perguntas": [
+            "O que faz uma pessoa se sentir segura em uma casa ou pequeno grupo?",
+            "Quando nosso entusiasmo pode parecer pressão?",
+            "Como comunicar a paz de Cristo por meio da forma de ouvir?"
+          ]
+        }
+      ],
+      "sustentabilidade": {
+        "ods_principal": "ODS 10 — Redução das desigualdades",
+        "conexao": "A conexão é social e comunitária, não ambiental: casas de amor podem contribuir para reduzir isolamento, exclusão e invisibilidade ao criar redes de cuidado, escuta e encaminhamento responsável.",
+        "aplicacao": "Mapear pessoas isoladas ou em vulnerabilidade no território, fortalecer vínculos sem exposição, apoiar iniciativas públicas confiáveis e encaminhar necessidades para serviços especializados quando necessário.",
+        "pergunta": "Como nossa Célula pode ampliar pertencimento e cuidado sem substituir profissionais, serviços públicos ou a autonomia das pessoas?"
+      },
+      "perguntas_adicionais": [
+        {
+          "tipo": "compreensão da Carta",
+          "pergunta": "Como as quatro orientações da Carta — cadastrar, orar, orar com a Igreja e revestir-se de autoridade — se relacionam entre si?"
+        },
+        {
+          "tipo": "discernimento",
+          "pergunta": "Que diferença existe entre autoridade espiritual para servir e postura de controle sobre a vida das pessoas?"
+        },
+        {
+          "tipo": "prática semanal",
+          "pergunta": "Quem será acompanhado em oração nesta semana e qual gesto concreto de cuidado será realizado com respeito, consentimento e responsabilidade?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Referências bíblicas — João 13:34-35, Atos 2:42-47 e Lucas 10:1-9",
+          "motivo": "São os recursos mais diretamente conectados ao amor como marca do discipulado, à vida comunitária nas casas e ao envio para levar paz."
+        },
+        {
+          "recurso": "Dinâmica “Mapa de cuidado e oração”",
+          "motivo": "Converte o núcleo oficial da Carta em uma prática simples de oração, acompanhamento e responsabilidade."
+        },
+        {
+          "recurso": "Atualidade local — grupo de família do Centro Pop Continental",
+          "motivo": "Oferece uma conexão concreta e recente com fortalecimento de vínculos, acolhimento e inclusão em Vitória."
+        },
+        {
+          "recurso": "Livro “Comunidade verdadeira” — trecho legal em português",
+          "motivo": "Aprofunda a ideia de comunhão como partilha de vida e não apenas como atividade social."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "75KsD4cAgtc",
