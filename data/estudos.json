@@ -2,31 +2,164 @@
   "estudos": [
     {
       "id": "2026-09-06",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
-      "texto_principal": "Aguardando identificação",
-      "texto_principal_youversion": null,
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "Exalar o bom perfume de Cristo por meio de uma vida transformada, íntima de Deus, santa e testemunhal em todos os lugares.",
+      "texto_principal": "2 Coríntios 2:14-17",
+      "texto_principal_youversion": "2CO.2.14-17",
       "periodo": "06 a 12 de setembro de 2026",
       "mensagem": {
         "titulo": "Culto de Celebração - PIBJC | 06 09 2026 | 18h30 | Centro de Celebrações",
-        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "pregador": "Marcos Petrucci",
         "url": "https://www.youtube.com/watch?v=mWidjlLXsw8",
         "video_id": "mWidjlLXsw8",
-        "inicio_segundos": null,
+        "inicio_segundos": 2759,
         "inicio_live": "2026-09-06T21:29:37Z",
         "fim_live": "2026-09-06T23:21:05Z",
         "detectado_em": "2026-09-07T05:37:34-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 00:45:59.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-09-08T08:26:01",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.98,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "Glórias ao nome do Senhor Jesus. Eu quero pensar com você sobre o tema.",
+        "inicio_mensagem_motivo": "Este é o primeiro ponto em que o pregador principal, após o encerramento da oração, assume explicitamente a palavra e inicia a mensagem com sua introdução e o tema.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-09-07T10:08:12",
+        "fim_segundos": 6402,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "PASTOR MARCOS PETRUCCI",
+        "pregador_visual_detectado_em": "2026-09-08T08:26:01",
+        "referencias_biblicas": [
+          {
+            "referencia": "2 Coríntios 2:14-17",
+            "timestamp_segundos": 2773,
+            "timestamp_hhmmss": "00:46:13",
+            "texto_visivel": "QUAL CHEIRO VOCÊ EXALA? 2 CORÍNTIOS 2:14-17",
+            "principal": true,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual",
+            "evidencia_transcricao": "Eu quero te convidar a abrir a palavra do Senhor em Segunda Coríntios... capítulo 2, verso 14. ... Graças, porém, a Deus, que em Cristo sempre nos conduz em triunfo e por meio de nós manifesta a fragrância do seu conhecimento.",
+            "tipo_confirmacao_textual": "explicit_spoken",
+            "confianca_textual": 1.0
+          },
+          {
+            "referencia": "2 Coríntios 2:14",
+            "timestamp_segundos": 2782,
+            "timestamp_hhmmss": "00:46:22",
+            "texto_visivel": "GRAÇAS, PORÉM, A DEUS, QUE, EM CRISTO, SEMPRE NOS CONDUZ EM TRIUNFO E, POR MEIO DE NÓS,... 2 CORÍNTIOS 2:14",
+            "principal": false,
+            "confianca": 0.94,
+            "fonte": "youtube_storyboard_visual"
+          },
+          {
+            "referencia": "Efésios 6:19-20",
+            "timestamp_segundos": 3232,
+            "timestamp_hhmmss": "00:53:52",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Paulo escreveu muito bem aos Efésios, no capítulo 6, no verso de número 19 a 20, quando ele diz: 'E orem também por mim...'",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Mateus 6:6",
+            "timestamp_segundos": 3652,
+            "timestamp_hhmmss": "01:00:52",
+            "texto_visivel": null,
+            "evidencia_transcricao": "A Bíblia diz que o teu pai que te vê em secreto, ele te recompensará.",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.98,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Isaías 43:18-19",
+            "timestamp_segundos": 3740,
+            "timestamp_hhmmss": "01:02:20",
+            "texto_visivel": null,
+            "evidencia_transcricao": "E aí aquela palavra de Isaías 43:18 e 19, que diz assim: 'Não lembreis das coisas passadas... eis que faço coisa nova na sua vida'.",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Colossenses 1:26-27",
+            "timestamp_segundos": 3772,
+            "timestamp_hhmmss": "01:02:52",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Isso me faz reportar ao que Paulo disse em Colossenses, capítulo 1, verso 26 a 27. O mistério que esteve oculto durante séculos e gerações...",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Jeremias 44:4",
+            "timestamp_segundos": 3916,
+            "timestamp_hhmmss": "01:05:16",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Inclusive há um texto em Jeremias 44 verso 4, que Deus de madrugada se revelou a todos os seus profetas.",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Gênesis 32:24-31",
+            "timestamp_segundos": 4083,
+            "timestamp_hhmmss": "01:08:03",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Jacó venceu o anjo na quarta vigília até o romper do dia, até o nascer do dia.",
+            "tipo_confirmacao": "specific_narrative",
+            "principal": false,
+            "confianca": 0.98,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Provérbios 8:17",
+            "timestamp_segundos": 4083,
+            "timestamp_hhmmss": "01:08:03",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Eu amo os que me amam e os que de madrugada me buscam me acharão.",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.97,
+            "fonte": "youtube_transcricao_publica"
+          }
+        ]
       },
       "carta": {
         "status": "aguardando",
         "arquivo": null
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-09-06.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-09-06.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "mWidjlLXsw8",
+        "inicio_segundos": 2759,
+        "fim_segundos": 6402,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1202,
+        "caracteres": 49458,
+        "primeiro_segmento_segundos": 2759.359,
+        "ultimo_segmento_segundos": 6399.96,
+        "sha256": "e74df333c2c34965a01e915007b846ab8f5e4c8cc6362c258f0021ff1dcf95af",
+        "gerada_em": "2026-09-08T08:26:01"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -36,18 +169,239 @@
         "fonte": "Padrão do aplicativo"
       },
       "oficial": {},
-      "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-09-07T10:08:12",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem afirma que, em Cristo, Deus conduz os seus seguidores em triunfo e manifesta por meio deles a fragrância do conhecimento de Cristo. O pregador aplica essa imagem à vida, à casa, aos relacionamentos, ao trabalho, à escola e à comunidade, destacando que a essência desse perfume é Cristo e que ele é manifestado por meio da intimidade com Deus, da oração, da santidade, das reações e do testemunho. A igreja é chamada a compartilhar o evangelho e a demonstrar o amor de Cristo em todos os lugares, mantendo a qualidade desse testemunho e rejeitando o pecado. A mensagem termina com um apelo, oração, celebração da Ceia e uma bênção final.",
+        "ideias_centrais": [
+          "A origem da vitória e do triunfo do cristão está em Deus e em Cristo, não na capacidade humana.",
+          "O bom perfume de Cristo é manifestado por aqueles que têm intimidade com Deus e vivem uma experiência real com Cristo.",
+          "A presença de Cristo deve alcançar todos os ambientes, por meio do testemunho, da palavra, das atitudes, do amor e de ações práticas.",
+          "A qualidade do testemunho cristão exige santidade, pureza e rejeição do pecado, pois pequenas transgressões podem comprometer o testemunho.",
+          "A mensagem convoca os ouvintes a fazerem de sua vida e de sua casa lugares que exalam o bom perfume de Cristo."
+        ],
+        "perguntas": [
+          "Segundo a mensagem, de onde vem o triunfo do cristão?",
+          "Como a intimidade com Deus se relaciona com a manifestação do perfume de Cristo?",
+          "Em quais ambientes o ouvinte é chamado a exalar o bom perfume de Cristo?",
+          "Que atitudes e comportamentos podem comprometer a qualidade do testemunho cristão?",
+          "Que mudanças a mensagem propõe para a vida e para a casa dos ouvintes?"
+        ],
+        "evidencias": [
+          "Às 00:45:59, o pregador apresenta o tema: “O que você exala? Qual perfume você exala?” e lê 2 Coríntios 2:14-17.",
+          "Às 00:46:29, o texto é aplicado à ideia de que os cristãos são “o bom perfume de Cristo”.",
+          "Às 00:56:59-01:00:59, a mensagem desenvolve a origem e a essência do perfume como Cristo e a intimidade com Deus.",
+          "Às 01:09:29-01:12:59, o pregador enfatiza que a fragrância deve ser manifestada “em todos os lugares”, por meio do testemunho e de ações práticas.",
+          "Às 01:13:59-01:20:59, a mensagem trata da qualidade do perfume, relacionando-a à santidade, pureza e rejeição do pecado.",
+          "Às 01:24:59-01:29:59, ocorre o apelo para que Jesus transforme a vida e a casa dos ouvintes, seguido de oração e entrega do perfume da vida a Cristo; às 01:46:29, o pregador conclui a oração e abençoa a igreja antes dos avisos finais."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.78,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "2 Coríntios 2:14-17",
+          "conexao": "Texto principal sobre Deus conduzindo em triunfo e manifestando, por meio dos cristãos, a fragrância do conhecimento de Cristo.",
+          "como_usar": "Ler no início e retornar aos versículos 14-16 ao discutir origem, alcance e efeito do testemunho cristão.",
+          "pergunta": "O que este texto atribui a Deus e o que ele espera manifestar por meio de nós?",
+          "youversion_ref": "2CO.2.NAA"
+        },
+        {
+          "referencia": "João 15:4-5",
+          "conexao": "A permanência em Cristo fundamenta uma vida que produz fruto; a intimidade precede o testemunho.",
+          "como_usar": "Relacionar a imagem do perfume à necessidade de permanecer ligado à fonte, que é Cristo.",
+          "pergunta": "Que diferença existe entre tentar parecer cristão e permanecer em Cristo?",
+          "youversion_ref": "JHN.15.NAA"
+        },
+        {
+          "referencia": "Mateus 5:13-16",
+          "conexao": "Jesus associa a presença dos discípulos no mundo ao sal e à luz, imagens de influência visível e responsável.",
+          "como_usar": "Aplicar aos ambientes citados na mensagem: casa, trabalho, escola, igreja e comunidade.",
+          "pergunta": "Como nossas boas obras podem apontar para Deus sem buscar nossa própria glória?",
+          "youversion_ref": "MAT.5.NAA"
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "série",
+          "titulo": "The Chosen",
+          "conexao": "A série apresenta encontros de Jesus com pessoas comuns e permite conversar sobre transformação, intimidade, testemunho e presença de Cristo nas relações.",
+          "como_usar": "Exibir um trecho curto previamente selecionado pelo líder, sem substituir a leitura bíblica. Depois, comparar a reação dos personagens diante de Jesus com as reações do grupo em seus próprios ambientes.",
+          "pergunta": "Que transformação se torna visível quando uma pessoa realmente encontra Jesus?",
+          "url_oficial": "https://thechosen.tv/en-us",
+          "url_clipe": "https://watch.thechosen.tv/",
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "A Imitação de Cristo",
+          "autor": "Tomás de Kempis",
+          "conexao": "Clássico devocional sobre vida interior, humildade, seguimento de Cristo e transformação do caráter.",
+          "como_usar": "Selecionar previamente um pequeno trecho do PDF de degustação, especialmente sobre vida espiritual e união com Deus. Usar como leitura complementar, deixando claro que não é a fonte oficial da mensagem.",
+          "pergunta": "Que hábitos ajudam a transformar uma fé declarada em uma vida moldada por Cristo?",
+          "url_trecho": "https://institucional.vidanova.com.br/wp-content/uploads/imitacao_de_cristo_trecho.pdf",
+          "url_pdf_legal": null,
+          "url_audio_legal": null,
+          "url_editora": "https://www.vidanova.com.br/livros/imitacao-de-cristo-a-e-a-centralidade-da-cruz-na-luta-contra-a-carne",
+          "nota_acesso": "Foi encontrado trecho/prévia legal em português. Não foi localizado, nesta busca, PDF integral ou audiolivro legal em português."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "O Bom Perfume de Cristo – 2 Coríntios 2:14-16",
+          "fonte": "Igreja Presbiteriana Unida de São Paulo",
+          "url": "https://www.youtube.com/watch?v=xXYS1GLt0O4",
+          "conexao": "Estudo diretamente relacionado ao texto de 2 Coríntios 2 e às ideias de triunfo, fragrância e vida agradável a Deus.",
+          "como_usar": "Exibir apenas um trecho introdutório ou usar como preparação do líder. Apresentar como conteúdo complementar de outra igreja, não como fala do pregador da fonte da semana.",
+          "pergunta": "Como o vídeo relaciona a fragrância de Cristo à vida comunitária e ao testemunho? "
+        }
+      ],
       "musicas_complementares": [],
-      "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
+      "atualidade": [
+        {
+          "abrangencia": "Grande Vitória, Espírito Santo",
+          "titulo": "Mangue Limpo transforma voluntários em guardiões dos manguezais",
+          "veiculo": "O Capixaba",
+          "data": "2026-08-06",
+          "url": "https://ocapixaba.com.br/colunistas/2026/08/mangue-limpo-transforma-voluntarios-em-guardioes-dos-manguezais/",
+          "conexao": "O projeto mostra pessoas tornando visível seu compromisso com a comunidade por meio de uma ação prática de cuidado ambiental. A conexão é complementar: testemunho não se limita a palavras, mas pode aparecer em responsabilidade, serviço e cuidado com o lugar onde se vive.",
+          "dilema": "Como evitar que o testemunho cristão fique restrito ao discurso quando existem necessidades concretas no território?",
+          "pergunta": "Que ação prática de cuidado com a comunidade poderia expressar o amor de Cristo sem transformar a ação em autopromoção?"
+        },
+        {
+          "abrangencia": "Vitória, Espírito Santo",
+          "titulo": "Voluntário Social: mãe transforma solidariedade em ação",
+          "veiculo": "TV Brasil / Repórter Brasil",
+          "data": "2026-07-07",
+          "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/07/voluntario-social-mae-transforma-solidariedade-em-acao?page=39",
+          "conexao": "A reportagem apresenta uma experiência de solidariedade voltada a famílias de Vitória. Pode ajudar o grupo a discutir como atitudes cotidianas tornam valores visíveis nos relacionamentos e na cidade.",
+          "dilema": "Como servir de modo consistente, sem esperar reconhecimento imediato?",
+          "pergunta": "Qual necessidade próxima de nós pode ser percebida e atendida com discrição nesta semana?"
+        },
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Giro do Voluntariado Greenpeace: principais ações pelo Brasil em julho",
+          "veiculo": "Greenpeace Brasil",
+          "data": "2026-08-07",
+          "url": "https://www.greenpeace.org/brasil/blog/giro-do-voluntariado-greenpeace-principais-acoes-pelo-brasil-em-julho/",
+          "conexao": "A matéria reúne ações coletivas de voluntariado, educação e cuidado ambiental. Pode ampliar a conversa sobre presença pública, responsabilidade e coerência entre valores professados e práticas concretas.",
+          "dilema": "Como participar de ações coletivas mantendo humildade, responsabilidade e respeito por pessoas com visões diferentes?",
+          "pergunta": "Que tipo de cooperação comunitária poderia ser assumida pelo pequeno grupo sem perder seu foco cristão?"
+        }
+      ],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Família",
+          "titulo": "O perfume dentro de casa",
+          "situacao": "Uma pessoa é gentil e participativa na igreja, mas reage com agressividade, ironia ou impaciência em casa.",
+          "pergunta": "Que mudança concreta demonstraria que a transformação alcança também os relacionamentos mais próximos?"
+        },
+        {
+          "contexto": "Trabalho ou escola",
+          "titulo": "Integridade quando ninguém está observando",
+          "situacao": "O grupo percebe uma pequena desonestidade que parece vantajosa e provavelmente não será descoberta.",
+          "pergunta": "Como a santidade e a qualidade do testemunho influenciam uma decisão aparentemente pequena?"
+        },
+        {
+          "contexto": "Redes sociais",
+          "titulo": "Reagir sem espalhar mau cheiro",
+          "situacao": "Uma publicação provoca indignação e o impulso é responder com sarcasmo, exposição ou ofensa.",
+          "pergunta": "Como manifestar verdade e firmeza sem reproduzir violência, desprezo ou humilhação?"
+        },
+        {
+          "contexto": "Comunidade",
+          "titulo": "Servir sem buscar aplausos",
+          "situacao": "Uma ação solidária precisa ser organizada, mas algumas pessoas só querem participar se receberem visibilidade.",
+          "pergunta": "Como preservar a motivação correta e, ao mesmo tempo, prestar contas de maneira responsável?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Mapa dos ambientes que exalam",
+          "duracao": "20 a 25 minutos",
+          "objetivo": "Identificar os ambientes em que cada participante é chamado a manifestar o caráter de Cristo e reconhecer desafios específicos.",
+          "materiais": "Folhas, canetas e quadro ou cartolina.",
+          "passos": [
+            "Desenhe no centro da folha a palavra Cristo.",
+            "Ao redor, escreva casa, trabalho ou escola, igreja, amizades, redes sociais e comunidade.",
+            "Para cada ambiente, registre uma atitude que comunica Cristo e uma atitude que compromete o testemunho.",
+            "Cada participante escolhe um ambiente para apresentar ao grupo.",
+            "Finalize com uma oração breve de entrega do ambiente mais desafiador."
+          ],
+          "perguntas": [
+            "Em qual ambiente é mais fácil demonstrar fé?",
+            "Em qual ambiente a reação emocional mais compromete o testemunho?",
+            "Qual mudança específica será praticada nesta semana?"
+          ]
+        },
+        {
+          "titulo": "Reação antes da resposta",
+          "duracao": "25 minutos",
+          "objetivo": "Treinar respostas coerentes com santidade, amor e testemunho em situações de pressão.",
+          "materiais": "Cartões com situações cotidianas.",
+          "passos": [
+            "Divida o grupo em pequenos trios.",
+            "Entregue a cada trio uma situação: crítica injusta, provocação nas redes, erro no trabalho ou conflito familiar.",
+            "Cada trio representa primeiro uma reação impulsiva e depois uma resposta coerente com Cristo.",
+            "O grupo identifica o que mudou entre as duas respostas.",
+            "Relacione o exercício a 2 Coríntios 2:14-17 e 1 Pedro 2:12."
+          ],
+          "perguntas": [
+            "O que torna uma resposta cristã diferente de uma resposta apenas educada?",
+            "Santidade significa ausência de conflito ou uma forma diferente de atravessá-lo?",
+            "Como falar a verdade sem perder o amor?"
+          ]
+        }
+      ],
       "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "perguntas_adicionais": [
+        {
+          "tipo": "observação do texto",
+          "pergunta": "No texto principal, quem conduz em triunfo e quem manifesta a fragrância? O que essa ordem ensina sobre dependência de Deus?"
+        },
+        {
+          "tipo": "intimidade",
+          "pergunta": "Quais práticas de oração, Palavra, confissão e comunhão fortalecem uma experiência real com Cristo?"
+        },
+        {
+          "tipo": "coerência",
+          "pergunta": "Existe alguma diferença entre o perfume que desejamos transmitir e o impacto que nossas atitudes realmente causam?"
+        },
+        {
+          "tipo": "santidade",
+          "pergunta": "Como tratar pecados aparentemente pequenos sem cair em legalismo nem em permissividade?"
+        },
+        {
+          "tipo": "missão",
+          "pergunta": "Como compartilhar o evangelho com palavras e ações de modo respeitoso, claro e coerente?"
+        },
+        {
+          "tipo": "casa",
+          "pergunta": "Que mudança tornaria nossa casa um lugar mais acolhedor, verdadeiro e coerente com a presença de Cristo?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Leitura cuidadosa de 2 Coríntios 2:14-17",
+          "motivo": "É o texto principal e deve permanecer como eixo da conversa, evitando que os complementos substituam a fonte da semana."
+        },
+        {
+          "recurso": "Dinâmica sobre ambientes e reações",
+          "motivo": "Traduz o tema em decisões observáveis no cotidiano, especialmente em casa, no trabalho, na escola e nas redes sociais."
+        },
+        {
+          "recurso": "Atualidade local sobre voluntariado e cuidado comunitário",
+          "motivo": "Oferece uma ponte concreta para discutir testemunho público, serviço e responsabilidade sem afirmar que a reportagem representa a mensagem do pregador."
+        },
+        {
+          "recurso": "Livro A Imitação de Cristo, em trecho legal",
+          "motivo": "Aprofunda a dimensão da vida interior e do seguimento de Cristo, com acesso por uma prévia autorizada em português."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "7oz0ZBdgnmg",
@@ -64,6 +418,15 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-09-07T05:37:49"
+      },
+      "enriquecimento_meta": {
+        "estudo_id": "2026-09-06",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-09-07T10:09:09",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
