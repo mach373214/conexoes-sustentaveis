@@ -1,6 +1,358 @@
 {
   "estudos": [
     {
+      "id": "2026-09-13",
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "O que impede que eu seja batizado? A mensagem enfatiza que a fé em Jesus deve envolver uma entrega completa do coração, conhecimento da Palavra, disponibilidade para obedecer à direção de Deus e disposição para levar o evangelho e o amor de Deus a outras pessoas e à própria família.",
+      "texto_principal": "Atos 8:26-40",
+      "texto_principal_youversion": "ACT.8.26-40",
+      "periodo": "13 a 19 de setembro de 2026",
+      "mensagem": {
+        "titulo": "Culto de Celebração - PIBJC | 13 09 2026 | 18h30 | Centro de Celebrações",
+        "pregador": "Marcos Petrucci",
+        "url": "https://www.youtube.com/watch?v=_J9js_ldyYg",
+        "video_id": "_J9js_ldyYg",
+        "inicio_segundos": 2735,
+        "inicio_live": "2026-09-13T21:28:52Z",
+        "fim_live": "2026-09-13T23:13:39Z",
+        "detectado_em": "2026-09-14T01:32:25-03:00",
+        "origem": "YouTube Data API v3",
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 00:45:35.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-09-14T22:33:07",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.94,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "00:45:35 | Glórias ao Senhor Jesus. Que bênção, que bênção o que estamos vendo através de vocês",
+        "inicio_mensagem_motivo": "Após o encerramento explícito da oração com “Amém. E amém.”, inicia-se em 00:45:35 uma fala contínua de saudação e comentário sobre a igreja, compatível com o começo da mensagem do pregador principal.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-09-14T10:31:27",
+        "fim_segundos": 6095,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "PASTOR MARCOS PETRUCCI",
+        "pregador_visual_detectado_em": "2026-09-14T22:33:07",
+        "referencias_biblicas": [
+          {
+            "referencia": "Efésios 3:20",
+            "timestamp_segundos": 2798,
+            "timestamp_hhmmss": "00:46:38",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Esse é o nosso Deus que é poderoso para fazer infinitamente mais de tudo quanto pedimos ou pensamos",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.98,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Atos 8:26-40",
+            "timestamp_segundos": 2816,
+            "timestamp_hhmmss": "00:46:56",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Quero te convidar a ler comigo em Atos capítulo 8 verso de número 26 em diante",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": true,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Atos 8:31",
+            "timestamp_segundos": 2905,
+            "timestamp_hhmmss": "00:48:25",
+            "texto_visivel": "ELE RESPONDEU: — COMO PODEREI ENTENDER, SE NINGUÉM ME EXPLICAR? E CONVIDOU FILIPE A SUBIR E SENTAR-SE AO SEU LADO. ATOS 8:31 - NAA",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual"
+          },
+          {
+            "referencia": "Isaías 53:7-8",
+            "timestamp_segundos": 2917,
+            "timestamp_hhmmss": "00:48:37",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Ele foi levado como ovelha ao matadouro e como um cordeiro mudo diante do seu tosqueador. Ele não abriu a boca",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Atos 8:35",
+            "timestamp_segundos": 2955,
+            "timestamp_hhmmss": "00:49:15",
+            "texto_visivel": "ENTÃO FILIPE EXPLICOU, E, COMEÇANDO COM ESTA PASSAGEM DA ESCRITURA, ANUNCIOU-LHE A MENSAGEM DE JESUS. ATOS 8:35 - NAA",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual"
+          },
+          {
+            "referencia": "Filipenses 2:13",
+            "timestamp_segundos": 3603,
+            "timestamp_hhmmss": "01:00:03",
+            "texto_visivel": null,
+            "evidencia_transcricao": "A Bíblia tem um texto lindo em Filipenses capítulo 2, verso 13, que diz que é Deus quem efetua em vós o querer como realizar segundo a sua boa vontade",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          }
+        ]
+      },
+      "carta": {
+        "status": "aguardando",
+        "arquivo": null
+      },
+      "transcricao": {
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-09-13.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-09-13.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "_J9js_ldyYg",
+        "inicio_segundos": 2735,
+        "fim_segundos": 6095,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1151,
+        "caracteres": 50257,
+        "primeiro_segmento_segundos": 2734.72,
+        "ultimo_segmento_segundos": 6094.84,
+        "sha256": "8eb1737d30c0aa85e28c9d4a6ba60d17c43203cfa448b43782b80d57a7c699b7",
+        "gerada_em": "2026-09-14T22:33:08"
+      },
+      "versao_biblica": {
+        "status": "padrao_app",
+        "sigla": "NAA",
+        "nome": "Nova Almeida Atualizada",
+        "id_youversion": 1840,
+        "fonte": "Padrão do aplicativo"
+      },
+      "oficial": {},
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-09-14T10:31:27",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A partir do encontro entre Filipe e o eunuco etíope, a mensagem apresenta Filipe como alguém sensível à voz do Espírito, disponível para alinhar sua agenda à direção de Deus e preparado para explicar as Escrituras e anunciar Jesus. O eunuco, depois de ouvir o evangelho e declarar sua fé em Jesus Cristo, pergunta o que o impede de ser batizado. A mensagem aplica esse episódio à necessidade de uma fé de todo o coração, de conhecimento da Palavra e de uma decisão pública de seguir a Cristo. Também relaciona essa postura ao propósito de transformar as famílias em “casas de amor”, comprometidas com oração, reconciliação, discipulado e evangelização.",
+        "ideias_centrais": [
+          "O discípulo deve estar sensível à voz do Espírito e disposto a sair da zona de conforto para encontrar pessoas sedentas de Deus.",
+          "A agenda pessoal precisa ser alinhada à agenda dos céus, colocando-se à disposição da missão que Deus direciona.",
+          "O conhecimento da Palavra é necessário para compreender as Escrituras, explicar o evangelho e apontar as pessoas para Jesus.",
+          "O batismo é apresentado como uma decisão associada à fé de todo o coração em Jesus Cristo, não como um ato meramente externo ou realizado por pressão.",
+          "A fé deve alcançar a família e a comunidade, tornando as casas lugares de amor, oração, reconciliação e anúncio do evangelho."
+        ],
+        "perguntas": [
+          "Segundo a mensagem, o que levou Filipe a encontrar o eunuco etíope?",
+          "Por que o pregador afirma que a agenda pessoal precisa ser alinhada à agenda dos céus?",
+          "Qual é a importância do conhecimento da Palavra no encontro entre Filipe e o eunuco?",
+          "O que significa crer “de todo o coração” no contexto apresentado?",
+          "De que maneiras uma família pode se tornar uma “casa de amor” segundo a mensagem?"
+        ],
+        "evidencias": [
+          "Às 00:46:35, o pregador apresenta o tema “O que impede que eu seja batizado?” e anuncia a leitura de Atos 8:26 em diante.",
+          "Entre 00:47:05 e 00:50:05, é lido o relato de Filipe, do eunuco etíope, da explicação das Escrituras, da confissão de fé e do batismo.",
+          "Entre 00:57:35 e 01:05:35, a mensagem desenvolve a necessidade de alinhar a agenda pessoal à agenda dos céus.",
+          "Entre 01:05:35 e 01:17:35, o pregador destaca o conhecimento da Palavra e a necessidade de apontar as pessoas para Jesus.",
+          "Entre 01:17:35 e 01:22:35, o batismo é relacionado à decisão e à fé de todo o coração.",
+          "Entre 01:26:35 e 01:41:35, ocorre o apelo e a oração final pela entrega das pessoas, pelas famílias e pelas casas de amor; a partir de 01:41:35, outra fala retoma a aplicação da mensagem e faz uma oração adicional."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.92,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Atos 8:26-40",
+          "conexao": "Texto principal da semana: Filipe obedece à direção do Espírito, explica as Escrituras, anuncia Jesus e acompanha o eunuco em sua decisão pelo batismo.",
+          "como_usar": "Leia o texto em voz alta, dividindo a leitura entre os participantes. Observe os movimentos do relato: direção de Deus, aproximação, escuta, explicação, fé, batismo e alegria.",
+          "pergunta": "Em que momento a disposição de Filipe e a busca do eunuco se encontram?",
+          "youversion_ref": "https://www.bible.com/pt/bible/1930/ACT.8.26-40.NVT"
+        },
+        {
+          "referencia": "Atos 8:36-38",
+          "conexao": "A pergunta “o que impede que eu seja batizado?” conduz à reflexão sobre fé consciente, confissão pública e decisão pessoal por Jesus.",
+          "como_usar": "Peça ao grupo que identifique o que o texto apresenta como condição para o batismo e diferencie decisão pessoal de pressão externa.",
+          "pergunta": "Que evidências de compreensão e fé aparecem antes do batismo do eunuco?",
+          "youversion_ref": "https://www.bible.com/pt/bible/1930/ACT.8.NVT"
+        },
+        {
+          "referencia": "Mateus 28:19-20",
+          "conexao": "Amplia a relação entre batismo, discipulado, ensino e missão, temas coerentes com a ênfase da mensagem na Palavra e no anúncio do evangelho.",
+          "como_usar": "Use o texto para discutir o que acontece depois de uma decisão de fé: aprender, obedecer, caminhar em comunidade e ajudar outros a conhecer Jesus.",
+          "pergunta": "Como o batismo se relaciona com uma caminhada contínua de discipulado?",
+          "youversion_ref": null
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "série",
+          "titulo": "The Chosen",
+          "conexao": "A série dramatiza encontros de Jesus com pessoas em diferentes contextos e pode ajudar o grupo a conversar sobre resposta pessoal, transformação e discipulado. Não é uma representação direta de Atos 8 e deve ser comparada cuidadosamente com o texto bíblico.",
+          "como_usar": "Exiba um trailer ou selecione previamente um episódio adequado ao perfil do grupo. Depois, peça aos participantes que distingam o que vem do texto bíblico, o que é interpretação artística e quais atitudes de resposta a Jesus aparecem na narrativa.",
+          "pergunta": "Como uma experiência de encontro com Jesus pode produzir uma mudança que alcança decisões, relacionamentos e missão?",
+          "url_oficial": "https://www.thechosen.tv/",
+          "url_clipe": "https://www.youtube.com/watch?v=K1-FoFj8Jbo",
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "O Discípulo Radical",
+          "autor": "John Stott",
+          "conexao": "A obra aborda o significado de seguir Jesus com compromisso integral, aproximando-se dos eixos de entrega do coração, obediência, formação bíblica e testemunho.",
+          "como_usar": "Leia previamente o trecho inicial e escolha uma ideia para relacionar com Atos 8. Evite tratá-lo como substituto da Bíblia; use-o como apoio para discutir o que significa ser discípulo de modo consciente e sincero.",
+          "pergunta": "Que diferença existe entre declarar fé em Jesus e organizar a vida como discípulo de Jesus?",
+          "url_trecho": "https://ultimato.com.br/sites/john-stott/2018/05/30/a-escolha-radical/",
+          "url_pdf_legal": "https://ultimato.com.br/boletim/legado_stott/downloads/trechos_livros/trecho_odr.pdf",
+          "url_audio_legal": null,
+          "url_editora": "https://ultimato.com.br/sites/discipulo-radical/",
+          "nota_acesso": "Foi localizado um trecho disponibilizado pela Editora Ultimato e um PDF de trecho autorizado. Não foi localizado audiolivro ou PDF integral gratuito e autorizado em português. ([ultimato.com.br](https://ultimato.com.br/sites/discipulo-radical/extras/leia-um-trecho-do-livro/?utm_source=openai))"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Personagem: João Batista — arrependimento e renovação através do batismo",
+          "fonte": "BibleProject Português",
+          "url": "https://bibleproject.com/pt-br/videos/personagem-joao-batista/",
+          "conexao": "Vídeo curto sobre arrependimento, batismo com água e preparação para uma nova vida, útil para introduzir o sentido do batismo sem substituir a leitura de Atos 8.",
+          "como_usar": "Exiba o vídeo de aproximadamente um minuto antes da leitura bíblica. Em seguida, peça que o grupo compare a ênfase do vídeo com a decisão do eunuco em Atos 8:36-38.",
+          "pergunta": "Que relação o vídeo estabelece entre arrependimento, renovação e uma nova forma de viver? ([bibleproject.com](https://bibleproject.com/pt-br/videos/personagem-joao-batista/?utm_source=openai))"
+        },
+        {
+          "titulo": "O Batismo de Jesus: Lucas 3–9",
+          "fonte": "BibleProject Português — canal oficial",
+          "url": "https://www.youtube.com/watch?v=IAo5zxqbQis",
+          "conexao": "Vídeo animado sobre o início da missão de Jesus e seu batismo, adequado para diferenciar o batismo de Jesus do batismo cristão narrado em Atos e discutir identidade, missão e obediência.",
+          "como_usar": "Use apenas como recurso introdutório, com cerca de cinco minutos. Oriente o grupo a observar como batismo e missão aparecem relacionados na narrativa bíblica.",
+          "pergunta": "Como identidade e missão se relacionam na vida de quem decide seguir Jesus? ([youtube.com](https://www.youtube.com/watch?v=IAo5zxqbQis&utm_source=openai))"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Tudo Entregarei",
+          "interprete": "Fernandinho",
+          "conexao": "A canção pode acompanhar a reflexão sobre entrega integral a Jesus, sem ser apresentada como explicação do texto bíblico ou como fala do pregador.",
+          "pergunta": "Que área da vida é mais difícil colocar diante de Deus com disponibilidade e confiança?",
+          "url_oficial": "https://www.youtube.com/watch?v=zdrrD218jJE",
+          "decisao": "incluir",
+          "motivo": "A gravação está publicada no canal oficial do artista e se relaciona diretamente com o tema da entrega completa. Não reproduzir a letra durante a atividade. ([youtube.com](https://www.youtube.com/watch?v=zdrrD218jJE&utm_source=openai))"
+        }
+      ],
+      "atualidade": [],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Agenda pessoal e disponibilidade",
+          "titulo": "O compromisso que interrompe os planos",
+          "situacao": "Uma pessoa do pequeno grupo recebe uma oportunidade de conversar com alguém que está atravessando uma crise, mas está cansada e tinha planejado usar aquele horário para outra atividade. O grupo precisa discernir a diferença entre abandonar responsabilidades e estar disponível para uma necessidade real.",
+          "pergunta": "Como podemos alinhar nossa agenda a oportunidades de cuidado e testemunho sem agir por culpa ou impulsividade?"
+        },
+        {
+          "contexto": "Fé, família e diálogo",
+          "titulo": "Quando a família pergunta sobre sua fé",
+          "situacao": "Depois de tomar uma decisão importante sobre sua vida cristã, alguém é questionado por familiares que não compartilham da mesma fé. A conversa pode se tornar defensiva ou pode abrir espaço para explicar, com respeito, o que mudou e por quê.",
+          "pergunta": "Como falar de Jesus com clareza, humildade e amor dentro da própria família?"
+        },
+        {
+          "contexto": "Conhecimento bíblico e ajuda ao próximo",
+          "titulo": "Não responder com frases prontas",
+          "situacao": "Uma pessoa procura o grupo com uma dúvida sobre fé, batismo e sofrimento. Em vez de responder rapidamente, os participantes precisam ouvir a pergunta, consultar as Escrituras e reconhecer o que ainda não sabem.",
+          "pergunta": "Como podemos combinar preparo bíblico, escuta atenta e humildade ao ajudar alguém?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "O caminho do eunuco",
+          "duracao": "20 a 25 minutos",
+          "objetivo": "Reconstruir Atos 8:26-40 e identificar os passos que ligam direção de Deus, escuta, explicação das Escrituras, fé, batismo e testemunho.",
+          "materiais": "Cartões com as expressões: “direção”, “disponibilidade”, “aproximação”, “escuta”, “Palavra”, “Jesus”, “fé”, “batismo”, “alegria” e “missão”.",
+          "passos": [
+            "Distribua os cartões misturados entre os participantes.",
+            "Peça que o grupo organize os cartões em uma sequência coerente com o texto bíblico.",
+            "Leia Atos 8:26-40 e permita que o grupo revise a sequência.",
+            "Converse sobre quais etapas dependem da ação de Deus, quais dependem da resposta humana e como elas se relacionam.",
+            "Finalize pedindo que cada participante escolha uma palavra que descreva seu próximo passo de obediência ou crescimento."
+          ],
+          "perguntas": [
+            "O que Filipe fez antes de falar sobre Jesus?",
+            "Em que sentido a escuta foi tão importante quanto o conhecimento bíblico?",
+            "Que diferença existe entre acompanhar alguém e pressionar alguém?"
+          ]
+        },
+        {
+          "titulo": "Agenda dos céus, agenda da semana",
+          "duracao": "20 minutos",
+          "objetivo": "Aplicar a ideia de disponibilidade para Deus a decisões concretas, preservando responsabilidade, limites saudáveis e discernimento.",
+          "materiais": "Folhas de papel ou bloco de notas.",
+          "passos": [
+            "Cada participante registra três compromissos fixos da próxima semana e duas situações em que poderia estar mais atento às pessoas.",
+            "Em duplas, os participantes conversam sobre como praticar presença, escuta e serviço sem negligenciar família, trabalho, estudos ou descanso.",
+            "Cada pessoa escolhe uma ação específica, pequena e verificável, para colocar em prática durante a semana.",
+            "O grupo encerra orando por sensibilidade, sabedoria e coragem para obedecer a Deus."
+          ],
+          "perguntas": [
+            "Que tipo de interrupção costuma ser mais difícil aceitar?",
+            "Como distinguir uma oportunidade de serviço de uma expectativa de agradar a todos?",
+            "Quem pode ser uma pessoa concreta por quem oraremos e a quem ofereceremos escuta nesta semana?"
+          ]
+        }
+      ],
+      "sustentabilidade": {},
+      "perguntas_adicionais": [
+        {
+          "tipo": "conciliação editorial",
+          "pergunta": "Como esta curadoria é complementar à mensagem em vídeo e ainda está sujeita à chegada da Carta/transcrição oficial, quais itens deverão ser ajustados quando o documento chegar?"
+        },
+        {
+          "tipo": "batismo e consciência",
+          "pergunta": "Como a comunidade pode acolher pessoas interessadas no batismo, oferecendo ensino e acompanhamento sem transformar a decisão em pressão emocional?"
+        },
+        {
+          "tipo": "família",
+          "pergunta": "Que prática simples — oração, reconciliação, refeição compartilhada, escuta ou serviço — poderia ajudar nossa casa a se tornar mais parecida com uma “casa de amor”?"
+        },
+        {
+          "tipo": "missão",
+          "pergunta": "Que pessoa ou grupo próximo de nós pode estar procurando respostas e precisa primeiro ser ouvido com atenção?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Atos 8:26-40 na íntegra",
+          "motivo": "É o núcleo bíblico da semana e deve orientar a conversa antes de qualquer recurso complementar."
+        },
+        {
+          "recurso": "Dinâmica “O caminho do eunuco”",
+          "motivo": "Traduz os movimentos do texto em uma atividade simples para pequenos grupos, sem apresentar interpretações complementares como fala do pregador."
+        },
+        {
+          "recurso": "O Discípulo Radical — trecho legal em português",
+          "motivo": "Oferece apoio para discutir discipulado e compromisso integral, com acesso legal verificado ao trecho."
+        },
+        {
+          "recurso": "Vídeo curto do BibleProject sobre João Batista",
+          "motivo": "É breve, oficial e diretamente relacionado ao tema do batismo, podendo funcionar como introdução sem ocupar o lugar das Escrituras."
+        },
+        {
+          "recurso": "Música “Tudo Entregarei”",
+          "motivo": "Ajuda na transição para oração e reflexão pessoal sobre entrega, desde que não seja usada como fonte doutrinária nem com reprodução da letra."
+        }
+      ],
+      "enriquecimento_meta": {
+        "estudo_id": "2026-09-13",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-09-14T10:32:34",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
+      }
+    },
+    {
       "id": "2026-09-06",
       "status": "preliminar_mensagem_video_automatico",
       "tema": "Exalar o bom perfume de Cristo por meio de uma vida transformada, íntima de Deus, santa e testemunhal em todos os lugares.",
