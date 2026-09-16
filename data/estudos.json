@@ -2,8 +2,8 @@
   "estudos": [
     {
       "id": "2026-09-13",
-      "status": "preliminar_mensagem_video_automatico",
-      "tema": "O que impede que eu seja batizado? A mensagem enfatiza que a fé em Jesus deve envolver uma entrega completa do coração, conhecimento da Palavra, disponibilidade para obedecer à direção de Deus e disposição para levar o evangelho e o amor de Deus a outras pessoas e à própria família.",
+      "status": "carta_oficial_reconciliada",
+      "tema": "CASAS DE AMOR",
       "texto_principal": "Atos 8:26-40",
       "texto_principal_youversion": "ACT.8.26-40",
       "periodo": "13 a 19 de setembro de 2026",
@@ -101,8 +101,16 @@
         ]
       },
       "carta": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "carta de celula 33 13-09-2026.pdf",
+        "origem": "Carta da Célula 33",
+        "hash_sha256": "415c9488dee70e8b7206f69ef5cef7963eb1b009fa3c31a88b5f2372e21fe6ea",
+        "numero": 33,
+        "extracao_status": "automatico_pendente_revisao",
+        "origem_data": "periodo_pdf",
+        "data_documento": "2026-09-13",
+        "tema_extracao_status": "apos_edificar_pendente_revisao",
+        "arquivo_app": "assets/cartas/carta_2026-09-13.pdf"
       },
       "transcricao": {
         "status": "disponivel",
@@ -130,9 +138,46 @@
         "sigla": "NAA",
         "nome": "Nova Almeida Atualizada",
         "id_youversion": 1840,
-        "fonte": "Padrão do aplicativo"
+        "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
-      "oficial": {},
+      "oficial": {
+        "ideias_centrais": [
+          "Cadastre quem está sendo discipulado",
+          "Oriente a Célula a continuar orando pelas RIs",
+          "Ore com a Célula e por toda a Igreja",
+          "Revista-se de autoridade para alcançar as RIs"
+        ],
+        "perguntas": [
+          "Tenho permitido que Deus mude minha agenda para obedecer àquilo que Ele está me direcionando a fazer?",
+          "O quanto o conhecimento da Palavra tem influenciado minhas decisões e me levado a compreender quem é Jesus?",
+          "Provocar uma decisão > Existe alguma decisão que Deus já me mostrou que preciso tomar, mas que ainda estou adiando? Por quê?",
+          "Totalidade do seu coração > O que eu ainda estou segurando que me impede de entregar totalmente meu coração a Jesus e obedecê-lo?"
+        ],
+        "musicas": [
+          {
+            "titulo": "Grato Sou",
+            "interprete": "Canto das Igrejas",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Grato+Sou+Canto+das+Igrejas+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Estrela da Manhã",
+            "interprete": "Marcos Góes",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Estrela+da+Manh%C3%A3+Marcos+G%C3%B3es+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Que Segurança Sou De Jesus",
+            "interprete": "Hino 417 HCC",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Que+Seguran%C3%A7a+Sou+De+Jesus+Hino+417+HCC+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          }
+        ],
+        "desafio": null
+      },
       "preliminar": {
         "status": "video_analisado_automaticamente_confiavel",
         "fonte": "mensagem_oficial_video",
@@ -168,194 +213,160 @@
       "referencias_biblicas": [
         {
           "referencia": "Atos 8:26-40",
-          "conexao": "Texto principal da semana: Filipe obedece à direção do Espírito, explica as Escrituras, anuncia Jesus e acompanha o eunuco em sua decisão pelo batismo.",
-          "como_usar": "Leia o texto em voz alta, dividindo a leitura entre os participantes. Observe os movimentos do relato: direção de Deus, aproximação, escuta, explicação, fé, batismo e alegria.",
-          "pergunta": "Em que momento a disposição de Filipe e a busca do eunuco se encontram?",
-          "youversion_ref": "https://www.bible.com/pt/bible/1930/ACT.8.26-40.NVT"
+          "conexao": "Núcleo bíblico oficial da semana: Filipe obedece à direção do Espírito, aproxima-se de uma pessoa em busca de compreensão, escuta suas perguntas, anuncia Jesus e acompanha seu avanço até o batismo e a alegria.",
+          "como_usar": "Ler o texto em pequenos blocos: direção de Deus (vv. 26-29), escuta e discipulado (vv. 30-35), resposta de fé e batismo (vv. 36-40). Relacionar cada bloco às ações da célula: cadastrar, orar, acompanhar e alcançar.",
+          "pergunta": "Que pessoa Deus pode estar colocando no nosso caminho para que nos aproximemos com escuta, cuidado e disposição para discipular?",
+          "youversion_ref": "https://www.bible.com/pt/bible/212/ACT.8.26-40.ARC"
         },
         {
-          "referencia": "Atos 8:36-38",
-          "conexao": "A pergunta “o que impede que eu seja batizado?” conduz à reflexão sobre fé consciente, confissão pública e decisão pessoal por Jesus.",
-          "como_usar": "Peça ao grupo que identifique o que o texto apresenta como condição para o batismo e diferencie decisão pessoal de pressão externa.",
-          "pergunta": "Que evidências de compreensão e fé aparecem antes do batismo do eunuco?",
-          "youversion_ref": "https://www.bible.com/pt/bible/1930/ACT.8.NVT"
-        },
-        {
-          "referencia": "Mateus 28:19-20",
-          "conexao": "Amplia a relação entre batismo, discipulado, ensino e missão, temas coerentes com a ênfase da mensagem na Palavra e no anúncio do evangelho.",
-          "como_usar": "Use o texto para discutir o que acontece depois de uma decisão de fé: aprender, obedecer, caminhar em comunidade e ajudar outros a conhecer Jesus.",
-          "pergunta": "Como o batismo se relaciona com uma caminhada contínua de discipulado?",
-          "youversion_ref": null
+          "referencia": "Isaías 53:7-8",
+          "conexao": "É o trecho que o eunuco lia e a partir do qual Filipe anunciou Jesus. Ajuda a célula a perceber que discipular inclui começar pelas perguntas e pelo contexto da pessoa, conduzindo-a às boas-novas.",
+          "como_usar": "Ler os versículos antes de Atos 8:34-35 e conversar sobre como Filipe explicou as Escrituras sem impor uma resposta pronta.",
+          "pergunta": "Como podemos explicar a fé de modo compreensível para alguém que está fazendo perguntas sinceras?",
+          "youversion_ref": "https://www.bible.com/pt/bible/212/ISA.53.7-8.ARC"
         }
       ],
-      "filmes_series": [
-        {
-          "tipo": "série",
-          "titulo": "The Chosen",
-          "conexao": "A série dramatiza encontros de Jesus com pessoas em diferentes contextos e pode ajudar o grupo a conversar sobre resposta pessoal, transformação e discipulado. Não é uma representação direta de Atos 8 e deve ser comparada cuidadosamente com o texto bíblico.",
-          "como_usar": "Exiba um trailer ou selecione previamente um episódio adequado ao perfil do grupo. Depois, peça aos participantes que distingam o que vem do texto bíblico, o que é interpretação artística e quais atitudes de resposta a Jesus aparecem na narrativa.",
-          "pergunta": "Como uma experiência de encontro com Jesus pode produzir uma mudança que alcança decisões, relacionamentos e missão?",
-          "url_oficial": "https://www.thechosen.tv/",
-          "url_clipe": "https://www.youtube.com/watch?v=K1-FoFj8Jbo",
-          "incorporar_clipe": false
-        }
-      ],
-      "livros": [
-        {
-          "titulo": "O Discípulo Radical",
-          "autor": "John Stott",
-          "conexao": "A obra aborda o significado de seguir Jesus com compromisso integral, aproximando-se dos eixos de entrega do coração, obediência, formação bíblica e testemunho.",
-          "como_usar": "Leia previamente o trecho inicial e escolha uma ideia para relacionar com Atos 8. Evite tratá-lo como substituto da Bíblia; use-o como apoio para discutir o que significa ser discípulo de modo consciente e sincero.",
-          "pergunta": "Que diferença existe entre declarar fé em Jesus e organizar a vida como discípulo de Jesus?",
-          "url_trecho": "https://ultimato.com.br/sites/john-stott/2018/05/30/a-escolha-radical/",
-          "url_pdf_legal": "https://ultimato.com.br/boletim/legado_stott/downloads/trechos_livros/trecho_odr.pdf",
-          "url_audio_legal": null,
-          "url_editora": "https://ultimato.com.br/sites/discipulo-radical/",
-          "nota_acesso": "Foi localizado um trecho disponibilizado pela Editora Ultimato e um PDF de trecho autorizado. Não foi localizado audiolivro ou PDF integral gratuito e autorizado em português. ([ultimato.com.br](https://ultimato.com.br/sites/discipulo-radical/extras/leia-um-trecho-do-livro/?utm_source=openai))"
-        }
-      ],
+      "filmes_series": [],
+      "livros": [],
       "videos": [
         {
-          "titulo": "Personagem: João Batista — arrependimento e renovação através do batismo",
-          "fonte": "BibleProject Português",
-          "url": "https://bibleproject.com/pt-br/videos/personagem-joao-batista/",
-          "conexao": "Vídeo curto sobre arrependimento, batismo com água e preparação para uma nova vida, útil para introduzir o sentido do batismo sem substituir a leitura de Atos 8.",
-          "como_usar": "Exiba o vídeo de aproximadamente um minuto antes da leitura bíblica. Em seguida, peça que o grupo compare a ênfase do vídeo com a decisão do eunuco em Atos 8:36-38.",
-          "pergunta": "Que relação o vídeo estabelece entre arrependimento, renovação e uma nova forma de viver? ([bibleproject.com](https://bibleproject.com/pt-br/videos/personagem-joao-batista/?utm_source=openai))"
-        },
-        {
-          "titulo": "O Batismo de Jesus: Lucas 3–9",
-          "fonte": "BibleProject Português — canal oficial",
-          "url": "https://www.youtube.com/watch?v=IAo5zxqbQis",
-          "conexao": "Vídeo animado sobre o início da missão de Jesus e seu batismo, adequado para diferenciar o batismo de Jesus do batismo cristão narrado em Atos e discutir identidade, missão e obediência.",
-          "como_usar": "Use apenas como recurso introdutório, com cerca de cinco minutos. Oriente o grupo a observar como batismo e missão aparecem relacionados na narrativa bíblica.",
-          "pergunta": "Como identidade e missão se relacionam na vida de quem decide seguir Jesus? ([youtube.com](https://www.youtube.com/watch?v=IAo5zxqbQis&utm_source=openai))"
+          "titulo": "O apóstolo Paulo: Atos 8-12",
+          "fonte": "BibleProject em português",
+          "url": "https://bibleproject.com/pt-br/videos/o-apostolo-paulo-atos-8-12/",
+          "conexao": "Apresenta Atos 8-12 como a expansão de uma comunidade de Jesus para pessoas de diferentes origens, dialogando com o tema Casas de Amor e com o acolhimento do eunuco por Filipe.",
+          "como_usar": "Exibir o vídeo de 5min52s e pedir que o grupo identifique sinais de uma comunidade que atravessa barreiras culturais, religiosas e sociais para acolher e discipular.",
+          "pergunta": "Que barreiras precisamos atravessar para que nossa célula se torne uma casa de amor para as RIs?"
         }
       ],
       "musicas_complementares": [
         {
-          "titulo": "Tudo Entregarei",
-          "interprete": "Fernandinho",
-          "conexao": "A canção pode acompanhar a reflexão sobre entrega integral a Jesus, sem ser apresentada como explicação do texto bíblico ou como fala do pregador.",
-          "pergunta": "Que área da vida é mais difícil colocar diante de Deus com disponibilidade e confiança?",
-          "url_oficial": "https://www.youtube.com/watch?v=zdrrD218jJE",
-          "decisao": "incluir",
-          "motivo": "A gravação está publicada no canal oficial do artista e se relaciona diretamente com o tema da entrega completa. Não reproduzir a letra durante a atividade. ([youtube.com](https://www.youtube.com/watch?v=zdrrD218jJE&utm_source=openai))"
+          "titulo": "Grato Sou (Ao Vivo)",
+          "interprete": "O Canto das Igrejas, Netto e Paulo César Baruk",
+          "conexao": "Pode ser usada como resposta de gratidão pela ação de Deus na salvação, no discipulado e na missão.",
+          "pergunta": "Pelo que somos gratos ao observar Deus agindo nas pessoas que estamos acompanhando?",
+          "url_oficial": "https://www.youtube.com/watch?v=nUOooc1jMrE",
+          "decisao": "usar",
+          "motivo": "Encontrada em canal oficial de O Canto das Igrejas."
+        },
+        {
+          "titulo": "Estrela da Manhã",
+          "interprete": "Marcos Góes",
+          "conexao": "Relaciona-se à centralidade de Cristo no anúncio de Filipe e à confiança da célula na presença e na direção de Jesus.",
+          "pergunta": "Como manter Jesus no centro quando acompanhamos alguém em processo de fé?",
+          "url_oficial": "https://www.youtube.com/watch?v=fnNvTvKRgsg",
+          "decisao": "usar",
+          "motivo": "Encontrada no canal oficial de Marcos Góes."
+        },
+        {
+          "titulo": "Que Segurança Sou de Jesus — HCC 417",
+          "interprete": "Hino congregacional",
+          "conexao": "Pode acompanhar a oração final pela segurança, perseverança e alegria das pessoas discipuladas.",
+          "pergunta": "Que segurança em Cristo queremos declarar sobre as pessoas pelas quais a célula está orando?",
+          "url_oficial": null,
+          "decisao": "usar se houver gravação ou acompanhamento local autorizado",
+          "motivo": "A referência ao HCC 417 foi confirmada, mas não foi localizada uma gravação oficial segura em canal do intérprete, editora ou gravadora."
         }
       ],
       "atualidade": [],
       "situacoes_cotidianas": [
         {
-          "contexto": "Agenda pessoal e disponibilidade",
-          "titulo": "O compromisso que interrompe os planos",
-          "situacao": "Uma pessoa do pequeno grupo recebe uma oportunidade de conversar com alguém que está atravessando uma crise, mas está cansada e tinha planejado usar aquele horário para outra atividade. O grupo precisa discernir a diferença entre abandonar responsabilidades e estar disponível para uma necessidade real.",
-          "pergunta": "Como podemos alinhar nossa agenda a oportunidades de cuidado e testemunho sem agir por culpa ou impulsividade?"
+          "contexto": "Discipulado e acompanhamento",
+          "titulo": "A pessoa que parou de responder",
+          "situacao": "Uma pessoa que vinha sendo acompanhada pela célula deixa de responder às mensagens. Alguns integrantes querem desistir; outros sugerem insistência invasiva.",
+          "pergunta": "Como agir com perseverança, respeito, oração e cuidado, sem transformar o discipulado em pressão?"
         },
         {
-          "contexto": "Fé, família e diálogo",
-          "titulo": "Quando a família pergunta sobre sua fé",
-          "situacao": "Depois de tomar uma decisão importante sobre sua vida cristã, alguém é questionado por familiares que não compartilham da mesma fé. A conversa pode se tornar defensiva ou pode abrir espaço para explicar, com respeito, o que mudou e por quê.",
-          "pergunta": "Como falar de Jesus com clareza, humildade e amor dentro da própria família?"
+          "contexto": "Acolhimento",
+          "titulo": "O visitante que não conhece os códigos da igreja",
+          "situacao": "Alguém participa da célula pela primeira vez, faz perguntas consideradas básicas e demonstra insegurança para falar.",
+          "pergunta": "Nossa casa de amor consegue acolher perguntas sem constranger? Como podemos escutar antes de explicar?"
         },
         {
-          "contexto": "Conhecimento bíblico e ajuda ao próximo",
-          "titulo": "Não responder com frases prontas",
-          "situacao": "Uma pessoa procura o grupo com uma dúvida sobre fé, batismo e sofrimento. Em vez de responder rapidamente, os participantes precisam ouvir a pergunta, consultar as Escrituras e reconhecer o que ainda não sabem.",
-          "pergunta": "Como podemos combinar preparo bíblico, escuta atenta e humildade ao ajudar alguém?"
+          "contexto": "Missão cotidiana",
+          "titulo": "A conversa inesperada",
+          "situacao": "No trabalho, na escola ou no transporte, uma pessoa comenta uma dúvida sobre fé, sofrimento ou sentido da vida.",
+          "pergunta": "Estamos atentos às oportunidades de aproximação ou esperamos apenas situações organizadas pela igreja?"
         }
       ],
       "dinamicas": [
         {
-          "titulo": "O caminho do eunuco",
+          "titulo": "A carruagem ao lado",
           "duracao": "20 a 25 minutos",
-          "objetivo": "Reconstruir Atos 8:26-40 e identificar os passos que ligam direção de Deus, escuta, explicação das Escrituras, fé, batismo e testemunho.",
-          "materiais": "Cartões com as expressões: “direção”, “disponibilidade”, “aproximação”, “escuta”, “Palavra”, “Jesus”, “fé”, “batismo”, “alegria” e “missão”.",
+          "objetivo": "Identificar pessoas que precisam de acompanhamento e transformar a percepção em oração e próximo passo responsável.",
+          "materiais": "Papéis ou cartões, canetas e uma Bíblia.",
           "passos": [
-            "Distribua os cartões misturados entre os participantes.",
-            "Peça que o grupo organize os cartões em uma sequência coerente com o texto bíblico.",
-            "Leia Atos 8:26-40 e permita que o grupo revise a sequência.",
-            "Converse sobre quais etapas dependem da ação de Deus, quais dependem da resposta humana e como elas se relacionam.",
-            "Finalize pedindo que cada participante escolha uma palavra que descreva seu próximo passo de obediência ou crescimento."
+            "Cada participante escreve, sem expor detalhes sensíveis, o primeiro nome ou iniciais de uma pessoa que está sendo discipulada, afastada ou aberta a uma conversa sobre fé.",
+            "Em duplas, os participantes compartilham apenas o necessário e respondem: o que essa pessoa talvez esteja tentando compreender?",
+            "A dupla escolhe uma ação de cuidado para a semana: orar, enviar uma mensagem respeitosa, marcar uma conversa ou oferecer ajuda prática.",
+            "O grupo ora pelas pessoas, pela Igreja e pela sensibilidade para reconhecer as oportunidades dadas pelo Espírito.",
+            "O líder registra os acompanhamentos de forma segura e combina uma revisão na próxima reunião."
           ],
           "perguntas": [
-            "O que Filipe fez antes de falar sobre Jesus?",
-            "Em que sentido a escuta foi tão importante quanto o conhecimento bíblico?",
-            "Que diferença existe entre acompanhar alguém e pressionar alguém?"
+            "Estamos tratando essas pessoas como projetos ou como pessoas que precisam ser ouvidas e amadas?",
+            "Qual é o próximo passo adequado, respeitoso e possível?",
+            "Como a célula pode acompanhar sem expor informações pessoais?"
           ]
         },
         {
-          "titulo": "Agenda dos céus, agenda da semana",
-          "duracao": "20 minutos",
-          "objetivo": "Aplicar a ideia de disponibilidade para Deus a decisões concretas, preservando responsabilidade, limites saudáveis e discernimento.",
-          "materiais": "Folhas de papel ou bloco de notas.",
+          "titulo": "Cadastro que vira cuidado",
+          "duracao": "15 a 20 minutos",
+          "objetivo": "Conectar o cadastro de discipulado a um acompanhamento real, ético e contínuo.",
+          "materiais": "Modelo simples de acompanhamento com campos: nome ou código, responsável, última conversa, necessidade de oração e próximo passo.",
           "passos": [
-            "Cada participante registra três compromissos fixos da próxima semana e duas situações em que poderia estar mais atento às pessoas.",
-            "Em duplas, os participantes conversam sobre como praticar presença, escuta e serviço sem negligenciar família, trabalho, estudos ou descanso.",
-            "Cada pessoa escolhe uma ação específica, pequena e verificável, para colocar em prática durante a semana.",
-            "O grupo encerra orando por sensibilidade, sabedoria e coragem para obedecer a Deus."
+            "Apresentar um modelo mínimo de registro, evitando informações íntimas desnecessárias.",
+            "Revisar os nomes ou códigos já cadastrados pela célula e verificar quem está sem responsável ou sem próximo passo.",
+            "Distribuir responsabilidades de forma equilibrada, sem concentrar todo o cuidado em uma única pessoa.",
+            "Definir uma data para revisar os acompanhamentos e celebrar avanços, sem expor pessoas."
           ],
           "perguntas": [
-            "Que tipo de interrupção costuma ser mais difícil aceitar?",
-            "Como distinguir uma oportunidade de serviço de uma expectativa de agradar a todos?",
-            "Quem pode ser uma pessoa concreta por quem oraremos e a quem ofereceremos escuta nesta semana?"
+            "Quem está sendo acompanhado de fato e quem apenas está listado?",
+            "Que informação é necessária para cuidar e que informação não deve ser registrada?",
+            "Como proteger a privacidade e a dignidade das pessoas discipuladas?"
           ]
         }
       ],
       "sustentabilidade": {},
       "perguntas_adicionais": [
         {
-          "tipo": "conciliação editorial",
-          "pergunta": "Como esta curadoria é complementar à mensagem em vídeo e ainda está sujeita à chegada da Carta/transcrição oficial, quais itens deverão ser ajustados quando o documento chegar?"
+          "tipo": "observação do texto",
+          "pergunta": "O que Filipe fez antes de falar? O que isso ensina sobre escuta no discipulado?"
         },
         {
-          "tipo": "batismo e consciência",
-          "pergunta": "Como a comunidade pode acolher pessoas interessadas no batismo, oferecendo ensino e acompanhamento sem transformar a decisão em pressão emocional?"
+          "tipo": "aplicação comunitária",
+          "pergunta": "Que atitudes tornam uma célula uma casa de amor para pessoas de diferentes origens, histórias e níveis de compreensão da fé?"
         },
         {
-          "tipo": "família",
-          "pergunta": "Que prática simples — oração, reconciliação, refeição compartilhada, escuta ou serviço — poderia ajudar nossa casa a se tornar mais parecida com uma “casa de amor”?"
+          "tipo": "oração",
+          "pergunta": "Quais RIs precisam ser incluídas hoje na oração da célula e qual necessidade específica podemos apresentar a Deus?"
         },
         {
-          "tipo": "missão",
-          "pergunta": "Que pessoa ou grupo próximo de nós pode estar procurando respostas e precisa primeiro ser ouvido com atenção?"
+          "tipo": "autoridade e serviço",
+          "pergunta": "Como revestir-se de autoridade espiritual sem confundir autoridade com controle, pressão ou exposição da vida alheia?"
         }
       ],
       "prioridades": [
         {
-          "recurso": "Atos 8:26-40 na íntegra",
-          "motivo": "É o núcleo bíblico da semana e deve orientar a conversa antes de qualquer recurso complementar."
+          "recurso": "Carta oficial da Célula 33 — Casas de Amor",
+          "motivo": "É o núcleo oficial da semana e deve orientar a condução, as aplicações e a oração da célula."
         },
         {
-          "recurso": "Dinâmica “O caminho do eunuco”",
-          "motivo": "Traduz os movimentos do texto em uma atividade simples para pequenos grupos, sem apresentar interpretações complementares como fala do pregador."
+          "recurso": "Atos 8:26-40 na ARC",
+          "motivo": "É o texto principal indicado pela Carta e sustenta a leitura sobre aproximação, escuta, discipulado, batismo e alegria."
         },
         {
-          "recurso": "O Discípulo Radical — trecho legal em português",
-          "motivo": "Oferece apoio para discutir discipulado e compromisso integral, com acesso legal verificado ao trecho."
+          "recurso": "Cadastro seguro de discipulado",
+          "motivo": "Traduz diretamente a orientação oficial de cadastrar quem está sendo discipulado em acompanhamento responsável e contínuo."
         },
         {
-          "recurso": "Vídeo curto do BibleProject sobre João Batista",
-          "motivo": "É breve, oficial e diretamente relacionado ao tema do batismo, podendo funcionar como introdução sem ocupar o lugar das Escrituras."
-        },
-        {
-          "recurso": "Música “Tudo Entregarei”",
-          "motivo": "Ajuda na transição para oração e reflexão pessoal sobre entrega, desde que não seja usada como fonte doutrinária nem com reprodução da letra."
+          "recurso": "Oração pelas RIs, pela célula e por toda a Igreja",
+          "motivo": "Concretiza as ênfases oficiais da Carta sem transformar pessoas em metas ou estatísticas."
         }
-      ],
-      "enriquecimento_meta": {
-        "estudo_id": "2026-09-13",
-        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
-        "modelo": "gpt-5.6-luna",
-        "versao": "04D.4.2",
-        "gerado_em": "2026-09-14T10:32:34",
-        "carta_disponivel": false,
-        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
-      }
+      ]
     },
     {
       "id": "2026-09-06",
-      "status": "preliminar_mensagem_video_automatico",
-      "tema": "Exalar o bom perfume de Cristo por meio de uma vida transformada, íntima de Deus, santa e testemunhal em todos os lugares.",
+      "status": "carta_oficial_reconciliada",
+      "tema": "CASAS DE AMOR",
       "texto_principal": "2 Coríntios 2:14-17",
       "texto_principal_youversion": "2CO.2.14-17",
       "periodo": "06 a 12 de setembro de 2026",
@@ -489,8 +500,16 @@
         ]
       },
       "carta": {
-        "status": "aguardando",
-        "arquivo": null
+        "status": "disponivel",
+        "arquivo": "carta de celula 32 06-09-2026.pdf",
+        "origem": "Carta da Célula 32",
+        "hash_sha256": "53f0527679e0748c80e08e8d8e3dde1ebcabfa83d664d44d8f81887706aa7f39",
+        "numero": 32,
+        "extracao_status": "automatico_pendente_revisao",
+        "origem_data": "periodo_pdf",
+        "data_documento": "2026-09-06",
+        "tema_extracao_status": "apos_edificar_pendente_revisao",
+        "arquivo_app": "assets/cartas/carta_2026-09-06.pdf"
       },
       "transcricao": {
         "status": "disponivel",
@@ -518,9 +537,45 @@
         "sigla": "NAA",
         "nome": "Nova Almeida Atualizada",
         "id_youversion": 1840,
-        "fonte": "Padrão do aplicativo"
+        "fonte": "Padrão do aplicativo; Carta importada sem versão identificada automaticamente."
       },
-      "oficial": {},
+      "oficial": {
+        "ideias_centrais": [
+          "Cadastre quem está sendo discipulado",
+          "Oriente a Célula a continuar orando pelas RIs",
+          "Ore com a Célula e por toda a Igreja",
+          "Revista-se de autoridade para alcançar as RIs"
+        ],
+        "perguntas": [
+          "Qual tem sido o “cheiro” que a minha vida tem deixado nas pessoas ao meu redor? Tenho transmitido mais o perfume de Cristo, através do amor, graça e caráter, ou algo diferente?",
+          "O que precisa ser transformado em mim para que a essência de Cristo seja mais percebida através da minha vida? Existe alguma atitude, palavra ou comportamento que tem prejudicado o meu testemunho?",
+          "Onde Deus tem me chamado para exalar o perfume de Cristo? Pense em uma pessoa, ambiente ou relacionamento específico e defina uma atitude prática de amor, serviço ou testemunho."
+        ],
+        "musicas": [
+          {
+            "titulo": "132 HCC - Mensagem da Cruz",
+            "interprete": null,
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=132+HCC+-+Mensagem+da+Cruz+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Ele vem",
+            "interprete": "Gabriel Guedes",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Ele+vem+Gabriel+Guedes+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          },
+          {
+            "titulo": "Digno é o Senhor",
+            "interprete": "Aline Barros",
+            "url_oficial": null,
+            "url_busca_youtube": "https://www.youtube.com/results?search_query=Digno+%C3%A9+o+Senhor+Aline+Barros+oficial",
+            "tipo_link_proposto": "BUSCA_YOUTUBE_NAO_VALIDADA"
+          }
+        ],
+        "desafio": null
+      },
       "preliminar": {
         "status": "video_analisado_automaticamente_confiavel",
         "fonte": "mensagem_oficial_video",
@@ -556,202 +611,218 @@
       "referencias_biblicas": [
         {
           "referencia": "2 Coríntios 2:14-17",
-          "conexao": "Texto principal sobre Deus conduzindo em triunfo e manifestando, por meio dos cristãos, a fragrância do conhecimento de Cristo.",
-          "como_usar": "Ler no início e retornar aos versículos 14-16 ao discutir origem, alcance e efeito do testemunho cristão.",
-          "pergunta": "O que este texto atribui a Deus e o que ele espera manifestar por meio de nós?",
-          "youversion_ref": "2CO.2.NAA"
+          "conexao": "Texto principal da Carta Oficial. A imagem do perfume ajuda o grupo a refletir sobre como a presença, o testemunho e o cuidado cristão alcançam pessoas dentro e fora de casa.",
+          "como_usar": "Leia o texto em duas versões, observe as expressões “fragrância”, “aroma de Cristo” e “sinceridade”, e relacione-as às práticas de oração, discipulado e acolhimento indicadas na Carta.",
+          "pergunta": "Que tipo de “aroma” nossa célula tem deixado nas pessoas que se aproximam de nós?",
+          "youversion_ref": "https://www.bible.com/pt/bible/1840/2CO.2.14-17.NAA"
         },
         {
-          "referencia": "João 15:4-5",
-          "conexao": "A permanência em Cristo fundamenta uma vida que produz fruto; a intimidade precede o testemunho.",
-          "como_usar": "Relacionar a imagem do perfume à necessidade de permanecer ligado à fonte, que é Cristo.",
-          "pergunta": "Que diferença existe entre tentar parecer cristão e permanecer em Cristo?",
-          "youversion_ref": "JHN.15.NAA"
+          "referencia": "Romanos 15:7",
+          "conexao": "Complementa o tema das casas de amor ao apresentar o acolhimento mútuo como expressão da acolhida de Cristo.",
+          "como_usar": "Leia o versículo e peça que cada participante cite uma atitude concreta que torna uma casa, célula ou igreja mais acolhedora.",
+          "pergunta": "Quem precisa ser acolhido de modo mais intencional por nossa célula nesta semana?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/ROM.15.7.NVI"
         },
         {
-          "referencia": "Mateus 5:13-16",
-          "conexao": "Jesus associa a presença dos discípulos no mundo ao sal e à luz, imagens de influência visível e responsável.",
-          "como_usar": "Aplicar aos ambientes citados na mensagem: casa, trabalho, escola, igreja e comunidade.",
-          "pergunta": "Como nossas boas obras podem apontar para Deus sem buscar nossa própria glória?",
-          "youversion_ref": "MAT.5.NAA"
+          "referencia": "Atos 2:42-47",
+          "conexao": "Apresenta uma comunidade cristã marcada por comunhão, oração, partilha e cuidado, elementos aplicáveis à construção de casas de amor.",
+          "como_usar": "Compare a rotina da igreja primitiva com a rotina atual da célula e identifique uma prática que pode ser fortalecida.",
+          "pergunta": "Qual prática da comunidade de Atos poderia ser retomada ou aprofundada em nossa célula?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/ACT.2.42-47.NVI"
         }
       ],
-      "filmes_series": [
-        {
-          "tipo": "série",
-          "titulo": "The Chosen",
-          "conexao": "A série apresenta encontros de Jesus com pessoas comuns e permite conversar sobre transformação, intimidade, testemunho e presença de Cristo nas relações.",
-          "como_usar": "Exibir um trecho curto previamente selecionado pelo líder, sem substituir a leitura bíblica. Depois, comparar a reação dos personagens diante de Jesus com as reações do grupo em seus próprios ambientes.",
-          "pergunta": "Que transformação se torna visível quando uma pessoa realmente encontra Jesus?",
-          "url_oficial": "https://thechosen.tv/en-us",
-          "url_clipe": "https://watch.thechosen.tv/",
-          "incorporar_clipe": false
-        }
-      ],
+      "filmes_series": [],
       "livros": [
         {
-          "titulo": "A Imitação de Cristo",
-          "autor": "Tomás de Kempis",
-          "conexao": "Clássico devocional sobre vida interior, humildade, seguimento de Cristo e transformação do caráter.",
-          "como_usar": "Selecionar previamente um pequeno trecho do PDF de degustação, especialmente sobre vida espiritual e união com Deus. Usar como leitura complementar, deixando claro que não é a fonte oficial da mensagem.",
-          "pergunta": "Que hábitos ajudam a transformar uma fé declarada em uma vida moldada por Cristo?",
-          "url_trecho": "https://institucional.vidanova.com.br/wp-content/uploads/imitacao_de_cristo_trecho.pdf",
+          "titulo": "Edificando uma igreja de grupos pequenos",
+          "autor": "Bill Donahue e Russ Robinson",
+          "conexao": "Relaciona-se diretamente à formação de comunidades pequenas, vínculos autênticos, discipulado e cuidado mútuo.",
+          "como_usar": "Utilize a descrição do livro para iniciar uma conversa com líderes sobre como a célula pode ser um ambiente em que ninguém se sinta sozinho. Se houver acesso ao livro, selecione um capítulo sobre relacionamento, liderança ou cuidado pastoral.",
+          "pergunta": "O que precisa mudar em nossa célula para que ela seja percebida como uma casa segura de cuidado e discipulado?",
+          "url_trecho": null,
           "url_pdf_legal": null,
           "url_audio_legal": null,
-          "url_editora": "https://www.vidanova.com.br/livros/imitacao-de-cristo-a-e-a-centralidade-da-cruz-na-luta-contra-a-carne",
-          "nota_acesso": "Foi encontrado trecho/prévia legal em português. Não foi localizado, nesta busca, PDF integral ou audiolivro legal em português."
+          "url_editora": "https://www.editoravida.com.br/edificando-uma-igreja-de-grupos-pequenos.html",
+          "nota_acesso": "Não foi localizado, na busca realizada, trecho/prévia, PDF autorizado ou áudio legal em português. O link preenchido é a página comercial da Editora Vida; ele não foi rotulado como trecho, PDF ou audiolivro."
         }
       ],
       "videos": [
         {
-          "titulo": "O Bom Perfume de Cristo – 2 Coríntios 2:14-16",
-          "fonte": "Igreja Presbiteriana Unida de São Paulo",
-          "url": "https://www.youtube.com/watch?v=xXYS1GLt0O4",
-          "conexao": "Estudo diretamente relacionado ao texto de 2 Coríntios 2 e às ideias de triunfo, fragrância e vida agradável a Deus.",
-          "como_usar": "Exibir apenas um trecho introdutório ou usar como preparação do líder. Apresentar como conteúdo complementar de outra igreja, não como fala do pregador da fonte da semana.",
-          "pergunta": "Como o vídeo relaciona a fragrância de Cristo à vida comunitária e ao testemunho? "
+          "titulo": "2 Coríntios | BibleProject Português",
+          "fonte": "BibleProject Português",
+          "url": "https://www.youtube.com/watch?v=BgFBb0uAuLY",
+          "conexao": "Oferece uma visão geral da carta e ajuda a situar o texto principal dentro dos temas de reconciliação, serviço, sofrimento e transformação cristã.",
+          "como_usar": "Exiba apenas o trecho necessário ou o vídeo completo antes da conversa. Oriente o grupo a observar como a cruz redefine poder, serviço e relacionamento comunitário.",
+          "pergunta": "Como a visão de serviço e humildade apresentada no vídeo desafia a maneira como cuidamos das pessoas em nossa casa e célula?"
         }
       ],
-      "musicas_complementares": [],
-      "atualidade": [
+      "musicas_complementares": [
         {
-          "abrangencia": "Grande Vitória, Espírito Santo",
-          "titulo": "Mangue Limpo transforma voluntários em guardiões dos manguezais",
-          "veiculo": "O Capixaba",
-          "data": "2026-08-06",
-          "url": "https://ocapixaba.com.br/colunistas/2026/08/mangue-limpo-transforma-voluntarios-em-guardioes-dos-manguezais/",
-          "conexao": "O projeto mostra pessoas tornando visível seu compromisso com a comunidade por meio de uma ação prática de cuidado ambiental. A conexão é complementar: testemunho não se limita a palavras, mas pode aparecer em responsabilidade, serviço e cuidado com o lugar onde se vive.",
-          "dilema": "Como evitar que o testemunho cristão fique restrito ao discurso quando existem necessidades concretas no território?",
-          "pergunta": "Que ação prática de cuidado com a comunidade poderia expressar o amor de Cristo sem transformar a ação em autopromoção?"
+          "titulo": "Ele Vem",
+          "interprete": "Gabriel Guedes, com Gabriela Rocha",
+          "conexao": "Pode acompanhar a reflexão sobre esperança, pertencimento e a expectativa do encontro definitivo com Cristo, sem substituir o foco da Carta.",
+          "pergunta": "Como a esperança cristã pode nos tornar mais presentes e cuidadosos com as pessoas hoje?",
+          "url_oficial": "https://www.youtube.com/watch?v=YudXB8MZRTs",
+          "decisao": "usar",
+          "motivo": "Vídeo publicado no canal oficial do artista no YouTube."
         },
         {
-          "abrangencia": "Vitória, Espírito Santo",
-          "titulo": "Voluntário Social: mãe transforma solidariedade em ação",
-          "veiculo": "TV Brasil / Repórter Brasil",
-          "data": "2026-07-07",
-          "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/07/voluntario-social-mae-transforma-solidariedade-em-acao?page=39",
-          "conexao": "A reportagem apresenta uma experiência de solidariedade voltada a famílias de Vitória. Pode ajudar o grupo a discutir como atitudes cotidianas tornam valores visíveis nos relacionamentos e na cidade.",
-          "dilema": "Como servir de modo consistente, sem esperar reconhecimento imediato?",
-          "pergunta": "Qual necessidade próxima de nós pode ser percebida e atendida com discrição nesta semana?"
+          "titulo": "Digno é o Senhor",
+          "interprete": "Aline Barros",
+          "conexao": "Relaciona-se à adoração e à centralidade de Cristo, ajudando o grupo a iniciar ou encerrar a reunião com gratidão.",
+          "pergunta": "Como a adoração a Cristo influencia a forma como tratamos os membros da família, da célula e da Igreja?",
+          "url_oficial": "https://www.youtube.com/watch?v=stKPXkcW5v8",
+          "decisao": "usar",
+          "motivo": "Vídeo ao vivo publicado no canal oficial da artista no YouTube."
+        },
+        {
+          "titulo": "Rude Cruz — HCC 132",
+          "interprete": "Hinário para o Culto Cristão; autoria de George Bennard",
+          "conexao": "A canção indicada na Carta reforça a centralidade da cruz e pode ser usada como hino congregacional.",
+          "pergunta": "Que atitude de serviço e renúncia nasce da compreensão do amor demonstrado na cruz?",
+          "url_oficial": null,
+          "decisao": "usar sem link externo",
+          "motivo": "A busca localizou referências e partituras, mas não confirmou uma gravação oficial de artista, gravadora ou plataforma oficial que pudesse ser indicada com segurança."
+        }
+      ],
+      "atualidade": [
+        {
+          "abrangencia": "Local/regional — Grande Vitória e Espírito Santo",
+          "titulo": "Romaria das Famílias 2026",
+          "veiculo": "Arquidiocese de Vitória",
+          "data": "16 de agosto de 2026",
+          "url": "https://www.aves.org.br/romaria-das-familias-2026/",
+          "conexao": "A iniciativa reuniu famílias em uma caminhada de fé no contexto da Semana Nacional da Família, oferecendo uma ponte para conversar sobre o lar como espaço de amor, oração e responsabilidade comunitária.",
+          "dilema": "Como valorizar a família sem ignorar as famílias que vivem conflitos, solidão, pobreza ou diferentes configurações?",
+          "pergunta": "Que atitude de cuidado nossa célula pode praticar nesta semana em favor de uma família que precisa de apoio?"
         },
         {
           "abrangencia": "Brasil",
-          "titulo": "Giro do Voluntariado Greenpeace: principais ações pelo Brasil em julho",
-          "veiculo": "Greenpeace Brasil",
-          "data": "2026-08-07",
-          "url": "https://www.greenpeace.org/brasil/blog/giro-do-voluntariado-greenpeace-principais-acoes-pelo-brasil-em-julho/",
-          "conexao": "A matéria reúne ações coletivas de voluntariado, educação e cuidado ambiental. Pode ampliar a conversa sobre presença pública, responsabilidade e coerência entre valores professados e práticas concretas.",
-          "dilema": "Como participar de ações coletivas mantendo humildade, responsabilidade e respeito por pessoas com visões diferentes?",
-          "pergunta": "Que tipo de cooperação comunitária poderia ser assumida pelo pequeno grupo sem perder seu foco cristão?"
+          "titulo": "Dia Nacional do Voluntariado: bons exemplos estão por perto",
+          "veiculo": "Tribunal de Justiça do Distrito Federal e dos Territórios",
+          "data": "28 de agosto de 2026",
+          "url": "https://www.tjdft.jus.br/institucional/imprensa/noticias/2026/agosto/dia-nacional-do-voluntariado-bons-exemplos-estao-por-perto",
+          "conexao": "Mostra formas concretas de dedicar tempo ao cuidado de crianças, gestantes, idosos, pessoas hospitalizadas e famílias em vulnerabilidade. Pode inspirar a célula a transformar oração em serviço responsável.",
+          "dilema": "Como servir sem expor, constranger ou criar dependência nas pessoas atendidas?",
+          "pergunta": "Qual necessidade real do território pode ser conhecida e atendida pela célula com humildade, segurança e parceria?"
+        },
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Conexão Voluntária mobiliza mais de 5,4 mil participações em 2026",
+          "veiculo": "Instituto Claro",
+          "data": "28 de agosto de 2026",
+          "url": "https://www.institutoclaro.org.br/nossas-novidades/conexao-voluntaria-mobiliza-mais-de-54-mil-participacoes-em-2026/",
+          "conexao": "Apresenta ações de voluntariado, arrecadação e apoio emergencial como práticas de fortalecimento comunitário. A conexão com a Carta é complementar: uma casa de amor pode expressar sua fé por meio de cuidado organizado e responsável.",
+          "dilema": "Como transformar boa intenção em ação contínua, transparente e realmente útil para a comunidade?",
+          "pergunta": "Que ação simples, verificável e não partidária a célula poderia realizar nos próximos trinta dias?"
         }
       ],
       "situacoes_cotidianas": [
         {
-          "contexto": "Família",
-          "titulo": "O perfume dentro de casa",
-          "situacao": "Uma pessoa é gentil e participativa na igreja, mas reage com agressividade, ironia ou impaciência em casa.",
-          "pergunta": "Que mudança concreta demonstraria que a transformação alcança também os relacionamentos mais próximos?"
+          "contexto": "Uma pessoa nova chega à célula, permanece calada durante a reunião e vai embora sem conversar com ninguém.",
+          "titulo": "A casa que acolhe de verdade",
+          "situacao": "Depois do encontro, os participantes percebem que conversaram apenas entre si. Na semana seguinte, precisam decidir se vão apenas cumprimentar a pessoa ou se alguém assumirá a responsabilidade de acompanhá-la com respeito, sem pressioná-la.",
+          "pergunta": "Que atitude prática demonstraria que nossa célula é uma casa de amor e não apenas uma reunião semanal?"
         },
         {
-          "contexto": "Trabalho ou escola",
-          "titulo": "Integridade quando ninguém está observando",
-          "situacao": "O grupo percebe uma pequena desonestidade que parece vantajosa e provavelmente não será descoberta.",
-          "pergunta": "Como a santidade e a qualidade do testemunho influenciam uma decisão aparentemente pequena?"
+          "contexto": "Uma pessoa em discipulado deixa de frequentar a célula e não responde às mensagens.",
+          "titulo": "Cuidado sem controle",
+          "situacao": "A célula precisa orar pela pessoa, fazer um contato cuidadoso e respeitar seus limites, evitando cobranças, exposição ou conclusões precipitadas.",
+          "pergunta": "Como podemos buscar alguém com amor, autoridade espiritual e respeito pela liberdade dessa pessoa?"
         },
         {
-          "contexto": "Redes sociais",
-          "titulo": "Reagir sem espalhar mau cheiro",
-          "situacao": "Uma publicação provoca indignação e o impulso é responder com sarcasmo, exposição ou ofensa.",
-          "pergunta": "Como manifestar verdade e firmeza sem reproduzir violência, desprezo ou humilhação?"
-        },
-        {
-          "contexto": "Comunidade",
-          "titulo": "Servir sem buscar aplausos",
-          "situacao": "Uma ação solidária precisa ser organizada, mas algumas pessoas só querem participar se receberem visibilidade.",
-          "pergunta": "Como preservar a motivação correta e, ao mesmo tempo, prestar contas de maneira responsável?"
+          "contexto": "Uma família do bairro enfrenta uma necessidade material urgente, mas a célula não tem recursos suficientes para resolver tudo.",
+          "titulo": "Amor que trabalha em rede",
+          "situacao": "O grupo deve ouvir a família, verificar a necessidade, preservar sua dignidade e, quando necessário, buscar apoio em serviços públicos, instituições confiáveis ou outras comunidades.",
+          "pergunta": "Como ajudar sem prometer o que não podemos cumprir e sem substituir responsabilidades do poder público?"
         }
       ],
       "dinamicas": [
         {
-          "titulo": "Mapa dos ambientes que exalam",
-          "duracao": "20 a 25 minutos",
-          "objetivo": "Identificar os ambientes em que cada participante é chamado a manifestar o caráter de Cristo e reconhecer desafios específicos.",
-          "materiais": "Folhas, canetas e quadro ou cartolina.",
+          "titulo": "O aroma que deixamos",
+          "duracao": "15 a 20 minutos",
+          "objetivo": "Relacionar a metáfora de 2 Coríntios 2:14-17 com a maneira como cada participante influencia o ambiente de sua casa, célula, trabalho e Igreja.",
+          "materiais": "Papéis pequenos e canetas.",
           "passos": [
-            "Desenhe no centro da folha a palavra Cristo.",
-            "Ao redor, escreva casa, trabalho ou escola, igreja, amizades, redes sociais e comunidade.",
-            "Para cada ambiente, registre uma atitude que comunica Cristo e uma atitude que compromete o testemunho.",
-            "Cada participante escolhe um ambiente para apresentar ao grupo.",
-            "Finalize com uma oração breve de entrega do ambiente mais desafiador."
+            "Leia 2 Coríntios 2:14-17.",
+            "Entregue um papel para cada participante e peça que escreva uma palavra que descreva o ambiente que deseja promover em sua casa ou célula.",
+            "Recolha os papéis e leia as palavras sem identificar os autores.",
+            "Conversem sobre quais atitudes concretas produzem esse “aroma”.",
+            "Finalize escolhendo uma prática coletiva para a semana."
           ],
           "perguntas": [
-            "Em qual ambiente é mais fácil demonstrar fé?",
-            "Em qual ambiente a reação emocional mais compromete o testemunho?",
-            "Qual mudança específica será praticada nesta semana?"
+            "Que comportamentos tornam uma presença acolhedora?",
+            "Existe alguma atitude nossa que pode estar afastando pessoas?",
+            "Qual ação será assumida por cada participante nesta semana?"
           ]
         },
         {
-          "titulo": "Reação antes da resposta",
-          "duracao": "25 minutos",
-          "objetivo": "Treinar respostas coerentes com santidade, amor e testemunho em situações de pressão.",
-          "materiais": "Cartões com situações cotidianas.",
+          "titulo": "Mapa de oração pelas RIs",
+          "duracao": "20 minutos",
+          "objetivo": "Aplicar as orientações oficiais de cadastrar os discipulados, continuar orando pelas RIs e buscar pessoas com cuidado e autoridade espiritual.",
+          "materiais": "Folha, canetas e, se apropriado, lista protegida de nomes ou iniciais.",
           "passos": [
-            "Divida o grupo em pequenos trios.",
-            "Entregue a cada trio uma situação: crítica injusta, provocação nas redes, erro no trabalho ou conflito familiar.",
-            "Cada trio representa primeiro uma reação impulsiva e depois uma resposta coerente com Cristo.",
-            "O grupo identifica o que mudou entre as duas respostas.",
-            "Relacione o exercício a 2 Coríntios 2:14-17 e 1 Pedro 2:12."
+            "Explique que informações pessoais devem ser tratadas com confidencialidade e consentimento.",
+            "Organize a lista de pessoas em discipulado ou RIs por três categorias: acompanhamento regular, contato a retomar e necessidade urgente de oração.",
+            "Formem duplas ou trios para orar por cada categoria.",
+            "Definam um próximo contato respeitoso para cada pessoa, sem transformar a oração em cobrança.",
+            "Registrem apenas o necessário e guardem as informações com segurança."
           ],
           "perguntas": [
-            "O que torna uma resposta cristã diferente de uma resposta apenas educada?",
-            "Santidade significa ausência de conflito ou uma forma diferente de atravessá-lo?",
-            "Como falar a verdade sem perder o amor?"
+            "Quem precisa de oração perseverante?",
+            "Qual é a forma mais respeitosa de retomar contato?",
+            "Como a célula pode acompanhar sem controlar?"
           ]
         }
       ],
-      "sustentabilidade": {},
+      "sustentabilidade": {
+        "ods_principal": "ODS 11 — Cidades e comunidades sustentáveis",
+        "conexao": "A conexão é complementar e prática, não uma afirmação direta do texto bíblico: casas, células e igrejas podem contribuir para comunidades mais inclusivas quando acolhem, identificam necessidades e formam redes responsáveis de cuidado.",
+        "aplicacao": "Escolher uma necessidade real do território, ouvir a comunidade envolvida, evitar exposição das pessoas e realizar uma ação pequena em parceria com uma instituição confiável ou serviço público. Registrar o que foi feito, quem foi beneficiado e quais limites precisam ser respeitados.",
+        "pergunta": "Como nossa célula pode fortalecer vínculos e cuidado comunitário sem agir de forma improvisada, invasiva ou substitutiva dos serviços públicos?"
+      },
       "perguntas_adicionais": [
         {
-          "tipo": "observação do texto",
-          "pergunta": "No texto principal, quem conduz em triunfo e quem manifesta a fragrância? O que essa ordem ensina sobre dependência de Deus?"
+          "tipo": "Carta Oficial",
+          "pergunta": "Quem está sendo discipulado por nós e está devidamente cadastrado para acompanhamento?"
         },
         {
-          "tipo": "intimidade",
-          "pergunta": "Quais práticas de oração, Palavra, confissão e comunhão fortalecem uma experiência real com Cristo?"
+          "tipo": "Oração",
+          "pergunta": "Como a célula pode manter uma rotina fiel de oração pelas RIs e por toda a Igreja?"
         },
         {
-          "tipo": "coerência",
-          "pergunta": "Existe alguma diferença entre o perfume que desejamos transmitir e o impacto que nossas atitudes realmente causam?"
+          "tipo": "Autoridade espiritual",
+          "pergunta": "Como exercer autoridade para alcançar pessoas sem confundir autoridade com pressão, controle ou exposição?"
         },
         {
-          "tipo": "santidade",
-          "pergunta": "Como tratar pecados aparentemente pequenos sem cair em legalismo nem em permissividade?"
+          "tipo": "Casa de amor",
+          "pergunta": "Quais sinais mostram que nossa casa, célula ou igreja é realmente segura para quem chega ferido, distante ou em busca de ajuda?"
         },
         {
-          "tipo": "missão",
-          "pergunta": "Como compartilhar o evangelho com palavras e ações de modo respeitoso, claro e coerente?"
-        },
-        {
-          "tipo": "casa",
-          "pergunta": "Que mudança tornaria nossa casa um lugar mais acolhedor, verdadeiro e coerente com a presença de Cristo?"
+          "tipo": "Prática semanal",
+          "pergunta": "Que pessoa será contatada, que oração será feita e que gesto concreto de cuidado será realizado antes do próximo encontro?"
         }
       ],
       "prioridades": [
         {
-          "recurso": "Leitura cuidadosa de 2 Coríntios 2:14-17",
-          "motivo": "É o texto principal e deve permanecer como eixo da conversa, evitando que os complementos substituam a fonte da semana."
+          "recurso": "Carta Oficial da Célula 32 — tema “Casas de Amor”",
+          "motivo": "É o núcleo oficial da semana e deve orientar a condução do encontro, a oração e as aplicações."
         },
         {
-          "recurso": "Dinâmica sobre ambientes e reações",
-          "motivo": "Traduz o tema em decisões observáveis no cotidiano, especialmente em casa, no trabalho, na escola e nas redes sociais."
+          "recurso": "2 Coríntios 2:14-17 na YouVersion",
+          "motivo": "É o texto principal e sustenta a imagem do aroma de Cristo, da sinceridade e do testemunho cristão."
         },
         {
-          "recurso": "Atualidade local sobre voluntariado e cuidado comunitário",
-          "motivo": "Oferece uma ponte concreta para discutir testemunho público, serviço e responsabilidade sem afirmar que a reportagem representa a mensagem do pregador."
+          "recurso": "Vídeo do BibleProject sobre 2 Coríntios",
+          "motivo": "Ajuda a contextualizar a carta sem ser apresentado como fala do pregador."
         },
         {
-          "recurso": "Livro A Imitação de Cristo, em trecho legal",
-          "motivo": "Aprofunda a dimensão da vida interior e do seguimento de Cristo, com acesso por uma prévia autorizada em português."
+          "recurso": "Mapa de oração pelas RIs",
+          "motivo": "Transforma as orientações oficiais de cadastro, oração e acompanhamento em uma prática segura para o pequeno grupo."
+        },
+        {
+          "recurso": "Ação comunitária simples e responsável",
+          "motivo": "Permite que o tema das casas de amor produza cuidado concreto, sem forçar uma conexão sustentável nem substituir políticas públicas."
         }
       ],
       "avisos_semana": {
@@ -770,15 +841,6 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-09-07T05:37:49"
-      },
-      "enriquecimento_meta": {
-        "estudo_id": "2026-09-06",
-        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
-        "modelo": "gpt-5.6-luna",
-        "versao": "04D.4.2",
-        "gerado_em": "2026-09-07T10:09:09",
-        "carta_disponivel": false,
-        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
