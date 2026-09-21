@@ -1,6 +1,72 @@
 {
   "estudos": [
     {
+      "id": "2026-09-20",
+      "status": "mensagem_detectada_aguardando_transcricao",
+      "tema": "Mensagem detectada — aguardando identificação",
+      "texto_principal": "Aguardando identificação",
+      "texto_principal_youversion": null,
+      "periodo": "20 a 26 de setembro de 2026",
+      "mensagem": {
+        "titulo": "Culto de Celebração - PIBJC | 20 09 2026 | 18h30 | Centro de Celebrações",
+        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "url": "https://www.youtube.com/watch?v=T8J3UURwghw",
+        "video_id": "T8J3UURwghw",
+        "inicio_segundos": null,
+        "inicio_live": "2026-09-20T21:26:47Z",
+        "fim_live": "2026-09-21T00:02:24Z",
+        "detectado_em": "2026-09-21T04:30:41-03:00",
+        "origem": "YouTube Data API v3",
+        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+      },
+      "carta": {
+        "status": "aguardando",
+        "arquivo": null
+      },
+      "transcricao": {
+        "status": "aguardando",
+        "arquivo": null,
+        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+      },
+      "versao_biblica": {
+        "status": "padrao_app",
+        "sigla": "NAA",
+        "nome": "Nova Almeida Atualizada",
+        "id_youversion": 1840,
+        "fonte": "Padrão do aplicativo"
+      },
+      "oficial": {},
+      "preliminar": {},
+      "referencias_biblicas": [],
+      "filmes_series": [],
+      "livros": [],
+      "videos": [],
+      "musicas_complementares": [],
+      "atualidade": [],
+      "situacoes_cotidianas": [],
+      "dinamicas": [],
+      "sustentabilidade": {},
+      "perguntas_adicionais": [],
+      "prioridades": [],
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "MPH7O83qSxw",
+        "url": "https://www.youtube.com/watch?v=MPH7O83qSxw",
+        "inicio_segundos": 0,
+        "fim_segundos": 358,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 20.09.26",
+        "data_publicacao": "2026-09-20",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-09-21T04:30:59"
+      }
+    },
+    {
       "id": "2026-09-13",
       "status": "carta_oficial_reconciliada",
       "tema": "CASAS DE AMOR",
