@@ -2,31 +2,154 @@
   "estudos": [
     {
       "id": "2026-09-20",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
-      "texto_principal": "Aguardando identificação",
-      "texto_principal_youversion": null,
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "Multiplicação por meio do discipulado: ser moldável, transformado e usado por Deus como referência para gerar frutos e discípulos.",
+      "texto_principal": "Isaías 55:1-3",
+      "texto_principal_youversion": "ISA.55.1-3",
       "periodo": "20 a 26 de setembro de 2026",
       "mensagem": {
         "titulo": "Culto de Celebração - PIBJC | 20 09 2026 | 18h30 | Centro de Celebrações",
-        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "pregador": "Marcos Petrucci",
         "url": "https://www.youtube.com/watch?v=T8J3UURwghw",
         "video_id": "T8J3UURwghw",
-        "inicio_segundos": null,
+        "inicio_segundos": 3982,
         "inicio_live": "2026-09-20T21:26:47Z",
         "fim_live": "2026-09-21T00:02:24Z",
         "detectado_em": "2026-09-21T04:30:41-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 01:06:22.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-09-22T06:32:25",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.93,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "01:06:22 | >> Glórias a Deus. Eu queria pedir pros líderes, supervisores, perdão, supervisores e coordenadores dê um passo à frente, por gentileza.",
+        "inicio_mensagem_motivo": "Neste ponto o pregador principal deixa a breve interação sobre a multiplicação e inicia seu turno contínuo de mensagem, dirigindo-se aos líderes e desenvolvendo uma exortação bíblica.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-09-21T11:31:04",
+        "fim_segundos": 9122,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "PASTOR MARCOS PETRUCCI",
+        "pregador_visual_detectado_em": "2026-09-22T06:32:25",
+        "referencias_biblicas": [
+          {
+            "referencia": "Isaías 61:1-2",
+            "timestamp_segundos": 4026,
+            "timestamp_hhmmss": "01:07:06",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Eu tenho uma palavra para vocês em Isaías 61. O Espírito do Senhor Deus está sobre vocês... para proclamar liberdade aos cativos",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "João 3:29",
+            "timestamp_segundos": 4107,
+            "timestamp_hhmmss": "01:08:27",
+            "texto_visivel": null,
+            "evidencia_transcricao": "A tua palavra diz que a noiva pertence ao noivo e os amigos do noivo se alegram em ouvir a tua voz",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.98,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Habacuque 2:14",
+            "timestamp_segundos": 4279,
+            "timestamp_hhmmss": "01:11:19",
+            "texto_visivel": null,
+            "evidencia_transcricao": "A palavra diz lá em Abacuque, capítulo 2, verso 14, que como as águas cobrem o mar, toda a terra se encherá do conhecimento da glória de Deus",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Isaías 55:1-3",
+            "timestamp_segundos": 5168,
+            "timestamp_hhmmss": "01:26:08",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Isaías 55 vai dizer: todos vocês que têm sede, venham às águas... farei uma aliança eterna com vocês",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": true,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "1 Timóteo 5:17",
+            "timestamp_segundos": 5407,
+            "timestamp_hhmmss": "01:30:07",
+            "texto_visivel": null,
+            "evidencia_transcricao": "A Palavra de Deus vai dizer em Primeira Timóteo, no capítulo 5, no verso 17",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Salmos 107:1",
+            "timestamp_segundos": 5809,
+            "timestamp_hhmmss": "01:36:49",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Salmo 107 versículo 1, diz: Rendam graças ao Senhor, porque ele é bom e porque o seu amor dura para sempre",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Salmos 116:12",
+            "timestamp_segundos": 6134,
+            "timestamp_hhmmss": "01:42:14",
+            "texto_visivel": null,
+            "evidencia_transcricao": "O que darei eu ao Senhor por todos os benefícios que me tem feito?",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Lucas 21:1-4",
+            "timestamp_segundos": 6259,
+            "timestamp_hhmmss": "01:44:19",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Antes de ler a palavra de Deus em Lucas 21 de 1 a 4, eu quero dizer aos irmãos",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          }
+        ]
       },
       "carta": {
         "status": "aguardando",
         "arquivo": null
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-09-20.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-09-20.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "T8J3UURwghw",
+        "inicio_segundos": 3982,
+        "fim_segundos": 9122,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1818,
+        "caracteres": 80615,
+        "primeiro_segmento_segundos": 3981.96,
+        "ultimo_segmento_segundos": 9121.84,
+        "sha256": "d7082f7a6ee343fd1e4345deabe1f54f20a2221feabdd525cd91bccf54507c40",
+        "gerada_em": "2026-09-22T06:32:25"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -36,18 +159,198 @@
         "fonte": "Padrão do aplicativo"
       },
       "oficial": {},
-      "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
-      "musicas_complementares": [],
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-09-21T11:31:04",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem usa o relato de Jacó, que colocou galhos descascados diante do rebanho, para falar sobre multiplicação e discipulado. O pregador destaca que Deus procura pessoas maleáveis e ensináveis, que permitam ser trabalhadas e transformadas. Também enfatiza a multiforme graça de Deus, a importância de líderes que sejam referências e a necessidade de remover as “cascas” da religiosidade, dos velhos hábitos, do orgulho e de outros pecados. A exposição termina com um apelo para que os ouvintes se disponham a ser moldados pelo Espírito e usados para gerar frutos, líderes e discípulos.",
+        "ideias_centrais": [
+          "A multiplicação começa quando a pessoa se torna maleável, ensinável e disponível para ser trabalhada por Deus.",
+          "Deus usa pessoas diferentes e distribui sua graça de maneira multiforme; o discipulado não consiste em produzir pessoas iguais.",
+          "Líderes e discípulos devem ser referências por meio de uma vida coerente com Cristo, a Palavra, o amor e a transformação.",
+          "Deus precisa remover as “cascas” da religiosidade, dos velhos hábitos, do orgulho, da maledicência e de outras áreas que impedem o crescimento.",
+          "Discipulado é caminhar ao lado de alguém e cooperar para que essa pessoa seja trabalhada, frutifique e também forme outros discípulos."
+        ],
+        "perguntas": [
+          "O que significa ser uma “vara verde”, maleável e ensinável diante de Deus?",
+          "Quais “cascas” ou velhos hábitos precisam ser removidos da sua vida?",
+          "Sua vida tem sido uma referência que conduz outras pessoas a Cristo ou apenas à religião e aos eventos?",
+          "Como a diversidade de pessoas e dons pode contribuir para a multiplicação no discipulado?",
+          "Você está disposto a ser trabalhado por Deus para gerar frutos e discípulos?"
+        ],
+        "evidencias": [
+          "Às 01:54:32, o pregador anuncia: “Nós vamos falar sobre multiplicação” e lê Gênesis 30:37-39.",
+          "Às 02:03:02, ele apresenta a aplicação do texto como um chamado ao “lapidar de Deus” e à multiplicação na vida, nas células e nas redes.",
+          "Às 02:03:32–02:07:32, desenvolve a necessidade de ser maleável, flexível e ensinável, em contraste com o consumismo religioso.",
+          "Às 02:15:32–02:17:32, aborda os galhos como referência e afirma que líderes e discipuladores devem inspirar por meio de sua vida.",
+          "Às 02:17:32–02:19:32, interpreta a remoção da casca como transformação dos velhos hábitos e manifestação do fruto do Espírito.",
+          "Às 02:32:02, outro dirigente assume a condução e passa a comentar a mensagem, indicando o fim claro da exposição principal."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.99,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Gênesis 30:37-39",
+          "conexao": "Texto principal da mensagem em vídeo preliminar. A imagem dos galhos descascados pode abrir uma conversa sobre processos de formação, mas deve ser tratada como aplicação pastoral complementar, não como interpretação técnica ou fala confirmada do pregador.",
+          "como_usar": "Leia o texto observando o que Jacó fez, o contexto de conflito com Labão e a relação entre trabalho humano, providência de Deus e multiplicação. Evite afirmar que o texto ensina literalmente uma técnica de reprodução animal ou que as varas tenham poder espiritual.",
+          "pergunta": "Que aspectos do texto ajudam a pensar sobre preparação, perseverança e dependência de Deus no processo de gerar frutos?",
+          "youversion_ref": "GEN.30.37-39.NVI"
+        },
+        {
+          "referencia": "Gênesis 31:5-13",
+          "conexao": "Amplia o contexto de Gênesis 30 e desloca o foco para a ação de Deus na prosperidade de Jacó. Ajuda a evitar uma leitura centrada apenas em estratégias humanas.",
+          "como_usar": "Leia depois de Gênesis 30:37-39 e peça ao grupo que identifique onde aparecem esforço, injustiça, discernimento e intervenção divina.",
+          "pergunta": "Como reconhecer a participação de Deus sem transformar estratégias pessoais em fórmulas de multiplicação?",
+          "youversion_ref": "GEN.31.5-13.NVI"
+        },
+        {
+          "referencia": "João 15:1-8",
+          "conexao": "Conecta a multiplicação e a produção de frutos à permanência em Jesus, a videira verdadeira, e não apenas à capacidade de liderança ou reprodução de métodos.",
+          "como_usar": "Leia em voz alta e peça que cada participante destaque uma atitude relacionada a permanecer, ser podado ou frutificar.",
+          "pergunta": "Que diferença existe entre produzir resultados religiosos e frutificar a partir da permanência em Cristo?",
+          "youversion_ref": "JHN.15.1-8.NVT12"
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "série",
+          "titulo": "The Chosen — Temporada 4, episódio 5: Sitting, Serving, Scheming",
+          "conexao": "A série dramatiza a convivência de Jesus com seus discípulos e permite discutir formação por proximidade, serviço, correção e exemplo. É um recurso complementar e não substitui o texto bíblico nem deve ser apresentado como registro histórico literal.",
+          "como_usar": "Exiba apenas um trecho previamente selecionado ou utilize o título do episódio como referência para uma conversa sobre aprender caminhando com alguém. Oriente o grupo a distinguir dramatização, texto bíblico e aplicação pessoal.",
+          "pergunta": "Que atitudes de Jesus e dos discípulos revelam que discipulado envolve convivência, serviço e transformação de caráter?",
+          "url_oficial": "https://watch.thechosen.tv/saisons/season-4",
+          "url_clipe": "https://watch.thechosen.tv/extras",
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "Discipulado",
+          "autor": "Dietrich Bonhoeffer",
+          "conexao": "A obra confronta uma fé superficial e relaciona discipulado a obediência, comunidade, renúncia e transformação do velho modo de viver. Dialoga com a ideia de remover “cascas” e tornar-se uma referência coerente para outras pessoas.",
+          "como_usar": "Selecione previamente um trecho da edição adquirida sobre graça, obediência ou vida comunitária. Não use o livro para impor uma única metodologia de discipulado; convide o grupo a comparar suas ideias com João 15 e com a realidade da comunidade local.",
+          "pergunta": "Que hábitos religiosos podem manter uma aparência de fé sem produzir obediência, amor e transformação?",
+          "url_trecho": null,
+          "url_pdf_legal": null,
+          "url_audio_legal": null,
+          "url_editora": "https://www.mundocristao.com.br/produto/discipulado/",
+          "nota_acesso": "Não foi encontrada uma prévia legal em português claramente identificada como trecho, PDF autorizado ou áudio acessível. A página da editora informa formatos disponíveis, incluindo e-book e audiobook, mas é uma página comercial; não deve ser rotulada como áudio ou PDF gratuito."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Árvore da vida — conexão com João 15 e o tema dos frutos",
+          "fonte": "BibleProject Brasil",
+          "url": "https://bibleproject.com/pt-br/videos/arvore-da-vida/",
+          "conexao": "Vídeo curto que relaciona João 15:5-13, bons frutos e a vida recebida de Deus. Complementa a imagem da videira verdadeira e ajuda a deslocar a conversa da performance para a permanência em Cristo.",
+          "como_usar": "Exiba o vídeo e reserve alguns minutos para que o grupo compare as imagens de árvore, videira, fruto e permanência com Gênesis 30:37-39.",
+          "pergunta": "Que tipo de fruto nasce quando a vida permanece conectada à fonte, e como isso aparece no discipulado cotidiano?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Gálatas 5 cantado — A Luta da Carne e o Fruto do Espírito",
+          "interprete": "SL23",
+          "conexao": "Pode servir como transição para uma conversa sobre a remoção de velhos hábitos e a formação do caráter de Cristo, em diálogo com Gálatas 5:22-23.",
+          "pergunta": "Qual aspecto do fruto do Espírito precisa ser cultivado de modo mais visível em nossa vida e em nossos relacionamentos de discipulado?",
+          "url_oficial": "https://open.spotify.com/intl-pt/track/3oHFWhRoVbQos7sMRCSZFk",
+          "decisao": "usar",
+          "motivo": "A faixa está disponível em plataforma oficial e tem relação direta com o tema do fruto do Espírito. Não reproduzir a letra; utilizar apenas para escuta e reflexão."
+        }
+      ],
       "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Pequeno grupo ou equipe de liderança",
+          "titulo": "A pessoa que quer liderar sem ser ensinada",
+          "situacao": "Alguém deseja formar discípulos, mas rejeita correções, não cumpre combinados e reproduz nos outros padrões que ainda não enfrenta em si mesmo.",
+          "pergunta": "Como oferecer acompanhamento e correção sem humilhar a pessoa? Que sinais mostram que um líder está sendo uma referência de Cristo, e não apenas de sua própria personalidade?"
+        },
+        {
+          "contexto": "Família, trabalho ou comunidade cristã",
+          "titulo": "As cascas que aparecem sob pressão",
+          "situacao": "Uma situação de conflito revela maledicência, orgulho, impaciência ou necessidade de controle. A pessoa percebe que sua imagem pública é melhor do que sua prática cotidiana.",
+          "pergunta": "Que resposta concreta demonstraria arrependimento e transformação nesta semana? Quem poderia caminhar ao seu lado com liberdade para fazer perguntas honestas?"
+        },
+        {
+          "contexto": "Discipulado entre pessoas diferentes",
+          "titulo": "Formar sem padronizar",
+          "situacao": "Um discipulador tenta fazer todos seguirem o mesmo estilo de oração, serviço, comunicação e liderança, desconsiderando dons, histórias e ritmos diferentes.",
+          "pergunta": "Como preservar unidade em Cristo sem exigir que todos tenham a mesma personalidade, função ou forma de servir?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Galhos, cascas e frutos",
+          "duracao": "25 minutos",
+          "objetivo": "Ajudar o grupo a distinguir processos de transformação, hábitos a abandonar e frutos que precisam aparecer na vida.",
+          "materiais": "Papéis ou cartões em três cores, canetas e uma Bíblia.",
+          "passos": [
+            "Distribua cartões e peça que cada pessoa escreva, sem assinar, uma “casca” que dificulta seu crescimento, um fruto que deseja cultivar e uma prática que pode realizar nesta semana.",
+            "Misture os cartões e leia alguns exemplos sem tentar identificar os autores.",
+            "Leia João 15:1-8 e Gálatas 5:22-23.",
+            "Convide cada participante a transformar sua prática em um compromisso específico, mensurável e acompanhado por alguém do grupo."
+          ],
+          "perguntas": [
+            "Qual é a diferença entre reconhecer uma casca e apenas sentir culpa por ela?",
+            "Que fruto pode ser observado por outras pessoas, e não apenas desejado internamente?",
+            "Quem poderá ajudar você a permanecer fiel ao compromisso?"
+          ]
+        },
+        {
+          "titulo": "Referência ou vitrine?",
+          "duracao": "30 minutos",
+          "objetivo": "Avaliar se a influência exercida pelo participante conduz pessoas a Cristo ou apenas ao desempenho religioso.",
+          "materiais": "Cartões com situações de liderança e uma folha com duas colunas: “conduz a Cristo” e “conduz à vitrine”.",
+          "passos": [
+            "Apresente situações como: líder que admite um erro, discipulador que centraliza tudo, pessoa que serve apenas quando é reconhecida e mentor que acompanha alguém em uma decisão difícil.",
+            "Em pequenos grupos, classifiquem cada situação e justifiquem a escolha.",
+            "Leiam 1 Coríntios 11:1 com cuidado, relacionando o exemplo humano ao padrão de Cristo.",
+            "Cada pessoa identifica uma prática de coerência que precisa iniciar ou interromper."
+          ],
+          "perguntas": [
+            "O que torna uma referência espiritualmente confiável?",
+            "Como o desejo de reconhecimento pode deformar o discipulado?",
+            "Que atitude de Jesus deve orientar nossa maneira de influenciar alguém?"
+          ]
+        }
+      ],
       "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "perguntas_adicionais": [
+        {
+          "tipo": "status_da_fonte",
+          "pergunta": "Esta curadoria é complementar e baseada na análise automática confiável da mensagem em vídeo preliminar de 20 a 26 de setembro de 2026. Quando a Carta ou transcrição oficial chegar, quais itens precisam ser confirmados, ajustados ou removidos?"
+        },
+        {
+          "tipo": "leitura_biblica",
+          "pergunta": "Como falar sobre Gênesis 30:37-39 com responsabilidade, reconhecendo a aplicação pastoral da mensagem sem transformar o procedimento de Jacó em uma fórmula bíblica de multiplicação?"
+        },
+        {
+          "tipo": "prática_de_discipulado",
+          "pergunta": "Quem está caminhando ao seu lado hoje, e para quem você está oferecendo presença, correção, encorajamento e oportunidade de frutificar?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "João 15:1-8 e Gênesis 31:5-13",
+          "motivo": "Equilibram a aplicação sobre multiplicação com a centralidade de Cristo e a ação de Deus, evitando uma leitura baseada apenas em técnica, esforço ou desempenho."
+        },
+        {
+          "recurso": "Dinâmica “Galhos, cascas e frutos”",
+          "motivo": "Converte o tema em passos concretos de autoexame, compromisso e acompanhamento, adequados a um pequeno grupo."
+        },
+        {
+          "recurso": "Vídeo do BibleProject sobre a árvore da vida",
+          "motivo": "É curto, oficialmente disponibilizado e conecta diretamente João 15, permanência e produção de frutos."
+        },
+        {
+          "recurso": "Livro Discipulado, de Dietrich Bonhoeffer",
+          "motivo": "Aprofunda a diferença entre uma fé superficial e um discipulado marcado por obediência, comunidade e transformação; acesso deve ocorrer por edição legal adquirida."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "MPH7O83qSxw",
@@ -64,6 +367,15 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-09-21T04:30:59"
+      },
+      "enriquecimento_meta": {
+        "estudo_id": "2026-09-20",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-09-21T11:31:47",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
