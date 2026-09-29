@@ -2,31 +2,165 @@
   "estudos": [
     {
       "id": "2026-09-27",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
-      "texto_principal": "Aguardando identificação",
-      "texto_principal_youversion": null,
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "A esperança cristã em Jesus sustenta os crentes nas tribulações e deve ser vivida com alegria, paciência e perseverança na oração.",
+      "texto_principal": "Romanos 12:12",
+      "texto_principal_youversion": "ROM.12.12",
       "periodo": "27 de setembro a 03 de outubro de 2026",
       "mensagem": {
         "titulo": "Culto de Celebração - PIBJC | 27 09 2026 | 18h30 | Centro de Celebrações",
-        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "pregador": "Thiago Oliveira",
         "url": "https://www.youtube.com/watch?v=RfqjY_4hDEU",
         "video_id": "RfqjY_4hDEU",
-        "inicio_segundos": null,
+        "inicio_segundos": 3929,
         "inicio_live": "2026-09-27T21:28:32Z",
         "fim_live": "2026-09-27T23:34:52Z",
         "detectado_em": "2026-09-27T21:30:29-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 01:05:29.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-09-28T21:02:39",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.98,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "01:05:29 | Que a graça do nosso Senhor Jesus esteja sobre a sua vida. Amém.",
+        "inicio_mensagem_motivo": "O dirigente encerra sua fala e deixa o pregador à vontade em 01:05:26. Em 01:05:29, o pregador principal inicia sua participação com uma saudação, seguida da introdução contínua da mensagem.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.99,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-09-28T17:01:29",
+        "fim_segundos": 6929,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "THIAGO OLIVEIRA",
+        "pregador_visual_detectado_em": "2026-09-28T21:02:39",
+        "referencias_biblicas": [
+          {
+            "referencia": "Romanos 12:12",
+            "timestamp_segundos": 4067,
+            "timestamp_hhmmss": "01:07:47",
+            "texto_visivel": null,
+            "evidencia_transcricao": "que está em Romanos, capítulo de número 12, versículo de número 12",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": true,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Romanos 1:17",
+            "timestamp_segundos": 4243,
+            "timestamp_hhmmss": "01:10:43",
+            "texto_visivel": null,
+            "evidencia_transcricao": "depara-se com Romanos 1:17. Mas o justo, por sua fé, viverá",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "1 Pedro 1:3-4",
+            "timestamp_segundos": 4628,
+            "timestamp_hhmmss": "01:17:08",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Em Primeira Pedro, no capítulo 1, no versículo de número três, ele diz: Bendito seja o Deus e Pai... nos regenerou para uma viva esperança... para uma herança",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Salmos 42:11",
+            "timestamp_segundos": 4794,
+            "timestamp_hhmmss": "01:19:54",
+            "texto_visivel": null,
+            "evidencia_transcricao": "é exemplo do salmista no Salmo 42, o versículo 11",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Salmos 16:11",
+            "timestamp_segundos": 4884,
+            "timestamp_hhmmss": "01:21:24",
+            "texto_visivel": null,
+            "evidencia_transcricao": "citar o Salmo 16, do versículo 11, quando as escrituras dizem que na presença do Senhor há abundância, há plenitude de alegrias",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Salmos 30:5",
+            "timestamp_segundos": 4897,
+            "timestamp_hhmmss": "01:21:37",
+            "texto_visivel": null,
+            "evidencia_transcricao": "no Salmo 30, no versículo 5, na parte B, as escrituras dizem que o choro dura uma noite, mas a alegria vem ao amanhecer",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "João 14:1-3",
+            "timestamp_segundos": 4921,
+            "timestamp_hhmmss": "01:22:01",
+            "texto_visivel": null,
+            "evidencia_transcricao": "No evangelho de João, capítulo 14, no versículo de número 1, 2 e 3",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Filipenses 4:11-13",
+            "timestamp_segundos": 5338,
+            "timestamp_hhmmss": "01:28:58",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Em Filipenses do capítulo 4, nos versículos 11, 12 e 13. O apóstolo Paulo diz: eu já aprendi a me contentar com o que tenho",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Romanos 8:18",
+            "timestamp_segundos": 5430,
+            "timestamp_hhmmss": "01:30:30",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Lembra de Paulo? Romanos capítulo 8 versículo 18. As aflições desse tempo presente não podem se comparar com a glória",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          }
+        ]
       },
       "carta": {
         "status": "aguardando",
         "arquivo": null
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-09-27.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-09-27.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "RfqjY_4hDEU",
+        "inicio_segundos": 3929,
+        "fim_segundos": 6929,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1219,
+        "caracteres": 56460,
+        "primeiro_segmento_segundos": 3928.0,
+        "ultimo_segmento_segundos": 6928.639,
+        "sha256": "be5c7b5ce5ab570e548e04f78c4c22f198220f1c0a4b8c513d05596527ccd9f2",
+        "gerada_em": "2026-09-28T21:02:40"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -36,18 +170,249 @@
         "fonte": "Padrão do aplicativo"
       },
       "oficial": {},
-      "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
-      "musicas_complementares": [],
-      "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
-      "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-09-28T17:01:29",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem desenvolve os três imperativos de Romanos 12:12. O pregador afirma que os cristãos não são um povo sem esperança, pois sua esperança está em Deus e em Jesus Cristo. Essa esperança permite enfrentar a tristeza e as dificuldades com alegria. Diante das tribulações, ele aconselha paciência, alertando contra decisões precipitadas. Também enfatiza que a oração precede e acompanha as grandes realizações de Deus, apresentando Jesus como a única esperança e o abrigo seguro. Ao final, faz apelos para que pessoas entreguem a vida a Jesus, retornem à presença de Deus ou recebam oração.",
+        "ideias_centrais": [
+          "A esperança do cristão está fundamentada em Deus e em Jesus, não em relacionamentos, conquistas, diplomas ou bens passageiros.",
+          "A esperança em Deus produz alegria mesmo em meio às dificuldades e às aflições do presente.",
+          "A tribulação gera desconforto e pode levar à precipitação; por isso, o cristão deve manter a calma e esperar em Deus.",
+          "A oração demonstra dependência de Deus e deve acompanhar os momentos de necessidade, pois Deus ouve o clamor do seu povo.",
+          "Jesus é apresentado como a única esperança, o Salvador e o abrigo seguro em um mundo marcado por incertezas e tribulações."
+        ],
+        "perguntas": [
+          "Segundo a mensagem, por que os cristãos podem se alegrar mesmo em meio às tribulações?",
+          "Quais perigos podem surgir quando uma pessoa toma decisões precipitadas durante uma tribulação?",
+          "O que significa, na prática, ser paciente na tribulação?",
+          "Por que a oração foi apresentada como essencial para a vida cristã?",
+          "Que apelos foram feitos às pessoas que desejavam entregar a vida a Jesus ou retornar à presença de Deus?"
+        ],
+        "evidencias": [
+          "Às 01:07:29, o pregador apresenta Romanos 12:12 e lê os três imperativos: alegrar-se na esperança, ser paciente na tribulação e perseverar na oração.",
+          "Entre 01:13:29 e 01:30:29, a mensagem enfatiza a esperança em Deus e a alegria que dela procede.",
+          "Entre 01:30:59 e 01:37:29, o pregador desenvolve o chamado à paciência durante as tribulações e adverte contra a precipitação.",
+          "Entre 01:37:59 e 01:47:29, ele destaca a oração como expressão de dependência de Deus e relata experiências relacionadas à oração.",
+          "Entre 01:47:59 e 01:54:59, apresenta Jesus como a única esperança, faz apelos e conduz uma oração final.",
+          "Às 01:54:59, afirma “Encerro minha participação” e retoma os três conselhos de Romanos 12:12."
+        ],
+        "confianca_conteudo": 0.99,
+        "confianca_fim": 0.93,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Romanos 12:12",
+          "conexao": "Texto principal da semana e eixo dos três imperativos: alegria na esperança, paciência na tribulação e perseverança na oração.",
+          "como_usar": "Ler em três momentos, destacando uma expressão por vez. Depois, pedir que cada participante identifique uma prática concreta relacionada ao imperativo que mais precisa desenvolver.",
+          "pergunta": "Qual dos três imperativos está mais presente em sua vida hoje e qual precisa ser fortalecido?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/ROM.12.12.NVI"
+        },
+        {
+          "referencia": "Salmos 42:5",
+          "conexao": "Ajuda a diferenciar a esperança colocada em Deus de uma esperança dependente das circunstâncias.",
+          "como_usar": "Usar como oração responsiva: o líder lê a pergunta do salmista e o grupo responde com uma breve declaração de confiança em Deus.",
+          "pergunta": "Como falar com a própria alma sem negar a tristeza, mas também sem abandonar a esperança?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/PSA.42.5.NVI"
+        },
+        {
+          "referencia": "Hebreus 10:23",
+          "conexao": "Relaciona perseverança e esperança à fidelidade de Deus, evitando que a esperança cristã seja reduzida a otimismo ou pensamento positivo.",
+          "como_usar": "Comparar a estabilidade da promessa de Deus com a instabilidade das conquistas, relacionamentos e bens mencionados na mensagem preliminar.",
+          "pergunta": "O que torna a esperança cristã confiável mesmo quando as circunstâncias permanecem difíceis?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/HEB.10.23.NVI"
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "filme",
+          "titulo": "Fé Para o Impossível",
+          "conexao": "O filme apresenta uma situação de sofrimento grave, mobilização comunitária e uma corrente de oração. Pode dialogar com a ênfase da mensagem sobre dependência de Deus, sem sugerir que a oração substitua cuidados médicos ou profissionais.",
+          "como_usar": "Exibir o trailer ou selecionar previamente uma cena apropriada. Em seguida, discutir como fé, oração, família, comunidade e tratamento profissional podem atuar conjuntamente em uma crise.",
+          "pergunta": "Como uma comunidade pode oferecer esperança e cuidado sem prometer resultados que não controla?",
+          "url_oficial": "https://www.netflix.com/br/title/82042479?s=i&vlang=pt",
+          "url_clipe": "https://www.netflix.com/br/title/82042479?s=i&vlang=pt",
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "A luta da oração",
+          "autor": "Donald G. Bloesch",
+          "conexao": "Aprofunda a oração como expressão de dependência de Deus e como prática perseverante em situações de espera, sofrimento e incerteza.",
+          "como_usar": "Selecionar previamente um capítulo ou trecho obtido legalmente pela edição disponível. Para o pequeno grupo, propor que os participantes registrem durante uma semana um pedido, uma espera e uma atitude de confiança relacionados à oração.",
+          "pergunta": "O que muda quando a oração deixa de ser apenas um pedido de solução e passa a expressar relacionamento e dependência de Deus?",
+          "url_trecho": null,
+          "url_pdf_legal": null,
+          "url_audio_legal": null,
+          "url_editora": "https://www.vidanova.com.br/livros/luta-da-oracao-a",
+          "nota_acesso": "Não foi localizado, na busca realizada, trecho/prévia legal em português, PDF autorizado ou áudio/audiolivro legal em português. A página informada é a página da editora para consulta e aquisição."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Visão Geral: Romanos 5-16",
+          "fonte": "BibleProject Português",
+          "url": "https://www.youtube.com/watch?v=w5rkwQb3cFM",
+          "conexao": "Apresenta o panorama de Romanos 5–16 e ajuda o grupo a situar Romanos 12 dentro da transformação da vida cristã e da unidade da igreja.",
+          "como_usar": "Exibir apenas o segmento inicial ou até 10 minutos, conforme o tempo disponível. Depois, retornar a Romanos 12:12 e perguntar como a visão geral ilumina os três imperativos do versículo.",
+          "pergunta": "Como a esperança em Jesus se conecta à maneira como a comunidade cristã vive, sofre e persevera?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Aquieta Minh'alma",
+          "interprete": "Ministério Zoe",
+          "conexao": "Dialoga com a paciência na tribulação, a confiança em Deus e a necessidade de aquietar o coração antes de tomar decisões precipitadas.",
+          "pergunta": "Que diferença existe entre aquietar a alma diante de Deus e simplesmente ignorar os problemas?",
+          "url_oficial": "https://www.youtube.com/watch?v=ANfpF0pNob4",
+          "decisao": "usar",
+          "motivo": "A música se conecta diretamente aos temas de dependência, espera, confiança e perseverança, sem substituir a leitura bíblica nem a discussão do grupo."
+        },
+        {
+          "titulo": "Ousado Amor",
+          "interprete": "Isaías Saad",
+          "conexao": "Pode reforçar a apresentação de Jesus como esperança e abrigo seguro, destacando o amor de Deus como fundamento da confiança cristã.",
+          "pergunta": "Como a certeza do amor de Deus sustenta a pessoa quando as circunstâncias não mudam imediatamente?",
+          "url_oficial": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
+          "decisao": "usar_com_critério",
+          "motivo": "A conexão temática é pertinente, mas o líder deve priorizar a reflexão sobre Romanos 12:12 e não transformar a música em substituto da mensagem bíblica."
+        }
+      ],
+      "atualidade": [
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Dia Mundial de Prevenção do Suicídio: conectividade e serviços digitais fortalecem o cuidado com a saúde mental",
+          "veiculo": "Ministério das Comunicações",
+          "data": "10 de setembro de 2026",
+          "url": "https://www.gov.br/mcom/pt-br/noticias/noticias_alt/2026/setembro/dia-mundial-de-prevencao-do-suicidio-conectividade-e-servicos-digitais-fortalecem-o-cuidado-com-a-saude-mental",
+          "conexao": "A publicação destaca redes de apoio, escuta acolhedora e busca de ajuda especializada. Isso amplia a conversa sobre esperança e tribulação com responsabilidade, lembrando que a fé não elimina a necessidade de cuidado profissional.",
+          "dilema": "Como falar de esperança cristã sem culpabilizar pessoas em sofrimento nem tratar problemas de saúde mental como falta de fé?",
+          "pergunta": "Que atitudes práticas de escuta, acompanhamento e encaminhamento podem ser adotadas pelo pequeno grupo diante de alguém em sofrimento? "
+        },
+        {
+          "abrangencia": "Grande Vitória/ES",
+          "titulo": "Campanha em Vitória vai arrecadar brinquedos para ajudar instituições",
+          "veiculo": "Folha Vitória",
+          "data": "9 de setembro de 2026",
+          "url": "https://www.folhavitoria.com.br/cotidiano/campanha-em-vitoria-vai-arrecadar-brinquedos-para-ajudar-instituicoes/",
+          "conexao": "A campanha local transforma solidariedade em ação concreta e permite relacionar esperança com cuidado do próximo, especialmente de crianças atendidas por instituições da região.",
+          "dilema": "Como evitar que a esperança fique apenas no discurso e se converta em práticas sustentáveis de cuidado e partilha?",
+          "pergunta": "Que ação simples o grupo poderia realizar nesta semana para apoiar pessoas em uma tribulação concreta?"
+        }
+      ],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Uma pessoa recebe uma notícia difícil e, tomada pelo medo, quer abandonar imediatamente o emprego, romper relacionamentos ou assumir uma dívida sem avaliar as consequências.",
+          "titulo": "Decidir no meio da tempestade",
+          "situacao": "O grupo deve ajudá-la a desacelerar, buscar oração, ouvir pessoas maduras e reunir informações antes de tomar uma decisão irreversível. Ser paciente na tribulação não significa permanecer passivo, mas evitar a precipitação.",
+          "pergunta": "Que passos práticos podem ajudar alguém a tomar uma decisão responsável sem agir dominado pelo medo?"
+        },
+        {
+          "contexto": "Um participante enfrenta sofrimento emocional prolongado e ouve de outros cristãos que precisa apenas orar mais e ter mais fé.",
+          "titulo": "Esperança sem culpabilização",
+          "situacao": "O grupo acolhe a pessoa, ora com ela e também incentiva a busca de apoio familiar, pastoral e profissional, conforme a necessidade. A esperança cristã pode conviver com lamento, tratamento e acompanhamento.",
+          "pergunta": "Como oferecer oração e cuidado sem minimizar a dor ou atribuir culpa espiritual à pessoa?"
+        },
+        {
+          "contexto": "Uma família atravessa uma crise financeira e a comunidade deseja ajudar, mas não sabe se deve oferecer apenas palavras de encorajamento ou apoio prático.",
+          "titulo": "Transformar esperança em solidariedade",
+          "situacao": "O grupo pode organizar uma rede responsável de apoio, preservando a dignidade da família e evitando exposição, promessas irreais ou dependência permanente.",
+          "pergunta": "Qual forma de ajuda seria realmente útil, respeitosa e possível nesta situação?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Três estações de Romanos 12:12",
+          "duracao": "25 a 30 minutos",
+          "objetivo": "Levar o grupo a transformar os três imperativos do texto em práticas concretas para uma semana de tribulação, espera e oração.",
+          "materiais": "Três folhas ou cartazes com as palavras Esperança, Paciência e Oração; canetas e pequenos cartões.",
+          "passos": [
+            "Dividir o grupo em três equipes ou formar três estações na sala.",
+            "Em cada estação, os participantes escrevem atitudes concretas relacionadas à palavra apresentada.",
+            "Na estação Esperança, registrar fundamentos que não dependem de conquistas ou bens passageiros.",
+            "Na estação Paciência, listar decisões que devem ser adiadas até haver mais calma, informação e aconselhamento.",
+            "Na estação Oração, escrever pessoas e situações pelas quais o grupo poderá orar durante a semana.",
+            "Reunir todos e escolher uma prática de cada estação para assumir coletivamente."
+          ],
+          "perguntas": [
+            "Qual estação foi mais fácil e qual foi mais difícil?",
+            "Como saber se estamos esperando em Deus ou apenas adiando uma responsabilidade?",
+            "Que compromisso de oração pode ser mantido sem expor situações pessoais?"
+          ]
+        },
+        {
+          "titulo": "Mapa de apoio em tempos de tribulação",
+          "duracao": "20 minutos",
+          "objetivo": "Construir uma visão equilibrada de apoio espiritual, comunitário e profissional para situações de sofrimento.",
+          "materiais": "Folha grande com três círculos: Deus e fé; pessoas e comunidade; serviços e profissionais.",
+          "passos": [
+            "Apresentar uma situação fictícia de sofrimento intenso, sem pedir relatos pessoais.",
+            "Preencher o primeiro círculo com práticas espirituais saudáveis, como oração, leitura bíblica e esperança.",
+            "Preencher o segundo com familiares, amigos, líderes e membros do pequeno grupo que podem oferecer presença e escuta.",
+            "Preencher o terceiro com serviços de saúde, assistência social e profissionais qualificados.",
+            "Discutir como os três círculos podem trabalhar juntos e quais atitudes seriam inadequadas ou perigosas.",
+            "Encerrar com uma oração breve, deixando claro que situações de risco exigem ajuda imediata e especializada."
+          ],
+          "perguntas": [
+            "Que tipo de ajuda o pequeno grupo consegue oferecer?",
+            "Quando é necessário encaminhar alguém para um profissional ou serviço especializado?",
+            "Como preservar sigilo, dignidade e segurança ao cuidar de uma pessoa vulnerável?"
+          ]
+        }
+      ],
+      "sustentabilidade": {
+        "ods_principal": "ODS 3 — Saúde e Bem-Estar",
+        "conexao": "A conexão é temática e prática: enfrentar tribulações com esperança pode incluir redes de apoio, escuta, solidariedade e busca responsável de cuidado em saúde mental. A dimensão espiritual deve ser apresentada como parte do cuidado da pessoa, não como substituta de atendimento profissional.",
+        "aplicacao": "Realizar uma ação de cuidado durante a semana: cada participante pode contactar alguém que esteja atravessando uma dificuldade, oferecer escuta sem julgamentos e, quando necessário, incentivar a busca de apoio familiar, pastoral ou profissional. O grupo também pode divulgar canais oficiais de ajuda e organizar uma rede de acompanhamento responsável.",
+        "pergunta": "Como nossa comunidade pode promover esperança, cuidado e encaminhamento responsável para pessoas que enfrentam tribulações?"
+      },
+      "perguntas_adicionais": [
+        {
+          "tipo": "compreensão do texto",
+          "pergunta": "Qual é a relação entre esperança, alegria, paciência e oração em Romanos 12:12?"
+        },
+        {
+          "tipo": "discernimento",
+          "pergunta": "Como diferenciar paciência cristã de conformismo, negligência ou medo de agir?"
+        },
+        {
+          "tipo": "aplicação pessoal",
+          "pergunta": "Que decisão você precisa colocar diante de Deus antes de tomar qualquer atitude precipitada?"
+        },
+        {
+          "tipo": "comunidade",
+          "pergunta": "Como o pequeno grupo pode ser um abrigo seguro sem assumir responsabilidades que cabem a familiares, líderes ou profissionais?"
+        },
+        {
+          "tipo": "cuidado responsável",
+          "pergunta": "Quais sinais indicam que uma pessoa precisa de apoio especializado além da oração e da conversa entre amigos?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Romanos 12:12 na versão NVI",
+          "motivo": "É o texto principal informado na fonte da semana e deve orientar toda a conversa."
+        },
+        {
+          "recurso": "Vídeo Panorama de Romanos 5-16, do BibleProject Português",
+          "motivo": "Oferece contexto bíblico diretamente relacionado ao capítulo estudado e possui página oficial verificável."
+        },
+        {
+          "recurso": "Dinâmica Mapa de apoio em tempos de tribulação",
+          "motivo": "Evita uma abordagem espiritualizada de modo inadequado e integra fé, comunidade e cuidado profissional."
+        },
+        {
+          "recurso": "Atualidade sobre saúde mental e redes de apoio, do Ministério das Comunicações",
+          "motivo": "Ajuda a discutir esperança e sofrimento com responsabilidade pública, sem culpabilização e sem orientação partidária."
+        },
+        {
+          "recurso": "Status editorial da curadoria",
+          "motivo": "Esta seleção é complementar à análise preliminar da mensagem em vídeo de 27 de setembro a 3 de outubro de 2026. A Carta oficial ainda está aguardando e deverá prevalecer quando for disponibilizada; os itens poderão ser conciliados ou revisados."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "NNawvWIq_qI",
@@ -64,6 +429,15 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-09-27T21:30:44"
+      },
+      "enriquecimento_meta": {
+        "estudo_id": "2026-09-27",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-09-28T17:02:20",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
