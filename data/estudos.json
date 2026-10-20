@@ -1,6 +1,325 @@
 {
   "estudos": [
     {
+      "id": "2026-10-18",
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "Reconhecer o senhorio de Cristo e aproximar-se dele pela fé para receber purificação, cura e restauração.",
+      "texto_principal": "Lucas 5:12-15",
+      "texto_principal_youversion": "LUK.5.12-15",
+      "periodo": "18 a 24 de outubro de 2026",
+      "mensagem": {
+        "titulo": "Culto de Celebração - PIBJC | 18 10 2026 | 18h30 | Centro de Celebrações",
+        "pregador": "Pastor Marcos",
+        "url": "https://www.youtube.com/watch?v=1bgzd2vgwbo",
+        "video_id": "1bgzd2vgwbo",
+        "inicio_segundos": 1800,
+        "inicio_live": "2026-10-18T21:29:45Z",
+        "fim_live": "2026-10-18T23:23:34Z",
+        "detectado_em": "2026-10-20T07:36:59-03:00",
+        "origem": "YouTube Data API v3",
+        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição.",
+        "inicio_mensagem_status": "detectado_automaticamente",
+        "inicio_mensagem_detectado_em": "2026-10-20T08:00:49",
+        "inicio_mensagem_detector_versao": "04D.4.0",
+        "inicio_mensagem_detector_base": "04D.3.3.1",
+        "inicio_mensagem_confianca": 0.95,
+        "inicio_mensagem_metodo": "youtube_transcript_openai_text_two_pass_assuncao_palavra",
+        "inicio_mensagem_transicao": "Às 00:30:00, há a mudança para uma fala contínua de condução da igreja, com 'Glórias ao Senhor', orientação à congregação e oração feita pelo próprio pregador.",
+        "inicio_mensagem_motivo": "Este é o primeiro segundo operacional em que o pregador principal assume a palavra após o louvor e inicia seu turno contínuo, ainda que o conteúdo doutrinário e a leitura bíblica ocorram somente depois.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-10-20T08:01:06",
+        "fim_segundos": 4354
+      },
+      "carta": {
+        "status": "aguardando",
+        "arquivo": null
+      },
+      "transcricao": {
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-10-18.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-10-18.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "1bgzd2vgwbo",
+        "inicio_segundos": 1800,
+        "fim_segundos": 4354,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 845,
+        "caracteres": 37211,
+        "primeiro_segmento_segundos": 1800.24,
+        "ultimo_segmento_segundos": 4353.835,
+        "sha256": "138d6fbf28a54b5a591b7bec60a0c70511a83602a0a8ccc9eaea7d6fec3646db",
+        "gerada_em": "2026-10-20T08:07:19"
+      },
+      "versao_biblica": {
+        "status": "padrao_app",
+        "sigla": "NAA",
+        "nome": "Nova Almeida Atualizada",
+        "id_youversion": 1840,
+        "fonte": "Padrão do aplicativo"
+      },
+      "oficial": {},
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-10-20T08:01:06",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem baseia-se no relato do homem coberto de lepra que se aproxima de Jesus, prostra-se e diz: “Senhor, se quiseres, podes purificar-me”. O pregador destaca que o homem reconheceu o senhorio e a autoridade de Cristo, mesmo convivendo com dúvidas sobre a vontade de Deus. Jesus responde que quer purificá-lo, toca nele e o restaura física, emocional e socialmente. A aplicação enfatiza que as pessoas devem abandonar a autossuficiência, reconhecer Cristo como Senhor, buscar a Deus em oração, rejeitar o pecado e assumir compromisso com a vida cristã. Ao final, houve um apelo para que os participantes buscassem o toque de Jesus e declarassem sua fé nele.",
+        "ideias_centrais": [
+          "O homem leproso não permaneceu passivo: viu Jesus, aproximou-se, prostrou-se e pediu purificação.",
+          "Reconhecer o senhorio de Cristo envolve reverência, dependência de Deus, oração e submissão à sua vontade.",
+          "A fé pode coexistir com dúvidas sobre o querer de Deus, mas Jesus é apresentado como aquele que pode e quer purificar e transformar.",
+          "O toque de Jesus é apresentado como fonte de cura das rejeições, angústias, impurezas e feridas interiores.",
+          "A restauração recebida de Jesus deve ser acompanhada de compromisso com ele e com a comunidade de fé."
+        ],
+        "perguntas": [
+          "Que atitudes do homem leproso demonstraram reconhecimento do senhorio de Cristo?",
+          "Como a mensagem relaciona a falta de oração à autossuficiência?",
+          "Que dúvidas sobre a vontade de Deus aparecem no relato e na aplicação feita pelo pregador?",
+          "De que maneira o toque de Jesus é apresentado como restaurador?",
+          "Por que, segundo a mensagem, receber Jesus também envolve compromisso com ele?"
+        ],
+        "evidencias": [
+          "Às 00:35:00, o pregador abre a Bíblia em Lucas 5:12-15 e lê o relato do homem leproso que pede purificação a Jesus.",
+          "Entre 00:41:30 e 00:44:30, a mensagem enfatiza o reconhecimento de Jesus como Senhor, a prostração e a submissão à vontade de Deus.",
+          "Entre 00:56:30 e 01:01:30, o pregador aplica a fala de Jesus — “Eu quero, fique limpo” — à purificação, cura e restauração das pessoas.",
+          "Às 01:02:00, inicia-se a oração e o apelo para que os participantes recebam o toque de Jesus; às 01:12:00, os que responderam são encaminhados para oração.",
+          "Às 01:12:30, após o encerramento do apelo, o culto passa para adoração e, em seguida, avisos, ofertas e batismos.",
+          "Às 01:49:00, a transmissão identifica a mensagem como tendo sido ministrada pelo pastor Marcos."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.84,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Lucas 5:12-15",
+          "conexao": "Texto principal da mensagem em vídeo. O recurso é complementar e permanece sujeito à conciliação com a Carta oficial quando ela chegar.",
+          "como_usar": "Ler o texto observando a sequência: aproximação, prostração, pedido, toque de Jesus, purificação e reintegração comunitária. Diferenciar a narrativa bíblica das aplicações feitas pelo pregador.",
+          "pergunta": "O que muda quando a pessoa deixa de tratar Jesus apenas como alguém que pode ajudar e passa a reconhecê-lo como Senhor?",
+          "youversion_ref": "https://www.bible.com/pt-PT/bible/129/LUK.5.NVI"
+        },
+        {
+          "referencia": "Marcos 1:40-45",
+          "conexao": "Relato paralelo que explicita o pedido do homem, a compaixão de Jesus, o toque e a restauração da convivência social.",
+          "como_usar": "Comparar com Lucas 5:12-15, identificando semelhanças e diferenças sem transformar os relatos em uma competição de detalhes.",
+          "pergunta": "Que dimensões da restauração aparecem além da cura física?",
+          "youversion_ref": null
+        },
+        {
+          "referencia": "Hebreus 4:14-16",
+          "conexao": "Ajuda a discutir aproximação confiante de Cristo sem apagar reverência, dependência e responsabilidade.",
+          "como_usar": "Ler após Lucas 5:12-15 e conversar sobre como confiança e humildade podem coexistir na oração.",
+          "pergunta": "Como buscar ajuda de Deus com confiança sem transformar a oração em exigência ou fórmula?",
+          "youversion_ref": null
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "longa-metragem",
+          "titulo": "O Salvador",
+          "conexao": "Produção oficial baseada no Evangelho de Lucas, com cenas de Jesus acolhendo, ensinando e ajudando pessoas marginalizadas. Complementa a mensagem, não a representa.",
+          "como_usar": "Exibir um trecho previamente selecionado ou apresentar o filme como leitura audiovisual do Evangelho de Lucas. Pedir ao grupo que observe como Jesus se aproxima de pessoas consideradas indignas ou invisíveis.",
+          "pergunta": "Como o filme representa a autoridade de Jesus e sua relação com pessoas socialmente excluídas?",
+          "url_oficial": "https://www.jesusfilm.org/watch/the-savior.html/portuguese-brazil.html",
+          "url_clipe": null,
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "Maravilhosa graça",
+          "autor": "Philip Yancey",
+          "conexao": "A obra discute a graça recebida e a dificuldade humana de oferecê-la a pessoas marcadas por culpa, rejeição ou estigma. A conexão é temática e complementar, não uma exposição de Lucas 5.",
+          "como_usar": "Selecionar um trecho legalmente acessível pela edição adquirida ou pela biblioteca. Evitar apresentar o conteúdo do livro como se fosse argumento do pregador. Relacionar a discussão da graça à pergunta sobre como a comunidade recebe pessoas restauradas.",
+          "pergunta": "Uma comunidade pode falar de purificação e cura sem reproduzir vergonha, suspeita e exclusão?",
+          "url_trecho": null,
+          "url_pdf_legal": null,
+          "url_audio_legal": null,
+          "url_editora": "https://www.editoravida.com.br/maravilhosa-graca.html",
+          "nota_acesso": "Não foi localizado, na busca realizada, trecho oficial em português, PDF autorizado ou áudio/audiolivro legal em português. A página da Editora Vida é comercial e foi indicada somente como página da editora; não deve ser rotulada como trecho, PDF ou áudio."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "LUMO - Marcos 1:1-45",
+          "fonte": "Jesus Film Project / Projeto LUMO",
+          "url": "https://www.jesusfilm.org/watch/lumo-the-gospel-of-mark.html/lumo-mark-1-1-45/portuguese-brazil.html",
+          "conexao": "Vídeo oficial de 9 minutos que inclui o episódio paralelo da cura do homem com lepra e mostra a sequência entre isolamento, encontro com Jesus e restauração.",
+          "como_usar": "Exibir o vídeo antes da discussão. Solicitar que os participantes anotem onde aparecem autoridade, compaixão, risco de exclusão e retorno à vida comunitária.",
+          "pergunta": "O que o vídeo acrescenta à compreensão do gesto de Jesus ao tocar uma pessoa considerada impura?"
+        },
+        {
+          "titulo": "Ensinando sobre oração e fé",
+          "fonte": "Jesus Film Project",
+          "url": "https://www.jesusfilm.org/watch/jesus.html/teaching-about-prayer-and-faith/portuguese-brazil.html",
+          "conexao": "Vídeo oficial de aproximadamente dois minutos sobre pedir, buscar e perseverar, conectado à dimensão de oração destacada na mensagem.",
+          "como_usar": "Exibir após a leitura bíblica e pedir que o grupo formule uma oração que una confiança, submissão à vontade de Deus e cuidado concreto com pessoas feridas.",
+          "pergunta": "Como orar com fé sem presumir que sabemos antecipadamente como Deus deve agir?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Ousado Amor",
+          "interprete": "Isaias Saad",
+          "conexao": "Canção sobre a iniciativa amorosa de Deus em buscar e alcançar pessoas; pode dialogar com o movimento de Jesus em direção ao homem excluído.",
+          "pergunta": "Que barreiras pessoais ou sociais o amor de Deus nos chama a atravessar em direção ao outro?",
+          "url_oficial": "https://www.youtube.com/watch?v=wSKKEAnLTDw",
+          "decisao": "incluir",
+          "motivo": "Clipe identificado no canal oficial do artista e conexão temática clara com acolhimento e graça."
+        },
+        {
+          "titulo": "Aquieta Minh'alma",
+          "interprete": "Ministério Zoe",
+          "conexao": "Canção sobre aproximação, dependência, confiança e descanso em Deus, aspectos coerentes com o pedido do homem: reconhecer a autoridade de Jesus e colocar-se diante dele.",
+          "pergunta": "Que diferença existe entre entregar a ansiedade a Deus e abandonar a responsabilidade de agir?",
+          "url_oficial": "https://www.youtube.com/watch?v=ANfpF0pNob4",
+          "decisao": "incluir",
+          "motivo": "Vídeo oficial identificado no canal do Ministério Zoe e adequado para um momento de oração reflexiva."
+        }
+      ],
+      "atualidade": [
+        {
+          "abrangencia": "local/estadual — Espírito Santo",
+          "titulo": "Informes epidemiológicos de hanseníase do Espírito Santo — setembro de 2026",
+          "veiculo": "Secretaria de Estado da Saúde do Espírito Santo",
+          "data": "08/10/2026",
+          "url": "https://saude.es.gov.br/hanseniase",
+          "conexao": "Permite relacionar o texto bíblico à realidade contemporânea da hanseníase, destacando que tratamento, diagnóstico oportuno, acompanhamento e combate ao estigma são responsabilidades públicas e comunitárias. A doença atual não deve ser identificada automaticamente com a condição descrita nos Evangelhos.",
+          "dilema": "Como falar de cura e purificação sem reforçar a ideia de que pessoas doentes são moralmente impuras ou culpadas?",
+          "pergunta": "Que atitudes práticas uma comunidade pode adotar para substituir medo e estigma por informação, cuidado e inclusão?"
+        },
+        {
+          "abrangencia": "mundo",
+          "titulo": "Atualização global sobre hanseníase em 2025: fortalecimento de uma abordagem centrada na pessoa",
+          "veiculo": "Organização Mundial da Saúde",
+          "data": "17/09/2026",
+          "url": "https://www.who.int/publications/i/item/who-wer10136-37-203-220",
+          "conexao": "A publicação recente da OMS favorece uma conversa responsável sobre cuidado centrado na pessoa, prevenção de incapacidades e eliminação da discriminação. Serve para ampliar o tema da restauração para além de uma experiência individual.",
+          "dilema": "Como equilibrar esperança espiritual, cuidado médico baseado em evidências e respeito à autonomia das pessoas afetadas?",
+          "pergunta": "O que significa restaurar alguém integralmente quando a doença pode ser tratada, mas o estigma permanece?"
+        }
+      ],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Pequeno grupo, igreja ou comunidade local",
+          "titulo": "A pessoa que chega carregando vergonha",
+          "situacao": "Uma nova participante chega atrasada, evita contato visual e não quer falar sobre sua história. Alguns membros interpretam o silêncio como falta de interesse ou de fé.",
+          "pergunta": "Como o grupo pode se aproximar com respeito, sem pressionar, diagnosticar espiritualmente ou exigir uma exposição pública?"
+        },
+        {
+          "contexto": "Família, trabalho ou escola",
+          "titulo": "A cura que não apaga imediatamente o estigma",
+          "situacao": "Alguém conclui um tratamento de saúde, mas continua sendo evitado por colegas que têm medo ou informações incorretas sobre a doença.",
+          "pergunta": "Que ações concretas podem transformar uma declaração de acolhimento em reintegração real?"
+        },
+        {
+          "contexto": "Vida pessoal e espiritual",
+          "titulo": "Quando a fé convive com a dúvida",
+          "situacao": "Uma pessoa ora por cura, mas não sabe se Deus responderá como espera. Ela teme que admitir a dúvida seja sinal de incredulidade.",
+          "pergunta": "Como o grupo pode acolher a dúvida sem ridicularizá-la e sem prometer resultados que a Bíblia ou a realidade não garantem?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Aproximar-se, prostrar-se, pedir e reintegrar",
+          "duracao": "25 a 30 minutos",
+          "objetivo": "Identificar movimentos do texto de Lucas 5:12-15 e traduzi-los em atitudes de cuidado comunitário, sem reduzir a passagem a uma fórmula de cura.",
+          "materiais": "Bíblias, folhas ou cartões com as palavras aproximar-se, reconhecer, pedir, tocar/cuidar, restaurar e reintegrar.",
+          "passos": [
+            "Dividir o grupo em pequenos grupos e entregar os cartões misturados.",
+            "Pedir que organizem os cartões conforme a narrativa de Lucas 5:12-15 e justifiquem a ordem.",
+            "Solicitar que cada grupo associe a cada etapa uma atitude concreta da comunidade hoje.",
+            "Reunir as respostas e corrigir duas possíveis distorções: confundir doença com culpa e tratar cura espiritual como substituta de cuidado médico.",
+            "Encerrar com uma oração que inclua pessoas doentes, pessoas isoladas e comunidades que precisam vencer o estigma."
+          ],
+          "perguntas": [
+            "Qual etapa do relato costuma ser esquecida pelas comunidades: aproximação, escuta, cuidado ou reintegração?",
+            "Como demonstrar fé sem pressionar alguém a expor sua dor?",
+            "Que diferença existe entre tocar como gesto de cuidado e invadir os limites de alguém?"
+          ]
+        },
+        {
+          "titulo": "Pode e quer? Discernindo fé, vontade e responsabilidade",
+          "duracao": "20 a 25 minutos",
+          "objetivo": "Trabalhar a tensão entre a confiança na autoridade de Cristo e a humildade diante da vontade de Deus.",
+          "materiais": "Três cartazes: Posso esperar, Preciso discernir e Posso agir; cartões com situações cotidianas.",
+          "passos": [
+            "Apresentar situações como doença, desemprego, conflito familiar, solidão e preconceito.",
+            "Cada participante posiciona o cartão em um dos três cartazes e explica sua escolha.",
+            "O grupo identifica respostas que combinam oração, busca de ajuda, tratamento, reconciliação e ação comunitária.",
+            "Ler novamente a pergunta do homem em Lucas 5:12 e discutir por que ela não é uma exigência, mas uma súplica reverente.",
+            "Concluir com um compromisso individual e um compromisso coletivo para a semana."
+          ],
+          "perguntas": [
+            "O que seria autossuficiência neste caso?",
+            "Como evitar tanto o fatalismo quanto a promessa irresponsável de que toda oração produzirá a resposta desejada?",
+            "Que ação concreta acompanha a oração do grupo?"
+          ]
+        }
+      ],
+      "sustentabilidade": {},
+      "perguntas_adicionais": [
+        {
+          "tipo": "leitura bíblica",
+          "pergunta": "Por que Jesus orienta o homem a apresentar-se ao sacerdote depois da purificação? O que isso ensina sobre restauração social e responsabilidade comunitária?"
+        },
+        {
+          "tipo": "cuidado pastoral",
+          "pergunta": "Como oferecer oração por cura sem constranger pessoas que convivem com doenças crônicas, deficiências ou sofrimento emocional?"
+        },
+        {
+          "tipo": "inclusão",
+          "pergunta": "Quem são as pessoas que hoje ficam socialmente 'do lado de fora' de nossas igrejas, grupos ou redes de amizade?"
+        },
+        {
+          "tipo": "discernimento",
+          "pergunta": "Que diferenças devem ser mantidas entre testemunho pessoal, promessa bíblica e orientação médica?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Lucas 5:12-15 e Marcos 1:40-45",
+          "motivo": "São os textos bíblicos centrais para distinguir a fonte da semana das interpretações e aplicações complementares."
+        },
+        {
+          "recurso": "LUMO - Marcos 1:1-45",
+          "motivo": "É o recurso audiovisual mais diretamente relacionado ao episódio da cura do homem com lepra e está disponível em português em página oficial."
+        },
+        {
+          "recurso": "Informes da SESA-ES e atualização da OMS sobre hanseníase",
+          "motivo": "Permitem tratar doença, cuidado e estigma com responsabilidade contemporânea, evitando anacronismos e afirmações médicas indevidas."
+        },
+        {
+          "recurso": "Dinâmica 'Aproximar-se, prostrar-se, pedir e reintegrar'",
+          "motivo": "Converte a leitura em práticas de acolhimento e reintegração adequadas a um pequeno grupo."
+        }
+      ],
+      "avisos_semana": {
+        "status": "disponivel",
+        "video_id": "t77wNYFkohA",
+        "url": "https://www.youtube.com/watch?v=t77wNYFkohA",
+        "inicio_segundos": 0,
+        "fim_segundos": 339,
+        "origem": "PIBJC News oficial publicado separadamente",
+        "rota": "video_separado_primario",
+        "metodo_deteccao": "194_HOMOLOGAR_RESOLVEDOR_PIBJC_NEWS_SEPARADO_V1_0_4",
+        "titulo": "PIBJC News | 18.10.26",
+        "data_publicacao": "2026-10-18",
+        "validacao_metadados": "homologada_194_v1_0_5",
+        "validacao_visual": "nao_necessaria_video_oficial_separado",
+        "revisado": false,
+        "transcricao_persistida": false,
+        "gerado_em": "2026-10-20T07:38:57"
+      }
+    },
+    {
       "id": "2026-10-11",
       "status": "mensagem_detectada_aguardando_transcricao",
       "tema": "Mensagem detectada — aguardando identificação",
