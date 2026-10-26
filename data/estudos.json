@@ -2,31 +2,109 @@
   "estudos": [
     {
       "id": "2026-10-25",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
-      "texto_principal": "Aguardando identificação",
-      "texto_principal_youversion": null,
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "Crer no Senhor Jesus como fonte de esperança, salvação e restauração para a pessoa e sua casa, tornando-se também uma voz de esperança para os desesperados.",
+      "texto_principal": "Provérbios 3:9-10",
+      "texto_principal_youversion": "PRO.3.9-10",
       "periodo": "25 a 31 de outubro de 2026",
       "mensagem": {
         "titulo": "Culto de Celebração - PIBJC | 25 10 2026 | 18h30 | Centro de Celebrações",
-        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "pregador": "Marcos Petrucci",
         "url": "https://www.youtube.com/watch?v=XR-kW-rPvmg",
         "video_id": "XR-kW-rPvmg",
-        "inicio_segundos": null,
+        "inicio_segundos": 3567,
         "inicio_live": "2026-10-25T21:29:35Z",
         "fim_live": "2026-10-25T23:32:41Z",
         "detectado_em": "2026-10-26T04:38:32-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 00:59:27.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-10-26T17:40:26",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.94,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "A igreja pode dizer amém. Nós vamos ler a palavra do Senhor",
+        "inicio_mensagem_motivo": "Após o encerramento da oração do dirigente anterior, o pregador assume a palavra, orienta a igreja e inicia a leitura e exposição da passagem bíblica.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-10-26T12:39:15",
+        "fim_segundos": 7141,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "PASTOR MARCOS PETRUCCI",
+        "pregador_visual_detectado_em": "2026-10-26T17:40:26",
+        "referencias_biblicas": [
+          {
+            "referencia": "Provérbios 3:9-10",
+            "timestamp_segundos": 3573,
+            "timestamp_hhmmss": "00:59:33",
+            "texto_visivel": "HONRE O SENHOR COM OS SEUS BENS E COM AS PRIMÍCIAS DE TODA A SUA RENDA; PROVÉRBIOS 3:9-10 - NAA",
+            "principal": true,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual",
+            "evidencia_transcricao": "Nós vamos ler a palavra do Senhor que está em Provérbios capítulo 3, versículos 9 e 10",
+            "tipo_confirmacao_textual": "explicit_spoken",
+            "confianca_textual": 1.0
+          },
+          {
+            "referencia": "Salmos 33:12",
+            "timestamp_segundos": 4081,
+            "timestamp_hhmmss": "01:08:01",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Feliz é a nação cujo Deus é o Senhor",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Atos 16:22-34",
+            "timestamp_segundos": 4174,
+            "timestamp_hhmmss": "01:09:34",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Quero convidar você para abrir a sua Bíblia [...] lá no livro de Atos, capítulo de número 16, a partir do verso de número 22",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": true,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Atos 16:22",
+            "timestamp_segundos": 4192,
+            "timestamp_hhmmss": "01:09:52",
+            "texto_visivel": "ENTÃO A MULTIDÃO SE LEVANTOU UNIDA CONTRA ELES, E OS MAGISTRADOS,... ATOS 16:22 - NAA",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual"
+          }
+        ]
       },
       "carta": {
         "status": "aguardando",
         "arquivo": null
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-10-25.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-10-25.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "XR-kW-rPvmg",
+        "inicio_segundos": 3567,
+        "fim_segundos": 7141,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1132,
+        "caracteres": 49474,
+        "primeiro_segmento_segundos": 3566.68,
+        "ultimo_segmento_segundos": 7137.92,
+        "sha256": "d1b6a836535667d8c623cd350a6e6471695797537704d48089ebd4bface33fd8",
+        "gerada_em": "2026-10-26T17:40:26"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -36,18 +114,202 @@
         "fonte": "Padrão do aplicativo"
       },
       "oficial": {},
-      "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-10-26T12:39:15",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem apresenta o episódio de Paulo e Silas na prisão, destacando que, mesmo presos, eles oravam e cantavam louvores a Deus. O terremoto abriu as portas e soltou as correntes, mas Paulo impediu que o carcereiro tirasse a própria vida. A partir disso, o pregador enfatiza que os cristãos devem dizer aos desesperados: “Não se desespere”, “nem tudo está perdido” e “você não está só”. A mensagem conclui com um apelo para que as pessoas creiam no Senhor Jesus e intercedam pela salvação, cura e restauração de suas famílias.",
+        "ideias_centrais": [
+          "Paulo e Silas louvaram a Deus mesmo em meio à prisão, mostrando que as circunstâncias não aprisionavam a alma deles.",
+          "O pregador afirma que os cristãos devem ser uma voz de esperança para pessoas em desespero, inclusive aquelas que enfrentam ideação suicida.",
+          "A mensagem destaca que nem tudo está perdido e que ninguém precisa enfrentar suas lutas sozinho, pois Deus e a comunidade da igreja oferecem esperança e cuidado.",
+          "A expressão “Creia no Senhor Jesus e serão salvos você e os de sua casa” é aplicada como um chamado à fé e à entrega da vida a Jesus, com expectativa de salvação e restauração familiar.",
+          "A fé em Cristo é apresentada como aquilo que permanece firme mesmo quando a saúde, as finanças, os relacionamentos e outras estruturas da vida são abalados."
+        ],
+        "perguntas": [
+          "Como Paulo e Silas reagiram enquanto estavam presos?",
+          "Que palavras Paulo dirigiu ao carcereiro quando ele pensou em tirar a própria vida?",
+          "De que maneira a mensagem orienta os cristãos a agir diante de pessoas desesperadas ou isoladas?",
+          "O que significa, segundo a mensagem, não apenas crer em Jesus, mas confiar a vida a Jesus?",
+          "Quais áreas da vida foram citadas como sujeitas a abalos, e o que o pregador afirmou que não pode ser abalado?"
+        ],
+        "evidencias": [
+          "Em 01:09:32, o pregador anuncia o tema “A sua casa será salva” e lê Atos 16 a partir do versículo 22.",
+          "Em 01:10:32–01:12:32, é lido o relato de Paulo e Silas na prisão, do terremoto e da conversão do carcereiro e de sua casa.",
+          "Em 01:14:02–01:16:32, a mensagem destaca que Paulo e Silas louvaram a Deus na prisão e relaciona o terremoto à libertação e ao avanço do evangelho.",
+          "Em 01:21:02–01:22:32 e 01:27:32–01:28:32, aparecem as ênfases “não se desespere”, “nem tudo está perdido” e “nós estamos aqui”.",
+          "Em 01:41:32–01:43:32, o pregador retoma “Creia no Senhor Jesus e será salvo tu e os de sua casa”, aplicando o texto à salvação e restauração das famílias.",
+          "Em 01:47:32–01:58:32, ocorre o encerramento com apelo, cânticos e oração pelas famílias; em 01:59:02, começa a interação com espectadores e pedidos de oração, indicando o fim da mensagem principal."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.95,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Atos 16:22-34",
+          "conexao": "Texto central: Paulo e Silas oram e cantam na prisão; Paulo impede o carcereiro de se ferir; a casa do carcereiro ouve a Palavra e experimenta cuidado, fé e alegria.",
+          "como_usar": "Ler o texto em três movimentos: sofrimento e prisão; intervenção diante do desespero; cuidado, fé e restauração da casa. Ressaltar que a aplicação complementar não substitui a análise da Carta oficial, que ainda está pendente.",
+          "pergunta": "Como a presença de Paulo junto ao carcereiro transforma uma situação de desespero em uma oportunidade de cuidado e esperança?",
+          "youversion_ref": "https://www.bible.com/pt/bible/1608/ACT.16.22-34.ARA"
+        },
+        {
+          "referencia": "Salmo 42:5",
+          "conexao": "Ajuda a conversar sobre esperança em meio à tristeza, sem negar a realidade da dor.",
+          "como_usar": "Comparar a pergunta do salmista com as formas responsáveis de buscar ajuda, oração e companhia quando a esperança parece enfraquecida.",
+          "pergunta": "Que práticas podem nos ajudar a esperar em Deus sem esconder ou minimizar o sofrimento?",
+          "youversion_ref": "https://www.bible.com/pt/bible/1608/PSA.42.5.ARA"
+        },
+        {
+          "referencia": "Gálatas 6:2",
+          "conexao": "Relaciona a mensagem de não deixar pessoas isoladas com a responsabilidade comunitária de carregar os fardos uns dos outros.",
+          "como_usar": "Aplicar o texto ao pequeno grupo: escuta, presença, oração, acompanhamento e encaminhamento para ajuda qualificada.",
+          "pergunta": "Como podemos carregar os fardos de alguém sem tentar substituir profissionais, familiares ou serviços especializados?",
+          "youversion_ref": "https://www.bible.com/pt/bible/1608/GAL.6.2.ARA"
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "filme",
+          "titulo": "Breakthrough — Uma Família em Apuros",
+          "conexao": "O filme apresenta uma família atravessando uma crise extrema e mobilizando fé, amor, comunidade e perseverança. Pode dialogar com esperança e restauração, sem ser usado como promessa de que todo sofrimento terá um desfecho milagroso.",
+          "como_usar": "Exibir o trailer e discutir a diferença entre esperança cristã, apoio comunitário e expectativas irreais sobre cura ou solução imediata.",
+          "pergunta": "Como permanecer ao lado de uma família em crise sem oferecer respostas simplistas ou culpabilizar quem sofre?",
+          "url_oficial": null,
+          "url_clipe": "https://www.youtube.com/watch?v=go1jaIRQc-o",
+          "incorporar_clipe": false
+        },
+        {
+          "tipo": "série",
+          "titulo": "The Chosen",
+          "conexao": "A série oferece uma representação dramatizada de encontros de Jesus com pessoas vulneráveis, ajudando o grupo a refletir sobre presença, acolhimento e transformação.",
+          "como_usar": "Selecionar previamente um trecho oficial curto da plataforma e pedir que o grupo observe como Jesus se aproxima de pessoas feridas e como a comunidade participa do cuidado. A série é recurso complementar, não fonte doutrinária nem substituto da leitura bíblica.",
+          "pergunta": "Que atitudes de presença e acolhimento aparecem no trecho escolhido?",
+          "url_oficial": "https://watch.thechosen.tv/?lang=pt-BR",
+          "url_clipe": "https://watch.thechosen.tv/extras",
+          "incorporar_clipe": false
+        }
+      ],
       "livros": [],
-      "videos": [],
-      "musicas_complementares": [],
+      "videos": [
+        {
+          "titulo": "Escutar é estar presente",
+          "fonte": "Centro de Valorização da Vida — CVV",
+          "url": "https://cvv.org.br/escutar-e-estar-presente/",
+          "conexao": "Reforça a ideia de que uma pessoa em sofrimento precisa ser ouvida com atenção, respeito e ausência de julgamentos, conectando-se à intervenção de Paulo diante do desespero do carcereiro.",
+          "como_usar": "Usar como leitura breve para preparar uma conversa sobre escuta responsável. Não apresentar a igreja como substituta de atendimento profissional ou de serviços de crise.",
+          "pergunta": "O que muda quando trocamos respostas prontas por escuta atenta e presença concreta?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Me Atraiu",
+          "interprete": "Gabriela Rocha",
+          "conexao": "Pode acompanhar uma reflexão sobre ser atraído à presença de Deus em momentos de medo, isolamento e instabilidade.",
+          "pergunta": "Como distinguir uma experiência pessoal de fé de uma promessa de que todos os problemas serão resolvidos imediatamente?",
+          "url_oficial": "https://www.youtube.com/watch?v=Z6cONvRUFZQ",
+          "decisao": "usar",
+          "motivo": "Vídeo publicado no canal oficial da artista e adequado para uma transição de oração e reflexão, sem necessidade de reproduzir a letra."
+        }
+      ],
       "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Uma pessoa do grupo deixa de participar, responde com mensagens muito curtas e diz que está cansada de tudo.",
+          "titulo": "Quando alguém começa a desaparecer",
+          "situacao": "Em vez de pressionar ou fazer julgamentos, uma pessoa do grupo entra em contato, pergunta diretamente como ela está, escuta sem minimizar a dor e combina uma forma concreta de acompanhamento. Se houver risco de autoagressão ou suicídio, busca ajuda imediata e aciona serviços adequados.",
+          "pergunta": "Que mensagem poderíamos enviar hoje para demonstrar presença sem invadir ou oferecer respostas simplistas?"
+        },
+        {
+          "contexto": "Uma família enfrenta desemprego, doença ou conflito intenso e pede apenas oração.",
+          "titulo": "Orar e também cuidar",
+          "situacao": "O grupo ora, mas também pergunta quais necessidades práticas existem, combina acompanhamento e ajuda a família a acessar serviços de saúde, assistência social ou apoio psicológico quando necessário.",
+          "pergunta": "Que ações concretas podem acompanhar nossa oração nesta semana?"
+        },
+        {
+          "contexto": "Alguém afirma que a fé deveria impedir tristeza, ansiedade ou pensamentos de morte.",
+          "titulo": "Fé não é silenciamento",
+          "situacao": "O grupo acolhe a pessoa, evita frases culpabilizadoras e afirma que buscar ajuda profissional é uma atitude de cuidado, não de falta de fé.",
+          "pergunta": "Como falar de esperança cristã sem negar sofrimento psíquico, doença ou a necessidade de tratamento?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Portas abertas: rede de esperança",
+          "duracao": "25 a 35 minutos",
+          "objetivo": "Identificar formas concretas de ser presença segura para pessoas em sofrimento, relacionando o texto bíblico à responsabilidade comunitária.",
+          "materiais": "Folhas, canetas e três cartões com as palavras: escutar, acompanhar, encaminhar.",
+          "passos": [
+            "Dividir o grupo em trios e reler Atos 16:27-34.",
+            "Cada trio escolhe uma cena contemporânea de isolamento, crise familiar ou desespero.",
+            "Para a cena escolhida, listar uma atitude de escuta, uma forma de acompanhamento e um encaminhamento responsável.",
+            "Compartilhar as respostas e montar um mapa coletivo de apoio, incluindo pessoas de confiança, liderança pastoral, profissionais de saúde e serviços de crise.",
+            "Concluir com oração, reforçando que ninguém deve assumir sozinho o cuidado de uma pessoa em risco."
+          ],
+          "perguntas": [
+            "O que Paulo fez imediatamente diante do risco do carcereiro?",
+            "Que atitudes poderiam piorar a situação de alguém desesperado?",
+            "Como nossa comunidade pode oferecer presença sem prometer o que não pode cumprir?",
+            "Quem são os profissionais e serviços que precisamos conhecer antes de uma crise acontecer?"
+          ]
+        },
+        {
+          "titulo": "O que permanece firme?",
+          "duracao": "20 minutos",
+          "objetivo": "Distinguir estruturas da vida que podem sofrer abalos da esperança e dos vínculos que sustentam uma pessoa.",
+          "materiais": "Papéis com as palavras saúde, finanças, trabalho, relacionamentos, reputação, fé, comunidade e cuidado.",
+          "passos": [
+            "Espalhar os papéis no centro da sala.",
+            "Pedir que o grupo organize as palavras entre 'pode ser abalado', 'precisa de cuidado' e 'pode ajudar a sustentar'.",
+            "Discutir por que a fé não elimina automaticamente perdas, doenças ou crises.",
+            "Reorganizar os cartões mostrando que fé, comunidade e cuidado profissional podem atuar juntos.",
+            "Cada participante escolhe uma ação de cuidado para praticar durante a semana."
+          ],
+          "perguntas": [
+            "Que áreas da vida aparecem mais vulneráveis em nossa realidade?",
+            "Que diferença existe entre esperança e negação dos problemas?",
+            "Que ação concreta pode comunicar a alguém: 'você não está só'?"
+          ]
+        }
+      ],
       "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "perguntas_adicionais": [
+        {
+          "tipo": "conciliação da fonte",
+          "pergunta": "Quais pontos desta curadoria deverão ser revisados quando a Carta/transcrição oficial chegar?"
+        },
+        {
+          "tipo": "interpretação bíblica",
+          "pergunta": "Como evitar usar 'tu e tua casa' como uma garantia automática de conversão de todos os familiares, preservando o contexto narrativo de Atos 16?"
+        },
+        {
+          "tipo": "cuidado pastoral",
+          "pergunta": "Como a igreja pode falar de salvação, cura e restauração sem culpabilizar pessoas que continuam enfrentando sofrimento?"
+        },
+        {
+          "tipo": "segurança",
+          "pergunta": "Quais sinais indicam que uma conversa pastoral precisa ser acompanhada de encaminhamento imediato para serviço especializado?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "CVV — telefone 188 e canais oficiais",
+          "motivo": "O CVV oferece apoio emocional e prevenção do suicídio gratuitamente, com atendimento nacional 24 horas por dia. Usar o recurso como complemento ao cuidado pastoral, nunca como substituto de atendimento médico ou psicológico. Em risco imediato, acionar também o serviço local de emergência."
+        },
+        {
+          "recurso": "Leitura cuidadosa de Atos 16:22-34",
+          "motivo": "É o núcleo bíblico da semana e deve orientar a conversa antes dos filmes, músicas ou materiais externos."
+        },
+        {
+          "recurso": "Plano de acompanhamento do pequeno grupo",
+          "motivo": "A mensagem enfatiza que pessoas desesperadas não devem ficar sozinhas; o grupo deve definir quem fará contato, quando acompanhará e para onde encaminhará situações de risco."
+        },
+        {
+          "recurso": "Carta/transcrição oficial pendente",
+          "motivo": "Como a fonte é uma mensagem em vídeo preliminar, esta curadoria é complementar e deverá ser conciliada quando a Carta oficial estiver disponível."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "oV1mpAFjaTc",
@@ -64,6 +326,15 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-10-26T04:38:51"
+      },
+      "enriquecimento_meta": {
+        "estudo_id": "2026-10-25",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-10-26T12:40:01",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
