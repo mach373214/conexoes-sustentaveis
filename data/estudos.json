@@ -2,31 +2,148 @@
   "estudos": [
     {
       "id": "2026-11-08",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
-      "texto_principal": "Aguardando identificação",
-      "texto_principal_youversion": null,
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "Família madura, família vitoriosa: a maturidade cristã demonstrada pela capacidade de dizer e receber “não”, mantendo a identidade em Deus, rejeitando o pecado, o dinheiro fácil e o domínio das pessoas.",
+      "texto_principal": "Hebreus 11:23-29",
+      "texto_principal_youversion": "HEB.11.23-29",
       "periodo": "08 a 14 de novembro de 2026",
       "mensagem": {
         "titulo": "Culto de Celebração - PIBJC | 08 11 2026 | 18h30 | Centro de Celebrações",
-        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "pregador": "LÉCIO DORNAS",
         "url": "https://www.youtube.com/watch?v=2IRupHd375Y",
         "video_id": "2IRupHd375Y",
-        "inicio_segundos": null,
+        "inicio_segundos": 3876,
         "inicio_live": "2026-11-08T21:31:23Z",
         "fim_live": "2026-11-08T23:40:04Z",
         "detectado_em": "2026-11-09T07:14:28-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 01:04:36.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-11-09T17:16:09",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.93,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "01:04:36 | Glórias ao Senhor Jesus.",
+        "inicio_mensagem_motivo": "É o primeiro timestamp após a pausa de transição em que se inicia um novo turno contínuo de fala, com saudação e condução da mensagem; os trechos anteriores pertencem ao dirigente anterior.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-11-09T11:44:55",
+        "fim_segundos": 7239,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "PASTOR LÉCIO DORNAS",
+        "pregador_visual_detectado_em": "2026-11-09T17:16:09",
+        "referencias_biblicas": [
+          {
+            "referencia": "Tiago 1:17",
+            "timestamp_segundos": 3906,
+            "timestamp_hhmmss": "01:05:06",
+            "texto_visivel": null,
+            "evidencia_transcricao": "todo dom perfeito vem do Pai das Luzes, onde não há sombra de variação",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.98,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Salmos 119:105",
+            "timestamp_segundos": 4119,
+            "timestamp_hhmmss": "01:08:39",
+            "texto_visivel": null,
+            "evidencia_transcricao": "a tua palavra é lâmpada para os nossos pés e luz para os nossos caminhos",
+            "tipo_confirmacao": "distinctive_quote",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Hebreus 11:23-29",
+            "timestamp_segundos": 4308,
+            "timestamp_hhmmss": "01:11:48",
+            "texto_visivel": null,
+            "evidencia_transcricao": "convido você a ler comigo o texto de Hebreus, capítulo 11, do versículo 23 ao versículo 29",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": true,
+            "confianca": 1.0,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Hebreus 11:26",
+            "timestamp_segundos": 4362,
+            "timestamp_hhmmss": "01:12:42",
+            "texto_visivel": "...PORQUE CONTEMPLAVA A RECOMPENSA. HEBREUS 11:26. NAA",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual"
+          },
+          {
+            "referencia": "Hebreus 11:27",
+            "timestamp_segundos": 4372,
+            "timestamp_hhmmss": "01:12:52",
+            "texto_visivel": "...POIS PERMANECEU FIRME COMO QUEM VÊ AQUELE QUE É INVISÍVEL. HEBREUS 11:27. NAA",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual"
+          },
+          {
+            "referencia": "Hebreus 11:29",
+            "timestamp_segundos": 4392,
+            "timestamp_hhmmss": "01:13:12",
+            "texto_visivel": "...QUANDO OS EGÍPCIOS TENTARAM FAZER O MESMO, FORAM ENGOLIDOS PELO MAR. HEBREUS 11:29. NAA",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_storyboard_visual"
+          },
+          {
+            "referencia": "Êxodo 14:15-31",
+            "timestamp_segundos": 4405,
+            "timestamp_hhmmss": "01:13:25",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Moisés coloca o cajado, o Mar Vermelho se abre e o exército de Faraó é engolido",
+            "tipo_confirmacao": "specific_narrative",
+            "principal": false,
+            "confianca": 0.98,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Êxodo 2:1-10",
+            "timestamp_segundos": 4554,
+            "timestamp_hhmmss": "01:15:54",
+            "texto_visivel": null,
+            "evidencia_transcricao": "a Bíblia diz em Êxodo capítulo 2 que Anrão tomou por esposa uma mulher chamada Joquebede",
+            "tipo_confirmacao": "explicit_spoken",
+            "principal": false,
+            "confianca": 0.99,
+            "fonte": "youtube_transcricao_publica"
+          }
+        ]
       },
       "carta": {
         "status": "aguardando",
         "arquivo": null
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-11-08.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-11-08.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "2IRupHd375Y",
+        "inicio_segundos": 3876,
+        "fim_segundos": 7239,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1292,
+        "caracteres": 60520,
+        "primeiro_segmento_segundos": 3875.72,
+        "ultimo_segmento_segundos": 7238.639,
+        "sha256": "cc6a09fbf404eb0c0b1b702d0910e1a927b41ea9626c5c603949dbc757f386bc",
+        "gerada_em": "2026-11-09T17:16:09"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -36,18 +153,236 @@
         "fonte": "Padrão do aplicativo"
       },
       "oficial": {},
-      "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
-      "musicas_complementares": [],
-      "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
-      "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-11-09T11:44:55",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem relaciona a vitória da família ao processo de amadurecimento espiritual e pessoal de seus membros. A partir do exemplo de Moisés em Hebreus 11:23-29, o pregador destaca quatro recusas: não abrir mão da identidade dada por Deus, rejeitar os prazeres transitórios do pecado, não escolher os tesouros e o dinheiro fácil em lugar da recompensa de Deus e não se submeter ao medo ou ao domínio de pessoas poderosas. A mensagem termina com um apelo para que os ouvintes reconheçam sua imaturidade, desejem crescer e consagrem a Deus suas famílias, relacionamentos, decisões financeiras e vida espiritual.",
+        "ideias_centrais": [
+          "A maturidade é apresentada como condição importante para que a família avance e viva uma experiência de vitória; a imaturidade pode retardar esse processo.",
+          "Moisés manteve sua identidade e recusou ser reconhecido como filho da filha de Faraó, escolhendo permanecer ligado ao povo de Deus.",
+          "A maturidade envolve rejeitar os prazeres transitórios do pecado, que podem destruir casamentos e famílias.",
+          "Moisés recusou os tesouros do Egito, ensinando a não colocar o dinheiro fácil acima da fidelidade e da recompensa de Deus.",
+          "A fé madura permite permanecer firme sem ser dominado pelo medo de pessoas, autoridades, ameaças ou pressões."
+        ],
+        "perguntas": [
+          "Em que aspectos da vida pessoal e familiar a mensagem identifica a necessidade de amadurecimento?",
+          "Quais são os quatro “nãos” de Moisés apresentados na mensagem?",
+          "Como a mensagem relaciona a identidade cristã com a capacidade de rejeitar pressões externas?",
+          "Que consequências dos prazeres transitórios do pecado são destacadas para o casamento e a família?",
+          "O que significa, segundo a mensagem, viver olhando para “aquele que é invisível”?"
+        ],
+        "evidencias": [
+          "01:09:40–01:10:10 — o pregador apresenta o título “Família madura, família vitoriosa”.",
+          "01:11:40–01:12:10 — anuncia a leitura de Hebreus 11:23-29 e introduz Moisés como base da reflexão.",
+          "01:18:10–01:19:40 — define a maturidade como saber dizer e ouvir “não”.",
+          "01:23:10–01:23:40 — apresenta os quatro “nãos” de Moisés a partir de Hebreus 11:23-29.",
+          "01:46:10–01:47:40 — resume os quatro princípios: identidade, rejeição do pecado, não submissão ao dinheiro e resistência ao domínio de pessoas.",
+          "01:49:10–01:50:10 — inicia o apelo e convida os ouvintes a desejarem amadurecer e orarem por suas famílias e vidas pessoais/cristãs."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.82,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Hebreus 11:23-29",
+          "conexao": "Texto-base da mensagem em vídeo preliminar: apresenta a fé de Moisés como perseverança, discernimento de identidade, rejeição dos prazeres transitórios, relativização dos tesouros do Egito e resistência ao medo do poder.",
+          "como_usar": "Ler o texto em grupo e identificar os verbos de decisão: esconderam, não temeram, recusou, preferiu, considerou, saiu, perseverou e celebrou. A leitura deve ser tratada como núcleo bíblico da reflexão, enquanto a aplicação da mensagem permanece complementar e sujeita à conciliação com a Carta oficial.",
+          "pergunta": "Qual decisão de Moisés mais confronta as escolhas que fazemos hoje como indivíduos e família?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/HEB.11.23-29.ARA"
+        },
+        {
+          "referencia": "Êxodo 2:1-15",
+          "conexao": "Ajuda a reconstruir a narrativa de Moisés: preservação de sua vida, crescimento na casa de Faraó, identificação com os hebreus e início do conflito entre privilégio, identidade e responsabilidade.",
+          "como_usar": "Dividir a leitura em três cenas: proteção dos pais, vida no palácio e identificação com os oprimidos. Evitar afirmar que todo privilégio é pecado; discutir como privilégios podem ser usados ou podem tentar redefinir a identidade.",
+          "pergunta": "Quais ambientes, relações ou vantagens podem tentar definir quem somos no lugar de Deus?",
+          "youversion_ref": null
+        },
+        {
+          "referencia": "Mateus 6:19-24",
+          "conexao": "Amplia o contraste entre os tesouros do Egito e a recompensa de Deus, abordando o conflito entre segurança material, lealdade e senhorio.",
+          "como_usar": "Usar a passagem para diferenciar planejamento financeiro responsável de apego ao dinheiro, ganância ou busca de enriquecimento sem ética.",
+          "pergunta": "Como uma família pode cuidar bem dos recursos sem transformar o dinheiro em senhor?",
+          "youversion_ref": null
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "filme",
+          "titulo": "O Príncipe do Egito",
+          "conexao": "A animação dramatiza a trajetória de Moisés, criado como membro da casa de Faraó e posteriormente confrontado com sua origem, seu povo e sua missão. A conexão é temática e não substitui a leitura bíblica.",
+          "como_usar": "Exibir o trailer ou selecionar previamente uma cena apropriada. Pedir ao grupo que compare a identidade de Moisés no palácio com suas escolhas posteriores. Avisar que a obra contém escolhas artísticas, condensações e elementos musicais próprios da adaptação.",
+          "pergunta": "Que diferença existe entre receber uma identidade social e assumir uma identidade orientada por convicções e responsabilidade?",
+          "url_oficial": "https://www.dreamworks.com/movies/the-prince-of-egypt",
+          "url_clipe": "https://www.youtube.com/watch?v=SsGcttNUi9c",
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "Pais sábios, filhos brilhantes",
+          "autor": "John MacArthur",
+          "conexao": "Oferece material complementar sobre formação de caráter, educação de filhos e transmissão de valores no lar, temas próximos da responsabilidade familiar e do amadurecimento.",
+          "como_usar": "Selecionar apenas um pequeno trecho da prévia legal e transformá-lo em conversa, sem apresentar o livro como fonte da mensagem. Perguntar como pais e responsáveis podem ensinar princípios sem exercer controle autoritário ou substituir a consciência dos filhos.",
+          "pergunta": "Como a família pode formar convicções sem produzir dependência de pessoas, medo ou obediência meramente externa?",
+          "url_trecho": "https://books.google.com.br/books?hl=pt-BR&id=4iGPAwAAQBAJ&lr=&num=20",
+          "url_pdf_legal": null,
+          "url_audio_legal": null,
+          "url_editora": null,
+          "nota_acesso": "Foi localizada prévia legal em português no Google Livros. Não foi localizado, na busca realizada, PDF integral autorizado ou áudio legal em português."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Visão Geral: Hebreus",
+          "fonte": "BibleProject Português / YouVersion",
+          "url": "https://www.bible.com/pt/videos/27690-visao-geral-hebreus",
+          "conexao": "Apresenta o panorama literário e teológico de Hebreus, ajudando o grupo a ler Hebreus 11 como parte de uma exortação à perseverança e à fidelidade.",
+          "como_usar": "Assistir antes da leitura de Hebreus 11:23-29. Solicitar que cada participante anote uma palavra relacionada a perseverança, fé ou identidade.",
+          "pergunta": "Como o panorama de Hebreus ajuda a entender a fé como perseverança e não apenas como opinião religiosa?"
+        },
+        {
+          "titulo": "Hebreus || Bible Project Português",
+          "fonte": "BibleProject - Português, canal oficial no YouTube",
+          "url": "https://www.youtube.com/watch?v=yt4uHfHfixY",
+          "conexao": "Vídeo curto de visão geral do livro de Hebreus, adequado para contextualizar a leitura do texto-base e a ideia de permanecer firme sob pressão.",
+          "como_usar": "Recurso complementar; não atribuir suas formulações ao pregador. Usar como introdução de até dez minutos e retornar imediatamente ao texto bíblico.",
+          "pergunta": "Que tipo de pressão o livro de Hebreus ajuda o grupo a reconhecer em sua realidade familiar e comunitária?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Quem Dizes Que Eu Sou",
+          "interprete": "Hillsong em Português",
+          "conexao": "Relaciona-se diretamente à identidade recebida de Deus, à liberdade e à resistência a definições impostas por outras pessoas ou pelo ambiente social.",
+          "pergunta": "Que vozes competem hoje com a voz de Deus na definição de nossa identidade?",
+          "url_oficial": "https://www.youtube.com/watch?v=UOyy3dGbwj0",
+          "decisao": "usar",
+          "motivo": "A música reforça o eixo da identidade sem reproduzir a fala do pregador; pode acompanhar uma oração ou reflexão final."
+        }
+      ],
+      "atualidade": [
+        {
+          "abrangencia": "local/regional — Vitória, Espírito Santo",
+          "titulo": "Vitória lança projeto de educação financeira para 400 estudantes da rede municipal",
+          "veiculo": "Prefeitura de Vitória",
+          "data": "2026-09-21",
+          "url": "https://vitoria.es.gov.br/noticia/vitoria-lanca-projeto-de-educacao-financeira-para-400-estudantes-da-rede-municipal-57358",
+          "conexao": "A iniciativa trabalha consumo consciente, planejamento financeiro, poupança, escolhas e economia doméstica, permitindo relacionar maturidade espiritual a decisões financeiras responsáveis e proteção da família contra impulsos e promessas de ganho fácil.",
+          "dilema": "Como ensinar crianças, adolescentes e adultos a diferenciar prosperidade responsável, consumo impulsivo e promessa enganosa de dinheiro fácil?",
+          "pergunta": "Que prática financeira simples a família poderia começar nesta semana: orçamento conjunto, limite de compras, conversa sobre golpes ou meta de poupança?"
+        },
+        {
+          "abrangencia": "Brasil",
+          "titulo": "Pagamentos de outubro do Bolsa Família começam nesta segunda-feira (19)",
+          "veiculo": "Secretaria de Comunicação Social da Presidência da República",
+          "data": "2026-10-19",
+          "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/10/pagamentos-de-outubro-do-bolsa-familia-comecam-nesta-segunda-feira-19/",
+          "conexao": "Permite conversar sobre vulnerabilidade econômica, proteção social, dignidade e responsabilidade comunitária, evitando tratar pobreza como simples resultado de imaturidade moral ou espiritual.",
+          "dilema": "Como uma comunidade cristã pode valorizar responsabilidade pessoal sem culpar famílias vulneráveis e sem ignorar fatores econômicos e sociais?",
+          "pergunta": "Que formas éticas de apoio e acompanhamento uma igreja ou pequeno grupo pode oferecer a famílias em dificuldade financeira?"
+        }
+      ],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Família e identidade",
+          "titulo": "A carreira ou o status começa a definir a pessoa",
+          "situacao": "Um membro da família passa a ser valorizado principalmente pelo salário, cargo, aparência, desempenho escolar ou influência social. Quando perde esse reconhecimento, sente que perdeu seu valor.",
+          "pergunta": "Como afirmar a dignidade recebida de Deus sem desprezar trabalho, estudo ou responsabilidade?"
+        },
+        {
+          "contexto": "Dinheiro e decisões",
+          "titulo": "A proposta de dinheiro rápido chega pelo celular",
+          "situacao": "Alguém recebe uma oferta de investimento, emprego ou prêmio com promessa de retorno alto e urgente. A pessoa é pressionada a não consultar familiares e a fazer um Pix imediatamente.",
+          "pergunta": "Quais são os nãos maduros antes de transferir dinheiro: não agir com pressa, não esconder, não compartilhar códigos e não acreditar sem verificar?"
+        },
+        {
+          "contexto": "Relacionamentos e limites",
+          "titulo": "Dizer não a uma pressão familiar",
+          "situacao": "Um parente poderoso ou financeiramente influente exige obediência, favorecimento, segredo ou participação em uma prática que contraria a consciência e os valores da família.",
+          "pergunta": "Como estabelecer limites firmes sem humilhar, ameaçar ou romper automaticamente o vínculo?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Os quatro nãos de Moisés",
+          "duracao": "25 minutos",
+          "objetivo": "Identificar decisões de maturidade no texto bíblico e traduzi-las em escolhas concretas do cotidiano.",
+          "materiais": "Bíblias, quatro folhas ou cartazes com as palavras identidade, pecado, dinheiro e medo.",
+          "passos": [
+            "Dividir o grupo em quatro equipes e entregar uma palavra a cada equipe.",
+            "Cada equipe relê Hebreus 11:23-29 e formula uma frase começando com “Um não maduro é...”",
+            "As equipes apresentam suas frases e distinguem recusa de pecado, recusa de abuso e simples preferência pessoal.",
+            "O grupo escolhe uma atitude prática para viver durante a semana."
+          ],
+          "perguntas": [
+            "Qual dos quatro temas é mais difícil para nossa realidade?",
+            "Quando um não protege a família e quando ele se torna apenas egoísmo?",
+            "Como receber um não sem manipular, ameaçar ou punir a outra pessoa?"
+          ]
+        },
+        {
+          "titulo": "Semáforo das promessas",
+          "duracao": "20 minutos",
+          "objetivo": "Desenvolver discernimento diante de propostas financeiras, sociais e relacionais que usam urgência, medo ou promessa de ganho fácil.",
+          "materiais": "Cartões verdes, amarelos e vermelhos; exemplos fictícios de mensagens e convites.",
+          "passos": [
+            "Apresentar situações fictícias: investimento com retorno garantido, pedido urgente de Pix, convite para esconder uma dívida e oferta de emprego sem contrato.",
+            "Cada participante levanta verde para situação segura, amarelo para situação que exige verificação ou vermelho para interromper e buscar ajuda.",
+            "Construir coletivamente um protocolo: pausar, verificar a fonte, consultar alguém confiável, não compartilhar senhas e registrar evidências.",
+            "Encerrar com uma oração por sabedoria e proteção das famílias."
+          ],
+          "perguntas": [
+            "Que sinais indicam manipulação ou golpe?",
+            "Por que a urgência reduz nossa capacidade de discernir?",
+            "Quem são as pessoas confiáveis que podem ser consultadas antes de uma decisão financeira?"
+          ]
+        }
+      ],
+      "sustentabilidade": {
+        "ods_principal": "ODS 1 — Erradicação da pobreza",
+        "conexao": "A conexão é aplicada de modo limitado e concreto: maturidade familiar inclui decisões financeiras éticas, prevenção de golpes, cuidado com famílias vulneráveis e uso responsável dos recursos. Não se afirma que fé ou maturidade eliminem automaticamente a pobreza.",
+        "aplicacao": "Realizar uma conversa familiar sobre orçamento, consumo consciente, proteção contra golpes e formas dignas de apoio a pessoas em vulnerabilidade. Usar os materiais da Prefeitura de Vitória e os serviços públicos pertinentes sem transformar o encontro em aconselhamento financeiro individual.",
+        "pergunta": "Como uma família pode administrar seus recursos com responsabilidade e, ao mesmo tempo, praticar solidariedade sem humilhar quem precisa de ajuda?"
+      },
+      "perguntas_adicionais": [
+        {
+          "tipo": "nota_metodológica",
+          "pergunta": "Esta curadoria é complementar à MENSAGEM_VIDEO_PRELIMINAR de 08 a 14 de novembro de 2026. Não deve ser apresentada como fala, citação ou posição do pregador Nécio Donnas. Quando a Carta oficial chegar, seus itens deverão prevalecer e esta seleção deverá ser conciliada."
+        },
+        {
+          "tipo": "leitura bíblica",
+          "pergunta": "O que Hebreus 11:23-29 afirma explicitamente e o que é aplicação contemporânea construída pelo grupo?"
+        },
+        {
+          "tipo": "limites e autoridade",
+          "pergunta": "Como distinguir respeito a autoridades de submissão ao pecado, à manipulação ou ao abuso?"
+        },
+        {
+          "tipo": "família",
+          "pergunta": "Que acordos familiares ajudariam todos a dizer e receber não com verdade, respeito e segurança?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Leitura coletiva de Hebreus 11:23-29",
+          "motivo": "É o núcleo bíblico informado na fonte e deve orientar qualquer recurso complementar."
+        },
+        {
+          "recurso": "Dinâmica dos quatro nãos de Moisés",
+          "motivo": "Traduz os eixos da mensagem em conversa participativa sem atribuir aplicações adicionais ao pregador."
+        },
+        {
+          "recurso": "Educação financeira e prevenção de golpes",
+          "motivo": "Conecta de modo responsável o tema do dinheiro fácil ao cuidado concreto das famílias e à proteção de pessoas vulneráveis."
+        },
+        {
+          "recurso": "Conciliação posterior com a Carta oficial",
+          "motivo": "A fonte atual é uma análise preliminar de vídeo; a Carta, quando recebida, terá prioridade editorial."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "XYm4Gw0ma6E",
@@ -64,6 +399,15 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-11-09T07:15:28"
+      },
+      "enriquecimento_meta": {
+        "estudo_id": "2026-11-08",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-11-09T11:46:19",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
