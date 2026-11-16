@@ -2,31 +2,100 @@
   "estudos": [
     {
       "id": "2026-11-15",
-      "status": "mensagem_detectada_aguardando_transcricao",
-      "tema": "Mensagem detectada — aguardando identificação",
-      "texto_principal": "Aguardando identificação",
-      "texto_principal_youversion": null,
+      "status": "preliminar_mensagem_video_automatico",
+      "tema": "Preparar-se para a volta de Jesus por meio de vigilância, intimidade com Deus e uma vida espiritual abastecida, não apenas de aparência religiosa.",
+      "texto_principal": "Mateus 25:1-13",
+      "texto_principal_youversion": "MAT.25.1-13",
       "periodo": "15 a 21 de novembro de 2026",
       "mensagem": {
         "titulo": "Culto de Celebração - PIBJC | 15 11 2026 | 18h30 | Centro de Celebrações",
-        "pregador": "Aguardando identificação pela Carta/transcrição",
+        "pregador": "Kelly Petrucci",
         "url": "https://www.youtube.com/watch?v=sXTdH3-0uEY",
         "video_id": "sXTdH3-0uEY",
-        "inicio_segundos": null,
+        "inicio_segundos": 3736,
         "inicio_live": "2026-11-15T21:27:00Z",
         "fim_live": "2026-11-15T23:29:44Z",
         "detectado_em": "2026-11-15T21:30:28-03:00",
         "origem": "YouTube Data API v3",
-        "observacao": "Gravação concluída detectada automaticamente. O início exato da pregação será preenchido após conciliação/transcrição."
+        "observacao": "Gravação concluída detectada automaticamente. Início da pregação conciliado e confirmado em 01:02:16.",
+        "inicio_mensagem_status": "conciliado_texto_e_video_visual",
+        "inicio_mensagem_detectado_em": "2026-11-16T10:04:55",
+        "inicio_mensagem_detector_versao": "222-CONCILIAR-MENSAGEM-VISUAL-UNIVERSAL-1.0.7",
+        "inicio_mensagem_detector_base": "04D.3.3.0",
+        "inicio_mensagem_confianca": 0.99,
+        "inicio_mensagem_metodo": "busca_visual_adaptativa_trechos_curtos_mais_transcricao",
+        "inicio_mensagem_transicao": "01:02:16 | Alô, som. Ei, glória a Deus. Que coisa",
+        "inicio_mensagem_motivo": "Este é o primeiro trecho identificável em que o pregador principal assume a palavra, iniciando sua fala contínua com uma saudação e introdução; os trechos anteriores são apenas vocalizações.",
+        "analise_video_status": "automatico_confiavel",
+        "analise_video_confianca_tema": 0.98,
+        "analise_video_modelo": "gpt-5.6-luna",
+        "analise_video_em": "2026-11-16T10:01:02",
+        "fim_segundos": 7067,
+        "pregador_visual_status": "confirmado",
+        "pregador_visual_confianca": 0.99,
+        "pregador_visual_texto": "KELLY PETRUCCI",
+        "pregador_visual_detectado_em": "2026-11-16T10:04:55",
+        "referencias_biblicas": [
+          {
+            "referencia": "Mateus 25:1-13",
+            "timestamp_segundos": 3800,
+            "timestamp_hhmmss": "01:03:20",
+            "texto_visivel": "MATEUS 25:1-13",
+            "principal": true,
+            "confianca": 0.98,
+            "fonte": "youtube_storyboard_visual",
+            "evidencia_transcricao": "Abrirmos juntos a palavra do Senhor em Mateus, capítulo de número 25. Diz assim: 'Então, o reino dos céus será semelhante a 10 virgens...'",
+            "tipo_confirmacao_textual": "explicit_spoken",
+            "confianca_textual": 0.99
+          },
+          {
+            "referencia": "Mateus 24:1-2",
+            "timestamp_segundos": 4047,
+            "timestamp_hhmmss": "01:07:27",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Jesus estava caminhando com seus discípulos pelas ruas de Jerusalém... 'não ficará aqui pedra sobre pedra'.",
+            "tipo_confirmacao": "specific_narrative",
+            "principal": false,
+            "confianca": 0.97,
+            "fonte": "youtube_transcricao_publica"
+          },
+          {
+            "referencia": "Mateus 13:24-30",
+            "timestamp_segundos": 4652,
+            "timestamp_hhmmss": "01:17:32",
+            "texto_visivel": null,
+            "evidencia_transcricao": "Jesus conta também uma outra parábola que é a parábola do joio do trigo... cresceram juntos, tanto joio quanto trigo.",
+            "tipo_confirmacao": "specific_narrative",
+            "principal": false,
+            "confianca": 0.98,
+            "fonte": "youtube_transcricao_publica"
+          }
+        ]
       },
       "carta": {
         "status": "aguardando",
         "arquivo": null
       },
       "transcricao": {
-        "status": "aguardando",
-        "arquivo": null,
-        "observacao": "Curadoria aguarda Carta ou transcrição confiável."
+        "status": "disponivel",
+        "arquivo": "transcricao_2026-11-15.txt",
+        "arquivo_app": "assets/transcricoes/transcricao_2026-11-15.txt",
+        "origem": "youtube",
+        "tipo": "legenda_publica_youtube",
+        "idioma": "pt",
+        "automatica": true,
+        "traduzida_para_pt": false,
+        "video_id": "sXTdH3-0uEY",
+        "inicio_segundos": 3736,
+        "fim_segundos": 7067,
+        "escopo": "inicio_ate_fim_confirmado",
+        "fim_confirmado": true,
+        "segmentos": 1045,
+        "caracteres": 47474,
+        "primeiro_segmento_segundos": 3735.92,
+        "ultimo_segmento_segundos": 7066.719,
+        "sha256": "f5673ef1c4a434c9ba1996ad4df769550e3e5a3e078eba9b7e820f1fd154def4",
+        "gerada_em": "2026-11-16T10:04:55"
       },
       "versao_biblica": {
         "status": "padrao_app",
@@ -36,18 +105,202 @@
         "fonte": "Padrão do aplicativo"
       },
       "oficial": {},
-      "preliminar": {},
-      "referencias_biblicas": [],
-      "filmes_series": [],
-      "livros": [],
-      "videos": [],
-      "musicas_complementares": [],
+      "preliminar": {
+        "status": "video_analisado_automaticamente_confiavel",
+        "fonte": "mensagem_oficial_video",
+        "gerado_em": "2026-11-16T10:01:02",
+        "modelo": "gpt-5.6-luna",
+        "resumo": "A mensagem interpreta a parábola das dez virgens como um chamado à vigilância e à preparação para a chegada do Noivo, entendida como a volta de Jesus. A pregadora destaca que as dez virgens tinham aparência semelhante e lamparinas, mas somente cinco possuíam reserva de óleo. O óleo é apresentado como símbolo de uma vida espiritual cultivada no secreto, com oração, dedicação, renúncia, conhecimento da Palavra e busca pelo Senhor. A mensagem também alerta que certas decisões não podem ser adiadas, pois a porta será fechada, e conclui com um apelo à salvação, ao despertamento espiritual e ao enchimento do Espírito Santo.",
+        "ideias_centrais": [
+          "A aparência religiosa não sustenta a vida espiritual; é necessário ter óleo e uma reserva, isto é, cultivar uma vida interior com Deus.",
+          "A intimidade com Deus, o crescimento na Palavra e a preparação espiritual não podem ser transferidos ou emprestados de outra pessoa.",
+          "O sono das dez virgens aponta para o perigo da acomodação espiritual, enquanto o grito da meia-noite chama a igreja ao despertamento e à vigilância.",
+          "A chegada do Noivo e a porta fechada mostram que existem decisões e ajustes que não devem ser adiados.",
+          "A igreja é chamada a manter sua lamparina acesa, iluminar o caminho de outras pessoas e desejar a volta de Jesus."
+        ],
+        "perguntas": [
+          "O que, segundo a mensagem, diferencia as virgens prudentes das imprudentes?",
+          "De que maneira a aparência religiosa pode esconder uma vida espiritual sem óleo?",
+          "Quais práticas foram apresentadas como formas de cultivar intimidade com Deus?",
+          "Que decisões ou ajustes a mensagem afirma que não devem ser adiados?",
+          "Como a igreja pode manter sua lamparina acesa e iluminar o caminho de outras pessoas?"
+        ],
+        "evidencias": [
+          "A leitura inicial de Mateus 25 apresenta a parábola das dez virgens e termina com a ordem: “Portanto, vigiem, porque vocês não sabem nem o dia e nem a hora”.",
+          "A pregadora afirma que “o óleo nos ensina que a aparência não sustenta a vida espiritual” e relaciona o óleo à busca, à dedicação e à intimidade com Deus.",
+          "A mensagem declara que “ninguém pode viver a intimidade espiritual de outra pessoa” e que a salvação e o crescimento espiritual não podem ser emprestados.",
+          "O apelo final pergunta se os ouvintes estariam preparados caso o Noivo chegasse naquela noite e os convida a buscar óleo e o enchimento do Espírito Santo.",
+          "Após a oração final e a bênção, às 01:57:46, outros dirigentes passam a comentar a mensagem e conduzir a programação."
+        ],
+        "confianca_conteudo": 0.98,
+        "confianca_fim": 0.93,
+        "regra_conciliacao": "Quando houver Carta, os itens oficiais da Carta prevalecem. Este bloco permanece identificado como análise da mensagem em vídeo."
+      },
+      "referencias_biblicas": [
+        {
+          "referencia": "Mateus 25:1-13",
+          "conexao": "Texto principal da fonte da semana. A parábola permite discutir vigilância, preparação, aparência religiosa, responsabilidade pessoal e a urgência de decisões espirituais.",
+          "como_usar": "Leia o texto integralmente e peça ao grupo que observe contrastes: lâmpadas, óleo, espera, sono, grito da meia-noite, porta fechada e ordem para vigiar.",
+          "pergunta": "O que a parábola apresenta como preparação que não pode ser improvisada nem transferida para outra pessoa?",
+          "youversion_ref": "https://www.bible.com/pt/bible/129/MAT.25.1-13.NVI"
+        },
+        {
+          "referencia": "1 Tessalonicenses 5:1-11",
+          "conexao": "Amplia o tema da vigilância, relacionando estar desperto espiritualmente com viver na luz, sobriedade, fé, amor e esperança.",
+          "como_usar": "Compare a linguagem de vigilância de Paulo com a parábola das dez virgens, sem transformar a comparação em uma explicação definitiva do símbolo do óleo.",
+          "pergunta": "Como a esperança da volta de Cristo pode produzir sobriedade e cuidado mútuo no presente?",
+          "youversion_ref": null
+        },
+        {
+          "referencia": "João 15:1-8",
+          "conexao": "Ajuda a tratar a intimidade com Deus como permanência e fruto, e não apenas como aparência exterior ou atividade religiosa.",
+          "como_usar": "Convide cada participante a identificar práticas que favorecem permanência em Cristo e práticas que apenas mantêm uma aparência de envolvimento.",
+          "pergunta": "Que diferença existe entre parecer espiritualmente ativo e permanecer de fato em Cristo?",
+          "youversion_ref": null
+        }
+      ],
+      "filmes_series": [
+        {
+          "tipo": "segmento de filme bíblico",
+          "titulo": "LUMO — Mateus 25:1-46",
+          "conexao": "Recurso audiovisual complementar que inclui a parábola das dez virgens em uma dramatização baseada no texto do Evangelho de Mateus.",
+          "como_usar": "Exiba apenas o trecho correspondente à parábola, se disponível na interface, e peça que o grupo compare suas impressões visuais com a leitura bíblica. Não o apresente como reprodução da mensagem da pregadora.",
+          "pergunta": "Que elementos visuais ajudam a perceber a espera, o atraso do noivo e a diferença entre preparação e improviso?",
+          "url_oficial": "https://www.jesusfilm.org/watch/lumo-the-gospel-of-matthew.html/portuguese-brazil.html",
+          "url_clipe": "https://www.jesusfilm.org/watch/lumo-the-gospel-of-matthew.html/portuguese-brazil.html",
+          "incorporar_clipe": false
+        }
+      ],
+      "livros": [
+        {
+          "titulo": "Intimidade com Deus: como aprofundar o seu relacionamento e viver uma vida plena",
+          "autor": "Rinaldo Seixas",
+          "conexao": "Complementa o eixo da mensagem sobre cultivar uma vida interior com Deus, oração, permanência e relacionamento pessoal com o Senhor.",
+          "como_usar": "Use somente o sumário e a prévia autorizada para escolher um capítulo ou tema de conversa. Relacione a leitura à pergunta: que hábitos alimentam uma vida espiritual no secreto?",
+          "pergunta": "Quais práticas concretas podem transformar a busca por Deus em uma rotina de relacionamento, e não apenas em uma aparência religiosa?",
+          "url_trecho": "https://www.mundocristao.com.br/wp-content/uploads/2022/04/Intimidade-com-Deus.pdf",
+          "url_pdf_legal": null,
+          "url_audio_legal": null,
+          "url_editora": "https://www.mundocristao.com.br/",
+          "nota_acesso": "Foi encontrado um PDF oficial da editora com o miolo/prévia da obra. O arquivo não deve ser rotulado como PDF integral autorizado; não foi localizado áudio ou audiolivro legal em português na busca realizada."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "A oração do Pai Nosso — Mateus 6:9-13",
+          "fonte": "BibleProject",
+          "url": "https://bibleproject.com/pt-br/videos/a-oracao-do-pai-nosso/",
+          "conexao": "Vídeo oficial e curto sobre oração, alinhamento dos desejos com os propósitos do Reino e dependência diária de Deus. Complementa a ênfase da fonte sobre intimidade cultivada no secreto.",
+          "como_usar": "Exiba o vídeo e peça que o grupo selecione uma petição do Pai Nosso que possa funcionar como prática de vigilância durante a semana.",
+          "pergunta": "Como a oração diária pode manter a lamparina acesa sem se reduzir a uma prática automática?"
+        }
+      ],
+      "musicas_complementares": [
+        {
+          "titulo": "Maranata",
+          "interprete": "Avivah, com Fernanda Madaloni",
+          "conexao": "Canção complementar sobre confiança em Jesus, esperança de sua volta e clamor pela presença do Senhor. A música não é apresentada como parte da mensagem da pregadora.",
+          "pergunta": "Como cantar sobre a volta de Jesus pode despertar esperança e também responsabilidade no modo de viver hoje?",
+          "url_oficial": "https://www.youtube.com/watch?v=iS6GXPbhCwU",
+          "decisao": "incluir",
+          "motivo": "A gravação está publicada em canal oficial/verificado relacionado à produção e dialoga diretamente com o tema da expectativa pela volta de Jesus."
+        }
+      ],
       "atualidade": [],
-      "situacoes_cotidianas": [],
-      "dinamicas": [],
+      "situacoes_cotidianas": [
+        {
+          "contexto": "Rotina espiritual individual",
+          "titulo": "A agenda cheia e a vida com Deus adiada",
+          "situacao": "Uma pessoa participa de atividades religiosas e conhece a linguagem da fé, mas há semanas não reserva tempo para oração, leitura bíblica, arrependimento e escuta de Deus. Ela pretende reorganizar a vida espiritual quando estiver menos ocupada.",
+          "pergunta": "O que, na prática, revela se estamos apenas carregando uma lâmpada ou também cultivando uma reserva de óleo?"
+        },
+        {
+          "contexto": "Pequeno grupo e responsabilidade pessoal",
+          "titulo": "A fé que não pode ser emprestada",
+          "situacao": "Durante uma crise, alguém procura um amigo espiritualmente maduro para pedir que ele ore, decida e sustente toda a sua caminhada. O grupo percebe que apoio comunitário é essencial, mas não substitui a relação pessoal com Deus.",
+          "pergunta": "Como oferecer ajuda sem criar a expectativa de que outra pessoa possa viver, em nosso lugar, a intimidade com Deus?"
+        }
+      ],
+      "dinamicas": [
+        {
+          "titulo": "Lâmpada, óleo e reserva",
+          "duracao": "25 a 30 minutos",
+          "objetivo": "Distinguir aparência religiosa, práticas espirituais genuínas e dependência da graça de Deus, evitando transformar a parábola em uma lista de méritos.",
+          "materiais": "Três cartões por participante ou post-its nas cores amarela, azul e branca; canetas; Bíblia.",
+          "passos": [
+            "Leia Mateus 25:1-13 em silêncio e depois em voz alta.",
+            "Em um cartão, cada pessoa escreve sinais de aparência religiosa que podem existir sem transformação interior.",
+            "Em outro, registra práticas que ajudam a cultivar intimidade com Deus, como oração, Palavra, confissão, obediência e comunhão.",
+            "No terceiro, escreve uma decisão ou ajuste que não deseja continuar adiando.",
+            "Em pequenos grupos, compartilhem apenas o que for confortável e formulem uma prática simples para os próximos sete dias.",
+            "Encerre lembrando que a dinâmica é uma ferramenta de reflexão, não uma forma de medir a salvação ou o valor espiritual das pessoas."
+          ],
+          "perguntas": [
+            "Que diferença há entre uma prática espiritual que alimenta a comunhão e uma prática feita apenas para manter aparência?",
+            "Que prática precisa de constância, e não de um impulso ocasional?",
+            "Como o grupo pode apoiar a vigilância sem controlar a vida espiritual uns dos outros?"
+          ]
+        },
+        {
+          "titulo": "Alerta da meia-noite",
+          "duracao": "20 minutos",
+          "objetivo": "Transformar o tema do despertamento espiritual em um plano comunitário de atenção, cuidado e ação durante a semana.",
+          "materiais": "Folhas com três colunas: perceber, ajustar e compartilhar.",
+          "passos": [
+            "Apresente a imagem do grito da meia-noite como um chamado ao despertamento, sem afirmar que ela representa um evento contemporâneo específico.",
+            "Cada participante escreve algo que precisa perceber em sua vida, algo que precisa ajustar e algo que pode compartilhar para iluminar o caminho de outra pessoa.",
+            "Em duplas, escolham uma ação realista para os próximos sete dias.",
+            "O grupo reúne as ações em três categorias: vida com Deus, caráter e cuidado do próximo.",
+            "Finalize com uma oração breve de vigilância, humildade e esperança."
+          ],
+          "perguntas": [
+            "Que sinais de acomodação espiritual costumamos normalizar?",
+            "Qual ajuste pode ser iniciado hoje, sem esperar condições perfeitas?",
+            "Como uma vida espiritual abastecida se torna luz para outras pessoas?"
+          ]
+        }
+      ],
       "sustentabilidade": {},
-      "perguntas_adicionais": [],
-      "prioridades": [],
+      "perguntas_adicionais": [
+        {
+          "tipo": "leitura bíblica",
+          "pergunta": "Como interpretar a parábola com responsabilidade, distinguindo o que o texto afirma diretamente das aplicações feitas na mensagem e nos recursos complementares?"
+        },
+        {
+          "tipo": "vida comunitária",
+          "pergunta": "Como incentivar vigilância espiritual sem produzir medo, comparação, culpa excessiva ou julgamento sobre a preparação de outras pessoas?"
+        },
+        {
+          "tipo": "prática semanal",
+          "pergunta": "Qual compromisso simples, verificável e sustentável cada participante pode assumir até o próximo encontro?"
+        },
+        {
+          "tipo": "discernimento",
+          "pergunta": "Que decisões precisam ser tomadas agora, em vez de serem continuamente adiadas sob a aparência de planejamento?"
+        }
+      ],
+      "prioridades": [
+        {
+          "recurso": "Mateus 25:1-13 na Bíblia YouVersion",
+          "motivo": "É o núcleo bíblico da semana e deve ser lido antes de qualquer recurso complementar."
+        },
+        {
+          "recurso": "Dinâmica Lâmpada, óleo e reserva",
+          "motivo": "Traduz o tema em conversa aplicável ao pequeno grupo, preservando a distinção entre reflexão comunitária e fala da pregadora."
+        },
+        {
+          "recurso": "Livro Intimidade com Deus — prévia oficial da Editora Mundo Cristão",
+          "motivo": "Oferece aprofundamento diretamente relacionado à intimidade com Deus, com acesso identificado como prévia e não como obra integral gratuita."
+        },
+        {
+          "recurso": "Vídeo A oração do Pai Nosso — BibleProject",
+          "motivo": "É curto, oficial, em português e ajuda a conectar vigilância com oração e dependência diária."
+        },
+        {
+          "recurso": "LUMO — Mateus 25:1-46",
+          "motivo": "Permite visualizar a passagem bíblica em um recurso oficial, sem atribuir ao filme interpretações específicas da mensagem preliminar."
+        }
+      ],
       "avisos_semana": {
         "status": "disponivel",
         "video_id": "mbWQzYwCjq4",
@@ -64,6 +317,15 @@
         "revisado": false,
         "transcricao_persistida": false,
         "gerado_em": "2026-11-15T21:30:42"
+      },
+      "enriquecimento_meta": {
+        "estudo_id": "2026-11-15",
+        "status": "AUTOMATICO_PRELIMINAR_MENSAGEM",
+        "modelo": "gpt-5.6-luna",
+        "versao": "04D.4.2",
+        "gerado_em": "2026-11-16T10:01:54",
+        "carta_disponivel": false,
+        "regra_conciliacao": "Carta futura prevalece nos itens oficiais. Se a Carta chegar depois, a rotina 04D.4.2 refaz a curadoria complementar."
       }
     },
     {
